@@ -1,0 +1,366 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- JAVASCRIPT CODE -->
+        <script type="text/javascript" src="JavaScript/Mobile_Header.js"> </script>
+        <script type="text/javascript" src="JavaScript/Main_Page.js"></script>
+        <!-- CSS CODE-->
+        <link rel="stylesheet" type="text/css" href="CSS/Header.css">
+        <link rel="stylesheet" type="text/css" href="CSS/Front_Page.css">
+        <!-- Mandatory Code for Mobile Viewing -->
+    </head>
+    <style>
+
+    </style>
+    <body>
+
+        <!-- New Computer Header, With Dropdowns -->
+        <!--
+            Probably want to make sure that the nav bar is fixed to the top of the page
+            Potential Guide: https://www.geeksforgeeks.org/how-to-make-a-div-stick-to-the-top-of-the-screen/
+        -->    
+        <div class="navbar">
+            <a href="index.html" style="background-color: Orange;color: black;">Sharp Odd<b>Z</b></a>
+            <div class="dropdown">
+                <button class="dropbtn"> NBA </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="sport_home.html?sport=NBA"> <b> Home </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> NHL </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> NFL </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> MLB </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> CBB </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> CFB </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> ... </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> About </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Contact </b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Header -->
+        
+        <div class="Mobile_Header_Top_Nav">
+            <a href="#0" onclick="openNav()" class="icon"> &#9776; </a>
+            <a href="index.html" style="text-align: center;"> Sharp Odd<b>Z</b></a> 
+        </div>
+        <div id="myNav" class="overlay">
+
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+          
+            <div class="overlay-content">
+              <a href="#">About</a>
+              <a href="#">Services</a>
+              <a href="#">Clients</a>
+              <a href="#">Contact</a>
+            </div>
+          
+        </div>
+               
+        
+
+       
+
+        <!-- Front-Page Attention Grabber -->
+
+        <!-- Div into two elements-->
+        
+        <div class="main_div"> 
+            <div style="float: left;width: 30%;text-align: center;margin-top: 4em;">
+                <hr style="width: 80%;height: .2px;background-color: lightgray;border: 1px solid lightgray;">
+                <table style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid black;text-align: center;font-size: 20px;" id="NHL_RATING_TABLE">
+
+                </table>
+                <br>
+                <button class="Left_Div_Button"> <b> <a href="index.html"> See Complete NHL Ratings </a></b> </button>
+                <br>
+                <br>
+                <hr style="width: 80%;height: .2px;background-color: lightgray;border: 1px solid lightgray;">
+
+                <table style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid black;text-align: center;font-size: 20px;">
+                    <thead>
+                        <caption> <b> NBA Team Ratings </b>  </caption>
+                        <tr>
+                            <th> Team </th>
+                            <th> Rating </th>
+                        </tr>
+                    </thead>
+                    <tbody style="text-align: center;">
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <button class="Left_Div_Button"> <b> <a href="index.html"> See Complete NBA Ratings </a></b> </button>
+                <br>
+                <br>
+                <hr style="width: 80%;height: .2px;background-color: lightgray;border: 1px solid lightgray;">
+
+                <table style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid black;text-align: center;font-size: 20px;">
+                    <thead>
+                        <caption> <b> MLB Team Ratings </b>  </caption>
+                        <tr>
+                            <th> Team </th>
+                            <th> Rating </th>
+                        </tr>
+                    </thead>
+                    <tbody style="text-align: center;">
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <button class="Left_Div_Button"> <b> <a href="index.html"> See Complete MLB Ratings </a></b> </button>
+                <br>
+                <br>
+                <hr style="width: 80%;height: .2px;background-color: lightgray;border: 1px solid lightgray;">
+
+                <table style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid black;text-align: center;font-size: 20px;">
+                    <thead>
+                        <caption> <b> NFL Team Ratings </b>  </caption>
+                        <tr>
+                            <th> Team </th>
+                            <th> Rating </th>
+                        </tr>
+                    </thead>
+                    <tbody style="text-align: center;">
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> 101.1 </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <button class="Left_Div_Button"> <b> <a href="index.html"> See Complete NFL Ratings </a></b> </button>
+                <br>
+                <br>
+                <br>
+
+            </div>
+            <!-- VERTICAL LINE, LOOKS KINDA WEIRD IN CURRENT STATE
+            <div style="float: left">
+                <hr width=".6" size="2000" style="background-color: lightgray;border: .6px solid lightgray;">
+            </div>
+            -->
+
+            <div style="float: left;width: 65%;margin-top: 2em;" id="RIGHT_DIV_ELEMENT">
+
+                <h1> Computer Picks and Sports Analytics Made Simple  </h1>
+                <p style="width: 70%;text-align: center;margin-left: auto;margin-right: auto;"> Sharp Oddz uses machine learning to predict the scores of upcoming sports games. Alongside predicting scores, a large array of data is present to showcases teams strengths and weaknesses. </p>
+                <h2> Highlighted NHL Games </h2>
+                <!--
+                <table style="width: 70%;margin-left: auto;margin-right: auto;border: 1px solid black;text-align: center;">
+                    <thead style="font-size: 32px;">
+                        <tr>
+                            <th colspan="2" style="width: 30%"> Montreal </th>
+                            <th>@</th>
+                            <th colspan="2" style="width: 30%"> Seattle </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="font-size: 24px;">
+                            <td colspan="2"> <b> (32-20-01) </b></td>
+                            <td> <b> Score Predictions </b></td>
+                            <td colspan="2"> <b> (34-23-07) </b></td>
+                        </tr>
+                        <tr style="font-size: 20px;">
+                            <td colspan="2" style="color: green;"> <b> 3.2</b></td>
+                            <td> G.B </td>
+                            <td colspan="2" style="color: red;"> <b>2.3</b> </td>
+                        </tr>
+                        <tr style="font-size: 20px;">
+                            <td colspan="2" style="color: red;"> <b>1.5</b></td>
+                            <td> R.F </td>
+                            <td colspan="2" style="color: green;"> <b>2.4</b> </td>
+                        </tr>
+                        <tr style="font-size: 20px;">
+                            <td colspan="2" style="color: red;"> <b>2.9</b></td>
+                            <td> PCA </td>
+                            <td colspan="2" style="color: green;"> <b>7.8</b> </td>
+                        </tr>
+                        <tr>
+                            <td colspan ="2"> &nbsp; </td>
+                            <td> <a href="index.html" id="Game_Prediction_One" class="Game_Prediction_Link"> See Game Details </a> </td>
+                            <td colspan ="2"> &nbsp; </td>
+                        </tr>
+                    </tbody>
+                </table>
+                -->
+
+            </div>
+        </div>
+        
+
+    </body>
+</html>
