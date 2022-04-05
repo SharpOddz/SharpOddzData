@@ -1,0 +1,236 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- JAVASCRIPT CODE -->
+        <script type="text/javascript" src="JavaScript/Mobile_Header.js"> </script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"> </script>
+        <script type="text/javascript" src="JavaScript/Score_Prediction.js"></script>
+
+        <!-- JAVASCRIPT LIBRARY'S-->
+
+        <!-- CSS CODE-->
+        <link rel="stylesheet" type="text/css" href="CSS/Header.css">
+        <link rel="stylesheet" type="text/css" href="CSS/Score_Prediction.css">
+        <!-- Mandatory Code for Mobile Viewing -->
+    </head>
+    <style>
+
+    </style>
+    <body onload="updatePage()">
+
+        <!-- New Computer Header, With Dropdowns -->
+        <!--
+            Probably want to make sure that the nav bar is fixed to the top of the page
+            Potential Guide: https://www.geeksforgeeks.org/how-to-make-a-div-stick-to-the-top-of-the-screen/
+        -->    
+        <div class="navbar">
+            <a href="index.html" style="background-color: Orange;color: black;">Sharp Odd<b>Z</b></a>
+            <div class="dropdown">
+                <button class="dropbtn"> NBA </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="sport_home.html?sport=NBA"> <b> Home </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> NHL </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> NFL </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> MLB </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> CBB </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> CFB </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Score Predictions </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Team Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Player Ratings </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Archived Games </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Model Design </b></a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn"> ... </button>
+                <div class="dropdown-content">
+                    <div class="dropdown-child">
+                        <a href="#"> <b> About </b></a>
+                    </div>
+                    <div class="dropdown-child">
+                        <a href="#"> <b> Contact </b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Header -->
+        
+        <div class="Mobile_Header_Top_Nav">
+            <a href="#0" onclick="openNav()" class="icon"> &#9776; </a>
+            <a href="index.html" style="text-align: center;"> Sharp Odd<b>Z</b></a> 
+        </div>
+        <div id="myNav" class="overlay">
+
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+          
+            <div class="overlay-content">
+              <a href="#">About</a>
+              <a href="#">Services</a>
+              <a href="#">Clients</a>
+              <a href="#">Contact</a>
+            </div>
+        </div>
+
+
+        <!-- Showing Both Teams -->
+        <div>
+            <div style="float: left;width: 48%;text-align: center;margin-top: 4em;">
+                <h1 name="team_1_name" class="Team_Title"> Team_1 </h1>
+                <p id="team_1_record" class="Record_Text"> (Record) </p>
+            </div> 
+            <div style="float: left;width: 4%;text-align: center;margin-top: 4em;">
+                <h1 class="Team_Title" id="Neutral"> @ </h1>
+            </div>
+            <div style="float: left;width: 48%;text-align: center;margin-top: 4em;">
+                <h1 name="team_2_name" class="Team_Title"> Team_2 </h1>
+                <p id="team_2_record" class="Record_Text"> (Record) </p>
+            </div>
+        </div>
+        <div style="text-align: center;">
+
+            <h1> Score Predictions </h1>
+
+            <table style="margin-left: auto;margin-right: auto;border: 1px solid black;text-align: center;width: 75%;">
+                <thead>
+                    <tr>
+                        <th> Teams </th>
+                        <th> G.B </th>
+                        <th> R.F </th>
+                        <th> P.C.A </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td name="team_1_name"> Team_1 </td>
+                        <td id="score_1_1"> 1.2 </td>
+                        <td id="score_1_2"> 2.3 </td>
+                        <td id="score_1_3"> 3.4 </td>
+                    </tr>
+                    <tr>
+                        <td name="team_2_name"> Team_2 </td>
+                        <td id="score_2_1"> 2.1 </td>
+                        <td id="score_2_2"> 1.9 </td>
+                        <td id="score_2_3"> 7.8 </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <!--
+                Radar Chart
+            -->
+            <br>
+            <br>
+            <canvas id="radar_chart" width="600" height="400" style="margin-left: auto;margin-right: auto"> </canvas>
+        </div>
+
+
+    </body>
+</html>
