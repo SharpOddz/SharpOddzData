@@ -1,0 +1,13 @@
+.MAIN_TABLE{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 1px solid black;
+    text-align: center;
+}
+.MAIN_TABLE th{
+    font-size: 32px;
+}
+.MAIN_TABLE td{
+    font-size: 22px;
+}
