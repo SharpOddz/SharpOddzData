@@ -41,8 +41,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,5
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,37
 	Team_2_Penalty_Yards,5
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -94,7 +94,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,72
+	Team_1_Penalty_Yards,46
 	Team_2_Penalty_Yards,72
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -145,8 +145,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,8
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,79
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,95
 	Team_2_Penalty_Yards,79
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -197,8 +197,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,77
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,48
 	Team_2_Penalty_Yards,77
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -249,8 +249,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,63
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -301,8 +301,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,47
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,47
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -353,8 +353,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,55
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,55
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -405,8 +405,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,65
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,65
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -457,8 +457,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,61
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,80
 	Team_2_Penalty_Yards,61
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -509,8 +509,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,66
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,80
 	Team_2_Penalty_Yards,66
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,1
@@ -561,8 +561,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,44
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,44
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -613,8 +613,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,119
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,103
 	Team_2_Penalty_Yards,119
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -665,8 +665,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,53
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,102
 	Team_2_Penalty_Yards,53
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -717,8 +717,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,34
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,34
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -769,8 +769,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,21
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -822,7 +822,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,56
+	Team_1_Penalty_Yards,37
 	Team_2_Penalty_Yards,56
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -873,8 +873,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,76
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,76
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -925,8 +925,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,48
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,10
 	Team_2_Penalty_Yards,48
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -977,8 +977,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,75
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,51
 	Team_2_Penalty_Yards,75
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,3
@@ -1029,8 +1029,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,60
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,70
 	Team_2_Penalty_Yards,60
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1081,8 +1081,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,60
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1133,8 +1133,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,93
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,93
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1185,8 +1185,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -1238,7 +1238,7 @@
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,65
+	Team_1_Penalty_Yards,59
 	Team_2_Penalty_Yards,65
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1289,8 +1289,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,24
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -1341,8 +1341,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,89
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,89
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -1393,8 +1393,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,37
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,77
 	Team_2_Penalty_Yards,37
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,1
@@ -1445,8 +1445,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,97
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,42
 	Team_2_Penalty_Yards,97
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -1497,8 +1497,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,11
-	Team_2_Penalties,11
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,90
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1549,8 +1549,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,22
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,21
 	Team_2_Penalty_Yards,22
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -1601,8 +1601,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,68
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,12
 	Team_2_Penalty_Yards,68
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1653,8 +1653,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,13
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,129
 	Team_2_Penalty_Yards,13
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -1705,8 +1705,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,63
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,51
 	Team_2_Penalty_Yards,63
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -1757,8 +1757,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,75
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,80
 	Team_2_Penalty_Yards,75
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -1809,8 +1809,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,55
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,55
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -1861,8 +1861,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,50
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,50
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -1913,8 +1913,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -1965,8 +1965,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,33
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,33
 	Team_1_Fumbles_Lost,3
 	Team_2_Fumbles_Lost,0
@@ -2017,8 +2017,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,0
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,28
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,28
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -2069,8 +2069,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,93
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,73
 	Team_2_Penalty_Yards,93
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2121,8 +2121,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,14
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,49
 	Team_2_Penalty_Yards,14
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2173,8 +2173,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,57
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2225,8 +2225,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,60
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,60
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,3
@@ -2277,8 +2277,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,71
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2330,7 +2330,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
 	Team_2_Penalties,7
-	Team_1_Penalty_Yards,38
+	Team_1_Penalty_Yards,46
 	Team_2_Penalty_Yards,38
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2381,8 +2381,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,59
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -2433,8 +2433,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,83
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,10
 	Team_2_Penalty_Yards,83
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -2486,7 +2486,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,45
+	Team_1_Penalty_Yards,38
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -2537,8 +2537,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,118
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,94
 	Team_2_Penalty_Yards,118
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2589,8 +2589,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,73
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,49
 	Team_2_Penalty_Yards,73
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2641,8 +2641,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,65
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,65
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -2693,8 +2693,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,49
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,67
 	Team_2_Penalty_Yards,49
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2745,8 +2745,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,0
-	Team_2_Penalties,0
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,0
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -2797,8 +2797,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,90
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,60
 	Team_2_Penalty_Yards,90
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -2849,8 +2849,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -2901,8 +2901,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,72
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,29
 	Team_2_Penalty_Yards,72
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -2953,8 +2953,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,15
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,36
 	Team_2_Penalty_Yards,15
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -3005,8 +3005,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,5
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,5
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -3058,7 +3058,7 @@
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,8
 	Team_2_Penalties,8
-	Team_1_Penalty_Yards,103
+	Team_1_Penalty_Yards,76
 	Team_2_Penalty_Yards,103
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3109,8 +3109,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,65
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,81
 	Team_2_Penalty_Yards,65
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -3161,8 +3161,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,42
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,25
 	Team_2_Penalty_Yards,42
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -3214,7 +3214,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
 	Team_2_Penalties,4
-	Team_1_Penalty_Yards,38
+	Team_1_Penalty_Yards,43
 	Team_2_Penalty_Yards,38
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -3266,7 +3266,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
 	Team_2_Penalties,3
-	Team_1_Penalty_Yards,30
+	Team_1_Penalty_Yards,23
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3317,8 +3317,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,11
-	Team_2_Penalties,11
-	Team_1_Penalty_Yards,66
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,109
 	Team_2_Penalty_Yards,66
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -3369,8 +3369,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,25
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3421,8 +3421,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,94
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,59
 	Team_2_Penalty_Yards,94
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3473,8 +3473,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,59
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3525,8 +3525,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,86
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,84
 	Team_2_Penalty_Yards,86
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -3577,8 +3577,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,60
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3629,8 +3629,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -3681,8 +3681,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -3734,7 +3734,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
 	Team_2_Penalties,7
-	Team_1_Penalty_Yards,75
+	Team_1_Penalty_Yards,69
 	Team_2_Penalty_Yards,75
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -3785,8 +3785,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,10
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,34
 	Team_2_Penalty_Yards,10
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3837,8 +3837,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,81
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -3889,8 +3889,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -3941,8 +3941,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,1
-	Team_2_Penalties,1
-	Team_1_Penalty_Yards,60
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,10
 	Team_2_Penalty_Yards,60
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -3993,8 +3993,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,46
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,56
 	Team_2_Penalty_Yards,46
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -4045,8 +4045,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,73
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,46
 	Team_2_Penalty_Yards,73
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4098,7 +4098,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,55
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,55
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4149,8 +4149,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,25
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -4201,8 +4201,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,4
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,4
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4253,8 +4253,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -4305,8 +4305,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,12
-	Team_2_Penalties,12
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,132
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4357,8 +4357,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,45
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -4409,8 +4409,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,69
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,92
 	Team_2_Penalty_Yards,69
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4461,8 +4461,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,56
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,60
 	Team_2_Penalty_Yards,56
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4513,8 +4513,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,80
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -4565,8 +4565,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,0
+	Team_2_Penalties,0
+	Team_1_Penalty_Yards,76
 	Team_2_Penalty_Yards,0
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -4617,8 +4617,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,63
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,34
 	Team_2_Penalty_Yards,63
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -4669,8 +4669,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,39
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,68
 	Team_2_Penalty_Yards,39
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -4721,8 +4721,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,36
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,43
 	Team_2_Penalty_Yards,36
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -4773,8 +4773,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,8
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,75
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,62
 	Team_2_Penalty_Yards,75
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -4825,8 +4825,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,53
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,53
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4877,8 +4877,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,7
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,45
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -4929,8 +4929,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,73
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,69
 	Team_2_Penalty_Yards,73
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -4981,8 +4981,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,1
-	Team_2_Penalties,1
-	Team_1_Penalty_Yards,50
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,5
 	Team_2_Penalty_Yards,50
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -5033,8 +5033,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,11
-	Team_2_Penalties,11
-	Team_1_Penalty_Yards,49
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,106
 	Team_2_Penalty_Yards,49
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -5085,8 +5085,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,49
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -5137,8 +5137,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,55
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,55
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -5190,7 +5190,7 @@
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
 	Team_2_Penalties,4
-	Team_1_Penalty_Yards,35
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -5241,8 +5241,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,1
-	Team_2_Penalties,1
-	Team_1_Penalty_Yards,34
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,15
 	Team_2_Penalty_Yards,34
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -5293,8 +5293,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,0
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,65
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -5345,8 +5345,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -5397,8 +5397,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,78
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -5449,7 +5449,7 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
+	Team_2_Penalties,4
 	Team_1_Penalty_Yards,46
 	Team_2_Penalty_Yards,46
 	Team_1_Fumbles_Lost,0
@@ -5502,7 +5502,7 @@
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,30
+	Team_1_Penalty_Yards,63
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -5554,7 +5554,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,30
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -5606,7 +5606,7 @@
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
 	Team_2_Penalties,7
-	Team_1_Penalty_Yards,45
+	Team_1_Penalty_Yards,68
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -5657,8 +5657,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,59
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,25
 	Team_2_Penalty_Yards,59
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -5709,8 +5709,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,76
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,19
 	Team_2_Penalty_Yards,76
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -5761,8 +5761,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,85
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,36
 	Team_2_Penalty_Yards,85
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -5813,8 +5813,8 @@
 	Team_1_RedZone_Attempts,0
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,61
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,25
 	Team_2_Penalty_Yards,61
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -5865,8 +5865,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,2
@@ -5917,8 +5917,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,110
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,110
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -5969,8 +5969,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,70
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,67
 	Team_2_Penalty_Yards,70
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -6021,8 +6021,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,53
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,53
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -6074,7 +6074,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,30
+	Team_1_Penalty_Yards,36
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -6125,8 +6125,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,28
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,68
 	Team_2_Penalty_Yards,28
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,2
@@ -6177,8 +6177,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,73
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,73
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -6229,8 +6229,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,33
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,33
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -6282,7 +6282,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,61
+	Team_1_Penalty_Yards,65
 	Team_2_Penalty_Yards,61
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -6333,8 +6333,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,7
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,70
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,13
 	Team_2_Penalty_Yards,70
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -6385,8 +6385,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,57
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,57
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -6437,8 +6437,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -6489,8 +6489,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,12
-	Team_2_Penalties,12
-	Team_1_Penalty_Yards,75
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,82
 	Team_2_Penalty_Yards,75
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -6541,8 +6541,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,69
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,37
 	Team_2_Penalty_Yards,69
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -6593,8 +6593,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,45
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -6645,8 +6645,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,78
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,18
 	Team_2_Penalty_Yards,78
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -6697,8 +6697,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,45
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,10
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -6749,8 +6749,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,70
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,16
 	Team_2_Penalty_Yards,70
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -6802,7 +6802,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
 	Team_2_Penalties,7
-	Team_1_Penalty_Yards,71
+	Team_1_Penalty_Yards,75
 	Team_2_Penalty_Yards,71
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -6853,8 +6853,8 @@
 	Team_1_RedZone_Attempts,7
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,39
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,28
 	Team_2_Penalty_Yards,39
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -6905,8 +6905,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,32
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,81
 	Team_2_Penalty_Yards,32
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -6957,8 +6957,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,73
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -7010,7 +7010,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,63
+	Team_1_Penalty_Yards,49
 	Team_2_Penalty_Yards,63
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -7061,8 +7061,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,55
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,58
 	Team_2_Penalty_Yards,55
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -7113,8 +7113,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,86
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -7165,8 +7165,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,11
-	Team_2_Penalties,11
-	Team_1_Penalty_Yards,64
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,74
 	Team_2_Penalty_Yards,64
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -7217,8 +7217,8 @@
 	Team_1_RedZone_Attempts,8
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -7269,8 +7269,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,82
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,37
 	Team_2_Penalty_Yards,82
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -7321,8 +7321,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,15
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,31
 	Team_2_Penalty_Yards,15
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -7373,8 +7373,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,69
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -7426,7 +7426,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
 	Team_2_Penalties,4
-	Team_1_Penalty_Yards,49
+	Team_1_Penalty_Yards,23
 	Team_2_Penalty_Yards,49
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -7477,8 +7477,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,61
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,51
 	Team_2_Penalty_Yards,61
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,2
@@ -7530,7 +7530,7 @@
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,45
+	Team_1_Penalty_Yards,65
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -7581,8 +7581,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,18
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,64
 	Team_2_Penalty_Yards,18
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -7633,8 +7633,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,5
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,5
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -7685,8 +7685,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,79
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,115
 	Team_2_Penalty_Yards,79
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -7737,8 +7737,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,53
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,33
 	Team_2_Penalty_Yards,53
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -7789,8 +7789,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,53
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -7841,8 +7841,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,49
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,31
 	Team_2_Penalty_Yards,49
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -7893,8 +7893,8 @@
 	Team_1_RedZone_Attempts,0
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,45
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -7945,8 +7945,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,105
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,42
 	Team_2_Penalty_Yards,105
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -7997,8 +7997,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,81
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,44
 	Team_2_Penalty_Yards,81
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -8049,8 +8049,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -8101,8 +8101,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,70
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,70
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -8153,8 +8153,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,78
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,88
 	Team_2_Penalty_Yards,78
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -8205,8 +8205,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,116
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,116
 	Team_1_Fumbles_Lost,3
 	Team_2_Fumbles_Lost,1
@@ -8257,8 +8257,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,80
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,80
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -8309,8 +8309,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,72
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,89
 	Team_2_Penalty_Yards,72
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -8361,8 +8361,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,7
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,65
 	Team_2_Penalty_Yards,7
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -8413,8 +8413,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,44
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,74
 	Team_2_Penalty_Yards,44
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -8466,7 +8466,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,45
+	Team_1_Penalty_Yards,53
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -8517,8 +8517,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,11
-	Team_2_Penalties,11
-	Team_1_Penalty_Yards,49
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,141
 	Team_2_Penalty_Yards,49
 	Team_1_Fumbles_Lost,4
 	Team_2_Fumbles_Lost,0
@@ -8569,8 +8569,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,85
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,91
 	Team_2_Penalty_Yards,85
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -8621,8 +8621,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,27
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,51
 	Team_2_Penalty_Yards,27
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -8673,8 +8673,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,50
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,63
 	Team_2_Penalty_Yards,50
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -8725,8 +8725,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,52
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,58
 	Team_2_Penalty_Yards,52
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,3
@@ -8778,7 +8778,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,42
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,42
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -8829,8 +8829,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,74
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,74
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -8881,8 +8881,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,24
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,47
 	Team_2_Penalty_Yards,24
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -8933,8 +8933,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,0
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,10
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,10
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -8985,8 +8985,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,27
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,27
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,2
@@ -9037,8 +9037,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,57
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,82
 	Team_2_Penalty_Yards,57
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -9089,8 +9089,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,17
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,17
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -9141,8 +9141,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,79
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,83
 	Team_2_Penalty_Yards,79
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -9193,8 +9193,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,86
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -9245,8 +9245,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,15
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,79
 	Team_2_Penalty_Yards,15
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -9297,8 +9297,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,20
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -9349,8 +9349,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,13
-	Team_2_Penalties,13
-	Team_1_Penalty_Yards,52
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,92
 	Team_2_Penalty_Yards,52
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -9401,8 +9401,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,54
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,62
 	Team_2_Penalty_Yards,54
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -9453,8 +9453,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,10
-	Team_2_Penalties,10
-	Team_1_Penalty_Yards,41
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,83
 	Team_2_Penalty_Yards,41
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,1
@@ -9505,8 +9505,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,21
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -9557,8 +9557,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -9609,8 +9609,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,21
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,75
 	Team_2_Penalty_Yards,21
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -9662,7 +9662,7 @@
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,41
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,41
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -9713,8 +9713,8 @@
 	Team_1_RedZone_Attempts,0
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -9765,8 +9765,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,0
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,15
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -9817,8 +9817,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,44
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,31
 	Team_2_Penalty_Yards,44
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -9869,8 +9869,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,45
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,62
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -9921,8 +9921,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,43
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,43
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -9973,8 +9973,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,23
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,58
 	Team_2_Penalty_Yards,23
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -10026,7 +10026,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,35
+	Team_1_Penalty_Yards,27
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -10077,8 +10077,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,44
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,44
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -10129,8 +10129,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,3
@@ -10181,8 +10181,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,56
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -10233,8 +10233,8 @@
 	Team_1_RedZone_Attempts,7
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,10
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,22
 	Team_2_Penalty_Yards,10
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,3
@@ -10286,7 +10286,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,34
+	Team_1_Penalty_Yards,71
 	Team_2_Penalty_Yards,34
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -10337,8 +10337,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,48
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,18
 	Team_2_Penalty_Yards,48
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -10389,8 +10389,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,80
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,78
 	Team_2_Penalty_Yards,80
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -10442,7 +10442,7 @@
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,33
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,33
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -10493,8 +10493,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -10545,8 +10545,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,12
-	Team_2_Penalties,12
-	Team_1_Penalty_Yards,30
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,68
 	Team_2_Penalty_Yards,30
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -10597,8 +10597,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,27
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,52
 	Team_2_Penalty_Yards,27
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -10649,8 +10649,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -10702,7 +10702,7 @@
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,35
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -10753,8 +10753,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,48
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,55
 	Team_2_Penalty_Yards,48
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -10806,7 +10806,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,8
 	Team_2_Penalties,8
-	Team_1_Penalty_Yards,75
+	Team_1_Penalty_Yards,69
 	Team_2_Penalty_Yards,75
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -10857,8 +10857,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,69
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,69
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -10909,8 +10909,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,33
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,75
 	Team_2_Penalty_Yards,33
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -10961,8 +10961,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,50
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,66
 	Team_2_Penalty_Yards,50
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -11013,8 +11013,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,1
-	Team_2_Penalties,1
-	Team_1_Penalty_Yards,28
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,10
 	Team_2_Penalty_Yards,28
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -11065,8 +11065,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,58
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,39
 	Team_2_Penalty_Yards,58
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -11118,7 +11118,7 @@
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,3
 	Team_2_Penalties,3
-	Team_1_Penalty_Yards,22
+	Team_1_Penalty_Yards,33
 	Team_2_Penalty_Yards,22
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -11169,8 +11169,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,35
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,24
 	Team_2_Penalty_Yards,35
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -11221,8 +11221,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -11273,8 +11273,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,5
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,36
 	Team_2_Penalty_Yards,5
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -11325,8 +11325,8 @@
 	Team_1_RedZone_Attempts,1
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,41
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,41
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -11377,8 +11377,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,67
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -11429,8 +11429,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,43
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,61
 	Team_2_Penalty_Yards,43
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -11482,7 +11482,7 @@
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,9
 	Team_2_Penalties,9
-	Team_1_Penalty_Yards,83
+	Team_1_Penalty_Yards,69
 	Team_2_Penalty_Yards,83
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,2
@@ -11533,8 +11533,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,93
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,54
 	Team_2_Penalty_Yards,93
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -11585,8 +11585,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,60
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -11637,8 +11637,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,16
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,16
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -11689,8 +11689,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,7
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,38
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,38
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -11741,8 +11741,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,0
 	Team_1_Penalties,8
-	Team_2_Penalties,8
-	Team_1_Penalty_Yards,117
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,65
 	Team_2_Penalty_Yards,117
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -11794,7 +11794,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
 	Team_2_Penalties,4
-	Team_1_Penalty_Yards,20
+	Team_1_Penalty_Yards,27
 	Team_2_Penalty_Yards,20
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -11845,8 +11845,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,40
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,76
 	Team_2_Penalty_Yards,40
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -11897,8 +11897,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,7
-	Team_2_Penalties,7
-	Team_1_Penalty_Yards,41
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,41
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -11949,8 +11949,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,58
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,51
 	Team_2_Penalty_Yards,58
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -12001,8 +12001,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,9
-	Team_2_Penalties,9
-	Team_1_Penalty_Yards,49
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,83
 	Team_2_Penalty_Yards,49
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -12053,8 +12053,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,115
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,40
 	Team_2_Penalty_Yards,115
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12105,8 +12105,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,6
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,65
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,65
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -12157,8 +12157,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,46
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,46
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -12210,7 +12210,7 @@
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,45
+	Team_1_Penalty_Yards,44
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12261,8 +12261,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,26
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,26
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,2
@@ -12313,8 +12313,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,12
-	Team_2_Penalties,12
-	Team_1_Penalty_Yards,73
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,115
 	Team_2_Penalty_Yards,73
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -12366,7 +12366,7 @@
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
 	Team_2_Penalties,5
-	Team_1_Penalty_Yards,31
+	Team_1_Penalty_Yards,45
 	Team_2_Penalty_Yards,31
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12417,8 +12417,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,0
+	Team_2_Penalties,0
+	Team_1_Penalty_Yards,15
 	Team_2_Penalty_Yards,0
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12469,8 +12469,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,27
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12521,8 +12521,8 @@
 	Team_1_RedZone_Attempts,3
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,16
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,20
 	Team_2_Penalty_Yards,16
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -12573,8 +12573,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,6
-	Team_2_Penalties,6
-	Team_1_Penalty_Yards,29
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,49
 	Team_2_Penalty_Yards,29
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12625,8 +12625,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,2
-	Team_2_Penalties,2
-	Team_1_Penalty_Yards,19
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,15
 	Team_2_Penalty_Yards,19
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12677,8 +12677,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,51
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,51
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -12729,8 +12729,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,2
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,47
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,47
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -12782,7 +12782,7 @@
 	Team_2_RedZone_Attempts,1
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,45
+	Team_1_Penalty_Yards,58
 	Team_2_Penalty_Yards,45
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -12833,8 +12833,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,23
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,48
 	Team_2_Penalty_Yards,23
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -12885,8 +12885,8 @@
 	Team_1_RedZone_Attempts,4
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,16
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,30
 	Team_2_Penalty_Yards,16
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,1
@@ -12937,8 +12937,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,14
-	Team_2_Penalties,14
-	Team_1_Penalty_Yards,28
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,111
 	Team_2_Penalty_Yards,28
 	Team_1_Fumbles_Lost,2
 	Team_2_Fumbles_Lost,0
@@ -12989,8 +12989,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,3
-	Team_2_Penalties,3
-	Team_1_Penalty_Yards,15
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,54
 	Team_2_Penalty_Yards,15
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -13041,8 +13041,8 @@
 	Team_1_RedZone_Attempts,6
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,69
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,23
 	Team_2_Penalty_Yards,69
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -13093,7 +13093,7 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,6
-	Team_2_Penalties,6
+	Team_2_Penalties,5
 	Team_1_Penalty_Yards,38
 	Team_2_Penalty_Yards,38
 	Team_1_Fumbles_Lost,0
@@ -13145,8 +13145,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,25
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,35
 	Team_2_Penalty_Yards,25
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
@@ -13197,8 +13197,8 @@
 	Team_1_RedZone_Attempts,5
 	Team_2_RedZone_Attempts,4
 	Team_1_Penalties,4
-	Team_2_Penalties,4
-	Team_1_Penalty_Yards,5
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,31
 	Team_2_Penalty_Yards,5
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,0
@@ -13250,7 +13250,7 @@
 	Team_2_RedZone_Attempts,5
 	Team_1_Penalties,6
 	Team_2_Penalties,6
-	Team_1_Penalty_Yards,44
+	Team_1_Penalty_Yards,50
 	Team_2_Penalty_Yards,44
 	Team_1_Fumbles_Lost,1
 	Team_2_Fumbles_Lost,0
@@ -13301,8 +13301,8 @@
 	Team_1_RedZone_Attempts,2
 	Team_2_RedZone_Attempts,3
 	Team_1_Penalties,5
-	Team_2_Penalties,5
-	Team_1_Penalty_Yards,41
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,56
 	Team_2_Penalty_Yards,41
 	Team_1_Fumbles_Lost,0
 	Team_2_Fumbles_Lost,1
