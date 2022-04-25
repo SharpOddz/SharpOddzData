@@ -43324,3 +43324,3151 @@ Broken,N
 	Team_2_pitches_thrown,139
 }
 2251,156
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924123
+	Team_1,
+	Team_2,
+	Date,2016-09-24
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+0,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924105
+	Team_1,Chicago White Sox
+	Team_2,Cleveland Indians
+	Date,2016-09-24
+	Team_1_Score,8
+	Team_2_Score,1
+	Team_1_at_bats,42
+	Team_2_at_bats,33
+	Team_1_hits,15
+	Team_2_hits,8
+	Team_1_strikes_thrown,87
+	Team_2_strikes_thrown,113
+	Team_1_pitches_thrown,148
+	Team_2_pitches_thrown,179
+}
+1,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924108
+	Team_1,Cincinnati Reds
+	Team_2,Milwaukee Brewers
+	Date,2016-09-24
+	Team_1_Score,6
+	Team_2_Score,1
+	Team_1_at_bats,34
+	Team_2_at_bats,32
+	Team_1_hits,10
+	Team_2_hits,6
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,89
+	Team_1_pitches_thrown,137
+	Team_2_pitches_thrown,154
+}
+2,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924109
+	Team_1,Seattle Mariners
+	Team_2,Minnesota Twins
+	Date,2016-09-24
+	Team_1_Score,2
+	Team_2_Score,3
+	Team_1_at_bats,32
+	Team_2_at_bats,27
+	Team_1_hits,5
+	Team_2_hits,3
+	Team_1_strikes_thrown,62
+	Team_2_strikes_thrown,78
+	Team_1_pitches_thrown,87
+	Team_2_pitches_thrown,110
+}
+3,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924118
+	Team_1,Los Angeles Angels
+	Team_2,Houston Astros
+	Date,2016-09-24
+	Team_1_Score,10
+	Team_2_Score,4
+	Team_1_at_bats,38
+	Team_2_at_bats,34
+	Team_1_hits,12
+	Team_2_hits,8
+	Team_1_strikes_thrown,97
+	Team_2_strikes_thrown,108
+	Team_1_pitches_thrown,153
+	Team_2_pitches_thrown,174
+}
+4,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924121
+	Team_1,Philadelphia Phillies
+	Team_2,New York Mets
+	Date,2016-09-24
+	Team_1_Score,10
+	Team_2_Score,8
+	Team_1_at_bats,42
+	Team_2_at_bats,37
+	Team_1_hits,17
+	Team_2_hits,11
+	Team_1_strikes_thrown,114
+	Team_2_strikes_thrown,122
+	Team_1_pitches_thrown,185
+	Team_2_pitches_thrown,187
+}
+5,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924128
+	Team_1,Atlanta Braves
+	Team_2,Miami Marlins
+	Date,2016-09-24
+	Team_1_Score,4
+	Team_2_Score,6
+	Team_1_at_bats,33
+	Team_2_at_bats,31
+	Team_1_hits,8
+	Team_2_hits,9
+	Team_1_strikes_thrown,87
+	Team_2_strikes_thrown,95
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,141
+}
+6,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924125
+	Team_1,San Francisco Giants
+	Team_2,San Diego Padres
+	Date,2016-09-24
+	Team_1_Score,9
+	Team_2_Score,6
+	Team_1_at_bats,43
+	Team_2_at_bats,38
+	Team_1_hits,12
+	Team_2_hits,8
+	Team_1_strikes_thrown,100
+	Team_2_strikes_thrown,110
+	Team_1_pitches_thrown,150
+	Team_2_pitches_thrown,173
+}
+7,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360924119
+	Team_1,Colorado Rockies
+	Team_2,Los Angeles Dodgers
+	Date,2016-09-24
+	Team_1_Score,1
+	Team_2_Score,14
+	Team_1_at_bats,32
+	Team_2_at_bats,36
+	Team_1_hits,6
+	Team_2_hits,13
+	Team_1_strikes_thrown,114
+	Team_2_strikes_thrown,89
+	Team_1_pitches_thrown,196
+	Team_2_pitches_thrown,120
+}
+8,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925114
+	Team_1,New York Yankees
+	Team_2,Toronto Blue Jays
+	Date,2016-09-25
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,34
+	Team_2_at_bats,32
+	Team_1_hits,8
+	Team_2_hits,9
+	Team_1_strikes_thrown,95
+	Team_2_strikes_thrown,102
+	Team_1_pitches_thrown,167
+	Team_2_pitches_thrown,146
+}
+9,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925105
+	Team_1,Chicago White Sox
+	Team_2,Cleveland Indians
+	Date,2016-09-25
+	Team_1_Score,3
+	Team_2_Score,0
+	Team_1_at_bats,33
+	Team_2_at_bats,28
+	Team_1_hits,6
+	Team_2_hits,2
+	Team_1_strikes_thrown,82
+	Team_2_strikes_thrown,103
+	Team_1_pitches_thrown,120
+	Team_2_pitches_thrown,153
+}
+10,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925106
+	Team_1,Kansas City Royals
+	Team_2,Detroit Tigers
+	Date,2016-09-25
+	Team_1_Score,12
+	Team_2_Score,9
+	Team_1_at_bats,45
+	Team_2_at_bats,42
+	Team_1_hits,19
+	Team_2_hits,17
+	Team_1_strikes_thrown,109
+	Team_2_strikes_thrown,124
+	Team_1_pitches_thrown,184
+	Team_2_pitches_thrown,173
+}
+11,1
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925121
+	Team_1,Philadelphia Phillies
+	Team_2,New York Mets
+	Date,2016-09-25
+	Team_1_Score,0
+	Team_2_Score,17
+	Team_1_at_bats,30
+	Team_2_at_bats,37
+	Team_1_hits,3
+	Team_2_hits,14
+	Team_1_strikes_thrown,112
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,201
+	Team_2_pitches_thrown,133
+}
+12,1
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925128
+	Team_1,Atlanta Braves
+	Team_2,Miami Marlins
+	Date,2016-09-25
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+12,2
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925101
+	Team_1,Arizona Diamondbacks
+	Team_2,Baltimore Orioles
+	Date,2016-09-25
+	Team_1_Score,1
+	Team_2_Score,2
+	Team_1_at_bats,31
+	Team_2_at_bats,28
+	Team_1_hits,4
+	Team_2_hits,5
+	Team_1_strikes_thrown,80
+	Team_2_strikes_thrown,103
+	Team_1_pitches_thrown,132
+	Team_2_pitches_thrown,154
+}
+13,2
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925123
+	Team_1,Washington Nationals
+	Team_2,Pittsburgh Pirates
+	Date,2016-09-25
+	Team_1_Score,10
+	Team_2_Score,7
+	Team_1_at_bats,40
+	Team_2_at_bats,32
+	Team_1_hits,14
+	Team_2_hits,7
+	Team_1_strikes_thrown,99
+	Team_2_strikes_thrown,111
+	Team_1_pitches_thrown,168
+	Team_2_pitches_thrown,186
+}
+14,2
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925108
+	Team_1,Cincinnati Reds
+	Team_2,Milwaukee Brewers
+	Date,2016-09-25
+	Team_1_Score,4
+	Team_2_Score,2
+	Team_1_at_bats,30
+	Team_2_at_bats,33
+	Team_1_hits,8
+	Team_2_hits,7
+	Team_1_strikes_thrown,92
+	Team_2_strikes_thrown,78
+	Team_1_pitches_thrown,136
+	Team_2_pitches_thrown,120
+}
+15,2
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925109
+	Team_1,Seattle Mariners
+	Team_2,Minnesota Twins
+	Date,2016-09-25
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,34
+	Team_1_hits,6
+	Team_2_hits,9
+	Team_1_strikes_thrown,87
+	Team_2_strikes_thrown,99
+	Team_1_pitches_thrown,142
+	Team_2_pitches_thrown,148
+}
+16,2
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925118
+	Team_1,Los Angeles Angels
+	Team_2,Houston Astros
+	Date,2016-09-25
+	Team_1_Score,1
+	Team_2_Score,4
+	Team_1_at_bats,32
+	Team_2_at_bats,28
+	Team_1_hits,7
+	Team_2_hits,9
+	Team_1_strikes_thrown,78
+	Team_2_strikes_thrown,94
+	Team_1_pitches_thrown,122
+	Team_2_pitches_thrown,134
+}
+17,2
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925111
+	Team_1,
+	Team_2,
+	Date,2016-09-25
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+17,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925119
+	Team_1,Colorado Rockies
+	Team_2,Los Angeles Dodgers
+	Date,2016-09-25
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,34
+	Team_2_at_bats,40
+	Team_1_hits,8
+	Team_2_hits,12
+	Team_1_strikes_thrown,97
+	Team_2_strikes_thrown,108
+	Team_1_pitches_thrown,153
+	Team_2_pitches_thrown,157
+}
+18,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925125
+	Team_1,San Francisco Giants
+	Team_2,San Diego Padres
+	Date,2016-09-25
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,34
+	Team_2_at_bats,28
+	Team_1_hits,7
+	Team_2_hits,8
+	Team_1_strikes_thrown,94
+	Team_2_strikes_thrown,80
+	Team_1_pitches_thrown,155
+	Team_2_pitches_thrown,128
+}
+19,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360925116
+	Team_1,St. Louis Cardinals
+	Team_2,Chicago Cubs
+	Date,2016-09-25
+	Team_1_Score,1
+	Team_2_Score,3
+	Team_1_at_bats,31
+	Team_2_at_bats,30
+	Team_1_hits,5
+	Team_2_hits,8
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,88
+	Team_1_pitches_thrown,142
+	Team_2_pitches_thrown,146
+}
+20,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926120
+	Team_1,Arizona Diamondbacks
+	Team_2,Washington Nationals
+	Date,2016-09-26
+	Team_1_Score,14
+	Team_2_Score,4
+	Team_1_at_bats,41
+	Team_2_at_bats,33
+	Team_1_hits,13
+	Team_2_hits,8
+	Team_1_strikes_thrown,94
+	Team_2_strikes_thrown,108
+	Team_1_pitches_thrown,161
+	Team_2_pitches_thrown,168
+}
+21,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926123
+	Team_1,Chicago Cubs
+	Team_2,Pittsburgh Pirates
+	Date,2016-09-26
+	Team_1_Score,12
+	Team_2_Score,2
+	Team_1_at_bats,44
+	Team_2_at_bats,37
+	Team_1_hits,18
+	Team_2_hits,10
+	Team_1_strikes_thrown,102
+	Team_2_strikes_thrown,134
+	Team_1_pitches_thrown,159
+	Team_2_pitches_thrown,233
+}
+22,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926114
+	Team_1,New York Yankees
+	Team_2,Toronto Blue Jays
+	Date,2016-09-26
+	Team_1_Score,7
+	Team_2_Score,5
+	Team_1_at_bats,36
+	Team_2_at_bats,32
+	Team_1_hits,11
+	Team_2_hits,6
+	Team_1_strikes_thrown,83
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,159
+	Team_2_pitches_thrown,134
+}
+23,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926106
+	Team_1,Cleveland Indians
+	Team_2,Detroit Tigers
+	Date,2016-09-26
+	Team_1_Score,7
+	Team_2_Score,4
+	Team_1_at_bats,34
+	Team_2_at_bats,35
+	Team_1_hits,8
+	Team_2_hits,10
+	Team_1_strikes_thrown,104
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,148
+	Team_2_pitches_thrown,158
+}
+24,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926128
+	Team_1,New York Mets
+	Team_2,Miami Marlins
+	Date,2016-09-26
+	Team_1_Score,3
+	Team_2_Score,7
+	Team_1_at_bats,34
+	Team_2_at_bats,37
+	Team_1_hits,7
+	Team_2_hits,14
+	Team_1_strikes_thrown,97
+	Team_2_strikes_thrown,110
+	Team_1_pitches_thrown,154
+	Team_2_pitches_thrown,172
+}
+25,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926113
+	Team_1,Milwaukee Brewers
+	Team_2,Texas Rangers
+	Date,2016-09-26
+	Team_1_Score,8
+	Team_2_Score,3
+	Team_1_at_bats,34
+	Team_2_at_bats,35
+	Team_1_hits,10
+	Team_2_hits,8
+	Team_1_strikes_thrown,95
+	Team_2_strikes_thrown,76
+	Team_1_pitches_thrown,144
+	Team_2_pitches_thrown,118
+}
+26,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926104
+	Team_1,Tampa Bay Rays
+	Team_2,Chicago White Sox
+	Date,2016-09-26
+	Team_1_Score,1
+	Team_2_Score,7
+	Team_1_at_bats,33
+	Team_2_at_bats,33
+	Team_1_hits,9
+	Team_2_hits,11
+	Team_1_strikes_thrown,92
+	Team_2_strikes_thrown,95
+	Team_1_pitches_thrown,151
+	Team_2_pitches_thrown,150
+}
+27,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926118
+	Team_1,Seattle Mariners
+	Team_2,Houston Astros
+	Date,2016-09-26
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,44
+	Team_2_at_bats,40
+	Team_1_hits,12
+	Team_2_hits,10
+	Team_1_strikes_thrown,118
+	Team_2_strikes_thrown,119
+	Team_1_pitches_thrown,178
+	Team_2_pitches_thrown,189
+}
+28,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926124
+	Team_1,Cincinnati Reds
+	Team_2,St. Louis Cardinals
+	Date,2016-09-26
+	Team_1_Score,15
+	Team_2_Score,2
+	Team_1_at_bats,45
+	Team_2_at_bats,31
+	Team_1_hits,22
+	Team_2_hits,6
+	Team_1_strikes_thrown,71
+	Team_2_strikes_thrown,107
+	Team_1_pitches_thrown,106
+	Team_2_pitches_thrown,172
+}
+29,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360926103
+	Team_1,Oakland Athletics
+	Team_2,Los Angeles Angels
+	Date,2016-09-26
+	Team_1_Score,1
+	Team_2_Score,2
+	Team_1_at_bats,30
+	Team_2_at_bats,29
+	Team_1_hits,4
+	Team_2_hits,6
+	Team_1_strikes_thrown,73
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,113
+	Team_2_pitches_thrown,142
+}
+30,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927110
+	Team_1,Boston Red Sox
+	Team_2,New York Yankees
+	Date,2016-09-27
+	Team_1_Score,4
+	Team_2_Score,6
+	Team_1_at_bats,35
+	Team_2_at_bats,32
+	Team_1_hits,10
+	Team_2_hits,14
+	Team_1_strikes_thrown,70
+	Team_2_strikes_thrown,87
+	Team_1_pitches_thrown,100
+	Team_2_pitches_thrown,146
+}
+31,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927120
+	Team_1,Arizona Diamondbacks
+	Team_2,Washington Nationals
+	Date,2016-09-27
+	Team_1_Score,2
+	Team_2_Score,4
+	Team_1_at_bats,32
+	Team_2_at_bats,26
+	Team_1_hits,6
+	Team_2_hits,3
+	Team_1_strikes_thrown,74
+	Team_2_strikes_thrown,88
+	Team_1_pitches_thrown,112
+	Team_2_pitches_thrown,128
+}
+32,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927123
+	Team_1,Chicago Cubs
+	Team_2,Pittsburgh Pirates
+	Date,2016-09-27
+	Team_1_Score,6
+	Team_2_Score,4
+	Team_1_at_bats,35
+	Team_2_at_bats,34
+	Team_1_hits,8
+	Team_2_hits,8
+	Team_1_strikes_thrown,109
+	Team_2_strikes_thrown,101
+	Team_1_pitches_thrown,185
+	Team_2_pitches_thrown,190
+}
+33,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/400838301
+	Team_1,Chicago Cubs
+	Team_2,Pittsburgh Pirates
+	Date,2016-09-27
+	Team_1_Score,6
+	Team_2_Score,4
+	Team_1_at_bats,35
+	Team_2_at_bats,34
+	Team_1_hits,8
+	Team_2_hits,8
+	Team_1_strikes_thrown,109
+	Team_2_strikes_thrown,101
+	Team_1_pitches_thrown,185
+	Team_2_pitches_thrown,190
+}
+34,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927114
+	Team_1,Baltimore Orioles
+	Team_2,Toronto Blue Jays
+	Date,2016-09-27
+	Team_1_Score,1
+	Team_2_Score,5
+	Team_1_at_bats,34
+	Team_2_at_bats,30
+	Team_1_hits,8
+	Team_2_hits,9
+	Team_1_strikes_thrown,81
+	Team_2_strikes_thrown,91
+	Team_1_pitches_thrown,132
+	Team_2_pitches_thrown,136
+}
+35,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927106
+	Team_1,Cleveland Indians
+	Team_2,Detroit Tigers
+	Date,2016-09-27
+	Team_1_Score,0
+	Team_2_Score,12
+	Team_1_at_bats,30
+	Team_2_at_bats,35
+	Team_1_hits,4
+	Team_2_hits,16
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,87
+	Team_1_pitches_thrown,161
+	Team_2_pitches_thrown,122
+}
+36,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927115
+	Team_1,Philadelphia Phillies
+	Team_2,Atlanta Braves
+	Date,2016-09-27
+	Team_1_Score,6
+	Team_2_Score,7
+	Team_1_at_bats,40
+	Team_2_at_bats,34
+	Team_1_hits,14
+	Team_2_hits,10
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,106
+	Team_1_pitches_thrown,141
+	Team_2_pitches_thrown,165
+}
+37,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927128
+	Team_1,New York Mets
+	Team_2,Miami Marlins
+	Date,2016-09-27
+	Team_1_Score,12
+	Team_2_Score,1
+	Team_1_at_bats,44
+	Team_2_at_bats,32
+	Team_1_hits,19
+	Team_2_hits,6
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,109
+	Team_1_pitches_thrown,132
+	Team_2_pitches_thrown,184
+}
+38,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927107
+	Team_1,Minnesota Twins
+	Team_2,Kansas City Royals
+	Date,2016-09-27
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,39
+	Team_2_at_bats,33
+	Team_1_hits,8
+	Team_2_hits,7
+	Team_1_strikes_thrown,89
+	Team_2_strikes_thrown,119
+	Team_1_pitches_thrown,162
+	Team_2_pitches_thrown,198
+}
+39,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927113
+	Team_1,Milwaukee Brewers
+	Team_2,Texas Rangers
+	Date,2016-09-27
+	Team_1_Score,4
+	Team_2_Score,6
+	Team_1_at_bats,36
+	Team_2_at_bats,30
+	Team_1_hits,10
+	Team_2_hits,7
+	Team_1_strikes_thrown,74
+	Team_2_strikes_thrown,101
+	Team_1_pitches_thrown,136
+	Team_2_pitches_thrown,158
+}
+40,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927104
+	Team_1,Tampa Bay Rays
+	Team_2,Chicago White Sox
+	Date,2016-09-27
+	Team_1_Score,6
+	Team_2_Score,13
+	Team_1_at_bats,39
+	Team_2_at_bats,39
+	Team_1_hits,11
+	Team_2_hits,14
+	Team_1_strikes_thrown,109
+	Team_2_strikes_thrown,97
+	Team_1_pitches_thrown,168
+	Team_2_pitches_thrown,139
+}
+41,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927118
+	Team_1,Seattle Mariners
+	Team_2,Houston Astros
+	Date,2016-09-27
+	Team_1_Score,4
+	Team_2_Score,8
+	Team_1_at_bats,35
+	Team_2_at_bats,34
+	Team_1_hits,11
+	Team_2_hits,11
+	Team_1_strikes_thrown,74
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,116
+	Team_2_pitches_thrown,143
+}
+42,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927124
+	Team_1,Cincinnati Reds
+	Team_2,St. Louis Cardinals
+	Date,2016-09-27
+	Team_1_Score,5
+	Team_2_Score,12
+	Team_1_at_bats,37
+	Team_2_at_bats,36
+	Team_1_hits,12
+	Team_2_hits,13
+	Team_1_strikes_thrown,112
+	Team_2_strikes_thrown,94
+	Team_1_pitches_thrown,184
+	Team_2_pitches_thrown,149
+}
+43,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927103
+	Team_1,Oakland Athletics
+	Team_2,Los Angeles Angels
+	Date,2016-09-27
+	Team_1_Score,1
+	Team_2_Score,8
+	Team_1_at_bats,30
+	Team_2_at_bats,34
+	Team_1_hits,6
+	Team_2_hits,12
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,80
+	Team_1_pitches_thrown,120
+	Team_2_pitches_thrown,130
+}
+44,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927125
+	Team_1,Los Angeles Dodgers
+	Team_2,San Diego Padres
+	Date,2016-09-27
+	Team_1_Score,1
+	Team_2_Score,7
+	Team_1_at_bats,32
+	Team_2_at_bats,29
+	Team_1_hits,5
+	Team_2_hits,6
+	Team_1_strikes_thrown,76
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,131
+	Team_2_pitches_thrown,156
+}
+45,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/400838305
+	Team_1,Los Angeles Dodgers
+	Team_2,San Diego Padres
+	Date,2016-09-27
+	Team_1_Score,1
+	Team_2_Score,7
+	Team_1_at_bats,32
+	Team_2_at_bats,29
+	Team_1_hits,5
+	Team_2_hits,6
+	Team_1_strikes_thrown,76
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,131
+	Team_2_pitches_thrown,156
+}
+46,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360927126
+	Team_1,Colorado Rockies
+	Team_2,San Francisco Giants
+	Date,2016-09-27
+	Team_1_Score,3
+	Team_2_Score,12
+	Team_1_at_bats,34
+	Team_2_at_bats,40
+	Team_1_hits,8
+	Team_2_hits,19
+	Team_1_strikes_thrown,103
+	Team_2_strikes_thrown,89
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,128
+}
+47,3
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928118
+	Team_1,Seattle Mariners
+	Team_2,Houston Astros
+	Date,2016-09-28
+	Team_1_Score,12
+	Team_2_Score,4
+	Team_1_at_bats,40
+	Team_2_at_bats,37
+	Team_1_hits,15
+	Team_2_hits,11
+	Team_1_strikes_thrown,101
+	Team_2_strikes_thrown,110
+	Team_1_pitches_thrown,140
+	Team_2_pitches_thrown,179
+}
+48,3
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928106
+	Team_1,
+	Team_2,
+	Date,2016-09-28
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+48,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928110
+	Team_1,Boston Red Sox
+	Team_2,New York Yankees
+	Date,2016-09-28
+	Team_1_Score,3
+	Team_2_Score,5
+	Team_1_at_bats,31
+	Team_2_at_bats,28
+	Team_1_hits,5
+	Team_2_hits,3
+	Team_1_strikes_thrown,98
+	Team_2_strikes_thrown,83
+	Team_1_pitches_thrown,162
+	Team_2_pitches_thrown,144
+}
+49,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928120
+	Team_1,Arizona Diamondbacks
+	Team_2,Washington Nationals
+	Date,2016-09-28
+	Team_1_Score,3
+	Team_2_Score,0
+	Team_1_at_bats,23
+	Team_2_at_bats,18
+	Team_1_hits,8
+	Team_2_hits,5
+	Team_1_strikes_thrown,52
+	Team_2_strikes_thrown,64
+	Team_1_pitches_thrown,74
+	Team_2_pitches_thrown,112
+}
+50,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928123
+	Team_1,Chicago Cubs
+	Team_2,Pittsburgh Pirates
+	Date,2016-09-28
+	Team_1_Score,4
+	Team_2_Score,8
+	Team_1_at_bats,32
+	Team_2_at_bats,34
+	Team_1_hits,4
+	Team_2_hits,12
+	Team_1_strikes_thrown,94
+	Team_2_strikes_thrown,89
+	Team_1_pitches_thrown,152
+	Team_2_pitches_thrown,149
+}
+51,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928114
+	Team_1,Baltimore Orioles
+	Team_2,Toronto Blue Jays
+	Date,2016-09-28
+	Team_1_Score,3
+	Team_2_Score,2
+	Team_1_at_bats,37
+	Team_2_at_bats,29
+	Team_1_hits,11
+	Team_2_hits,6
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,98
+	Team_1_pitches_thrown,147
+	Team_2_pitches_thrown,151
+}
+52,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928115
+	Team_1,Philadelphia Phillies
+	Team_2,Atlanta Braves
+	Date,2016-09-28
+	Team_1_Score,2
+	Team_2_Score,12
+	Team_1_at_bats,29
+	Team_2_at_bats,34
+	Team_1_hits,4
+	Team_2_hits,13
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,92
+	Team_1_pitches_thrown,135
+	Team_2_pitches_thrown,137
+}
+53,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928128
+	Team_1,New York Mets
+	Team_2,Miami Marlins
+	Date,2016-09-28
+	Team_1_Score,5
+	Team_2_Score,2
+	Team_1_at_bats,37
+	Team_2_at_bats,33
+	Team_1_hits,10
+	Team_2_hits,7
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,143
+	Team_2_pitches_thrown,156
+}
+54,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928107
+	Team_1,Minnesota Twins
+	Team_2,Kansas City Royals
+	Date,2016-09-28
+	Team_1_Score,2
+	Team_2_Score,5
+	Team_1_at_bats,34
+	Team_2_at_bats,32
+	Team_1_hits,8
+	Team_2_hits,8
+	Team_1_strikes_thrown,80
+	Team_2_strikes_thrown,99
+	Team_1_pitches_thrown,133
+	Team_2_pitches_thrown,164
+}
+55,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928113
+	Team_1,Milwaukee Brewers
+	Team_2,Texas Rangers
+	Date,2016-09-28
+	Team_1_Score,5
+	Team_2_Score,8
+	Team_1_at_bats,33
+	Team_2_at_bats,35
+	Team_1_hits,10
+	Team_2_hits,10
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,85
+	Team_1_pitches_thrown,143
+	Team_2_pitches_thrown,129
+}
+56,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928104
+	Team_1,Tampa Bay Rays
+	Team_2,Chicago White Sox
+	Date,2016-09-28
+	Team_1_Score,0
+	Team_2_Score,1
+	Team_1_at_bats,29
+	Team_2_at_bats,28
+	Team_1_hits,3
+	Team_2_hits,5
+	Team_1_strikes_thrown,79
+	Team_2_strikes_thrown,72
+	Team_1_pitches_thrown,121
+	Team_2_pitches_thrown,103
+}
+57,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928124
+	Team_1,Cincinnati Reds
+	Team_2,St. Louis Cardinals
+	Date,2016-09-28
+	Team_1_Score,2
+	Team_2_Score,1
+	Team_1_at_bats,39
+	Team_2_at_bats,32
+	Team_1_hits,10
+	Team_2_hits,7
+	Team_1_strikes_thrown,71
+	Team_2_strikes_thrown,108
+	Team_1_pitches_thrown,121
+	Team_2_pitches_thrown,166
+}
+58,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928126
+	Team_1,Colorado Rockies
+	Team_2,San Francisco Giants
+	Date,2016-09-28
+	Team_1_Score,2
+	Team_2_Score,0
+	Team_1_at_bats,34
+	Team_2_at_bats,28
+	Team_1_hits,9
+	Team_2_hits,5
+	Team_1_strikes_thrown,76
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,124
+	Team_2_pitches_thrown,141
+}
+59,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928103
+	Team_1,Oakland Athletics
+	Team_2,Los Angeles Angels
+	Date,2016-09-28
+	Team_1_Score,6
+	Team_2_Score,8
+	Team_1_at_bats,36
+	Team_2_at_bats,36
+	Team_1_hits,9
+	Team_2_hits,10
+	Team_1_strikes_thrown,102
+	Team_2_strikes_thrown,90
+	Team_1_pitches_thrown,158
+	Team_2_pitches_thrown,157
+}
+60,4
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360928125
+	Team_1,Los Angeles Dodgers
+	Team_2,San Diego Padres
+	Date,2016-09-28
+	Team_1_Score,5
+	Team_2_Score,6
+	Team_1_at_bats,35
+	Team_2_at_bats,29
+	Team_1_hits,9
+	Team_2_hits,8
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,83
+	Team_1_pitches_thrown,141
+	Team_2_pitches_thrown,121
+}
+61,4
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929106
+	Team_1,Cleveland Indians
+	Team_2,Detroit Tigers
+	Date,2016-09-29
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+61,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929120
+	Team_1,Arizona Diamondbacks
+	Team_2,Washington Nationals
+	Date,2016-09-29
+	Team_1_Score,3
+	Team_2_Score,5
+	Team_1_at_bats,33
+	Team_2_at_bats,31
+	Team_1_hits,6
+	Team_2_hits,7
+	Team_1_strikes_thrown,71
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,117
+	Team_2_pitches_thrown,156
+}
+62,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929110
+	Team_1,Boston Red Sox
+	Team_2,New York Yankees
+	Date,2016-09-29
+	Team_1_Score,1
+	Team_2_Score,5
+	Team_1_at_bats,29
+	Team_2_at_bats,32
+	Team_1_hits,4
+	Team_2_hits,8
+	Team_1_strikes_thrown,95
+	Team_2_strikes_thrown,76
+	Team_1_pitches_thrown,163
+	Team_2_pitches_thrown,124
+}
+63,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929123
+	Team_1,Chicago Cubs
+	Team_2,Pittsburgh Pirates
+	Date,2016-09-29
+	Team_1_Score,1
+	Team_2_Score,1
+	Team_1_at_bats,18
+	Team_2_at_bats,16
+	Team_1_hits,4
+	Team_2_hits,2
+	Team_1_strikes_thrown,45
+	Team_2_strikes_thrown,43
+	Team_1_pitches_thrown,71
+	Team_2_pitches_thrown,57
+}
+64,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929114
+	Team_1,Baltimore Orioles
+	Team_2,Toronto Blue Jays
+	Date,2016-09-29
+	Team_1_Score,4
+	Team_2_Score,0
+	Team_1_at_bats,35
+	Team_2_at_bats,28
+	Team_1_hits,9
+	Team_2_hits,3
+	Team_1_strikes_thrown,90
+	Team_2_strikes_thrown,80
+	Team_1_pitches_thrown,143
+	Team_2_pitches_thrown,121
+}
+65,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929115
+	Team_1,Philadelphia Phillies
+	Team_2,Atlanta Braves
+	Date,2016-09-29
+	Team_1_Score,2
+	Team_2_Score,5
+	Team_1_at_bats,34
+	Team_2_at_bats,30
+	Team_1_hits,9
+	Team_2_hits,7
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,158
+	Team_2_pitches_thrown,146
+}
+66,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929107
+	Team_1,Minnesota Twins
+	Team_2,Kansas City Royals
+	Date,2016-09-29
+	Team_1_Score,7
+	Team_2_Score,6
+	Team_1_at_bats,38
+	Team_2_at_bats,37
+	Team_1_hits,13
+	Team_2_hits,13
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,103
+	Team_1_pitches_thrown,137
+	Team_2_pitches_thrown,162
+}
+67,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929124
+	Team_1,Cincinnati Reds
+	Team_2,St. Louis Cardinals
+	Date,2016-09-29
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,37
+	Team_2_at_bats,35
+	Team_1_hits,12
+	Team_2_hits,9
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,111
+	Team_1_pitches_thrown,140
+	Team_2_pitches_thrown,171
+}
+68,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929104
+	Team_1,Tampa Bay Rays
+	Team_2,Chicago White Sox
+	Date,2016-09-29
+	Team_1_Score,5
+	Team_2_Score,3
+	Team_1_at_bats,35
+	Team_2_at_bats,33
+	Team_1_hits,11
+	Team_2_hits,8
+	Team_1_strikes_thrown,90
+	Team_2_strikes_thrown,108
+	Team_1_pitches_thrown,140
+	Team_2_pitches_thrown,171
+}
+69,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929125
+	Team_1,Los Angeles Dodgers
+	Team_2,San Diego Padres
+	Date,2016-09-29
+	Team_1_Score,9
+	Team_2_Score,4
+	Team_1_at_bats,42
+	Team_2_at_bats,39
+	Team_1_hits,15
+	Team_2_hits,14
+	Team_1_strikes_thrown,106
+	Team_2_strikes_thrown,105
+	Team_1_pitches_thrown,163
+	Team_2_pitches_thrown,159
+}
+70,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929112
+	Team_1,Oakland Athletics
+	Team_2,Seattle Mariners
+	Date,2016-09-29
+	Team_1_Score,2
+	Team_2_Score,3
+	Team_1_at_bats,35
+	Team_2_at_bats,35
+	Team_1_hits,9
+	Team_2_hits,12
+	Team_1_strikes_thrown,94
+	Team_2_strikes_thrown,88
+	Team_1_pitches_thrown,152
+	Team_2_pitches_thrown,127
+}
+71,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360929126
+	Team_1,Colorado Rockies
+	Team_2,San Francisco Giants
+	Date,2016-09-29
+	Team_1_Score,2
+	Team_2_Score,7
+	Team_1_at_bats,35
+	Team_2_at_bats,31
+	Team_1_hits,10
+	Team_2_hits,10
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,99
+	Team_1_pitches_thrown,143
+	Team_2_pitches_thrown,143
+}
+72,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930102
+	Team_1,Toronto Blue Jays
+	Team_2,Boston Red Sox
+	Date,2016-09-30
+	Team_1_Score,3
+	Team_2_Score,5
+	Team_1_at_bats,36
+	Team_2_at_bats,35
+	Team_1_hits,10
+	Team_2_hits,10
+	Team_1_strikes_thrown,114
+	Team_2_strikes_thrown,97
+	Team_1_pitches_thrown,165
+	Team_2_pitches_thrown,160
+}
+73,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930110
+	Team_1,Baltimore Orioles
+	Team_2,New York Yankees
+	Date,2016-09-30
+	Team_1_Score,8
+	Team_2_Score,1
+	Team_1_at_bats,38
+	Team_2_at_bats,28
+	Team_1_hits,10
+	Team_2_hits,3
+	Team_1_strikes_thrown,95
+	Team_2_strikes_thrown,109
+	Team_1_pitches_thrown,155
+	Team_2_pitches_thrown,182
+}
+74,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930120
+	Team_1,Miami Marlins
+	Team_2,Washington Nationals
+	Date,2016-09-30
+	Team_1_Score,7
+	Team_2_Score,4
+	Team_1_at_bats,40
+	Team_2_at_bats,33
+	Team_1_hits,12
+	Team_2_hits,7
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,91
+	Team_1_pitches_thrown,153
+	Team_2_pitches_thrown,141
+}
+75,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930122
+	Team_1,New York Mets
+	Team_2,Philadelphia Phillies
+	Date,2016-09-30
+	Team_1_Score,5
+	Team_2_Score,1
+	Team_1_at_bats,36
+	Team_2_at_bats,33
+	Team_1_hits,9
+	Team_2_hits,7
+	Team_1_strikes_thrown,83
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,129
+	Team_2_pitches_thrown,161
+}
+76,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930117
+	Team_1,Chicago Cubs
+	Team_2,Cincinnati Reds
+	Date,2016-09-30
+	Team_1_Score,7
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,32
+	Team_1_hits,8
+	Team_2_hits,5
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,88
+	Team_1_pitches_thrown,133
+	Team_2_pitches_thrown,143
+}
+77,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930115
+	Team_1,Detroit Tigers
+	Team_2,Atlanta Braves
+	Date,2016-09-30
+	Team_1_Score,6
+	Team_2_Score,2
+	Team_1_at_bats,38
+	Team_2_at_bats,33
+	Team_1_hits,11
+	Team_2_hits,6
+	Team_1_strikes_thrown,102
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,155
+	Team_2_pitches_thrown,153
+}
+78,5
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930113
+	Team_1,Tampa Bay Rays
+	Team_2,Texas Rangers
+	Date,2016-09-30
+	Team_1_Score,1
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,33
+	Team_1_hits,4
+	Team_2_hits,10
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,131
+	Team_2_pitches_thrown,142
+}
+79,5
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930104
+	Team_1,
+	Team_2,
+	Date,2016-09-30
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+79,6
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930127
+	Team_1,Milwaukee Brewers
+	Team_2,Colorado Rockies
+	Date,2016-09-30
+	Team_1_Score,1
+	Team_2_Score,4
+	Team_1_at_bats,33
+	Team_2_at_bats,30
+	Team_1_hits,8
+	Team_2_hits,10
+	Team_1_strikes_thrown,75
+	Team_2_strikes_thrown,87
+	Team_1_pitches_thrown,111
+	Team_2_pitches_thrown,139
+}
+80,6
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930107
+	Team_1,
+	Team_2,
+	Date,2016-09-30
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+80,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930124
+	Team_1,Pittsburgh Pirates
+	Team_2,St. Louis Cardinals
+	Date,2016-09-30
+	Team_1_Score,0
+	Team_2_Score,7
+	Team_1_at_bats,32
+	Team_2_at_bats,30
+	Team_1_hits,5
+	Team_2_hits,7
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,85
+	Team_1_pitches_thrown,143
+	Team_2_pitches_thrown,123
+}
+81,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930129
+	Team_1,San Diego Padres
+	Team_2,Arizona Diamondbacks
+	Date,2016-09-30
+	Team_1_Score,3
+	Team_2_Score,5
+	Team_1_at_bats,36
+	Team_2_at_bats,28
+	Team_1_hits,9
+	Team_2_hits,6
+	Team_1_strikes_thrown,72
+	Team_2_strikes_thrown,94
+	Team_1_pitches_thrown,119
+	Team_2_pitches_thrown,148
+}
+82,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930103
+	Team_1,Houston Astros
+	Team_2,Los Angeles Angels
+	Date,2016-09-30
+	Team_1_Score,1
+	Team_2_Score,7
+	Team_1_at_bats,33
+	Team_2_at_bats,30
+	Team_1_hits,8
+	Team_2_hits,6
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,139
+	Team_2_pitches_thrown,135
+}
+83,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930112
+	Team_1,Oakland Athletics
+	Team_2,Seattle Mariners
+	Date,2016-09-30
+	Team_1_Score,1
+	Team_2_Score,5
+	Team_1_at_bats,28
+	Team_2_at_bats,31
+	Team_1_hits,2
+	Team_2_hits,7
+	Team_1_strikes_thrown,80
+	Team_2_strikes_thrown,90
+	Team_1_pitches_thrown,122
+	Team_2_pitches_thrown,144
+}
+84,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/360930126
+	Team_1,Los Angeles Dodgers
+	Team_2,San Francisco Giants
+	Date,2016-09-30
+	Team_1_Score,3
+	Team_2_Score,9
+	Team_1_at_bats,34
+	Team_2_at_bats,36
+	Team_1_hits,9
+	Team_2_hits,13
+	Team_1_strikes_thrown,105
+	Team_2_strikes_thrown,82
+	Team_1_pitches_thrown,170
+	Team_2_pitches_thrown,128
+}
+85,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001122
+	Team_1,New York Mets
+	Team_2,Philadelphia Phillies
+	Date,2016-09-31
+	Team_1_Score,5
+	Team_2_Score,3
+	Team_1_at_bats,34
+	Team_2_at_bats,34
+	Team_1_hits,11
+	Team_2_hits,8
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,102
+	Team_1_pitches_thrown,133
+	Team_2_pitches_thrown,149
+}
+86,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001124
+	Team_1,Pittsburgh Pirates
+	Team_2,St. Louis Cardinals
+	Date,2016-09-31
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,34
+	Team_2_at_bats,32
+	Team_1_hits,7
+	Team_2_hits,11
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,104
+	Team_1_pitches_thrown,131
+	Team_2_pitches_thrown,153
+}
+87,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001110
+	Team_1,Baltimore Orioles
+	Team_2,New York Yankees
+	Date,2016-09-31
+	Team_1_Score,3
+	Team_2_Score,7
+	Team_1_at_bats,34
+	Team_2_at_bats,34
+	Team_1_hits,9
+	Team_2_hits,12
+	Team_1_strikes_thrown,98
+	Team_2_strikes_thrown,92
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,140
+}
+88,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001120
+	Team_1,Miami Marlins
+	Team_2,Washington Nationals
+	Date,2016-09-31
+	Team_1_Score,1
+	Team_2_Score,2
+	Team_1_at_bats,30
+	Team_2_at_bats,29
+	Team_1_hits,4
+	Team_2_hits,7
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,119
+	Team_2_pitches_thrown,164
+}
+89,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001126
+	Team_1,Los Angeles Dodgers
+	Team_2,San Francisco Giants
+	Date,2016-09-31
+	Team_1_Score,0
+	Team_2_Score,3
+	Team_1_at_bats,29
+	Team_2_at_bats,30
+	Team_1_hits,3
+	Team_2_hits,7
+	Team_1_strikes_thrown,75
+	Team_2_strikes_thrown,76
+	Team_1_pitches_thrown,107
+	Team_2_pitches_thrown,110
+}
+90,7
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001117
+	Team_1,Chicago Cubs
+	Team_2,Cincinnati Reds
+	Date,2016-09-31
+	Team_1_Score,4
+	Team_2_Score,7
+	Team_1_at_bats,33
+	Team_2_at_bats,32
+	Team_1_hits,8
+	Team_2_hits,10
+	Team_1_strikes_thrown,109
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,180
+	Team_2_pitches_thrown,147
+}
+91,7
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001107
+	Team_1,
+	Team_2,
+	Date,2016-09-31
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+91,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001102
+	Team_1,Toronto Blue Jays
+	Team_2,Boston Red Sox
+	Date,2016-09-31
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,28
+	Team_2_at_bats,31
+	Team_1_hits,4
+	Team_2_hits,5
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,102
+	Team_1_pitches_thrown,149
+	Team_2_pitches_thrown,171
+}
+92,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001104
+	Team_1,Minnesota Twins
+	Team_2,Chicago White Sox
+	Date,2016-09-31
+	Team_1_Score,6
+	Team_2_Score,0
+	Team_1_at_bats,33
+	Team_2_at_bats,30
+	Team_1_hits,5
+	Team_2_hits,4
+	Team_1_strikes_thrown,90
+	Team_2_strikes_thrown,84
+	Team_1_pitches_thrown,141
+	Team_2_pitches_thrown,138
+}
+93,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001115
+	Team_1,Detroit Tigers
+	Team_2,Atlanta Braves
+	Date,2016-09-31
+	Team_1_Score,3
+	Team_2_Score,5
+	Team_1_at_bats,32
+	Team_2_at_bats,30
+	Team_1_hits,7
+	Team_2_hits,8
+	Team_1_strikes_thrown,69
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,122
+	Team_2_pitches_thrown,135
+}
+94,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001113
+	Team_1,Tampa Bay Rays
+	Team_2,Texas Rangers
+	Date,2016-09-31
+	Team_1_Score,4
+	Team_2_Score,1
+	Team_1_at_bats,33
+	Team_2_at_bats,31
+	Team_1_hits,5
+	Team_2_hits,3
+	Team_1_strikes_thrown,87
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,135
+	Team_2_pitches_thrown,124
+}
+95,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001127
+	Team_1,Milwaukee Brewers
+	Team_2,Colorado Rockies
+	Date,2016-09-31
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,37
+	Team_2_at_bats,41
+	Team_1_hits,7
+	Team_2_hits,12
+	Team_1_strikes_thrown,104
+	Team_2_strikes_thrown,104
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,156
+}
+96,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001129
+	Team_1,San Diego Padres
+	Team_2,Arizona Diamondbacks
+	Date,2016-09-31
+	Team_1_Score,5
+	Team_2_Score,9
+	Team_1_at_bats,38
+	Team_2_at_bats,29
+	Team_1_hits,11
+	Team_2_hits,10
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,127
+	Team_2_pitches_thrown,137
+}
+97,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001103
+	Team_1,Houston Astros
+	Team_2,Los Angeles Angels
+	Date,2016-09-31
+	Team_1_Score,3
+	Team_2_Score,0
+	Team_1_at_bats,36
+	Team_2_at_bats,31
+	Team_1_hits,10
+	Team_2_hits,4
+	Team_1_strikes_thrown,82
+	Team_2_strikes_thrown,98
+	Team_1_pitches_thrown,123
+	Team_2_pitches_thrown,161
+}
+98,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001112
+	Team_1,Oakland Athletics
+	Team_2,Seattle Mariners
+	Date,2016-09-31
+	Team_1_Score,9
+	Team_2_Score,8
+	Team_1_at_bats,45
+	Team_2_at_bats,44
+	Team_1_hits,16
+	Team_2_hits,13
+	Team_1_strikes_thrown,126
+	Team_2_strikes_thrown,112
+	Team_1_pitches_thrown,201
+	Team_2_pitches_thrown,162
+}
+99,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001122
+	Team_1,New York Mets
+	Team_2,Philadelphia Phillies
+	Date,2016-10-01
+	Team_1_Score,5
+	Team_2_Score,3
+	Team_1_at_bats,34
+	Team_2_at_bats,34
+	Team_1_hits,11
+	Team_2_hits,8
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,102
+	Team_1_pitches_thrown,133
+	Team_2_pitches_thrown,149
+}
+100,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001124
+	Team_1,Pittsburgh Pirates
+	Team_2,St. Louis Cardinals
+	Date,2016-10-01
+	Team_1_Score,3
+	Team_2_Score,4
+	Team_1_at_bats,34
+	Team_2_at_bats,32
+	Team_1_hits,7
+	Team_2_hits,11
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,104
+	Team_1_pitches_thrown,131
+	Team_2_pitches_thrown,153
+}
+101,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001110
+	Team_1,Baltimore Orioles
+	Team_2,New York Yankees
+	Date,2016-10-01
+	Team_1_Score,3
+	Team_2_Score,7
+	Team_1_at_bats,34
+	Team_2_at_bats,34
+	Team_1_hits,9
+	Team_2_hits,12
+	Team_1_strikes_thrown,98
+	Team_2_strikes_thrown,92
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,140
+}
+102,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001120
+	Team_1,Miami Marlins
+	Team_2,Washington Nationals
+	Date,2016-10-01
+	Team_1_Score,1
+	Team_2_Score,2
+	Team_1_at_bats,30
+	Team_2_at_bats,29
+	Team_1_hits,4
+	Team_2_hits,7
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,119
+	Team_2_pitches_thrown,164
+}
+103,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001126
+	Team_1,Los Angeles Dodgers
+	Team_2,San Francisco Giants
+	Date,2016-10-01
+	Team_1_Score,0
+	Team_2_Score,3
+	Team_1_at_bats,29
+	Team_2_at_bats,30
+	Team_1_hits,3
+	Team_2_hits,7
+	Team_1_strikes_thrown,75
+	Team_2_strikes_thrown,76
+	Team_1_pitches_thrown,107
+	Team_2_pitches_thrown,110
+}
+104,8
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001117
+	Team_1,Chicago Cubs
+	Team_2,Cincinnati Reds
+	Date,2016-10-01
+	Team_1_Score,4
+	Team_2_Score,7
+	Team_1_at_bats,33
+	Team_2_at_bats,32
+	Team_1_hits,8
+	Team_2_hits,10
+	Team_1_strikes_thrown,109
+	Team_2_strikes_thrown,100
+	Team_1_pitches_thrown,180
+	Team_2_pitches_thrown,147
+}
+105,8
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001107
+	Team_1,
+	Team_2,
+	Date,2016-10-01
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+105,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001102
+	Team_1,Toronto Blue Jays
+	Team_2,Boston Red Sox
+	Date,2016-10-01
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,28
+	Team_2_at_bats,31
+	Team_1_hits,4
+	Team_2_hits,5
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,102
+	Team_1_pitches_thrown,149
+	Team_2_pitches_thrown,171
+}
+106,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001104
+	Team_1,Minnesota Twins
+	Team_2,Chicago White Sox
+	Date,2016-10-01
+	Team_1_Score,6
+	Team_2_Score,0
+	Team_1_at_bats,33
+	Team_2_at_bats,30
+	Team_1_hits,5
+	Team_2_hits,4
+	Team_1_strikes_thrown,90
+	Team_2_strikes_thrown,84
+	Team_1_pitches_thrown,141
+	Team_2_pitches_thrown,138
+}
+107,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001115
+	Team_1,Detroit Tigers
+	Team_2,Atlanta Braves
+	Date,2016-10-01
+	Team_1_Score,3
+	Team_2_Score,5
+	Team_1_at_bats,32
+	Team_2_at_bats,30
+	Team_1_hits,7
+	Team_2_hits,8
+	Team_1_strikes_thrown,69
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,122
+	Team_2_pitches_thrown,135
+}
+108,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001113
+	Team_1,Tampa Bay Rays
+	Team_2,Texas Rangers
+	Date,2016-10-01
+	Team_1_Score,4
+	Team_2_Score,1
+	Team_1_at_bats,33
+	Team_2_at_bats,31
+	Team_1_hits,5
+	Team_2_hits,3
+	Team_1_strikes_thrown,87
+	Team_2_strikes_thrown,86
+	Team_1_pitches_thrown,135
+	Team_2_pitches_thrown,124
+}
+109,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001127
+	Team_1,Milwaukee Brewers
+	Team_2,Colorado Rockies
+	Date,2016-10-01
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,37
+	Team_2_at_bats,41
+	Team_1_hits,7
+	Team_2_hits,12
+	Team_1_strikes_thrown,104
+	Team_2_strikes_thrown,104
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,156
+}
+110,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001129
+	Team_1,San Diego Padres
+	Team_2,Arizona Diamondbacks
+	Date,2016-10-01
+	Team_1_Score,5
+	Team_2_Score,9
+	Team_1_at_bats,38
+	Team_2_at_bats,29
+	Team_1_hits,11
+	Team_2_hits,10
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,127
+	Team_2_pitches_thrown,137
+}
+111,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001103
+	Team_1,Houston Astros
+	Team_2,Los Angeles Angels
+	Date,2016-10-01
+	Team_1_Score,3
+	Team_2_Score,0
+	Team_1_at_bats,36
+	Team_2_at_bats,31
+	Team_1_hits,10
+	Team_2_hits,4
+	Team_1_strikes_thrown,82
+	Team_2_strikes_thrown,98
+	Team_1_pitches_thrown,123
+	Team_2_pitches_thrown,161
+}
+112,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361001112
+	Team_1,Oakland Athletics
+	Team_2,Seattle Mariners
+	Date,2016-10-01
+	Team_1_Score,9
+	Team_2_Score,8
+	Team_1_at_bats,45
+	Team_2_at_bats,44
+	Team_1_hits,16
+	Team_2_hits,13
+	Team_1_strikes_thrown,126
+	Team_2_strikes_thrown,112
+	Team_1_pitches_thrown,201
+	Team_2_pitches_thrown,162
+}
+113,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002102
+	Team_1,Toronto Blue Jays
+	Team_2,Boston Red Sox
+	Date,2016-10-02
+	Team_1_Score,2
+	Team_2_Score,1
+	Team_1_at_bats,34
+	Team_2_at_bats,30
+	Team_1_hits,9
+	Team_2_hits,4
+	Team_1_strikes_thrown,90
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,139
+	Team_2_pitches_thrown,150
+}
+114,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002103
+	Team_1,Houston Astros
+	Team_2,Los Angeles Angels
+	Date,2016-10-02
+	Team_1_Score,1
+	Team_2_Score,8
+	Team_1_at_bats,32
+	Team_2_at_bats,32
+	Team_1_hits,7
+	Team_2_hits,9
+	Team_1_strikes_thrown,85
+	Team_2_strikes_thrown,78
+	Team_1_pitches_thrown,151
+	Team_2_pitches_thrown,120
+}
+115,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002110
+	Team_1,Baltimore Orioles
+	Team_2,New York Yankees
+	Date,2016-10-02
+	Team_1_Score,5
+	Team_2_Score,2
+	Team_1_at_bats,31
+	Team_2_at_bats,36
+	Team_1_hits,7
+	Team_2_hits,10
+	Team_1_strikes_thrown,85
+	Team_2_strikes_thrown,85
+	Team_1_pitches_thrown,126
+	Team_2_pitches_thrown,127
+}
+116,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002113
+	Team_1,Tampa Bay Rays
+	Team_2,Texas Rangers
+	Date,2016-10-02
+	Team_1_Score,6
+	Team_2_Score,4
+	Team_1_at_bats,42
+	Team_2_at_bats,40
+	Team_1_hits,13
+	Team_2_hits,11
+	Team_1_strikes_thrown,129
+	Team_2_strikes_thrown,115
+	Team_1_pitches_thrown,202
+	Team_2_pitches_thrown,186
+}
+117,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002120
+	Team_1,Miami Marlins
+	Team_2,Washington Nationals
+	Date,2016-10-02
+	Team_1_Score,7
+	Team_2_Score,10
+	Team_1_at_bats,38
+	Team_2_at_bats,30
+	Team_1_hits,14
+	Team_2_hits,10
+	Team_1_strikes_thrown,75
+	Team_2_strikes_thrown,102
+	Team_1_pitches_thrown,152
+	Team_2_pitches_thrown,164
+}
+118,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002122
+	Team_1,New York Mets
+	Team_2,Philadelphia Phillies
+	Date,2016-10-02
+	Team_1_Score,2
+	Team_2_Score,5
+	Team_1_at_bats,33
+	Team_2_at_bats,33
+	Team_1_hits,8
+	Team_2_hits,10
+	Team_1_strikes_thrown,75
+	Team_2_strikes_thrown,91
+	Team_1_pitches_thrown,106
+	Team_2_pitches_thrown,144
+}
+119,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002126
+	Team_1,Los Angeles Dodgers
+	Team_2,San Francisco Giants
+	Date,2016-10-02
+	Team_1_Score,1
+	Team_2_Score,7
+	Team_1_at_bats,30
+	Team_2_at_bats,39
+	Team_1_hits,4
+	Team_2_hits,16
+	Team_1_strikes_thrown,108
+	Team_2_strikes_thrown,87
+	Team_1_pitches_thrown,165
+	Team_2_pitches_thrown,120
+}
+120,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002104
+	Team_1,Minnesota Twins
+	Team_2,Chicago White Sox
+	Date,2016-10-02
+	Team_1_Score,6
+	Team_2_Score,3
+	Team_1_at_bats,35
+	Team_2_at_bats,33
+	Team_1_hits,9
+	Team_2_hits,6
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,97
+	Team_1_pitches_thrown,155
+	Team_2_pitches_thrown,163
+}
+121,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002112
+	Team_1,Oakland Athletics
+	Team_2,Seattle Mariners
+	Date,2016-10-02
+	Team_1_Score,3
+	Team_2_Score,2
+	Team_1_at_bats,31
+	Team_2_at_bats,32
+	Team_1_hits,7
+	Team_2_hits,6
+	Team_1_strikes_thrown,95
+	Team_2_strikes_thrown,83
+	Team_1_pitches_thrown,137
+	Team_2_pitches_thrown,132
+}
+122,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002115
+	Team_1,Detroit Tigers
+	Team_2,Atlanta Braves
+	Date,2016-10-02
+	Team_1_Score,0
+	Team_2_Score,1
+	Team_1_at_bats,31
+	Team_2_at_bats,28
+	Team_1_hits,5
+	Team_2_hits,6
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,91
+	Team_1_pitches_thrown,119
+	Team_2_pitches_thrown,132
+}
+123,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002117
+	Team_1,Chicago Cubs
+	Team_2,Cincinnati Reds
+	Date,2016-10-02
+	Team_1_Score,7
+	Team_2_Score,4
+	Team_1_at_bats,35
+	Team_2_at_bats,32
+	Team_1_hits,9
+	Team_2_hits,6
+	Team_1_strikes_thrown,100
+	Team_2_strikes_thrown,114
+	Team_1_pitches_thrown,156
+	Team_2_pitches_thrown,200
+}
+124,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002127
+	Team_1,Milwaukee Brewers
+	Team_2,Colorado Rockies
+	Date,2016-10-02
+	Team_1_Score,6
+	Team_2_Score,4
+	Team_1_at_bats,39
+	Team_2_at_bats,41
+	Team_1_hits,10
+	Team_2_hits,13
+	Team_1_strikes_thrown,106
+	Team_2_strikes_thrown,99
+	Team_1_pitches_thrown,162
+	Team_2_pitches_thrown,160
+}
+125,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002129
+	Team_1,San Diego Padres
+	Team_2,Arizona Diamondbacks
+	Date,2016-10-02
+	Team_1_Score,2
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,32
+	Team_1_hits,7
+	Team_2_hits,9
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,82
+	Team_1_pitches_thrown,116
+	Team_2_pitches_thrown,120
+}
+126,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002107
+	Team_1,Cleveland Indians
+	Team_2,Kansas City Royals
+	Date,2016-10-02
+	Team_1_Score,3
+	Team_2_Score,2
+	Team_1_at_bats,30
+	Team_2_at_bats,31
+	Team_1_hits,4
+	Team_2_hits,6
+	Team_1_strikes_thrown,78
+	Team_2_strikes_thrown,88
+	Team_1_pitches_thrown,110
+	Team_2_pitches_thrown,129
+}
+127,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361002124
+	Team_1,Pittsburgh Pirates
+	Team_2,St. Louis Cardinals
+	Date,2016-10-02
+	Team_1_Score,4
+	Team_2_Score,10
+	Team_1_at_bats,35
+	Team_2_at_bats,36
+	Team_1_hits,9
+	Team_2_hits,12
+	Team_1_strikes_thrown,97
+	Team_2_strikes_thrown,89
+	Team_1_pitches_thrown,158
+	Team_2_pitches_thrown,138
+}
+128,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361004114
+	Team_1,Baltimore Orioles
+	Team_2,Toronto Blue Jays
+	Date,2016-10-04
+	Team_1_Score,2
+	Team_2_Score,5
+	Team_1_at_bats,37
+	Team_2_at_bats,37
+	Team_1_hits,4
+	Team_2_hits,9
+	Team_1_strikes_thrown,95
+	Team_2_strikes_thrown,95
+	Team_1_pitches_thrown,151
+	Team_2_pitches_thrown,146
+}
+129,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361005121
+	Team_1,San Francisco Giants
+	Team_2,New York Mets
+	Date,2016-10-05
+	Team_1_Score,3
+	Team_2_Score,0
+	Team_1_at_bats,30
+	Team_2_at_bats,30
+	Team_1_hits,5
+	Team_2_hits,4
+	Team_1_strikes_thrown,78
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,119
+	Team_2_pitches_thrown,155
+}
+130,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361006113
+	Team_1,Toronto Blue Jays
+	Team_2,Texas Rangers
+	Date,2016-10-06
+	Team_1_Score,10
+	Team_2_Score,1
+	Team_1_at_bats,39
+	Team_2_at_bats,29
+	Team_1_hits,13
+	Team_2_hits,4
+	Team_1_strikes_thrown,77
+	Team_2_strikes_thrown,103
+	Team_1_pitches_thrown,105
+	Team_2_pitches_thrown,156
+}
+131,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361006105
+	Team_1,Boston Red Sox
+	Team_2,Cleveland Indians
+	Date,2016-10-06
+	Team_1_Score,4
+	Team_2_Score,5
+	Team_1_at_bats,36
+	Team_2_at_bats,32
+	Team_1_hits,10
+	Team_2_hits,10
+	Team_1_strikes_thrown,92
+	Team_2_strikes_thrown,110
+	Team_1_pitches_thrown,139
+	Team_2_pitches_thrown,171
+}
+132,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361007113
+	Team_1,Toronto Blue Jays
+	Team_2,Texas Rangers
+	Date,2016-10-07
+	Team_1_Score,5
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,40
+	Team_1_hits,6
+	Team_2_hits,13
+	Team_1_strikes_thrown,102
+	Team_2_strikes_thrown,82
+	Team_1_pitches_thrown,160
+	Team_2_pitches_thrown,130
+}
+133,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361007105
+	Team_1,Boston Red Sox
+	Team_2,Cleveland Indians
+	Date,2016-10-07
+	Team_1_Score,0
+	Team_2_Score,6
+	Team_1_at_bats,29
+	Team_2_at_bats,32
+	Team_1_hits,3
+	Team_2_hits,9
+	Team_1_strikes_thrown,90
+	Team_2_strikes_thrown,79
+	Team_1_pitches_thrown,131
+	Team_2_pitches_thrown,130
+}
+134,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361007120
+	Team_1,Los Angeles Dodgers
+	Team_2,Washington Nationals
+	Date,2016-10-07
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,35
+	Team_1_hits,8
+	Team_2_hits,9
+	Team_1_strikes_thrown,104
+	Team_2_strikes_thrown,92
+	Team_1_pitches_thrown,165
+	Team_2_pitches_thrown,148
+}
+135,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361007116
+	Team_1,San Francisco Giants
+	Team_2,Chicago Cubs
+	Date,2016-10-07
+	Team_1_Score,0
+	Team_2_Score,1
+	Team_1_at_bats,31
+	Team_2_at_bats,27
+	Team_1_hits,6
+	Team_2_hits,3
+	Team_1_strikes_thrown,74
+	Team_2_strikes_thrown,73
+	Team_1_pitches_thrown,118
+	Team_2_pitches_thrown,107
+}
+136,9
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361008116
+	Team_1,San Francisco Giants
+	Team_2,Chicago Cubs
+	Date,2016-10-08
+	Team_1_Score,2
+	Team_2_Score,5
+	Team_1_at_bats,32
+	Team_2_at_bats,33
+	Team_1_hits,6
+	Team_2_hits,9
+	Team_1_strikes_thrown,85
+	Team_2_strikes_thrown,84
+	Team_1_pitches_thrown,121
+	Team_2_pitches_thrown,126
+}
+137,9
+{
+Broken,Y
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361009102
+	Team_1,Cleveland Indians
+	Team_2,Boston Red Sox
+	Date,2016-10-09
+	Team_1_Score,-1
+	Team_2_Score,-1
+	Team_1_at_bats,-1
+	Team_2_at_bats,-1
+	Team_1_hits,-1
+	Team_2_hits,-1
+	Team_1_strikes_thrown,-1
+	Team_2_strikes_thrown,-1
+	Team_1_pitches_thrown,-1
+	Team_2_pitches_thrown,-1
+}
+137,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361009120
+	Team_1,Los Angeles Dodgers
+	Team_2,Washington Nationals
+	Date,2016-10-09
+	Team_1_Score,2
+	Team_2_Score,5
+	Team_1_at_bats,34
+	Team_2_at_bats,31
+	Team_1_hits,8
+	Team_2_hits,9
+	Team_1_strikes_thrown,83
+	Team_2_strikes_thrown,97
+	Team_1_pitches_thrown,142
+	Team_2_pitches_thrown,165
+}
+138,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361009114
+	Team_1,Texas Rangers
+	Team_2,Toronto Blue Jays
+	Date,2016-10-09
+	Team_1_Score,6
+	Team_2_Score,7
+	Team_1_at_bats,34
+	Team_2_at_bats,37
+	Team_1_hits,4
+	Team_2_hits,10
+	Team_1_strikes_thrown,94
+	Team_2_strikes_thrown,88
+	Team_1_pitches_thrown,151
+	Team_2_pitches_thrown,138
+}
+139,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361010119
+	Team_1,Washington Nationals
+	Team_2,Los Angeles Dodgers
+	Date,2016-10-10
+	Team_1_Score,8
+	Team_2_Score,3
+	Team_1_at_bats,35
+	Team_2_at_bats,33
+	Team_1_hits,9
+	Team_2_hits,6
+	Team_1_strikes_thrown,96
+	Team_2_strikes_thrown,119
+	Team_1_pitches_thrown,158
+	Team_2_pitches_thrown,194
+}
+140,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361010102
+	Team_1,Cleveland Indians
+	Team_2,Boston Red Sox
+	Date,2016-10-10
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,32
+	Team_2_at_bats,33
+	Team_1_hits,7
+	Team_2_hits,8
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,103
+	Team_1_pitches_thrown,154
+	Team_2_pitches_thrown,160
+}
+141,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361010126
+	Team_1,Chicago Cubs
+	Team_2,San Francisco Giants
+	Date,2016-10-10
+	Team_1_Score,5
+	Team_2_Score,6
+	Team_1_at_bats,49
+	Team_2_at_bats,46
+	Team_1_hits,10
+	Team_2_hits,13
+	Team_1_strikes_thrown,128
+	Team_2_strikes_thrown,141
+	Team_1_pitches_thrown,200
+	Team_2_pitches_thrown,224
+}
+142,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361011119
+	Team_1,Washington Nationals
+	Team_2,Los Angeles Dodgers
+	Date,2016-10-11
+	Team_1_Score,5
+	Team_2_Score,6
+	Team_1_at_bats,34
+	Team_2_at_bats,31
+	Team_1_hits,8
+	Team_2_hits,7
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,101
+	Team_1_pitches_thrown,144
+	Team_2_pitches_thrown,145
+}
+143,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361011126
+	Team_1,Chicago Cubs
+	Team_2,San Francisco Giants
+	Date,2016-10-11
+	Team_1_Score,6
+	Team_2_Score,5
+	Team_1_at_bats,31
+	Team_2_at_bats,34
+	Team_1_hits,6
+	Team_2_hits,11
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,90
+	Team_1_pitches_thrown,148
+	Team_2_pitches_thrown,144
+}
+144,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361013120
+	Team_1,Los Angeles Dodgers
+	Team_2,Washington Nationals
+	Date,2016-10-13
+	Team_1_Score,4
+	Team_2_Score,3
+	Team_1_at_bats,33
+	Team_2_at_bats,32
+	Team_1_hits,8
+	Team_2_hits,7
+	Team_1_strikes_thrown,103
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,174
+	Team_2_pitches_thrown,149
+}
+145,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361014105
+	Team_1,Toronto Blue Jays
+	Team_2,Cleveland Indians
+	Date,2016-10-14
+	Team_1_Score,0
+	Team_2_Score,2
+	Team_1_at_bats,33
+	Team_2_at_bats,27
+	Team_1_hits,7
+	Team_2_hits,6
+	Team_1_strikes_thrown,70
+	Team_2_strikes_thrown,101
+	Team_1_pitches_thrown,101
+	Team_2_pitches_thrown,142
+}
+146,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361015105
+	Team_1,Toronto Blue Jays
+	Team_2,Cleveland Indians
+	Date,2016-10-15
+	Team_1_Score,1
+	Team_2_Score,2
+	Team_1_at_bats,30
+	Team_2_at_bats,28
+	Team_1_hits,3
+	Team_2_hits,4
+	Team_1_strikes_thrown,87
+	Team_2_strikes_thrown,82
+	Team_1_pitches_thrown,136
+	Team_2_pitches_thrown,128
+}
+147,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361015116
+	Team_1,Los Angeles Dodgers
+	Team_2,Chicago Cubs
+	Date,2016-10-15
+	Team_1_Score,4
+	Team_2_Score,8
+	Team_1_at_bats,34
+	Team_2_at_bats,33
+	Team_1_hits,9
+	Team_2_hits,9
+	Team_1_strikes_thrown,84
+	Team_2_strikes_thrown,87
+	Team_1_pitches_thrown,141
+	Team_2_pitches_thrown,138
+}
+148,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361016116
+	Team_1,Los Angeles Dodgers
+	Team_2,Chicago Cubs
+	Date,2016-10-16
+	Team_1_Score,1
+	Team_2_Score,0
+	Team_1_at_bats,27
+	Team_2_at_bats,29
+	Team_1_hits,3
+	Team_2_hits,2
+	Team_1_strikes_thrown,71
+	Team_2_strikes_thrown,80
+	Team_1_pitches_thrown,102
+	Team_2_pitches_thrown,139
+}
+149,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361017114
+	Team_1,Cleveland Indians
+	Team_2,Toronto Blue Jays
+	Date,2016-10-17
+	Team_1_Score,4
+	Team_2_Score,2
+	Team_1_at_bats,33
+	Team_2_at_bats,33
+	Team_1_hits,7
+	Team_2_hits,7
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,149
+	Team_2_pitches_thrown,148
+}
+150,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361018114
+	Team_1,Cleveland Indians
+	Team_2,Toronto Blue Jays
+	Date,2016-10-18
+	Team_1_Score,1
+	Team_2_Score,5
+	Team_1_at_bats,28
+	Team_2_at_bats,32
+	Team_1_hits,2
+	Team_2_hits,9
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,77
+	Team_1_pitches_thrown,148
+	Team_2_pitches_thrown,128
+}
+151,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361018119
+	Team_1,Chicago Cubs
+	Team_2,Los Angeles Dodgers
+	Date,2016-10-18
+	Team_1_Score,0
+	Team_2_Score,6
+	Team_1_at_bats,31
+	Team_2_at_bats,34
+	Team_1_hits,4
+	Team_2_hits,10
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,137
+	Team_2_pitches_thrown,143
+}
+152,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361019114
+	Team_1,Cleveland Indians
+	Team_2,Toronto Blue Jays
+	Date,2016-10-19
+	Team_1_Score,3
+	Team_2_Score,0
+	Team_1_at_bats,33
+	Team_2_at_bats,31
+	Team_1_hits,6
+	Team_2_hits,6
+	Team_1_strikes_thrown,73
+	Team_2_strikes_thrown,83
+	Team_1_pitches_thrown,104
+	Team_2_pitches_thrown,125
+}
+153,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361019119
+	Team_1,Chicago Cubs
+	Team_2,Los Angeles Dodgers
+	Date,2016-10-19
+	Team_1_Score,10
+	Team_2_Score,2
+	Team_1_at_bats,40
+	Team_2_at_bats,31
+	Team_1_hits,13
+	Team_2_hits,6
+	Team_1_strikes_thrown,85
+	Team_2_strikes_thrown,123
+	Team_1_pitches_thrown,149
+	Team_2_pitches_thrown,184
+}
+154,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361020119
+	Team_1,Chicago Cubs
+	Team_2,Los Angeles Dodgers
+	Date,2016-10-20
+	Team_1_Score,8
+	Team_2_Score,4
+	Team_1_at_bats,39
+	Team_2_at_bats,34
+	Team_1_hits,13
+	Team_2_hits,9
+	Team_1_strikes_thrown,89
+	Team_2_strikes_thrown,109
+	Team_1_pitches_thrown,144
+	Team_2_pitches_thrown,183
+}
+155,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361022116
+	Team_1,Los Angeles Dodgers
+	Team_2,Chicago Cubs
+	Date,2016-10-22
+	Team_1_Score,0
+	Team_2_Score,5
+	Team_1_at_bats,26
+	Team_2_at_bats,30
+	Team_1_hits,2
+	Team_2_hits,7
+	Team_1_strikes_thrown,91
+	Team_2_strikes_thrown,67
+	Team_1_pitches_thrown,123
+	Team_2_pitches_thrown,103
+}
+156,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361025105
+	Team_1,Chicago Cubs
+	Team_2,Cleveland Indians
+	Date,2016-10-25
+	Team_1_Score,0
+	Team_2_Score,6
+	Team_1_at_bats,34
+	Team_2_at_bats,33
+	Team_1_hits,7
+	Team_2_hits,10
+	Team_1_strikes_thrown,86
+	Team_2_strikes_thrown,96
+	Team_1_pitches_thrown,146
+	Team_2_pitches_thrown,151
+}
+157,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361026105
+	Team_1,Chicago Cubs
+	Team_2,Cleveland Indians
+	Date,2016-10-26
+	Team_1_Score,5
+	Team_2_Score,1
+	Team_1_at_bats,37
+	Team_2_at_bats,31
+	Team_1_hits,9
+	Team_2_hits,4
+	Team_1_strikes_thrown,96
+	Team_2_strikes_thrown,116
+	Team_1_pitches_thrown,161
+	Team_2_pitches_thrown,196
+}
+158,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361028116
+	Team_1,Cleveland Indians
+	Team_2,Chicago Cubs
+	Date,2016-10-28
+	Team_1_Score,1
+	Team_2_Score,0
+	Team_1_at_bats,29
+	Team_2_at_bats,33
+	Team_1_hits,8
+	Team_2_hits,5
+	Team_1_strikes_thrown,83
+	Team_2_strikes_thrown,87
+	Team_1_pitches_thrown,124
+	Team_2_pitches_thrown,149
+}
+159,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361029116
+	Team_1,Cleveland Indians
+	Team_2,Chicago Cubs
+	Date,2016-10-29
+	Team_1_Score,7
+	Team_2_Score,2
+	Team_1_at_bats,36
+	Team_2_at_bats,33
+	Team_1_hits,10
+	Team_2_hits,7
+	Team_1_strikes_thrown,93
+	Team_2_strikes_thrown,94
+	Team_1_pitches_thrown,123
+	Team_2_pitches_thrown,155
+}
+160,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361030116
+	Team_1,Cleveland Indians
+	Team_2,Chicago Cubs
+	Date,2016-10-30
+	Team_1_Score,2
+	Team_2_Score,3
+	Team_1_at_bats,32
+	Team_2_at_bats,30
+	Team_1_hits,6
+	Team_2_hits,7
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,93
+	Team_1_pitches_thrown,142
+	Team_2_pitches_thrown,142
+}
+161,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361101105
+	Team_1,Chicago Cubs
+	Team_2,Cleveland Indians
+	Date,2016-11-01
+	Team_1_Score,9
+	Team_2_Score,3
+	Team_1_at_bats,39
+	Team_2_at_bats,31
+	Team_1_hits,13
+	Team_2_hits,6
+	Team_1_strikes_thrown,88
+	Team_2_strikes_thrown,98
+	Team_1_pitches_thrown,152
+	Team_2_pitches_thrown,153
+}
+162,10
+{
+Broken,N
+	ESPN Game Link:https://www.espn.com/mlb/boxscore/_/gameId/361102105
+	Team_1,Chicago Cubs
+	Team_2,Cleveland Indians
+	Date,2016-11-02
+	Team_1_Score,8
+	Team_2_Score,7
+	Team_1_at_bats,39
+	Team_2_at_bats,40
+	Team_1_hits,13
+	Team_2_hits,11
+	Team_1_strikes_thrown,104
+	Team_2_strikes_thrown,110
+	Team_1_pitches_thrown,172
+	Team_2_pitches_thrown,171
+}
+163,10
+,0,0
+,0,0
+Chicago White Sox,5,4
+Cleveland Indians,12,8
+Cincinnati Reds,6,4
+Milwaukee Brewers,4,5
+Seattle Mariners,5,5
+Minnesota Twins,5,3
+Los Angeles Angels,6,3
+Houston Astros,4,5
+Philadelphia Phillies,2,7
+New York Mets,6,4
+Atlanta Braves,6,2
+Miami Marlins,3,5
+San Francisco Giants,9,5
+San Diego Padres,4,6
+Colorado Rockies,2,7
+Los Angeles Dodgers,8,13
+New York Yankees,6,3
+Toronto Blue Jays,10,8
+Kansas City Royals,3,2
+Detroit Tigers,2,5
+Arizona Diamondbacks,6,3
+Baltimore Orioles,5,4
+Washington Nationals,8,6
+Pittsburgh Pirates,1,8
+St. Louis Cardinals,6,3
+Chicago Cubs,17,9
+Texas Rangers,3,7
+Tampa Bay Rays,4,4
+Oakland Athletics,3,5
+Boston Red Sox,1,9
+*****
+163,10
