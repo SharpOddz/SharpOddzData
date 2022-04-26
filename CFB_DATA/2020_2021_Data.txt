@@ -8,8 +8,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401238035
 	Game_Date,1/2020
-	Team_1,Central Arkansas Bears
-	Team_2,Uab Blazers
+	Team_1,Central Arkansas 
+	Team_2,UAB 
 	Team_1_Score,35
 	Team_2_Score,45
 	Team_1_First_Downs,20
@@ -46,8 +46,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207101
 	Game_Date,1/2020
-	Team_1,South Alabama Jaguars
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,South Alabama 
+	Team_2,Southern Mississippi 
 	Team_1_Score,32
 	Team_2_Score,21
 	Team_1_First_Downs,23
@@ -96,8 +96,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237353
 	Game_Date,1/2020
-	Team_1,Eastern Kentucky Colonels
-	Team_2,Marshall Thundering Herd
+	Team_1,Eastern Kentucky 
+	Team_2,Marshall 
 	Team_1_Score,0
 	Team_2_Score,59
 	Team_1_First_Downs,7
@@ -134,8 +134,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235700
 	Game_Date,1/2020
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Army Black Knights
+	Team_1,Middle Tennessee 
+	Team_2,Army 
 	Team_1_Score,0
 	Team_2_Score,42
 	Team_1_First_Downs,13
@@ -172,8 +172,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212484
 	Game_Date,1/2020
-	Team_1,Smu Mustangs
-	Team_2,Texas State Bobcats
+	Team_1,SMU 
+	Team_2,Texas State 
 	Team_1_Score,31
 	Team_2_Score,24
 	Team_1_First_Downs,26
@@ -210,8 +210,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207098
 	Game_Date,1/2020
-	Team_1,Houston Baptist Huskies
-	Team_2,North Texas Mean Green
+	Team_1,Houston Baptist 
+	Team_2,North Texas 
 	Team_1_Score,31
 	Team_2_Score,57
 	Team_1_First_Downs,28
@@ -248,8 +248,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212553
 	Game_Date,1/2020
-	Team_1,Arkansas State Red Wolves
-	Team_2,Memphis Tigers
+	Team_1,Arkansas State 
+	Team_2,Memphis 
 	Team_1_Score,24
 	Team_2_Score,37
 	Team_1_First_Downs,25
@@ -286,8 +286,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401239884
 	Game_Date,1/2020
-	Team_1,Stephen F Austin Lumberjacks
-	Team_2,Utep Miners
+	Team_1,Stephen F. Austin 
+	Team_2,UTEP 
 	Team_1_Score,14
 	Team_2_Score,24
 	Team_1_First_Downs,14
@@ -324,8 +324,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234576
 	Game_Date,1/2020
-	Team_1,Byu Cougars
-	Team_2,Navy Midshipmen
+	Team_1,BYU 
+	Team_2,Navy 
 	Team_1_Score,55
 	Team_2_Score,3
 	Team_1_First_Downs,28
@@ -362,8 +362,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234559
 	Game_Date,2/2020
-	Team_1,Uab Blazers
-	Team_2,Miami Hurricanes
+	Team_1,UAB 
+	Team_2,Miami 
 	Team_1_Score,14
 	Team_2_Score,31
 	Team_1_First_Downs,14
@@ -406,8 +406,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234562
 	Game_Date,2/2020
-	Team_1,Clemson Tigers
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Clemson 
+	Team_2,Wake Forest 
 	Team_1_Score,37
 	Team_2_Score,13
 	Team_1_First_Downs,27
@@ -444,8 +444,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236054
 	Game_Date,2/2020
-	Team_1,Missouri State Bears
-	Team_2,Oklahoma Sooners
+	Team_1,Missouri State 
+	Team_2,Oklahoma 
 	Team_1_Score,0
 	Team_2_Score,48
 	Team_1_First_Downs,7
@@ -482,8 +482,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234574
 	Game_Date,2/2020
-	Team_1,Duke Blue Devils
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Duke 
+	Team_2,Notre Dame 
 	Team_1_Score,13
 	Team_2_Score,27
 	Team_1_First_Downs,18
@@ -520,8 +520,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236222
 	Game_Date,2/2020
-	Team_1,Utep Miners
-	Team_2,Texas Longhorns
+	Team_1,UTEP 
+	Team_2,Texas 
 	Team_1_Score,3
 	Team_2_Score,59
 	Team_1_First_Downs,14
@@ -558,8 +558,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234565
 	Game_Date,2/2020
-	Team_1,Syracuse Orange
-	Team_2,North Carolina Tar Heels
+	Team_1,Syracuse 
+	Team_2,North Carolina 
 	Team_1_Score,6
 	Team_2_Score,31
 	Team_1_First_Downs,15
@@ -596,8 +596,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236221
 	Game_Date,2/2020
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Iowa State Cyclones
+	Team_1,Louisiana 
+	Team_2,Iowa State 
 	Team_1_Score,31
 	Team_2_Score,14
 	Team_1_First_Downs,14
@@ -634,8 +634,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236038
 	Game_Date,2/2020
-	Team_1,Eastern Kentucky Colonels
-	Team_2,West Virginia Mountaineers
+	Team_1,Eastern Kentucky 
+	Team_2,West Virginia 
 	Team_1_Score,10
 	Team_2_Score,56
 	Team_1_First_Downs,9
@@ -672,8 +672,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236053
 	Game_Date,2/2020
-	Team_1,Arkansas State Red Wolves
-	Team_2,Kansas State Wildcats
+	Team_1,Arkansas State 
+	Team_2,Kansas State 
 	Team_1_Score,35
 	Team_2_Score,31
 	Team_1_First_Downs,26
@@ -710,8 +710,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236081
 	Game_Date,2/2020
-	Team_1,Charlotte 49ers
-	Team_2,Appalachian State Mountaineers
+	Team_1,Charlotte 
+	Team_2,Appalachian State 
 	Team_1_Score,20
 	Team_2_Score,35
 	Team_1_First_Downs,16
@@ -748,8 +748,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240113
 	Game_Date,2/2020
-	Team_1,Ul Monroe Warhawks
-	Team_2,Army Black Knights
+	Team_1,UL Monroe 
+	Team_2,Army 
 	Team_1_Score,7
 	Team_2_Score,37
 	Team_1_First_Downs,9
@@ -786,8 +786,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207113
 	Game_Date,2/2020
-	Team_1,Utsa Roadrunners
-	Team_2,Texas State Bobcats
+	Team_1,UTSA 
+	Team_2,Texas State 
 	Team_1_Score,51
 	Team_2_Score,48
 	Team_1_First_Downs,24
@@ -824,8 +824,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234563
 	Game_Date,2/2020
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Florida State Seminoles
+	Team_1,Georgia Tech 
+	Team_2,Florida State 
 	Team_1_Score,16
 	Team_2_Score,13
 	Team_1_First_Downs,24
@@ -862,8 +862,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215298
 	Game_Date,2/2020
-	Team_1,Campbell Fighting Camels
-	Team_2,Georgia Southern Eagles
+	Team_1,Campbell 
+	Team_2,Georgia Southern 
 	Team_1_Score,26
 	Team_2_Score,27
 	Team_1_First_Downs,17
@@ -900,8 +900,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240039
 	Game_Date,2/2020
-	Team_1,The Citadel Bulldogs
-	Team_2,South Florida Bulls
+	Team_1,The Citadel 
+	Team_2,South Florida 
 	Team_1_Score,6
 	Team_2_Score,27
 	Team_1_First_Downs,16
@@ -938,8 +938,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401239973
 	Game_Date,2/2020
-	Team_1,Tulane Green Wave
-	Team_2,South Alabama Jaguars
+	Team_1,Tulane 
+	Team_2,South Alabama 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,22
@@ -976,8 +976,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234564
 	Game_Date,2/2020
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Louisville Cardinals
+	Team_1,Western Kentucky 
+	Team_2,Louisville 
 	Team_1_Score,21
 	Team_2_Score,35
 	Team_1_First_Downs,12
@@ -1014,8 +1014,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236039
 	Game_Date,2/2020
-	Team_1,Houston Baptist Huskies
-	Team_2,Texas Tech Red Raiders
+	Team_1,Houston Baptist 
+	Team_2,Texas Tech 
 	Team_1_Score,33
 	Team_2_Score,35
 	Team_1_First_Downs,28
@@ -1052,8 +1052,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236658
 	Game_Date,2/2020
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Kansas Jayhawks
+	Team_1,Coastal Carolina 
+	Team_2,Kansas 
 	Team_1_Score,38
 	Team_2_Score,23
 	Team_1_First_Downs,19
@@ -1090,8 +1090,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240233
 	Game_Date,2/2020
-	Team_1,Austin Peay Governors
-	Team_2,Pittsburgh Panthers
+	Team_1,Austin Peay 
+	Team_2,Pittsburgh 
 	Team_1_Score,0
 	Team_2_Score,55
 	Team_1_First_Downs,7
@@ -1146,8 +1146,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240126
 	Game_Date,3/2020
-	Team_1,Campbell Fighting Camels
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,Campbell 
+	Team_2,Coastal Carolina 
 	Team_1_Score,21
 	Team_2_Score,43
 	Team_1_First_Downs,22
@@ -1184,8 +1184,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237492
 	Game_Date,3/2020
-	Team_1,The Citadel Bulldogs
-	Team_2,Clemson Tigers
+	Team_1,The Citadel 
+	Team_2,Clemson 
 	Team_1_Score,0
 	Team_2_Score,49
 	Team_1_First_Downs,8
@@ -1222,8 +1222,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401241282
 	Game_Date,3/2020
-	Team_1,South Florida Bulls
-	Team_2,Notre Dame Fighting Irish
+	Team_1,South Florida 
+	Team_2,Notre Dame 
 	Team_1_Score,0
 	Team_2_Score,52
 	Team_1_First_Downs,11
@@ -1260,8 +1260,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236041
 	Game_Date,3/2020
-	Team_1,Tulsa Golden Hurricane
-	Team_2,Oklahoma State Cowboys
+	Team_1,Tulsa 
+	Team_2,Oklahoma State 
 	Team_1_Score,7
 	Team_2_Score,16
 	Team_1_First_Downs,15
@@ -1298,8 +1298,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212541
 	Game_Date,3/2020
-	Team_1,Austin Peay Governors
-	Team_2,Cincinnati Bearcats
+	Team_1,Austin Peay 
+	Team_2,Cincinnati 
 	Team_1_Score,20
 	Team_2_Score,55
 	Team_1_First_Downs,18
@@ -1336,8 +1336,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234568
 	Game_Date,3/2020
-	Team_1,Ucf Knights
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,UCF 
+	Team_2,Georgia Tech 
 	Team_1_Score,49
 	Team_2_Score,21
 	Team_1_First_Downs,31
@@ -1374,8 +1374,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234569
 	Game_Date,3/2020
-	Team_1,Miami Hurricanes
-	Team_2,Louisville Cardinals
+	Team_1,Miami 
+	Team_2,Louisville 
 	Team_1_Score,47
 	Team_2_Score,34
 	Team_1_First_Downs,19
@@ -1412,8 +1412,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215301
 	Game_Date,3/2020
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Georgia State Panthers
+	Team_1,Louisiana 
+	Team_2,Georgia State 
 	Team_1_Score,34
 	Team_2_Score,31
 	Team_1_First_Downs,23
@@ -1450,8 +1450,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236939
 	Game_Date,3/2020
-	Team_1,Appalachian State Mountaineers
-	Team_2,Marshall Thundering Herd
+	Team_1,Appalachian State 
+	Team_2,Marshall 
 	Team_1_Score,7
 	Team_2_Score,17
 	Team_1_First_Downs,26
@@ -1488,8 +1488,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234571
 	Game_Date,3/2020
-	Team_1,Syracuse Orange
-	Team_2,Pittsburgh Panthers
+	Team_1,Syracuse 
+	Team_2,Pittsburgh 
 	Team_1_Score,10
 	Team_2_Score,21
 	Team_1_First_Downs,10
@@ -1526,8 +1526,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207124
 	Game_Date,3/2020
-	Team_1,Liberty Flames
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,Liberty 
+	Team_2,Western Kentucky 
 	Team_1_Score,30
 	Team_2_Score,24
 	Team_1_First_Downs,27
@@ -1564,8 +1564,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212522
 	Game_Date,3/2020
-	Team_1,Navy Midshipmen
-	Team_2,Tulane Green Wave
+	Team_1,Navy 
+	Team_2,Tulane 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,17
@@ -1602,8 +1602,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234567
 	Game_Date,3/2020
-	Team_1,Boston College Eagles
-	Team_2,Duke Blue Devils
+	Team_1,Boston College 
+	Team_2,Duke 
 	Team_1_Score,26
 	Team_2_Score,6
 	Team_1_First_Downs,20
@@ -1640,8 +1640,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240041
 	Game_Date,3/2020
-	Team_1,Stephen F Austin Lumberjacks
-	Team_2,Utsa Roadrunners
+	Team_1,Stephen F. Austin 
+	Team_2,UTSA 
 	Team_1_Score,10
 	Team_2_Score,24
 	Team_1_First_Downs,15
@@ -1678,8 +1678,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240640
 	Game_Date,3/2020
-	Team_1,Troy Trojans
-	Team_2,Middle Tennessee Blue Raiders
+	Team_1,Troy 
+	Team_2,Middle Tennessee 
 	Team_1_Score,47
 	Team_2_Score,14
 	Team_1_First_Downs,30
@@ -1716,8 +1716,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207120
 	Game_Date,3/2020
-	Team_1,Smu Mustangs
-	Team_2,North Texas Mean Green
+	Team_1,SMU 
+	Team_2,North Texas 
 	Team_1_Score,65
 	Team_2_Score,35
 	Team_1_First_Downs,33
@@ -1754,8 +1754,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207106
 	Game_Date,3/2020
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,Louisiana Tech 
+	Team_2,Southern Mississippi 
 	Team_1_Score,31
 	Team_2_Score,30
 	Team_1_First_Downs,26
@@ -1792,8 +1792,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215302
 	Game_Date,3/2020
-	Team_1,Texas State Bobcats
-	Team_2,Ul Monroe Warhawks
+	Team_1,Texas State 
+	Team_2,UL Monroe 
 	Team_1_Score,38
 	Team_2_Score,17
 	Team_1_First_Downs,20
@@ -1830,8 +1830,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234570
 	Game_Date,3/2020
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Nc State Wolfpack
+	Team_1,Wake Forest 
+	Team_2,NC State 
 	Team_1_Score,42
 	Team_2_Score,45
 	Team_1_First_Downs,32
@@ -1868,8 +1868,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401239885
 	Game_Date,3/2020
-	Team_1,Abilene Christian Wildcats
-	Team_2,Utep Miners
+	Team_1,Abilene Christian 
+	Team_2,UTEP 
 	Team_1_Score,13
 	Team_2_Score,17
 	Team_1_First_Downs,15
@@ -1936,8 +1936,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207132
 	Game_Date,4/2020
-	Team_1,Uab Blazers
-	Team_2,South Alabama Jaguars
+	Team_1,UAB 
+	Team_2,South Alabama 
 	Team_1_Score,42
 	Team_2_Score,10
 	Team_1_First_Downs,22
@@ -1974,8 +1974,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207134
 	Game_Date,4/2020
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Utsa Roadrunners
+	Team_1,Middle Tennessee 
+	Team_2,UTSA 
 	Team_1_Score,35
 	Team_2_Score,37
 	Team_1_First_Downs,27
@@ -2012,8 +2012,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236951
 	Game_Date,4/2020
-	Team_1,Alabama Crimson Tide
-	Team_2,Missouri Tigers
+	Team_1,Alabama 
+	Team_2,Missouri 
 	Team_1_Score,38
 	Team_2_Score,19
 	Team_1_First_Downs,22
@@ -2050,8 +2050,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235996
 	Game_Date,4/2020
-	Team_1,Kansas State Wildcats
-	Team_2,Oklahoma Sooners
+	Team_1,Kansas State 
+	Team_2,Oklahoma 
 	Team_1_Score,38
 	Team_2_Score,35
 	Team_1_First_Downs,10
@@ -2088,8 +2088,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237033
 	Game_Date,4/2020
-	Team_1,Georgia Bulldogs
-	Team_2,Arkansas Razorbacks
+	Team_1,Georgia 
+	Team_2,Arkansas 
 	Team_1_Score,37
 	Team_2_Score,10
 	Team_1_First_Downs,19
@@ -2126,8 +2126,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236952
 	Game_Date,4/2020
-	Team_1,Florida Gators
-	Team_2,Ole Miss Rebels
+	Team_1,Florida 
+	Team_2,Ole Miss 
 	Team_1_Score,51
 	Team_2_Score,35
 	Team_1_First_Downs,32
@@ -2164,8 +2164,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237035
 	Game_Date,4/2020
-	Team_1,Mississippi State Bulldogs
-	Team_2,Lsu Tigers
+	Team_1,Mississippi State 
+	Team_2,LSU 
 	Team_1_Score,44
 	Team_2_Score,34
 	Team_1_First_Downs,24
@@ -2202,8 +2202,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237034
 	Game_Date,4/2020
-	Team_1,Kentucky Wildcats
-	Team_2,Auburn Tigers
+	Team_1,Kentucky 
+	Team_2,Auburn 
 	Team_1_Score,13
 	Team_2_Score,29
 	Team_1_First_Downs,21
@@ -2240,8 +2240,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235995
 	Game_Date,4/2020
-	Team_1,Texas Longhorns
-	Team_2,Texas Tech Red Raiders
+	Team_1,Texas 
+	Team_2,Texas Tech 
 	Team_1_Score,63
 	Team_2_Score,56
 	Team_1_First_Downs,27
@@ -2278,8 +2278,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237037
 	Game_Date,4/2020
-	Team_1,Vanderbilt Commodores
-	Team_2,Texas Am Aggies
+	Team_1,Vanderbilt 
+	Team_2,Texas A&M 
 	Team_1_Score,12
 	Team_2_Score,17
 	Team_1_First_Downs,17
@@ -2316,8 +2316,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234593
 	Game_Date,4/2020
-	Team_1,Florida State Seminoles
-	Team_2,Miami Hurricanes
+	Team_1,Florida State 
+	Team_2,Miami 
 	Team_1_Score,10
 	Team_2_Score,52
 	Team_1_First_Downs,23
@@ -2354,8 +2354,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212536
 	Game_Date,4/2020
-	Team_1,Ucf Knights
-	Team_2,East Carolina Pirates
+	Team_1,UCF 
+	Team_2,East Carolina 
 	Team_1_Score,51
 	Team_2_Score,28
 	Team_1_First_Downs,29
@@ -2392,8 +2392,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240996
 	Game_Date,4/2020
-	Team_1,Army Black Knights
-	Team_2,Cincinnati Bearcats
+	Team_1,Army 
+	Team_2,Cincinnati 
 	Team_1_Score,10
 	Team_2_Score,24
 	Team_1_First_Downs,18
@@ -2430,8 +2430,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235997
 	Game_Date,4/2020
-	Team_1,West Virginia Mountaineers
-	Team_2,Oklahoma State Cowboys
+	Team_1,West Virginia 
+	Team_2,Oklahoma State 
 	Team_1_Score,13
 	Team_2_Score,27
 	Team_1_First_Downs,22
@@ -2468,8 +2468,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237036
 	Game_Date,4/2020
-	Team_1,Tennessee Volunteers
-	Team_2,South Carolina Gamecocks
+	Team_1,Tennessee 
+	Team_2,South Carolina 
 	Team_1_Score,31
 	Team_2_Score,27
 	Team_1_First_Downs,21
@@ -2506,8 +2506,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236223
 	Game_Date,4/2020
-	Team_1,Troy Trojans
-	Team_2,Byu Cougars
+	Team_1,Troy 
+	Team_2,BYU 
 	Team_1_Score,7
 	Team_2_Score,48
 	Team_1_First_Downs,8
@@ -2544,8 +2544,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215303
 	Game_Date,4/2020
-	Team_1,Georgia Southern Eagles
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Georgia Southern 
+	Team_2,Louisiana 
 	Team_1_Score,18
 	Team_2_Score,20
 	Team_1_First_Downs,21
@@ -2582,8 +2582,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234566
 	Game_Date,4/2020
-	Team_1,Nc State Wolfpack
-	Team_2,Virginia Tech Hokies
+	Team_1,NC State 
+	Team_2,Virginia Tech 
 	Team_1_Score,24
 	Team_2_Score,45
 	Team_1_First_Downs,19
@@ -2620,8 +2620,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234595
 	Game_Date,4/2020
-	Team_1,Louisville Cardinals
-	Team_2,Pittsburgh Panthers
+	Team_1,Louisville 
+	Team_2,Pittsburgh 
 	Team_1_Score,20
 	Team_2_Score,23
 	Team_1_First_Downs,10
@@ -2658,8 +2658,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234594
 	Game_Date,4/2020
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Syracuse Orange
+	Team_1,Georgia Tech 
+	Team_2,Syracuse 
 	Team_1_Score,20
 	Team_2_Score,37
 	Team_1_First_Downs,23
@@ -2696,8 +2696,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236253
 	Game_Date,4/2020
-	Team_1,Campbell Fighting Camels
-	Team_2,Appalachian State Mountaineers
+	Team_1,Campbell 
+	Team_2,Appalachian State 
 	Team_1_Score,21
 	Team_2_Score,52
 	Team_1_First_Downs,15
@@ -2734,8 +2734,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207126
 	Game_Date,4/2020
-	Team_1,Florida International Panthers
-	Team_2,Liberty Flames
+	Team_1,Florida International 
+	Team_2,Liberty 
 	Team_1_Score,34
 	Team_2_Score,36
 	Team_1_First_Downs,16
@@ -2772,8 +2772,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235994
 	Game_Date,4/2020
-	Team_1,Iowa State Cyclones
-	Team_2,Tcu Horned Frogs
+	Team_1,Iowa State 
+	Team_2,TCU 
 	Team_1_Score,37
 	Team_2_Score,34
 	Team_1_First_Downs,14
@@ -2810,8 +2810,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234734
 	Game_Date,4/2020
-	Team_1,Tulane Green Wave
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,Tulane 
+	Team_2,Southern Mississippi 
 	Team_1_Score,66
 	Team_2_Score,24
 	Team_1_First_Downs,27
@@ -2848,8 +2848,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240194
 	Game_Date,4/2020
-	Team_1,Utep Miners
-	Team_2,Ul Monroe Warhawks
+	Team_1,UTEP 
+	Team_2,UL Monroe 
 	Team_1_Score,31
 	Team_2_Score,6
 	Team_1_First_Downs,21
@@ -2886,8 +2886,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234638
 	Game_Date,4/2020
-	Team_1,Duke Blue Devils
-	Team_2,Virginia Cavaliers
+	Team_1,Duke 
+	Team_2,Virginia 
 	Team_1_Score,20
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -2924,8 +2924,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401241303
 	Game_Date,4/2020
-	Team_1,Texas State Bobcats
-	Team_2,Boston College Eagles
+	Team_1,Texas State 
+	Team_2,Boston College 
 	Team_1_Score,21
 	Team_2_Score,24
 	Team_1_First_Downs,21
@@ -2962,8 +2962,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212485
 	Game_Date,4/2020
-	Team_1,Stephen F Austin Lumberjacks
-	Team_2,Smu Mustangs
+	Team_1,Stephen F. Austin 
+	Team_2,SMU 
 	Team_1_Score,7
 	Team_2_Score,50
 	Team_1_First_Downs,14
@@ -3000,8 +3000,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401232157
 	Game_Date,4/2020
-	Team_1,Houston Baptist Huskies
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,Houston Baptist 
+	Team_2,Louisiana Tech 
 	Team_1_Score,38
 	Team_2_Score,66
 	Team_1_First_Downs,26
@@ -3038,8 +3038,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235993
 	Game_Date,4/2020
-	Team_1,Kansas Jayhawks
-	Team_2,Baylor Bears
+	Team_1,Kansas 
+	Team_2,Baylor 
 	Team_1_Score,14
 	Team_2_Score,47
 	Team_1_First_Downs,20
@@ -3106,8 +3106,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401246275
 	Game_Date,5/2020
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Byu Cougars
+	Team_1,Louisiana Tech 
+	Team_2,BYU 
 	Team_1_Score,14
 	Team_2_Score,45
 	Team_1_First_Downs,18
@@ -3144,8 +3144,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240282
 	Game_Date,5/2020
-	Team_1,Campbell Fighting Camels
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Campbell 
+	Team_2,Wake Forest 
 	Team_1_Score,14
 	Team_2_Score,66
 	Team_1_First_Downs,22
@@ -3182,8 +3182,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234598
 	Game_Date,5/2020
-	Team_1,Virginia Cavaliers
-	Team_2,Clemson Tigers
+	Team_1,Virginia 
+	Team_2,Clemson 
 	Team_1_Score,23
 	Team_2_Score,41
 	Team_1_First_Downs,25
@@ -3220,8 +3220,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237093
 	Game_Date,5/2020
-	Team_1,Texas Am Aggies
-	Team_2,Alabama Crimson Tide
+	Team_1,Texas A&M 
+	Team_2,Alabama 
 	Team_1_Score,24
 	Team_2_Score,52
 	Team_1_First_Downs,25
@@ -3258,8 +3258,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237096
 	Game_Date,5/2020
-	Team_1,South Carolina Gamecocks
-	Team_2,Florida Gators
+	Team_1,South Carolina 
+	Team_2,Florida 
 	Team_1_Score,24
 	Team_2_Score,38
 	Team_1_First_Downs,25
@@ -3296,8 +3296,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237095
 	Game_Date,5/2020
-	Team_1,Auburn Tigers
-	Team_2,Georgia Bulldogs
+	Team_1,Auburn 
+	Team_2,Georgia 
 	Team_1_Score,6
 	Team_2_Score,27
 	Team_1_First_Downs,15
@@ -3334,8 +3334,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236002
 	Game_Date,5/2020
-	Team_1,Tcu Horned Frogs
-	Team_2,Texas Longhorns
+	Team_1,TCU 
+	Team_2,Texas 
 	Team_1_Score,33
 	Team_2_Score,31
 	Team_1_First_Downs,25
@@ -3372,8 +3372,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212531
 	Game_Date,5/2020
-	Team_1,Tulsa Golden Hurricane
-	Team_2,Ucf Knights
+	Team_1,Tulsa 
+	Team_2,UCF 
 	Team_1_Score,34
 	Team_2_Score,26
 	Team_1_First_Downs,21
@@ -3410,8 +3410,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234597
 	Game_Date,5/2020
-	Team_1,North Carolina Tar Heels
-	Team_2,Boston College Eagles
+	Team_1,North Carolina 
+	Team_2,Boston College 
 	Team_1_Score,26
 	Team_2_Score,22
 	Team_1_First_Downs,24
@@ -3448,8 +3448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212476
 	Game_Date,5/2020
-	Team_1,South Florida Bulls
-	Team_2,Cincinnati Bearcats
+	Team_1,South Florida 
+	Team_2,Cincinnati 
 	Team_1_Score,7
 	Team_2_Score,28
 	Team_1_First_Downs,19
@@ -3486,8 +3486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237094
 	Game_Date,5/2020
-	Team_1,Arkansas Razorbacks
-	Team_2,Mississippi State Bulldogs
+	Team_1,Arkansas 
+	Team_2,Mississippi State 
 	Team_1_Score,21
 	Team_2_Score,14
 	Team_1_First_Downs,17
@@ -3524,8 +3524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236000
 	Game_Date,5/2020
-	Team_1,Oklahoma State Cowboys
-	Team_2,Kansas Jayhawks
+	Team_1,Oklahoma State 
+	Team_2,Kansas 
 	Team_1_Score,47
 	Team_2_Score,7
 	Team_1_First_Downs,31
@@ -3562,8 +3562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235999
 	Game_Date,5/2020
-	Team_1,Oklahoma Sooners
-	Team_2,Iowa State Cyclones
+	Team_1,Oklahoma 
+	Team_2,Iowa State 
 	Team_1_Score,30
 	Team_2_Score,37
 	Team_1_First_Downs,22
@@ -3600,8 +3600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237098
 	Game_Date,5/2020
-	Team_1,Lsu Tigers
-	Team_2,Vanderbilt Commodores
+	Team_1,LSU 
+	Team_2,Vanderbilt 
 	Team_1_Score,41
 	Team_2_Score,7
 	Team_1_First_Downs,28
@@ -3638,8 +3638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237099
 	Game_Date,5/2020
-	Team_1,Missouri Tigers
-	Team_2,Tennessee Volunteers
+	Team_1,Missouri 
+	Team_2,Tennessee 
 	Team_1_Score,12
 	Team_2_Score,35
 	Team_1_First_Downs,15
@@ -3676,8 +3676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234600
 	Game_Date,5/2020
-	Team_1,Nc State Wolfpack
-	Team_2,Pittsburgh Panthers
+	Team_1,NC State 
+	Team_2,Pittsburgh 
 	Team_1_Score,30
 	Team_2_Score,29
 	Team_1_First_Downs,28
@@ -3714,8 +3714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212486
 	Game_Date,5/2020
-	Team_1,Memphis Tigers
-	Team_2,Smu Mustangs
+	Team_1,Memphis 
+	Team_2,SMU 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,26
@@ -3752,8 +3752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212547
 	Game_Date,5/2020
-	Team_1,East Carolina Pirates
-	Team_2,Georgia State Panthers
+	Team_1,East Carolina 
+	Team_2,Georgia State 
 	Team_1_Score,29
 	Team_2_Score,49
 	Team_1_First_Downs,19
@@ -3790,8 +3790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215304
 	Game_Date,5/2020
-	Team_1,Arkansas State Red Wolves
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,Arkansas State 
+	Team_2,Coastal Carolina 
 	Team_1_Score,23
 	Team_2_Score,52
 	Team_1_First_Downs,15
@@ -3828,8 +3828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235998
 	Game_Date,5/2020
-	Team_1,Baylor Bears
-	Team_2,West Virginia Mountaineers
+	Team_1,Baylor 
+	Team_2,West Virginia 
 	Team_1_Score,21
 	Team_2_Score,27
 	Team_1_First_Downs,15
@@ -3866,8 +3866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207141
 	Game_Date,5/2020
-	Team_1,Utsa Roadrunners
-	Team_2,Uab Blazers
+	Team_1,UTSA 
+	Team_2,UAB 
 	Team_1_Score,13
 	Team_2_Score,21
 	Team_1_First_Downs,17
@@ -3904,8 +3904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237513
 	Game_Date,5/2020
-	Team_1,North Alabama Lions
-	Team_2,Liberty Flames
+	Team_1,North Alabama 
+	Team_2,Liberty 
 	Team_1_Score,7
 	Team_2_Score,28
 	Team_1_First_Downs,14
@@ -3942,8 +3942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240040
 	Game_Date,5/2020
-	Team_1,Abilene Christian Wildcats
-	Team_2,Army Black Knights
+	Team_1,Abilene Christian 
+	Team_2,Army 
 	Team_1_Score,23
 	Team_2_Score,55
 	Team_1_First_Downs,19
@@ -3980,8 +3980,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236001
 	Game_Date,5/2020
-	Team_1,Texas Tech Red Raiders
-	Team_2,Kansas State Wildcats
+	Team_1,Texas Tech 
+	Team_2,Kansas State 
 	Team_1_Score,21
 	Team_2_Score,31
 	Team_1_First_Downs,27
@@ -4018,8 +4018,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207136
 	Game_Date,5/2020
-	Team_1,Charlotte 49ers
-	Team_2,Florida Atlantic Owls
+	Team_1,Charlotte 
+	Team_2,Florida Atlantic 
 	Team_1_Score,17
 	Team_2_Score,21
 	Team_1_First_Downs,22
@@ -4056,8 +4056,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234599
 	Game_Date,5/2020
-	Team_1,Virginia Tech Hokies
-	Team_2,Duke Blue Devils
+	Team_1,Virginia Tech 
+	Team_2,Duke 
 	Team_1_Score,38
 	Team_2_Score,31
 	Team_1_First_Downs,25
@@ -4094,8 +4094,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237097
 	Game_Date,5/2020
-	Team_1,Ole Miss Rebels
-	Team_2,Kentucky Wildcats
+	Team_1,Ole Miss 
+	Team_2,Kentucky 
 	Team_1_Score,42
 	Team_2_Score,41
 	Team_1_First_Downs,26
@@ -4132,8 +4132,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401238034
 	Game_Date,5/2020
-	Team_1,Jacksonville State Gamecocks
-	Team_2,Florida State Seminoles
+	Team_1,Jacksonville State 
+	Team_2,Florida State 
 	Team_1_Score,24
 	Team_2_Score,41
 	Team_1_First_Downs,18
@@ -4170,8 +4170,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207138
 	Game_Date,5/2020
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Middle Tennessee Blue Raiders
+	Team_1,Western Kentucky 
+	Team_2,Middle Tennessee 
 	Team_1_Score,20
 	Team_2_Score,17
 	Team_1_First_Downs,21
@@ -4208,8 +4208,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212557
 	Game_Date,5/2020
-	Team_1,Navy Midshipmen
-	Team_2,Air Force Falcons
+	Team_1,Navy 
+	Team_2,Air Force 
 	Team_1_Score,7
 	Team_2_Score,40
 	Team_1_First_Downs,10
@@ -4246,8 +4246,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215305
 	Game_Date,5/2020
-	Team_1,Georgia Southern Eagles
-	Team_2,Ul Monroe Warhawks
+	Team_1,Georgia Southern 
+	Team_2,UL Monroe 
 	Team_1_Score,35
 	Team_2_Score,30
 	Team_1_First_Downs,19
@@ -4284,8 +4284,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207139
 	Game_Date,5/2020
-	Team_1,Southern Mississippi Golden Eagles
-	Team_2,North Texas Mean Green
+	Team_1,Southern Mississippi 
+	Team_2,North Texas 
 	Team_1_Score,41
 	Team_2_Score,31
 	Team_1_First_Downs,22
@@ -4334,8 +4334,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212523
 	Game_Date,6/2020
-	Team_1,Tulane Green Wave
-	Team_2,Houston Cougars
+	Team_1,Tulane 
+	Team_2,Houston 
 	Team_1_Score,31
 	Team_2_Score,49
 	Team_1_First_Downs,16
@@ -4372,8 +4372,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234601
 	Game_Date,6/2020
-	Team_1,Louisville Cardinals
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Louisville 
+	Team_2,Georgia Tech 
 	Team_1_Score,27
 	Team_2_Score,46
 	Team_1_First_Downs,24
@@ -4410,8 +4410,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234604
 	Game_Date,6/2020
-	Team_1,Miami Hurricanes
-	Team_2,Clemson Tigers
+	Team_1,Miami 
+	Team_2,Clemson 
 	Team_1_Score,17
 	Team_2_Score,42
 	Team_1_First_Downs,9
@@ -4448,8 +4448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237100
 	Game_Date,6/2020
-	Team_1,Alabama Crimson Tide
-	Team_2,Ole Miss Rebels
+	Team_1,Alabama 
+	Team_2,Ole Miss 
 	Team_1_Score,63
 	Team_2_Score,48
 	Team_1_First_Downs,37
@@ -4486,8 +4486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237103
 	Game_Date,6/2020
-	Team_1,Tennessee Volunteers
-	Team_2,Georgia Bulldogs
+	Team_1,Tennessee 
+	Team_2,Georgia 
 	Team_1_Score,21
 	Team_2_Score,44
 	Team_1_First_Downs,13
@@ -4524,8 +4524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237102
 	Game_Date,6/2020
-	Team_1,Florida Gators
-	Team_2,Texas Am Aggies
+	Team_1,Florida 
+	Team_2,Texas A&M 
 	Team_1_Score,38
 	Team_2_Score,41
 	Team_1_First_Downs,22
@@ -4562,8 +4562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234606
 	Game_Date,6/2020
-	Team_1,Florida State Seminoles
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Florida State 
+	Team_2,Notre Dame 
 	Team_1_Score,26
 	Team_2_Score,42
 	Team_1_First_Downs,18
@@ -4600,8 +4600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234607
 	Game_Date,6/2020
-	Team_1,Virginia Tech Hokies
-	Team_2,North Carolina Tar Heels
+	Team_1,Virginia Tech 
+	Team_2,North Carolina 
 	Team_1_Score,45
 	Team_2_Score,56
 	Team_1_First_Downs,25
@@ -4638,8 +4638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237101
 	Game_Date,6/2020
-	Team_1,Arkansas Razorbacks
-	Team_2,Auburn Tigers
+	Team_1,Arkansas 
+	Team_2,Auburn 
 	Team_1_Score,28
 	Team_2_Score,30
 	Team_1_First_Downs,22
@@ -4676,8 +4676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240997
 	Game_Date,6/2020
-	Team_1,Utsa Roadrunners
-	Team_2,Byu Cougars
+	Team_1,UTSA 
+	Team_2,BYU 
 	Team_1_Score,20
 	Team_2_Score,27
 	Team_1_First_Downs,17
@@ -4714,8 +4714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236005
 	Game_Date,6/2020
-	Team_1,Texas Longhorns
-	Team_2,Oklahoma Sooners
+	Team_1,Texas 
+	Team_2,Oklahoma 
 	Team_1_Score,45
 	Team_2_Score,53
 	Team_1_First_Downs,27
@@ -4752,8 +4752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236003
 	Game_Date,6/2020
-	Team_1,Texas Tech Red Raiders
-	Team_2,Iowa State Cyclones
+	Team_1,Texas Tech 
+	Team_2,Iowa State 
 	Team_1_Score,15
 	Team_2_Score,31
 	Team_1_First_Downs,15
@@ -4790,8 +4790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207215
 	Game_Date,6/2020
-	Team_1,Ul Monroe Warhawks
-	Team_2,Liberty Flames
+	Team_1,UL Monroe 
+	Team_2,Liberty 
 	Team_1_Score,7
 	Team_2_Score,40
 	Team_1_First_Downs,10
@@ -4828,8 +4828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234608
 	Game_Date,6/2020
-	Team_1,Nc State Wolfpack
-	Team_2,Virginia Cavaliers
+	Team_1,NC State 
+	Team_2,Virginia 
 	Team_1_Score,38
 	Team_2_Score,21
 	Team_1_First_Downs,17
@@ -4866,8 +4866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237106
 	Game_Date,6/2020
-	Team_1,South Carolina Gamecocks
-	Team_2,Vanderbilt Commodores
+	Team_1,South Carolina 
+	Team_2,Vanderbilt 
 	Team_1_Score,41
 	Team_2_Score,7
 	Team_1_First_Downs,18
@@ -4904,8 +4904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234605
 	Game_Date,6/2020
-	Team_1,Duke Blue Devils
-	Team_2,Syracuse Orange
+	Team_1,Duke 
+	Team_2,Syracuse 
 	Team_1_Score,38
 	Team_2_Score,24
 	Team_1_First_Downs,36
@@ -4942,8 +4942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240114
 	Game_Date,6/2020
-	Team_1,The Citadel Bulldogs
-	Team_2,Army Black Knights
+	Team_1,The Citadel 
+	Team_2,Army 
 	Team_1_Score,9
 	Team_2_Score,14
 	Team_1_First_Downs,10
@@ -4980,8 +4980,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215308
 	Game_Date,6/2020
-	Team_1,Texas State Bobcats
-	Team_2,Troy Trojans
+	Team_1,Texas State 
+	Team_2,Troy 
 	Team_1_Score,17
 	Team_2_Score,37
 	Team_1_First_Downs,15
@@ -5018,8 +5018,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401246425
 	Game_Date,6/2020
-	Team_1,Central Arkansas Bears
-	Team_2,Arkansas State Red Wolves
+	Team_1,Central Arkansas 
+	Team_2,Arkansas State 
 	Team_1_Score,27
 	Team_2_Score,50
 	Team_1_First_Downs,22
@@ -5056,8 +5056,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207143
 	Game_Date,6/2020
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Florida International Panthers
+	Team_1,Middle Tennessee 
+	Team_2,Florida International 
 	Team_1_Score,31
 	Team_2_Score,28
 	Team_1_First_Downs,23
@@ -5094,8 +5094,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234603
 	Game_Date,6/2020
-	Team_1,Pittsburgh Panthers
-	Team_2,Boston College Eagles
+	Team_1,Pittsburgh 
+	Team_2,Boston College 
 	Team_1_Score,30
 	Team_2_Score,31
 	Team_1_First_Downs,24
@@ -5132,8 +5132,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236004
 	Game_Date,6/2020
-	Team_1,Kansas State Wildcats
-	Team_2,Tcu Horned Frogs
+	Team_1,Kansas State 
+	Team_2,TCU 
 	Team_1_Score,21
 	Team_2_Score,14
 	Team_1_First_Downs,12
@@ -5170,8 +5170,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212515
 	Game_Date,6/2020
-	Team_1,Temple Owls
-	Team_2,Navy Midshipmen
+	Team_1,Temple 
+	Team_2,Navy 
 	Team_1_Score,29
 	Team_2_Score,31
 	Team_1_First_Downs,25
@@ -5208,8 +5208,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212477
 	Game_Date,6/2020
-	Team_1,East Carolina Pirates
-	Team_2,South Florida Bulls
+	Team_1,East Carolina 
+	Team_2,South Florida 
 	Team_1_Score,44
 	Team_2_Score,24
 	Team_1_First_Downs,21
@@ -5246,8 +5246,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207145
 	Game_Date,6/2020
-	Team_1,Utep Miners
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,UTEP 
+	Team_2,Louisiana Tech 
 	Team_1_Score,17
 	Team_2_Score,21
 	Team_1_First_Downs,14
@@ -5284,8 +5284,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207146
 	Game_Date,6/2020
-	Team_1,Marshall Thundering Herd
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,Marshall 
+	Team_2,Western Kentucky 
 	Team_1_Score,38
 	Team_2_Score,14
 	Team_1_First_Downs,17
@@ -5322,8 +5322,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237104
 	Game_Date,6/2020
-	Team_1,Mississippi State Bulldogs
-	Team_2,Kentucky Wildcats
+	Team_1,Mississippi State 
+	Team_2,Kentucky 
 	Team_1_Score,2
 	Team_2_Score,24
 	Team_1_First_Downs,18
@@ -5360,8 +5360,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207142
 	Game_Date,6/2020
-	Team_1,Charlotte 49ers
-	Team_2,North Texas Mean Green
+	Team_1,Charlotte 
+	Team_2,North Texas 
 	Team_1_Score,49
 	Team_2_Score,21
 	Team_1_First_Downs,24
@@ -5398,8 +5398,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237105
 	Game_Date,6/2020
-	Team_1,Lsu Tigers
-	Team_2,Missouri Tigers
+	Team_1,LSU 
+	Team_2,Missouri 
 	Team_1_Score,41
 	Team_2_Score,45
 	Team_1_First_Downs,20
@@ -5448,8 +5448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215311
 	Game_Date,7/2020
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Coastal Carolina 
+	Team_2,Louisiana 
 	Team_1_Score,30
 	Team_2_Score,27
 	Team_1_First_Downs,23
@@ -5486,8 +5486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215310
 	Game_Date,7/2020
-	Team_1,Georgia State Panthers
-	Team_2,Arkansas State Red Wolves
+	Team_1,Georgia State 
+	Team_2,Arkansas State 
 	Team_1_Score,52
 	Team_2_Score,59
 	Team_1_First_Downs,25
@@ -5524,8 +5524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212551
 	Game_Date,7/2020
-	Team_1,Byu Cougars
-	Team_2,Houston Cougars
+	Team_1,BYU 
+	Team_2,Houston 
 	Team_1_Score,43
 	Team_2_Score,26
 	Team_1_First_Downs,23
@@ -5562,8 +5562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212487
 	Game_Date,7/2020
-	Team_1,Smu Mustangs
-	Team_2,Tulane Green Wave
+	Team_1,SMU 
+	Team_2,Tulane 
 	Team_1_Score,37
 	Team_2_Score,34
 	Team_1_First_Downs,25
@@ -5600,8 +5600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234610
 	Game_Date,7/2020
-	Team_1,Clemson Tigers
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Clemson 
+	Team_2,Georgia Tech 
 	Team_1_Score,73
 	Team_2_Score,7
 	Team_1_First_Downs,29
@@ -5638,8 +5638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237107
 	Game_Date,7/2020
-	Team_1,Georgia Bulldogs
-	Team_2,Alabama Crimson Tide
+	Team_1,Georgia 
+	Team_2,Alabama 
 	Team_1_Score,24
 	Team_2_Score,41
 	Team_1_First_Downs,20
@@ -5676,8 +5676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234613
 	Game_Date,7/2020
-	Team_1,Louisville Cardinals
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Louisville 
+	Team_2,Notre Dame 
 	Team_1_Score,7
 	Team_2_Score,12
 	Team_1_First_Downs,14
@@ -5714,8 +5714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234612
 	Game_Date,7/2020
-	Team_1,North Carolina Tar Heels
-	Team_2,Florida State Seminoles
+	Team_1,North Carolina 
+	Team_2,Florida State 
 	Team_1_Score,28
 	Team_2_Score,31
 	Team_1_First_Downs,27
@@ -5752,8 +5752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237112
 	Game_Date,7/2020
-	Team_1,Texas Am Aggies
-	Team_2,Mississippi State Bulldogs
+	Team_1,Texas A&M 
+	Team_2,Mississippi State 
 	Team_1_Score,28
 	Team_2_Score,14
 	Team_1_First_Downs,17
@@ -5790,8 +5790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234614
 	Game_Date,7/2020
-	Team_1,Pittsburgh Panthers
-	Team_2,Miami Hurricanes
+	Team_1,Pittsburgh 
+	Team_2,Miami 
 	Team_1_Score,19
 	Team_2_Score,31
 	Team_1_First_Downs,19
@@ -5828,8 +5828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237109
 	Game_Date,7/2020
-	Team_1,Auburn Tigers
-	Team_2,South Carolina Gamecocks
+	Team_1,Auburn 
+	Team_2,South Carolina 
 	Team_1_Score,22
 	Team_2_Score,30
 	Team_1_First_Downs,27
@@ -5866,8 +5866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237111
 	Game_Date,7/2020
-	Team_1,Kentucky Wildcats
-	Team_2,Tennessee Volunteers
+	Team_1,Kentucky 
+	Team_2,Tennessee 
 	Team_1_Score,34
 	Team_2_Score,7
 	Team_1_First_Downs,18
@@ -5904,8 +5904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234609
 	Game_Date,7/2020
-	Team_1,Boston College Eagles
-	Team_2,Virginia Tech Hokies
+	Team_1,Boston College 
+	Team_2,Virginia Tech 
 	Team_1_Score,14
 	Team_2_Score,40
 	Team_1_First_Downs,24
@@ -5942,8 +5942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212478
 	Game_Date,7/2020
-	Team_1,South Florida Bulls
-	Team_2,Temple Owls
+	Team_1,South Florida 
+	Team_2,Temple 
 	Team_1_Score,37
 	Team_2_Score,39
 	Team_1_First_Downs,21
@@ -5980,8 +5980,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212548
 	Game_Date,7/2020
-	Team_1,Navy Midshipmen
-	Team_2,East Carolina Pirates
+	Team_1,Navy 
+	Team_2,East Carolina 
 	Team_1_Score,27
 	Team_2_Score,23
 	Team_1_First_Downs,17
@@ -6018,8 +6018,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215313
 	Game_Date,7/2020
-	Team_1,Texas State Bobcats
-	Team_2,South Alabama Jaguars
+	Team_1,Texas State 
+	Team_2,South Alabama 
 	Team_1_Score,20
 	Team_2_Score,30
 	Team_1_First_Downs,22
@@ -6056,8 +6056,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234615
 	Game_Date,7/2020
-	Team_1,Liberty Flames
-	Team_2,Syracuse Orange
+	Team_1,Liberty 
+	Team_2,Syracuse 
 	Team_1_Score,38
 	Team_2_Score,21
 	Team_1_First_Downs,24
@@ -6094,8 +6094,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236007
 	Game_Date,7/2020
-	Team_1,Kansas Jayhawks
-	Team_2,West Virginia Mountaineers
+	Team_1,Kansas 
+	Team_2,West Virginia 
 	Team_1_Score,17
 	Team_2_Score,38
 	Team_1_First_Downs,7
@@ -6132,8 +6132,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207153
 	Game_Date,7/2020
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Uab Blazers
+	Team_1,Western Kentucky 
+	Team_2,UAB 
 	Team_1_Score,14
 	Team_2_Score,37
 	Team_1_First_Downs,15
@@ -6170,8 +6170,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240115
 	Game_Date,7/2020
-	Team_1,Army Black Knights
-	Team_2,Utsa Roadrunners
+	Team_1,Army 
+	Team_2,UTSA 
 	Team_1_Score,28
 	Team_2_Score,16
 	Team_1_First_Downs,24
@@ -6208,8 +6208,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212537
 	Game_Date,7/2020
-	Team_1,Ucf Knights
-	Team_2,Memphis Tigers
+	Team_1,UCF 
+	Team_2,Memphis 
 	Team_1_Score,49
 	Team_2_Score,50
 	Team_1_First_Downs,34
@@ -6246,8 +6246,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234611
 	Game_Date,7/2020
-	Team_1,Duke Blue Devils
-	Team_2,Nc State Wolfpack
+	Team_1,Duke 
+	Team_2,NC State 
 	Team_1_Score,20
 	Team_2_Score,31
 	Team_1_First_Downs,24
@@ -6284,8 +6284,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237108
 	Game_Date,7/2020
-	Team_1,Ole Miss Rebels
-	Team_2,Arkansas Razorbacks
+	Team_1,Ole Miss 
+	Team_2,Arkansas 
 	Team_1_Score,21
 	Team_2_Score,33
 	Team_1_First_Downs,23
@@ -6322,8 +6322,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401239872
 	Game_Date,7/2020
-	Team_1,Eastern Kentucky Colonels
-	Team_2,Troy Trojans
+	Team_1,Eastern Kentucky 
+	Team_2,Troy 
 	Team_1_Score,29
 	Team_2_Score,31
 	Team_1_First_Downs,21
@@ -6360,8 +6360,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234616
 	Game_Date,7/2020
-	Team_1,Virginia Cavaliers
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Virginia 
+	Team_2,Wake Forest 
 	Team_1_Score,23
 	Team_2_Score,40
 	Team_1_First_Downs,27
@@ -6398,8 +6398,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401250215
 	Game_Date,7/2020
-	Team_1,Umass Minutemen
-	Team_2,Georgia Southern Eagles
+	Team_1,UMass 
+	Team_2,Georgia Southern 
 	Team_1_Score,0
 	Team_2_Score,41
 	Team_1_First_Downs,10
@@ -6436,8 +6436,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207150
 	Game_Date,7/2020
-	Team_1,North Texas Mean Green
-	Team_2,Middle Tennessee Blue Raiders
+	Team_1,North Texas 
+	Team_2,Middle Tennessee 
 	Team_1_Score,52
 	Team_2_Score,35
 	Team_1_First_Downs,32
@@ -6474,8 +6474,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207149
 	Game_Date,7/2020
-	Team_1,Marshall Thundering Herd
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,Marshall 
+	Team_2,Louisiana Tech 
 	Team_1_Score,35
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -6548,8 +6548,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240642
 	Game_Date,8/2020
-	Team_1,Arkansas State Red Wolves
-	Team_2,Appalachian State Mountaineers
+	Team_1,Arkansas State 
+	Team_2,Appalachian State 
 	Team_1_Score,17
 	Team_2_Score,45
 	Team_1_First_Downs,24
@@ -6586,8 +6586,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247297
 	Game_Date,8/2020
-	Team_1,Illinois Fighting Illini
-	Team_2,Wisconsin Badgers
+	Team_1,Illinois 
+	Team_2,Wisconsin 
 	Team_1_Score,7
 	Team_2_Score,45
 	Team_1_First_Downs,8
@@ -6624,8 +6624,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401250783
 	Game_Date,8/2020
-	Team_1,Jacksonville State Gamecocks
-	Team_2,Florida International Panthers
+	Team_1,Jacksonville State 
+	Team_2,Florida International 
 	Team_1_Score,19
 	Team_2_Score,10
 	Team_1_First_Downs,26
@@ -6662,8 +6662,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212479
 	Game_Date,8/2020
-	Team_1,Tulsa Golden Hurricane
-	Team_2,South Florida Bulls
+	Team_1,Tulsa 
+	Team_2,South Florida 
 	Team_1_Score,42
 	Team_2_Score,13
 	Team_1_First_Downs,21
@@ -6700,8 +6700,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401238036
 	Game_Date,8/2020
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Uab Blazers
+	Team_1,Louisiana 
+	Team_2,UAB 
 	Team_1_Score,24
 	Team_2_Score,20
 	Team_1_First_Downs,17
@@ -6738,8 +6738,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234618
 	Game_Date,8/2020
-	Team_1,Syracuse Orange
-	Team_2,Clemson Tigers
+	Team_1,Syracuse 
+	Team_2,Clemson 
 	Team_1_Score,21
 	Team_2_Score,47
 	Team_1_First_Downs,11
@@ -6776,8 +6776,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237114
 	Game_Date,8/2020
-	Team_1,Alabama Crimson Tide
-	Team_2,Tennessee Volunteers
+	Team_1,Alabama 
+	Team_2,Tennessee 
 	Team_1_Score,48
 	Team_2_Score,17
 	Team_1_First_Downs,30
@@ -6814,8 +6814,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234622
 	Game_Date,8/2020
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Pittsburgh Panthers
+	Team_1,Notre Dame 
+	Team_2,Pittsburgh 
 	Team_1_Score,45
 	Team_2_Score,3
 	Team_1_First_Downs,28
@@ -6852,8 +6852,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247293
 	Game_Date,8/2020
-	Team_1,Nebraska Cornhuskers
-	Team_2,Ohio State Buckeyes
+	Team_1,Nebraska 
+	Team_2,Ohio State 
 	Team_1_Score,17
 	Team_2_Score,52
 	Team_1_First_Downs,17
@@ -6890,8 +6890,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236009
 	Game_Date,8/2020
-	Team_1,Iowa State Cyclones
-	Team_2,Oklahoma State Cowboys
+	Team_1,Iowa State 
+	Team_2,Oklahoma State 
 	Team_1_Score,21
 	Team_2_Score,24
 	Team_1_First_Downs,18
@@ -6928,8 +6928,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247295
 	Game_Date,8/2020
-	Team_1,Penn State Nittany Lions
-	Team_2,Indiana Hoosiers
+	Team_1,Penn State 
+	Team_2,Indiana 
 	Team_1_Score,35
 	Team_2_Score,36
 	Team_1_First_Downs,27
@@ -6966,8 +6966,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212488
 	Game_Date,8/2020
-	Team_1,Cincinnati Bearcats
-	Team_2,Smu Mustangs
+	Team_1,Cincinnati 
+	Team_2,SMU 
 	Team_1_Score,42
 	Team_2_Score,13
 	Team_1_First_Downs,17
@@ -7004,8 +7004,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234620
 	Game_Date,8/2020
-	Team_1,Virginia Cavaliers
-	Team_2,Miami Hurricanes
+	Team_1,Virginia 
+	Team_2,Miami 
 	Team_1_Score,14
 	Team_2_Score,19
 	Team_1_First_Downs,18
@@ -7042,8 +7042,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240998
 	Game_Date,8/2020
-	Team_1,Texas State Bobcats
-	Team_2,Byu Cougars
+	Team_1,Texas State 
+	Team_2,BYU 
 	Team_1_Score,14
 	Team_2_Score,52
 	Team_1_First_Downs,15
@@ -7080,8 +7080,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234621
 	Game_Date,8/2020
-	Team_1,Nc State Wolfpack
-	Team_2,North Carolina Tar Heels
+	Team_1,NC State 
+	Team_2,North Carolina 
 	Team_1_Score,21
 	Team_2_Score,48
 	Team_1_First_Downs,23
@@ -7118,8 +7118,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247294
 	Game_Date,8/2020
-	Team_1,Michigan Wolverines
-	Team_2,Minnesota Golden Gophers
+	Team_1,Michigan 
+	Team_2,Minnesota 
 	Team_1_Score,49
 	Team_2_Score,24
 	Team_1_First_Downs,18
@@ -7156,8 +7156,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234623
 	Game_Date,8/2020
-	Team_1,Virginia Tech Hokies
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Virginia Tech 
+	Team_2,Wake Forest 
 	Team_1_Score,16
 	Team_2_Score,23
 	Team_1_First_Downs,28
@@ -7194,8 +7194,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236010
 	Game_Date,8/2020
-	Team_1,Kansas Jayhawks
-	Team_2,Kansas State Wildcats
+	Team_1,Kansas 
+	Team_2,Kansas State 
 	Team_1_Score,14
 	Team_2_Score,55
 	Team_1_First_Downs,18
@@ -7232,8 +7232,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207156
 	Game_Date,8/2020
-	Team_1,Florida Atlantic Owls
-	Team_2,Marshall Thundering Herd
+	Team_1,Florida Atlantic 
+	Team_2,Marshall 
 	Team_1_Score,9
 	Team_2_Score,20
 	Team_1_First_Downs,17
@@ -7270,8 +7270,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215316
 	Game_Date,8/2020
-	Team_1,Georgia Southern Eagles
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,Georgia Southern 
+	Team_2,Coastal Carolina 
 	Team_1_Score,14
 	Team_2_Score,28
 	Team_1_First_Downs,12
@@ -7308,8 +7308,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207154
 	Game_Date,8/2020
-	Team_1,Utep Miners
-	Team_2,Charlotte 49ers
+	Team_1,UTEP 
+	Team_2,Charlotte 
 	Team_1_Score,28
 	Team_2_Score,38
 	Team_1_First_Downs,24
@@ -7346,8 +7346,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212516
 	Game_Date,8/2020
-	Team_1,Temple Owls
-	Team_2,Memphis Tigers
+	Team_1,Temple 
+	Team_2,Memphis 
 	Team_1_Score,29
 	Team_2_Score,41
 	Team_1_First_Downs,30
@@ -7384,8 +7384,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234619
 	Game_Date,8/2020
-	Team_1,Florida State Seminoles
-	Team_2,Louisville Cardinals
+	Team_1,Florida State 
+	Team_2,Louisville 
 	Team_1_Score,16
 	Team_2_Score,48
 	Team_1_First_Downs,19
@@ -7422,8 +7422,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236011
 	Game_Date,8/2020
-	Team_1,Oklahoma Sooners
-	Team_2,Tcu Horned Frogs
+	Team_1,Oklahoma 
+	Team_2,TCU 
 	Team_1_Score,33
 	Team_2_Score,14
 	Team_1_First_Downs,23
@@ -7460,8 +7460,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237115
 	Game_Date,8/2020
-	Team_1,Auburn Tigers
-	Team_2,Ole Miss Rebels
+	Team_1,Auburn 
+	Team_2,Ole Miss 
 	Team_1_Score,35
 	Team_2_Score,28
 	Team_1_First_Downs,26
@@ -7498,8 +7498,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240116
 	Game_Date,8/2020
-	Team_1,Mercer Bears
-	Team_2,Army Black Knights
+	Team_1,Mercer 
+	Team_2,Army 
 	Team_1_Score,3
 	Team_2_Score,49
 	Team_1_First_Downs,14
@@ -7536,8 +7536,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247299
 	Game_Date,8/2020
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Michigan State Spartans
+	Team_1,Rutgers 
+	Team_2,Michigan State 
 	Team_1_Score,38
 	Team_2_Score,27
 	Team_1_First_Downs,16
@@ -7574,8 +7574,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207160
 	Game_Date,8/2020
-	Team_1,Southern Mississippi Golden Eagles
-	Team_2,Liberty Flames
+	Team_1,Southern Mississippi 
+	Team_2,Liberty 
 	Team_1_Score,35
 	Team_2_Score,56
 	Team_1_First_Downs,19
@@ -7612,8 +7612,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212524
 	Game_Date,8/2020
-	Team_1,Tulane Green Wave
-	Team_2,Ucf Knights
+	Team_1,Tulane 
+	Team_2,UCF 
 	Team_1_Score,34
 	Team_2_Score,51
 	Team_1_First_Downs,21
@@ -7650,8 +7650,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207158
 	Game_Date,8/2020
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Rice Owls
+	Team_1,Middle Tennessee 
+	Team_2,Rice 
 	Team_1_Score,40
 	Team_2_Score,34
 	Team_1_First_Downs,22
@@ -7688,8 +7688,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212552
 	Game_Date,8/2020
-	Team_1,Houston Cougars
-	Team_2,Navy Midshipmen
+	Team_1,Houston 
+	Team_2,Navy 
 	Team_1_Score,37
 	Team_2_Score,21
 	Team_1_First_Downs,23
@@ -7726,8 +7726,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236008
 	Game_Date,8/2020
-	Team_1,Baylor Bears
-	Team_2,Texas Longhorns
+	Team_1,Baylor 
+	Team_2,Texas 
 	Team_1_Score,16
 	Team_2_Score,27
 	Team_1_First_Downs,22
@@ -7764,8 +7764,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247296
 	Game_Date,8/2020
-	Team_1,Iowa Hawkeyes
-	Team_2,Purdue Boilermakers
+	Team_1,Iowa 
+	Team_2,Purdue 
 	Team_1_Score,20
 	Team_2_Score,24
 	Team_1_First_Downs,19
@@ -7802,8 +7802,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207102
 	Game_Date,8/2020
-	Team_1,Chattanooga Mocs
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,Chattanooga 
+	Team_2,Western Kentucky 
 	Team_1_Score,10
 	Team_2_Score,13
 	Team_1_First_Downs,13
@@ -7840,8 +7840,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215317
 	Game_Date,8/2020
-	Team_1,Georgia State Panthers
-	Team_2,Troy Trojans
+	Team_1,Georgia State 
+	Team_2,Troy 
 	Team_1_Score,36
 	Team_2_Score,34
 	Team_1_First_Downs,23
@@ -7878,8 +7878,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234617
 	Game_Date,8/2020
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Boston College Eagles
+	Team_1,Georgia Tech 
+	Team_2,Boston College 
 	Team_1_Score,27
 	Team_2_Score,48
 	Team_1_First_Downs,19
@@ -7916,8 +7916,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237122
 	Game_Date,8/2020
-	Team_1,Kentucky Wildcats
-	Team_2,Missouri Tigers
+	Team_1,Kentucky 
+	Team_2,Missouri 
 	Team_1_Score,10
 	Team_2_Score,20
 	Team_1_First_Downs,8
@@ -7954,8 +7954,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236012
 	Game_Date,8/2020
-	Team_1,West Virginia Mountaineers
-	Team_2,Texas Tech Red Raiders
+	Team_1,West Virginia 
+	Team_2,Texas Tech 
 	Team_1_Score,27
 	Team_2_Score,34
 	Team_1_First_Downs,22
@@ -7992,8 +7992,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237118
 	Game_Date,8/2020
-	Team_1,South Carolina Gamecocks
-	Team_2,Lsu Tigers
+	Team_1,South Carolina 
+	Team_2,LSU 
 	Team_1_Score,24
 	Team_2_Score,52
 	Team_1_First_Downs,17
@@ -8030,8 +8030,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248997
 	Game_Date,8/2020
-	Team_1,Utah State Aggies
-	Team_2,Boise State Broncos
+	Team_1,Utah State 
+	Team_2,Boise State 
 	Team_1_Score,13
 	Team_2_Score,42
 	Team_1_First_Downs,12
@@ -8068,8 +8068,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248998
 	Game_Date,8/2020
-	Team_1,Wyoming Cowboys
-	Team_2,Nevada Wolf Pack
+	Team_1,Wyoming 
+	Team_2,Nevada 
 	Team_1_Score,34
 	Team_2_Score,37
 	Team_1_First_Downs,19
@@ -8106,8 +8106,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401250784
 	Game_Date,8/2020
-	Team_1,Ul Monroe Warhawks
-	Team_2,South Alabama Jaguars
+	Team_1,UL Monroe 
+	Team_2,South Alabama 
 	Team_1_Score,14
 	Team_2_Score,38
 	Team_1_First_Downs,20
@@ -8144,8 +8144,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247298
 	Game_Date,8/2020
-	Team_1,Maryland Terrapins
-	Team_2,Northwestern Wildcats
+	Team_1,Maryland 
+	Team_2,Northwestern 
 	Team_1_Score,3
 	Team_2_Score,43
 	Team_1_First_Downs,14
@@ -8182,8 +8182,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248994
 	Game_Date,8/2020
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,Fresno State Bulldogs
+	Team_1,Hawai'i 
+	Team_2,Fresno State 
 	Team_1_Score,34
 	Team_2_Score,19
 	Team_1_First_Downs,27
@@ -8220,8 +8220,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207157
 	Game_Date,8/2020
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Utsa Roadrunners
+	Team_1,Louisiana Tech 
+	Team_2,UTSA 
 	Team_1_Score,26
 	Team_2_Score,27
 	Team_1_First_Downs,15
@@ -8258,8 +8258,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248993
 	Game_Date,8/2020
-	Team_1,Air Force Falcons
-	Team_2,San Jose State Spartans
+	Team_1,Air Force 
+	Team_2,San José State 
 	Team_1_Score,6
 	Team_2_Score,17
 	Team_1_First_Downs,17
@@ -8296,8 +8296,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248996
 	Game_Date,8/2020
-	Team_1,Unlv Rebels
-	Team_2,San Diego State Aztecs
+	Team_1,UNLV 
+	Team_2,San Diego State 
 	Team_1_Score,6
 	Team_2_Score,34
 	Team_1_First_Downs,11
@@ -8340,8 +8340,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215321
 	Game_Date,9/2020
-	Team_1,South Alabama Jaguars
-	Team_2,Georgia Southern Eagles
+	Team_1,South Alabama 
+	Team_2,Georgia Southern 
 	Team_1_Score,17
 	Team_2_Score,24
 	Team_1_First_Downs,16
@@ -8378,8 +8378,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249000
 	Game_Date,9/2020
-	Team_1,Colorado State Rams
-	Team_2,Fresno State Bulldogs
+	Team_1,Colorado State 
+	Team_2,Fresno State 
 	Team_1_Score,17
 	Team_2_Score,38
 	Team_1_First_Downs,21
@@ -8416,8 +8416,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247302
 	Game_Date,9/2020
-	Team_1,Minnesota Golden Gophers
-	Team_2,Maryland Terrapins
+	Team_1,Minnesota 
+	Team_2,Maryland 
 	Team_1_Score,44
 	Team_2_Score,45
 	Team_1_First_Downs,24
@@ -8454,8 +8454,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212533
 	Game_Date,9/2020
-	Team_1,East Carolina Pirates
-	Team_2,Tulsa Golden Hurricane
+	Team_1,East Carolina 
+	Team_2,Tulsa 
 	Team_1_Score,30
 	Team_2_Score,34
 	Team_1_First_Downs,27
@@ -8492,8 +8492,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249001
 	Game_Date,9/2020
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,Wyoming Cowboys
+	Team_1,Hawai'i 
+	Team_2,Wyoming 
 	Team_1_Score,7
 	Team_2_Score,31
 	Team_1_First_Downs,12
@@ -8536,8 +8536,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234624
 	Game_Date,9/2020
-	Team_1,Boston College Eagles
-	Team_2,Clemson Tigers
+	Team_1,Boston College 
+	Team_2,Clemson 
 	Team_1_Score,28
 	Team_2_Score,34
 	Team_1_First_Downs,21
@@ -8574,8 +8574,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237119
 	Game_Date,9/2020
-	Team_1,Mississippi State Bulldogs
-	Team_2,Alabama Crimson Tide
+	Team_1,Mississippi State 
+	Team_2,Alabama 
 	Team_1_Score,0
 	Team_2_Score,41
 	Team_1_First_Downs,12
@@ -8612,8 +8612,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247306
 	Game_Date,9/2020
-	Team_1,Ohio State Buckeyes
-	Team_2,Penn State Nittany Lions
+	Team_1,Ohio State 
+	Team_2,Penn State 
 	Team_1_Score,38
 	Team_2_Score,25
 	Team_1_First_Downs,24
@@ -8650,8 +8650,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234626
 	Game_Date,9/2020
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Notre Dame 
+	Team_2,Georgia Tech 
 	Team_1_Score,31
 	Team_2_Score,13
 	Team_1_First_Downs,24
@@ -8688,8 +8688,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237117
 	Game_Date,9/2020
-	Team_1,Georgia Bulldogs
-	Team_2,Kentucky Wildcats
+	Team_1,Georgia 
+	Team_2,Kentucky 
 	Team_1_Score,14
 	Team_2_Score,3
 	Team_1_First_Downs,20
@@ -8726,8 +8726,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236017
 	Game_Date,9/2020
-	Team_1,Texas Longhorns
-	Team_2,Oklahoma State Cowboys
+	Team_1,Texas 
+	Team_2,Oklahoma State 
 	Team_1_Score,41
 	Team_2_Score,34
 	Team_1_First_Downs,17
@@ -8764,8 +8764,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212543
 	Game_Date,9/2020
-	Team_1,Memphis Tigers
-	Team_2,Cincinnati Bearcats
+	Team_1,Memphis 
+	Team_2,Cincinnati 
 	Team_1_Score,10
 	Team_2_Score,49
 	Team_1_First_Downs,15
@@ -8802,8 +8802,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237120
 	Game_Date,9/2020
-	Team_1,Arkansas Razorbacks
-	Team_2,Texas Am Aggies
+	Team_1,Arkansas 
+	Team_2,Texas A&M 
 	Team_1_Score,31
 	Team_2_Score,42
 	Team_1_First_Downs,29
@@ -8840,8 +8840,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237116
 	Game_Date,9/2020
-	Team_1,Missouri Tigers
-	Team_2,Florida Gators
+	Team_1,Missouri 
+	Team_2,Florida 
 	Team_1_Score,17
 	Team_2_Score,41
 	Team_1_First_Downs,16
@@ -8878,8 +8878,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401239887
 	Game_Date,9/2020
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Byu Cougars
+	Team_1,Western Kentucky 
+	Team_2,BYU 
 	Team_1_Score,10
 	Team_2_Score,41
 	Team_1_First_Downs,17
@@ -8916,8 +8916,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247305
 	Game_Date,9/2020
-	Team_1,Michigan State Spartans
-	Team_2,Michigan Wolverines
+	Team_1,Michigan State 
+	Team_2,Michigan 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -8954,8 +8954,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234628
 	Game_Date,9/2020
-	Team_1,North Carolina Tar Heels
-	Team_2,Virginia Cavaliers
+	Team_1,North Carolina 
+	Team_2,Virginia 
 	Team_1_Score,41
 	Team_2_Score,44
 	Team_1_First_Downs,24
@@ -8992,8 +8992,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236015
 	Game_Date,9/2020
-	Team_1,Kansas State Wildcats
-	Team_2,West Virginia Mountaineers
+	Team_1,Kansas State 
+	Team_2,West Virginia 
 	Team_1_Score,10
 	Team_2_Score,37
 	Team_1_First_Downs,13
@@ -9030,8 +9030,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247300
 	Game_Date,9/2020
-	Team_1,Indiana Hoosiers
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Indiana 
+	Team_2,Rutgers 
 	Team_1_Score,37
 	Team_2_Score,21
 	Team_1_First_Downs,20
@@ -9068,8 +9068,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215318
 	Game_Date,9/2020
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Georgia State Panthers
+	Team_1,Coastal Carolina 
+	Team_2,Georgia State 
 	Team_1_Score,51
 	Team_2_Score,0
 	Team_1_First_Downs,30
@@ -9106,8 +9106,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212489
 	Game_Date,9/2020
-	Team_1,Navy Midshipmen
-	Team_2,Smu Mustangs
+	Team_1,Navy 
+	Team_2,SMU 
 	Team_1_Score,37
 	Team_2_Score,51
 	Team_1_First_Downs,27
@@ -9144,8 +9144,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236014
 	Game_Date,9/2020
-	Team_1,Iowa State Cyclones
-	Team_2,Kansas Jayhawks
+	Team_1,Iowa State 
+	Team_2,Kansas 
 	Team_1_Score,52
 	Team_2_Score,22
 	Team_1_First_Downs,26
@@ -9182,8 +9182,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236016
 	Game_Date,9/2020
-	Team_1,Oklahoma Sooners
-	Team_2,Texas Tech Red Raiders
+	Team_1,Oklahoma 
+	Team_2,Texas Tech 
 	Team_1_Score,62
 	Team_2_Score,28
 	Team_1_First_Downs,29
@@ -9220,8 +9220,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248999
 	Game_Date,9/2020
-	Team_1,Boise State Broncos
-	Team_2,Air Force Falcons
+	Team_1,Boise State 
+	Team_2,Air Force 
 	Team_1_Score,49
 	Team_2_Score,30
 	Team_1_First_Downs,23
@@ -9258,8 +9258,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207162
 	Game_Date,9/2020
-	Team_1,Utsa Roadrunners
-	Team_2,Florida Atlantic Owls
+	Team_1,UTSA 
+	Team_2,Florida Atlantic 
 	Team_1_Score,3
 	Team_2_Score,24
 	Team_1_First_Downs,16
@@ -9296,8 +9296,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212517
 	Game_Date,9/2020
-	Team_1,Temple Owls
-	Team_2,Tulane Green Wave
+	Team_1,Temple 
+	Team_2,Tulane 
 	Team_1_Score,3
 	Team_2_Score,38
 	Team_1_First_Downs,11
@@ -9334,8 +9334,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234629
 	Game_Date,9/2020
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Syracuse Orange
+	Team_1,Wake Forest 
+	Team_2,Syracuse 
 	Team_1_Score,38
 	Team_2_Score,14
 	Team_1_First_Downs,26
@@ -9372,8 +9372,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247301
 	Game_Date,9/2020
-	Team_1,Purdue Boilermakers
-	Team_2,Illinois Fighting Illini
+	Team_1,Purdue 
+	Team_2,Illinois 
 	Team_1_Score,31
 	Team_2_Score,24
 	Team_1_First_Downs,25
@@ -9410,8 +9410,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212538
 	Game_Date,9/2020
-	Team_1,Ucf Knights
-	Team_2,Houston Cougars
+	Team_1,UCF 
+	Team_2,Houston 
 	Team_1_Score,44
 	Team_2_Score,21
 	Team_1_First_Downs,32
@@ -9448,8 +9448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207166
 	Game_Date,9/2020
-	Team_1,Rice Owls
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,Rice 
+	Team_2,Southern Mississippi 
 	Team_1_Score,30
 	Team_2_Score,6
 	Team_1_First_Downs,22
@@ -9486,8 +9486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215320
 	Game_Date,9/2020
-	Team_1,Troy Trojans
-	Team_2,Arkansas State Red Wolves
+	Team_1,Troy 
+	Team_2,Arkansas State 
 	Team_1_Score,38
 	Team_2_Score,10
 	Team_1_First_Downs,27
@@ -9524,8 +9524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207163
 	Game_Date,9/2020
-	Team_1,Uab Blazers
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,UAB 
+	Team_2,Louisiana Tech 
 	Team_1_Score,34
 	Team_2_Score,37
 	Team_1_First_Downs,20
@@ -9562,8 +9562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236013
 	Game_Date,9/2020
-	Team_1,Tcu Horned Frogs
-	Team_2,Baylor Bears
+	Team_1,TCU 
+	Team_2,Baylor 
 	Team_1_Score,33
 	Team_2_Score,23
 	Team_1_First_Downs,20
@@ -9600,8 +9600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237121
 	Game_Date,9/2020
-	Team_1,Lsu Tigers
-	Team_2,Auburn Tigers
+	Team_1,LSU 
+	Team_2,Auburn 
 	Team_1_Score,11
 	Team_2_Score,48
 	Team_1_First_Downs,20
@@ -9638,8 +9638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247303
 	Game_Date,9/2020
-	Team_1,Northwestern Wildcats
-	Team_2,Iowa Hawkeyes
+	Team_1,Northwestern 
+	Team_2,Iowa 
 	Team_1_Score,21
 	Team_2_Score,20
 	Team_1_First_Downs,18
@@ -9676,8 +9676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215319
 	Game_Date,9/2020
-	Team_1,Appalachian State Mountaineers
-	Team_2,Ul Monroe Warhawks
+	Team_1,Appalachian State 
+	Team_2,UL Monroe 
 	Team_1_Score,31
 	Team_2_Score,13
 	Team_1_First_Downs,26
@@ -9714,8 +9714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234627
 	Game_Date,9/2020
-	Team_1,Virginia Tech Hokies
-	Team_2,Louisville Cardinals
+	Team_1,Virginia Tech 
+	Team_2,Louisville 
 	Team_1_Score,42
 	Team_2_Score,35
 	Team_1_First_Downs,21
@@ -9752,8 +9752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237123
 	Game_Date,9/2020
-	Team_1,Ole Miss Rebels
-	Team_2,Vanderbilt Commodores
+	Team_1,Ole Miss 
+	Team_2,Vanderbilt 
 	Team_1_Score,54
 	Team_2_Score,21
 	Team_1_First_Downs,35
@@ -9790,8 +9790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234625
 	Game_Date,9/2020
-	Team_1,Charlotte 49ers
-	Team_2,Duke Blue Devils
+	Team_1,Charlotte 
+	Team_2,Duke 
 	Team_1_Score,19
 	Team_2_Score,53
 	Team_1_First_Downs,22
@@ -9828,8 +9828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249003
 	Game_Date,9/2020
-	Team_1,New Mexico Lobos
-	Team_2,San Jose State Spartans
+	Team_1,New Mexico 
+	Team_2,San José State 
 	Team_1_Score,21
 	Team_2_Score,38
 	Team_1_First_Downs,23
@@ -9866,8 +9866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215322
 	Game_Date,9/2020
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Texas State Bobcats
+	Team_1,Louisiana 
+	Team_2,Texas State 
 	Team_1_Score,44
 	Team_2_Score,34
 	Team_1_First_Downs,31
@@ -9904,8 +9904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249004
 	Game_Date,9/2020
-	Team_1,San Diego State Aztecs
-	Team_2,Utah State Aggies
+	Team_1,San Diego State 
+	Team_2,Utah State 
 	Team_1_Score,38
 	Team_2_Score,7
 	Team_1_First_Downs,30
@@ -9942,8 +9942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249002
 	Game_Date,9/2020
-	Team_1,Nevada Wolf Pack
-	Team_2,Unlv Rebels
+	Team_1,Nevada 
+	Team_2,UNLV 
 	Team_1_Score,37
 	Team_2_Score,19
 	Team_1_First_Downs,22
@@ -9992,8 +9992,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249856
 	Game_Date,10/2020
-	Team_1,Eastern Michigan Eagles
-	Team_2,Kent State Golden Flashes
+	Team_1,Eastern Michigan 
+	Team_2,Kent State 
 	Team_1_Score,23
 	Team_2_Score,27
 	Team_1_First_Downs,20
@@ -10030,8 +10030,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249857
 	Game_Date,10/2020
-	Team_1,Western Michigan Broncos
-	Team_2,Akron Zips
+	Team_1,Western Michigan 
+	Team_2,Akron 
 	Team_1_Score,58
 	Team_2_Score,13
 	Team_1_First_Downs,21
@@ -10068,8 +10068,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249859
 	Game_Date,10/2020
-	Team_1,Buffalo Bulls
-	Team_2,Northern Illinois Huskies
+	Team_1,Buffalo 
+	Team_2,Northern Illinois 
 	Team_1_Score,49
 	Team_2_Score,30
 	Team_1_First_Downs,14
@@ -10106,8 +10106,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249860
 	Game_Date,10/2020
-	Team_1,Ohio Bobcats
-	Team_2,Central Michigan Chippewas
+	Team_1,Ohio 
+	Team_2,Central Michigan 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,16
@@ -10144,8 +10144,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249889
 	Game_Date,10/2020
-	Team_1,Ball State Cardinals
-	Team_2,Miami Oh Redhawks
+	Team_1,Ball State 
+	Team_2,Miami (OH) 
 	Team_1_Score,31
 	Team_2_Score,38
 	Team_1_First_Downs,26
@@ -10182,8 +10182,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249858
 	Game_Date,10/2020
-	Team_1,Bowling Green Falcons
-	Team_2,Toledo Rockets
+	Team_1,Bowling Green 
+	Team_2,Toledo 
 	Team_1_Score,3
 	Team_2_Score,38
 	Team_1_First_Downs,15
@@ -10220,8 +10220,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249009
 	Game_Date,10/2020
-	Team_1,Utah State Aggies
-	Team_2,Nevada Wolf Pack
+	Team_1,Utah State 
+	Team_2,Nevada 
 	Team_1_Score,9
 	Team_2_Score,34
 	Team_1_First_Downs,11
@@ -10258,8 +10258,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249010
 	Game_Date,10/2020
-	Team_1,Wyoming Cowboys
-	Team_2,Colorado State Rams
+	Team_1,Wyoming 
+	Team_2,Colorado State 
 	Team_1_Score,24
 	Team_2_Score,34
 	Team_1_First_Downs,23
@@ -10296,8 +10296,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249005
 	Game_Date,10/2020
-	Team_1,Byu Cougars
-	Team_2,Boise State Broncos
+	Team_1,BYU 
+	Team_2,Boise State 
 	Team_1_Score,51
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -10334,8 +10334,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234630
 	Game_Date,10/2020
-	Team_1,Miami Hurricanes
-	Team_2,Nc State Wolfpack
+	Team_1,Miami 
+	Team_2,NC State 
 	Team_1_Score,44
 	Team_2_Score,41
 	Team_1_First_Downs,30
@@ -10372,8 +10372,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249008
 	Game_Date,10/2020
-	Team_1,San Jose State Spartans
-	Team_2,San Diego State Aztecs
+	Team_1,San José State 
+	Team_2,San Diego State 
 	Team_1_Score,28
 	Team_2_Score,17
 	Team_1_First_Downs,16
@@ -10410,8 +10410,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234632
 	Game_Date,10/2020
-	Team_1,Clemson Tigers
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Clemson 
+	Team_2,Notre Dame 
 	Team_1_Score,40
 	Team_2_Score,47
 	Team_1_First_Downs,22
@@ -10448,8 +10448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247310
 	Game_Date,10/2020
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Ohio State Buckeyes
+	Team_1,Rutgers 
+	Team_2,Ohio State 
 	Team_1_Score,27
 	Team_2_Score,49
 	Team_1_First_Downs,22
@@ -10486,8 +10486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237125
 	Game_Date,10/2020
-	Team_1,Florida Gators
-	Team_2,Georgia Bulldogs
+	Team_1,Florida 
+	Team_2,Georgia 
 	Team_1_Score,44
 	Team_2_Score,28
 	Team_1_First_Downs,29
@@ -10524,8 +10524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212544
 	Game_Date,10/2020
-	Team_1,Houston Cougars
-	Team_2,Cincinnati Bearcats
+	Team_1,Houston 
+	Team_2,Cincinnati 
 	Team_1_Score,10
 	Team_2_Score,38
 	Team_1_First_Downs,15
@@ -10562,8 +10562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237127
 	Game_Date,10/2020
-	Team_1,Texas Am Aggies
-	Team_2,South Carolina Gamecocks
+	Team_1,Texas A&M 
+	Team_2,South Carolina 
 	Team_1_Score,48
 	Team_2_Score,3
 	Team_1_First_Downs,26
@@ -10600,8 +10600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249399
 	Game_Date,10/2020
-	Team_1,Stanford Cardinal
-	Team_2,Oregon Ducks
+	Team_1,Stanford 
+	Team_2,Oregon 
 	Team_1_Score,14
 	Team_2_Score,35
 	Team_1_First_Downs,16
@@ -10638,8 +10638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247309
 	Game_Date,10/2020
-	Team_1,Michigan Wolverines
-	Team_2,Indiana Hoosiers
+	Team_1,Michigan 
+	Team_2,Indiana 
 	Team_1_Score,21
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -10676,8 +10676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236020
 	Game_Date,10/2020
-	Team_1,Oklahoma State Cowboys
-	Team_2,Kansas State Wildcats
+	Team_1,Oklahoma State 
+	Team_2,Kansas State 
 	Team_1_Score,20
 	Team_2_Score,18
 	Team_1_First_Downs,14
@@ -10714,8 +10714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215325
 	Game_Date,10/2020
-	Team_1,South Alabama Jaguars
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,South Alabama 
+	Team_2,Coastal Carolina 
 	Team_1_Score,6
 	Team_2_Score,23
 	Team_1_First_Downs,16
@@ -10752,8 +10752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401251931
 	Game_Date,10/2020
-	Team_1,Umass Minutemen
-	Team_2,Marshall Thundering Herd
+	Team_1,UMass 
+	Team_2,Marshall 
 	Team_1_Score,10
 	Team_2_Score,51
 	Team_1_First_Downs,12
@@ -10790,8 +10790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236018
 	Game_Date,10/2020
-	Team_1,Baylor Bears
-	Team_2,Iowa State Cyclones
+	Team_1,Baylor 
+	Team_2,Iowa State 
 	Team_1_Score,31
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -10828,8 +10828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212490
 	Game_Date,10/2020
-	Team_1,Smu Mustangs
-	Team_2,Temple Owls
+	Team_1,SMU 
+	Team_2,Temple 
 	Team_1_Score,47
 	Team_2_Score,23
 	Team_1_First_Downs,24
@@ -10866,8 +10866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236019
 	Game_Date,10/2020
-	Team_1,Kansas Jayhawks
-	Team_2,Oklahoma Sooners
+	Team_1,Kansas 
+	Team_2,Oklahoma 
 	Team_1_Score,9
 	Team_2_Score,62
 	Team_1_First_Downs,16
@@ -10904,8 +10904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249400
 	Game_Date,10/2020
-	Team_1,Arizona State Sun Devils
-	Team_2,Usc Trojans
+	Team_1,Arizona State 
+	Team_2,USC 
 	Team_1_Score,27
 	Team_2_Score,28
 	Team_1_First_Downs,20
@@ -10942,8 +10942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236022
 	Game_Date,10/2020
-	Team_1,West Virginia Mountaineers
-	Team_2,Texas Longhorns
+	Team_1,West Virginia 
+	Team_2,Texas 
 	Team_1_Score,13
 	Team_2_Score,17
 	Team_1_First_Downs,21
@@ -10980,8 +10980,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234636
 	Game_Date,10/2020
-	Team_1,Liberty Flames
-	Team_2,Virginia Tech Hokies
+	Team_1,Liberty 
+	Team_2,Virginia Tech 
 	Team_1_Score,38
 	Team_2_Score,35
 	Team_1_First_Downs,29
@@ -11018,8 +11018,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212480
 	Game_Date,10/2020
-	Team_1,South Florida Bulls
-	Team_2,Memphis Tigers
+	Team_1,South Florida 
+	Team_2,Memphis 
 	Team_1_Score,33
 	Team_2_Score,34
 	Team_1_First_Downs,16
@@ -11056,8 +11056,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212525
 	Game_Date,10/2020
-	Team_1,Tulane Green Wave
-	Team_2,East Carolina Pirates
+	Team_1,Tulane 
+	Team_2,East Carolina 
 	Team_1_Score,38
 	Team_2_Score,21
 	Team_1_First_Downs,24
@@ -11094,8 +11094,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215327
 	Game_Date,10/2020
-	Team_1,Ul Monroe Warhawks
-	Team_2,Georgia State Panthers
+	Team_1,UL Monroe 
+	Team_2,Georgia State 
 	Team_1_Score,34
 	Team_2_Score,52
 	Team_1_First_Downs,23
@@ -11132,8 +11132,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234633
 	Game_Date,10/2020
-	Team_1,North Carolina Tar Heels
-	Team_2,Duke Blue Devils
+	Team_1,North Carolina 
+	Team_2,Duke 
 	Team_1_Score,56
 	Team_2_Score,24
 	Team_1_First_Downs,30
@@ -11170,8 +11170,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247307
 	Game_Date,10/2020
-	Team_1,Nebraska Cornhuskers
-	Team_2,Northwestern Wildcats
+	Team_1,Nebraska 
+	Team_2,Northwestern 
 	Team_1_Score,13
 	Team_2_Score,21
 	Team_1_First_Downs,28
@@ -11208,8 +11208,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247313
 	Game_Date,10/2020
-	Team_1,Michigan State Spartans
-	Team_2,Iowa Hawkeyes
+	Team_1,Michigan State 
+	Team_2,Iowa 
 	Team_1_Score,7
 	Team_2_Score,49
 	Team_1_First_Downs,10
@@ -11246,8 +11246,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401253924
 	Game_Date,10/2020
-	Team_1,Arkansas State Red Wolves
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Arkansas State 
+	Team_2,Louisiana 
 	Team_1_Score,20
 	Team_2_Score,27
 	Team_1_First_Downs,24
@@ -11284,8 +11284,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215326
 	Game_Date,10/2020
-	Team_1,Troy Trojans
-	Team_2,Georgia Southern Eagles
+	Team_1,Troy 
+	Team_2,Georgia Southern 
 	Team_1_Score,13
 	Team_2_Score,20
 	Team_1_First_Downs,14
@@ -11322,8 +11322,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234631
 	Game_Date,10/2020
-	Team_1,Boston College Eagles
-	Team_2,Syracuse Orange
+	Team_1,Boston College 
+	Team_2,Syracuse 
 	Team_1_Score,16
 	Team_2_Score,13
 	Team_1_First_Downs,21
@@ -11360,8 +11360,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215324
 	Game_Date,10/2020
-	Team_1,Appalachian State Mountaineers
-	Team_2,Texas State Bobcats
+	Team_1,Appalachian State 
+	Team_2,Texas State 
 	Team_1_Score,38
 	Team_2_Score,17
 	Team_1_First_Downs,22
@@ -11398,8 +11398,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240035
 	Game_Date,10/2020
-	Team_1,North Alabama Lions
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,North Alabama 
+	Team_2,Southern Mississippi 
 	Team_1_Score,13
 	Team_2_Score,24
 	Team_1_First_Downs,11
@@ -11436,8 +11436,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236021
 	Game_Date,10/2020
-	Team_1,Texas Tech Red Raiders
-	Team_2,Tcu Horned Frogs
+	Team_1,Texas Tech 
+	Team_2,TCU 
 	Team_1_Score,18
 	Team_2_Score,34
 	Team_1_First_Downs,15
@@ -11474,8 +11474,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237126
 	Game_Date,10/2020
-	Team_1,Vanderbilt Commodores
-	Team_2,Mississippi State Bulldogs
+	Team_1,Vanderbilt 
+	Team_2,Mississippi State 
 	Team_1_Score,17
 	Team_2_Score,24
 	Team_1_First_Downs,30
@@ -11512,8 +11512,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247308
 	Game_Date,10/2020
-	Team_1,Minnesota Golden Gophers
-	Team_2,Illinois Fighting Illini
+	Team_1,Minnesota 
+	Team_2,Illinois 
 	Team_1_Score,41
 	Team_2_Score,14
 	Team_1_First_Downs,30
@@ -11550,8 +11550,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247312
 	Game_Date,10/2020
-	Team_1,Maryland Terrapins
-	Team_2,Penn State Nittany Lions
+	Team_1,Maryland 
+	Team_2,Penn State 
 	Team_1_Score,35
 	Team_2_Score,19
 	Team_1_First_Downs,16
@@ -11588,8 +11588,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249006
 	Game_Date,10/2020
-	Team_1,Fresno State Bulldogs
-	Team_2,Unlv Rebels
+	Team_1,Fresno State 
+	Team_2,UNLV 
 	Team_1_Score,40
 	Team_2_Score,27
 	Team_1_First_Downs,22
@@ -11626,8 +11626,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234634
 	Game_Date,10/2020
-	Team_1,Pittsburgh Panthers
-	Team_2,Florida State Seminoles
+	Team_1,Pittsburgh 
+	Team_2,Florida State 
 	Team_1_Score,41
 	Team_2_Score,17
 	Team_1_First_Downs,16
@@ -11664,8 +11664,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207169
 	Game_Date,10/2020
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Florida Atlantic Owls
+	Team_1,Western Kentucky 
+	Team_2,Florida Atlantic 
 	Team_1_Score,6
 	Team_2_Score,10
 	Team_1_First_Downs,16
@@ -11702,8 +11702,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249402
 	Game_Date,10/2020
-	Team_1,Ucla Bruins
-	Team_2,Colorado Buffaloes
+	Team_1,UCLA 
+	Team_2,Colorado 
 	Team_1_Score,42
 	Team_2_Score,48
 	Team_1_First_Downs,23
@@ -11740,8 +11740,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237124
 	Game_Date,10/2020
-	Team_1,Tennessee Volunteers
-	Team_2,Arkansas Razorbacks
+	Team_1,Tennessee 
+	Team_2,Arkansas 
 	Team_1_Score,13
 	Team_2_Score,24
 	Team_1_First_Downs,19
@@ -11778,8 +11778,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249397
 	Game_Date,10/2020
-	Team_1,Washington State Cougars
-	Team_2,Oregon State Beavers
+	Team_1,Washington State 
+	Team_2,Oregon State 
 	Team_1_Score,38
 	Team_2_Score,28
 	Team_1_First_Downs,21
@@ -11816,8 +11816,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249007
 	Game_Date,10/2020
-	Team_1,New Mexico Lobos
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,New Mexico 
+	Team_2,Hawai'i 
 	Team_1_Score,33
 	Team_2_Score,39
 	Team_1_First_Downs,24
@@ -11914,8 +11914,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249861
 	Game_Date,11/2020
-	Team_1,Akron Zips
-	Team_2,Ohio Bobcats
+	Team_1,Akron 
+	Team_2,Ohio 
 	Team_1_Score,10
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -11952,8 +11952,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249862
 	Game_Date,11/2020
-	Team_1,Kent State Golden Flashes
-	Team_2,Bowling Green Falcons
+	Team_1,Kent State 
+	Team_2,Bowling Green 
 	Team_1_Score,62
 	Team_2_Score,24
 	Team_1_First_Downs,34
@@ -11990,8 +11990,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249890
 	Game_Date,11/2020
-	Team_1,Miami Oh Redhawks
-	Team_2,Buffalo Bulls
+	Team_1,Miami (OH) 
+	Team_2,Buffalo 
 	Team_1_Score,10
 	Team_2_Score,42
 	Team_1_First_Downs,13
@@ -12028,8 +12028,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249865
 	Game_Date,11/2020
-	Team_1,Eastern Michigan Eagles
-	Team_2,Ball State Cardinals
+	Team_1,Eastern Michigan 
+	Team_2,Ball State 
 	Team_1_Score,31
 	Team_2_Score,38
 	Team_1_First_Downs,22
@@ -12066,8 +12066,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249864
 	Game_Date,11/2020
-	Team_1,Central Michigan Chippewas
-	Team_2,Northern Illinois Huskies
+	Team_1,Central Michigan 
+	Team_2,Northern Illinois 
 	Team_1_Score,40
 	Team_2_Score,10
 	Team_1_First_Downs,16
@@ -12104,8 +12104,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249866
 	Game_Date,11/2020
-	Team_1,Toledo Rockets
-	Team_2,Western Michigan Broncos
+	Team_1,Toledo 
+	Team_2,Western Michigan 
 	Team_1_Score,38
 	Team_2_Score,41
 	Team_1_First_Downs,29
@@ -12142,8 +12142,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249012
 	Game_Date,11/2020
-	Team_1,Colorado State Rams
-	Team_2,Boise State Broncos
+	Team_1,Colorado State 
+	Team_2,Boise State 
 	Team_1_Score,21
 	Team_2_Score,52
 	Team_1_First_Downs,15
@@ -12180,8 +12180,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212545
 	Game_Date,11/2020
-	Team_1,East Carolina Pirates
-	Team_2,Cincinnati Bearcats
+	Team_1,East Carolina 
+	Team_2,Cincinnati 
 	Team_1_Score,17
 	Team_2_Score,55
 	Team_1_First_Downs,23
@@ -12218,8 +12218,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207174
 	Game_Date,11/2020
-	Team_1,Florida Atlantic Owls
-	Team_2,Florida International Panthers
+	Team_1,Florida Atlantic 
+	Team_2,Florida International 
 	Team_1_Score,38
 	Team_2_Score,19
 	Team_1_First_Downs,22
@@ -12256,8 +12256,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247317
 	Game_Date,11/2020
-	Team_1,Iowa Hawkeyes
-	Team_2,Minnesota Golden Gophers
+	Team_1,Iowa 
+	Team_2,Minnesota 
 	Team_1_Score,35
 	Team_2_Score,7
 	Team_1_First_Downs,20
@@ -12294,8 +12294,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234637
 	Game_Date,11/2020
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Boston College Eagles
+	Team_1,Notre Dame 
+	Team_2,Boston College 
 	Team_1_Score,45
 	Team_2_Score,31
 	Team_1_First_Downs,29
@@ -12332,8 +12332,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237129
 	Game_Date,11/2020
-	Team_1,Arkansas Razorbacks
-	Team_2,Florida Gators
+	Team_1,Arkansas 
+	Team_2,Florida 
 	Team_1_Score,35
 	Team_2_Score,63
 	Team_1_First_Downs,18
@@ -12370,8 +12370,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234641
 	Game_Date,11/2020
-	Team_1,Miami Hurricanes
-	Team_2,Virginia Tech Hokies
+	Team_1,Miami 
+	Team_2,Virginia Tech 
 	Team_1_Score,25
 	Team_2_Score,24
 	Team_1_First_Downs,26
@@ -12408,8 +12408,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247316
 	Game_Date,11/2020
-	Team_1,Indiana Hoosiers
-	Team_2,Michigan State Spartans
+	Team_1,Indiana 
+	Team_2,Michigan State 
 	Team_1_Score,24
 	Team_2_Score,0
 	Team_1_First_Downs,21
@@ -12446,8 +12446,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249405
 	Game_Date,11/2020
-	Team_1,Oregon Ducks
-	Team_2,Washington State Cougars
+	Team_1,Oregon 
+	Team_2,Washington State 
 	Team_1_Score,43
 	Team_2_Score,29
 	Team_1_First_Downs,26
@@ -12484,8 +12484,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247319
 	Game_Date,11/2020
-	Team_1,Wisconsin Badgers
-	Team_2,Michigan Wolverines
+	Team_1,Wisconsin 
+	Team_2,Michigan 
 	Team_1_Score,49
 	Team_2_Score,11
 	Team_1_First_Downs,26
@@ -12522,8 +12522,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207176
 	Game_Date,11/2020
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Marshall Thundering Herd
+	Team_1,Middle Tennessee 
+	Team_2,Marshall 
 	Team_1_Score,14
 	Team_2_Score,42
 	Team_1_First_Downs,18
@@ -12560,8 +12560,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212491
 	Game_Date,11/2020
-	Team_1,Smu Mustangs
-	Team_2,Tulsa Golden Hurricane
+	Team_1,SMU 
+	Team_2,Tulsa 
 	Team_1_Score,24
 	Team_2_Score,28
 	Team_1_First_Downs,25
@@ -12598,8 +12598,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249403
 	Game_Date,11/2020
-	Team_1,Usc Trojans
-	Team_2,Arizona Wildcats
+	Team_1,USC 
+	Team_2,Arizona 
 	Team_1_Score,34
 	Team_2_Score,30
 	Team_1_First_Downs,25
@@ -12636,8 +12636,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207218
 	Game_Date,11/2020
-	Team_1,Western Carolina Catamounts
-	Team_2,Liberty Flames
+	Team_1,Western Carolina 
+	Team_2,Liberty 
 	Team_1_Score,14
 	Team_2_Score,58
 	Team_1_First_Downs,15
@@ -12674,8 +12674,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247315
 	Game_Date,11/2020
-	Team_1,Northwestern Wildcats
-	Team_2,Purdue Boilermakers
+	Team_1,Northwestern 
+	Team_2,Purdue 
 	Team_1_Score,27
 	Team_2_Score,20
 	Team_1_First_Downs,19
@@ -12712,8 +12712,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215332
 	Game_Date,11/2020
-	Team_1,South Alabama Jaguars
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,South Alabama 
+	Team_2,Louisiana 
 	Team_1_Score,10
 	Team_2_Score,38
 	Team_1_First_Downs,19
@@ -12750,8 +12750,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207200
 	Game_Date,11/2020
-	Team_1,Army Black Knights
-	Team_2,Tulane Green Wave
+	Team_1,Army 
+	Team_2,Tulane 
 	Team_1_Score,12
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -12788,8 +12788,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234642
 	Game_Date,11/2020
-	Team_1,Wake Forest Demon Deacons
-	Team_2,North Carolina Tar Heels
+	Team_1,Wake Forest 
+	Team_2,North Carolina 
 	Team_1_Score,53
 	Team_2_Score,59
 	Team_1_First_Downs,30
@@ -12826,8 +12826,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236024
 	Game_Date,11/2020
-	Team_1,Tcu Horned Frogs
-	Team_2,West Virginia Mountaineers
+	Team_1,TCU 
+	Team_2,West Virginia 
 	Team_1_Score,6
 	Team_2_Score,24
 	Team_1_First_Downs,19
@@ -12864,8 +12864,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237132
 	Game_Date,11/2020
-	Team_1,Vanderbilt Commodores
-	Team_2,Kentucky Wildcats
+	Team_1,Vanderbilt 
+	Team_2,Kentucky 
 	Team_1_Score,35
 	Team_2_Score,38
 	Team_1_First_Downs,29
@@ -12902,8 +12902,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247320
 	Game_Date,11/2020
-	Team_1,Penn State Nittany Lions
-	Team_2,Nebraska Cornhuskers
+	Team_1,Penn State 
+	Team_2,Nebraska 
 	Team_1_Score,23
 	Team_2_Score,30
 	Team_1_First_Downs,30
@@ -12940,8 +12940,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247314
 	Game_Date,11/2020
-	Team_1,Illinois Fighting Illini
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Illinois 
+	Team_2,Rutgers 
 	Team_1_Score,23
 	Team_2_Score,20
 	Team_1_First_Downs,23
@@ -12978,8 +12978,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215328
 	Game_Date,11/2020
-	Team_1,Georgia State Panthers
-	Team_2,Appalachian State Mountaineers
+	Team_1,Georgia State 
+	Team_2,Appalachian State 
 	Team_1_Score,13
 	Team_2_Score,17
 	Team_1_First_Downs,16
@@ -13016,8 +13016,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249013
 	Game_Date,11/2020
-	Team_1,Fresno State Bulldogs
-	Team_2,Utah State Aggies
+	Team_1,Fresno State 
+	Team_2,Utah State 
 	Team_1_Score,35
 	Team_2_Score,16
 	Team_1_First_Downs,25
@@ -13054,8 +13054,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207179
 	Game_Date,11/2020
-	Team_1,Utep Miners
-	Team_2,Utsa Roadrunners
+	Team_1,UTEP 
+	Team_2,UTSA 
 	Team_1_Score,21
 	Team_2_Score,52
 	Team_1_First_Downs,13
@@ -13092,8 +13092,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207178
 	Game_Date,11/2020
-	Team_1,Southern Mississippi Golden Eagles
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,Southern Mississippi 
+	Team_2,Western Kentucky 
 	Team_1_Score,7
 	Team_2_Score,10
 	Team_1_First_Downs,13
@@ -13130,8 +13130,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212481
 	Game_Date,11/2020
-	Team_1,South Florida Bulls
-	Team_2,Houston Cougars
+	Team_1,South Florida 
+	Team_2,Houston 
 	Team_1_Score,21
 	Team_2_Score,56
 	Team_1_First_Downs,23
@@ -13168,8 +13168,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215331
 	Game_Date,11/2020
-	Team_1,Texas State Bobcats
-	Team_2,Georgia Southern Eagles
+	Team_1,Texas State 
+	Team_2,Georgia Southern 
 	Team_1_Score,38
 	Team_2_Score,40
 	Team_1_First_Downs,18
@@ -13206,8 +13206,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249406
 	Game_Date,11/2020
-	Team_1,Colorado Buffaloes
-	Team_2,Stanford Cardinal
+	Team_1,Colorado 
+	Team_2,Stanford 
 	Team_1_Score,35
 	Team_2_Score,32
 	Team_1_First_Downs,22
@@ -13244,8 +13244,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401257934
 	Game_Date,11/2020
-	Team_1,Louisville Cardinals
-	Team_2,Virginia Cavaliers
+	Team_1,Louisville 
+	Team_2,Virginia 
 	Team_1_Score,17
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -13282,8 +13282,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236023
 	Game_Date,11/2020
-	Team_1,Baylor Bears
-	Team_2,Texas Tech Red Raiders
+	Team_1,Baylor 
+	Team_2,Texas Tech 
 	Team_1_Score,23
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -13320,8 +13320,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249014
 	Game_Date,11/2020
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,San Diego State Aztecs
+	Team_1,Hawai'i 
+	Team_2,San Diego State 
 	Team_1_Score,10
 	Team_2_Score,34
 	Team_1_First_Downs,14
@@ -13358,8 +13358,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249015
 	Game_Date,11/2020
-	Team_1,Nevada Wolf Pack
-	Team_2,New Mexico Lobos
+	Team_1,Nevada 
+	Team_2,New Mexico 
 	Team_1_Score,27
 	Team_2_Score,20
 	Team_1_First_Downs,19
@@ -13396,8 +13396,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212518
 	Game_Date,11/2020
-	Team_1,Temple Owls
-	Team_2,Ucf Knights
+	Team_1,Temple 
+	Team_2,UCF 
 	Team_1_Score,13
 	Team_2_Score,38
 	Team_1_First_Downs,19
@@ -13434,8 +13434,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234639
 	Game_Date,11/2020
-	Team_1,Florida State Seminoles
-	Team_2,Nc State Wolfpack
+	Team_1,Florida State 
+	Team_2,NC State 
 	Team_1_Score,22
 	Team_2_Score,38
 	Team_1_First_Downs,16
@@ -13472,8 +13472,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237133
 	Game_Date,11/2020
-	Team_1,South Carolina Gamecocks
-	Team_2,Ole Miss Rebels
+	Team_1,South Carolina 
+	Team_2,Ole Miss 
 	Team_1_Score,42
 	Team_2_Score,59
 	Team_1_First_Downs,27
@@ -13510,8 +13510,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249016
 	Game_Date,11/2020
-	Team_1,Unlv Rebels
-	Team_2,San Jose State Spartans
+	Team_1,UNLV 
+	Team_2,San José State 
 	Team_1_Score,17
 	Team_2_Score,34
 	Team_1_First_Downs,16
@@ -13548,8 +13548,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249404
 	Game_Date,11/2020
-	Team_1,Oregon State Beavers
-	Team_2,Washington Huskies
+	Team_1,Oregon State 
+	Team_2,Washington 
 	Team_1_Score,21
 	Team_2_Score,27
 	Team_1_First_Downs,16
@@ -13676,8 +13676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401261454
 	Game_Date,11/2020
-	Team_1,California Golden Bears
-	Team_2,Ucla Bruins
+	Team_1,California 
+	Team_2,UCLA 
 	Team_1_Score,10
 	Team_2_Score,34
 	Team_1_First_Downs,11
@@ -13714,8 +13714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249868
 	Game_Date,12/2020
-	Team_1,Buffalo Bulls
-	Team_2,Bowling Green Falcons
+	Team_1,Buffalo 
+	Team_2,Bowling Green 
 	Team_1_Score,42
 	Team_2_Score,17
 	Team_1_First_Downs,23
@@ -13752,8 +13752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249867
 	Game_Date,12/2020
-	Team_1,Akron Zips
-	Team_2,Kent State Golden Flashes
+	Team_1,Akron 
+	Team_2,Kent State 
 	Team_1_Score,35
 	Team_2_Score,69
 	Team_1_First_Downs,21
@@ -13796,8 +13796,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249870
 	Game_Date,12/2020
-	Team_1,Northern Illinois Huskies
-	Team_2,Ball State Cardinals
+	Team_1,Northern Illinois 
+	Team_2,Ball State 
 	Team_1_Score,25
 	Team_2_Score,31
 	Team_1_First_Downs,24
@@ -13834,8 +13834,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249871
 	Game_Date,12/2020
-	Team_1,Toledo Rockets
-	Team_2,Eastern Michigan Eagles
+	Team_1,Toledo 
+	Team_2,Eastern Michigan 
 	Team_1_Score,45
 	Team_2_Score,28
 	Team_1_First_Downs,27
@@ -13872,8 +13872,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249872
 	Game_Date,12/2020
-	Team_1,Western Michigan Broncos
-	Team_2,Central Michigan Chippewas
+	Team_1,Western Michigan 
+	Team_2,Central Michigan 
 	Team_1_Score,52
 	Team_2_Score,44
 	Team_1_First_Downs,25
@@ -13910,8 +13910,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212526
 	Game_Date,12/2020
-	Team_1,Tulane Green Wave
-	Team_2,Tulsa Golden Hurricane
+	Team_1,Tulane 
+	Team_2,Tulsa 
 	Team_1_Score,24
 	Team_2_Score,30
 	Team_1_First_Downs,18
@@ -13954,8 +13954,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234643
 	Game_Date,12/2020
-	Team_1,Syracuse Orange
-	Team_2,Louisville Cardinals
+	Team_1,Syracuse 
+	Team_2,Louisville 
 	Team_1_Score,0
 	Team_2_Score,30
 	Team_1_First_Downs,7
@@ -13992,8 +13992,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247325
 	Game_Date,12/2020
-	Team_1,Purdue Boilermakers
-	Team_2,Minnesota Golden Gophers
+	Team_1,Purdue 
+	Team_2,Minnesota 
 	Team_1_Score,31
 	Team_2_Score,34
 	Team_1_First_Downs,28
@@ -14030,8 +14030,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401261674
 	Game_Date,12/2020
-	Team_1,Umass Minutemen
-	Team_2,Florida Atlantic Owls
+	Team_1,UMass 
+	Team_2,Florida Atlantic 
 	Team_1_Score,2
 	Team_2_Score,24
 	Team_1_First_Downs,7
@@ -14068,8 +14068,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249018
 	Game_Date,12/2020
-	Team_1,New Mexico Lobos
-	Team_2,Air Force Falcons
+	Team_1,New Mexico 
+	Team_2,Air Force 
 	Team_1_Score,0
 	Team_2_Score,28
 	Team_1_First_Downs,19
@@ -14112,8 +14112,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237135
 	Game_Date,12/2020
-	Team_1,Kentucky Wildcats
-	Team_2,Alabama Crimson Tide
+	Team_1,Kentucky 
+	Team_2,Alabama 
 	Team_1_Score,3
 	Team_2_Score,63
 	Team_1_First_Downs,12
@@ -14150,8 +14150,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247326
 	Game_Date,12/2020
-	Team_1,Indiana Hoosiers
-	Team_2,Ohio State Buckeyes
+	Team_1,Indiana 
+	Team_2,Ohio State 
 	Team_1_Score,35
 	Team_2_Score,42
 	Team_1_First_Downs,19
@@ -14188,8 +14188,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237138
 	Game_Date,12/2020
-	Team_1,Florida Gators
-	Team_2,Vanderbilt Commodores
+	Team_1,Florida 
+	Team_2,Vanderbilt 
 	Team_1_Score,38
 	Team_2_Score,17
 	Team_1_First_Downs,29
@@ -14226,8 +14226,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212540
 	Game_Date,12/2020
-	Team_1,Cincinnati Bearcats
-	Team_2,Ucf Knights
+	Team_1,Cincinnati 
+	Team_2,UCF 
 	Team_1_Score,36
 	Team_2_Score,33
 	Team_1_First_Downs,28
@@ -14264,8 +14264,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401209818
 	Game_Date,12/2020
-	Team_1,North Alabama Lions
-	Team_2,Byu Cougars
+	Team_1,North Alabama 
+	Team_2,BYU 
 	Team_1_Score,14
 	Team_2_Score,66
 	Team_1_First_Downs,21
@@ -14302,8 +14302,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247323
 	Game_Date,12/2020
-	Team_1,Wisconsin Badgers
-	Team_2,Northwestern Wildcats
+	Team_1,Wisconsin 
+	Team_2,Northwestern 
 	Team_1_Score,7
 	Team_2_Score,17
 	Team_1_First_Downs,21
@@ -14340,8 +14340,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249415
 	Game_Date,12/2020
-	Team_1,Ucla Bruins
-	Team_2,Oregon Ducks
+	Team_1,UCLA 
+	Team_2,Oregon 
 	Team_1_Score,35
 	Team_2_Score,38
 	Team_1_First_Downs,27
@@ -14378,8 +14378,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237139
 	Game_Date,12/2020
-	Team_1,Mississippi State Bulldogs
-	Team_2,Georgia Bulldogs
+	Team_1,Mississippi State 
+	Team_2,Georgia 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,20
@@ -14416,8 +14416,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236027
 	Game_Date,12/2020
-	Team_1,Oklahoma State Cowboys
-	Team_2,Oklahoma Sooners
+	Team_1,Oklahoma State 
+	Team_2,Oklahoma 
 	Team_1_Score,13
 	Team_2_Score,41
 	Team_1_First_Downs,19
@@ -14454,8 +14454,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215333
 	Game_Date,12/2020
-	Team_1,Appalachian State Mountaineers
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,Appalachian State 
+	Team_2,Coastal Carolina 
 	Team_1_Score,23
 	Team_2_Score,34
 	Team_1_First_Downs,22
@@ -14492,8 +14492,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236025
 	Game_Date,12/2020
-	Team_1,Kansas State Wildcats
-	Team_2,Iowa State Cyclones
+	Team_1,Kansas State 
+	Team_2,Iowa State 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,9
@@ -14530,8 +14530,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249410
 	Game_Date,12/2020
-	Team_1,Usc Trojans
-	Team_2,Utah Utes
+	Team_1,USC 
+	Team_2,Utah 
 	Team_1_Score,33
 	Team_2_Score,17
 	Team_1_First_Downs,17
@@ -14568,8 +14568,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234647
 	Game_Date,12/2020
-	Team_1,Liberty Flames
-	Team_2,Nc State Wolfpack
+	Team_1,Liberty 
+	Team_2,NC State 
 	Team_1_Score,14
 	Team_2_Score,15
 	Team_1_First_Downs,17
@@ -14606,8 +14606,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237137
 	Game_Date,12/2020
-	Team_1,Tennessee Volunteers
-	Team_2,Auburn Tigers
+	Team_1,Tennessee 
+	Team_2,Auburn 
 	Team_1_Score,17
 	Team_2_Score,30
 	Team_1_First_Downs,28
@@ -14644,8 +14644,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212519
 	Game_Date,12/2020
-	Team_1,East Carolina Pirates
-	Team_2,Temple Owls
+	Team_1,East Carolina 
+	Team_2,Temple 
 	Team_1_Score,28
 	Team_2_Score,3
 	Team_1_First_Downs,16
@@ -14682,8 +14682,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215334
 	Game_Date,12/2020
-	Team_1,Arkansas State Red Wolves
-	Team_2,Texas State Bobcats
+	Team_1,Arkansas State 
+	Team_2,Texas State 
 	Team_1_Score,45
 	Team_2_Score,47
 	Team_1_First_Downs,30
@@ -14720,8 +14720,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401235975
 	Game_Date,12/2020
-	Team_1,Georgia Southern Eagles
-	Team_2,Army Black Knights
+	Team_1,Georgia Southern 
+	Team_2,Army 
 	Team_1_Score,27
 	Team_2_Score,28
 	Team_1_First_Downs,12
@@ -14758,8 +14758,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237136
 	Game_Date,12/2020
-	Team_1,Lsu Tigers
-	Team_2,Arkansas Razorbacks
+	Team_1,LSU 
+	Team_2,Arkansas 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,24
@@ -14796,8 +14796,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247321
 	Game_Date,12/2020
-	Team_1,Illinois Fighting Illini
-	Team_2,Nebraska Cornhuskers
+	Team_1,Illinois 
+	Team_2,Nebraska 
 	Team_1_Score,41
 	Team_2_Score,23
 	Team_1_First_Downs,25
@@ -14834,8 +14834,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247374
 	Game_Date,12/2020
-	Team_1,Stephen F Austin Lumberjacks
-	Team_2,Memphis Tigers
+	Team_1,Stephen F. Austin 
+	Team_2,Memphis 
 	Team_1_Score,14
 	Team_2_Score,56
 	Team_1_First_Downs,11
@@ -14872,8 +14872,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207181
 	Game_Date,12/2020
-	Team_1,Florida International Panthers
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,Florida International 
+	Team_2,Western Kentucky 
 	Team_1_Score,21
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -14910,8 +14910,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207184
 	Game_Date,12/2020
-	Team_1,Rice Owls
-	Team_2,North Texas Mean Green
+	Team_1,Rice 
+	Team_2,North Texas 
 	Team_1_Score,17
 	Team_2_Score,27
 	Team_1_First_Downs,23
@@ -14948,8 +14948,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207185
 	Game_Date,12/2020
-	Team_1,Utsa Roadrunners
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,UTSA 
+	Team_2,Southern Mississippi 
 	Team_1_Score,23
 	Team_2_Score,20
 	Team_1_First_Downs,16
@@ -14986,8 +14986,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215335
 	Game_Date,12/2020
-	Team_1,Georgia State Panthers
-	Team_2,South Alabama Jaguars
+	Team_1,Georgia State 
+	Team_2,South Alabama 
 	Team_1_Score,31
 	Team_2_Score,14
 	Team_1_First_Downs,19
@@ -15024,8 +15024,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401240641
 	Game_Date,12/2020
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Troy Trojans
+	Team_1,Middle Tennessee 
+	Team_2,Troy 
 	Team_1_Score,20
 	Team_2_Score,17
 	Team_1_First_Downs,23
@@ -15062,8 +15062,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247327
 	Game_Date,12/2020
-	Team_1,Iowa Hawkeyes
-	Team_2,Penn State Nittany Lions
+	Team_1,Iowa 
+	Team_2,Penn State 
 	Team_1_Score,41
 	Team_2_Score,21
 	Team_1_First_Downs,24
@@ -15100,8 +15100,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249019
 	Game_Date,12/2020
-	Team_1,San Diego State Aztecs
-	Team_2,Nevada Wolf Pack
+	Team_1,San Diego State 
+	Team_2,Nevada 
 	Team_1_Score,21
 	Team_2_Score,26
 	Team_1_First_Downs,16
@@ -15138,8 +15138,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249411
 	Game_Date,12/2020
-	Team_1,California Golden Bears
-	Team_2,Oregon State Beavers
+	Team_1,California 
+	Team_2,Oregon State 
 	Team_1_Score,27
 	Team_2_Score,31
 	Team_1_First_Downs,24
@@ -15176,8 +15176,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234648
 	Game_Date,12/2020
-	Team_1,Virginia Tech Hokies
-	Team_2,Pittsburgh Panthers
+	Team_1,Virginia Tech 
+	Team_2,Pittsburgh 
 	Team_1_Score,14
 	Team_2_Score,47
 	Team_1_First_Downs,17
@@ -15214,8 +15214,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248275
 	Game_Date,12/2020
-	Team_1,Abilene Christian Wildcats
-	Team_2,Virginia Cavaliers
+	Team_1,Abilene Christian 
+	Team_2,Virginia 
 	Team_1_Score,15
 	Team_2_Score,55
 	Team_1_First_Downs,22
@@ -15252,8 +15252,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237141
 	Game_Date,12/2020
-	Team_1,Missouri Tigers
-	Team_2,South Carolina Gamecocks
+	Team_1,Missouri 
+	Team_2,South Carolina 
 	Team_1_Score,17
 	Team_2_Score,10
 	Team_1_First_Downs,19
@@ -15290,8 +15290,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247324
 	Game_Date,12/2020
-	Team_1,Michigan Wolverines
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Michigan 
+	Team_2,Rutgers 
 	Team_1_Score,48
 	Team_2_Score,42
 	Team_1_First_Downs,29
@@ -15328,8 +15328,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249413
 	Game_Date,12/2020
-	Team_1,Arizona Wildcats
-	Team_2,Washington Huskies
+	Team_1,Arizona 
+	Team_2,Washington 
 	Team_1_Score,27
 	Team_2_Score,44
 	Team_1_First_Downs,22
@@ -15366,8 +15366,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249017
 	Game_Date,12/2020
-	Team_1,Boise State Broncos
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,Boise State 
+	Team_2,Hawai'i 
 	Team_1_Score,40
 	Team_2_Score,32
 	Team_1_First_Downs,21
@@ -15494,8 +15494,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249025
 	Game_Date,13/2020
-	Team_1,New Mexico Lobos
-	Team_2,Utah State Aggies
+	Team_1,New Mexico 
+	Team_2,Utah State 
 	Team_1_Score,27
 	Team_2_Score,41
 	Team_1_First_Downs,25
@@ -15538,8 +15538,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234650
 	Game_Date,13/2020
-	Team_1,Notre Dame Fighting Irish
-	Team_2,North Carolina Tar Heels
+	Team_1,Notre Dame 
+	Team_2,North Carolina 
 	Team_1_Score,31
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -15576,8 +15576,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236029
 	Game_Date,13/2020
-	Team_1,Iowa State Cyclones
-	Team_2,Texas Longhorns
+	Team_1,Iowa State 
+	Team_2,Texas 
 	Team_1_Score,23
 	Team_2_Score,20
 	Team_1_First_Downs,25
@@ -15614,8 +15614,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249418
 	Game_Date,13/2020
-	Team_1,Oregon Ducks
-	Team_2,Oregon State Beavers
+	Team_1,Oregon 
+	Team_2,Oregon State 
 	Team_1_Score,38
 	Team_2_Score,41
 	Team_1_First_Downs,23
@@ -15652,8 +15652,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247332
 	Game_Date,13/2020
-	Team_1,Nebraska Cornhuskers
-	Team_2,Iowa Hawkeyes
+	Team_1,Nebraska 
+	Team_2,Iowa 
 	Team_1_Score,20
 	Team_2_Score,26
 	Team_1_First_Downs,20
@@ -15690,8 +15690,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401251926
 	Game_Date,13/2020
-	Team_1,Umass Minutemen
-	Team_2,Liberty Flames
+	Team_1,UMass 
+	Team_2,Liberty 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,12
@@ -15728,8 +15728,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212483
 	Game_Date,13/2020
-	Team_1,Ucf Knights
-	Team_2,South Florida Bulls
+	Team_1,UCF 
+	Team_2,South Florida 
 	Team_1_Score,58
 	Team_2_Score,46
 	Team_1_First_Downs,28
@@ -15766,8 +15766,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249028
 	Game_Date,13/2020
-	Team_1,Wyoming Cowboys
-	Team_2,Unlv Rebels
+	Team_1,Wyoming 
+	Team_2,UNLV 
 	Team_1_Score,45
 	Team_2_Score,14
 	Team_1_First_Downs,24
@@ -15804,8 +15804,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249874
 	Game_Date,13/2020
-	Team_1,Central Michigan Chippewas
-	Team_2,Eastern Michigan Eagles
+	Team_1,Central Michigan 
+	Team_2,Eastern Michigan 
 	Team_1_Score,31
 	Team_2_Score,23
 	Team_1_First_Downs,28
@@ -15842,8 +15842,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249417
 	Game_Date,13/2020
-	Team_1,Stanford Cardinal
-	Team_2,California Golden Bears
+	Team_1,Stanford 
+	Team_2,California 
 	Team_1_Score,24
 	Team_2_Score,23
 	Team_1_First_Downs,16
@@ -15892,8 +15892,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237142
 	Game_Date,13/2020
-	Team_1,Auburn Tigers
-	Team_2,Alabama Crimson Tide
+	Team_1,Auburn 
+	Team_2,Alabama 
 	Team_1_Score,13
 	Team_2_Score,42
 	Team_1_First_Downs,20
@@ -15930,8 +15930,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234651
 	Game_Date,13/2020
-	Team_1,Pittsburgh Panthers
-	Team_2,Clemson Tigers
+	Team_1,Pittsburgh 
+	Team_2,Clemson 
 	Team_1_Score,17
 	Team_2_Score,52
 	Team_1_First_Downs,12
@@ -15968,8 +15968,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237146
 	Game_Date,13/2020
-	Team_1,Lsu Tigers
-	Team_2,Texas Am Aggies
+	Team_1,LSU 
+	Team_2,Texas A&M 
 	Team_1_Score,7
 	Team_2_Score,20
 	Team_1_First_Downs,14
@@ -16006,8 +16006,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237144
 	Game_Date,13/2020
-	Team_1,Kentucky Wildcats
-	Team_2,Florida Gators
+	Team_1,Kentucky 
+	Team_2,Florida 
 	Team_1_Score,10
 	Team_2_Score,34
 	Team_1_First_Downs,15
@@ -16044,8 +16044,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247330
 	Game_Date,13/2020
-	Team_1,Northwestern Wildcats
-	Team_2,Michigan State Spartans
+	Team_1,Northwestern 
+	Team_2,Michigan State 
 	Team_1_Score,20
 	Team_2_Score,29
 	Team_1_First_Downs,18
@@ -16082,8 +16082,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237145
 	Game_Date,13/2020
-	Team_1,Georgia Bulldogs
-	Team_2,South Carolina Gamecocks
+	Team_1,Georgia 
+	Team_2,South Carolina 
 	Team_1_Score,45
 	Team_2_Score,16
 	Team_1_First_Downs,24
@@ -16120,8 +16120,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247329
 	Game_Date,13/2020
-	Team_1,Maryland Terrapins
-	Team_2,Indiana Hoosiers
+	Team_1,Maryland 
+	Team_2,Indiana 
 	Team_1_Score,11
 	Team_2_Score,27
 	Team_1_First_Downs,16
@@ -16158,8 +16158,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215338
 	Game_Date,13/2020
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Texas State Bobcats
+	Team_1,Coastal Carolina 
+	Team_2,Texas State 
 	Team_1_Score,49
 	Team_2_Score,14
 	Team_1_First_Downs,32
@@ -16196,8 +16196,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236032
 	Game_Date,13/2020
-	Team_1,Texas Tech Red Raiders
-	Team_2,Oklahoma State Cowboys
+	Team_1,Texas Tech 
+	Team_2,Oklahoma State 
 	Team_1_Score,44
 	Team_2_Score,50
 	Team_1_First_Downs,26
@@ -16234,8 +16234,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401212513
 	Game_Date,13/2020
-	Team_1,Smu Mustangs
-	Team_2,East Carolina Pirates
+	Team_1,SMU 
+	Team_2,East Carolina 
 	Team_1_Score,38
 	Team_2_Score,52
 	Team_1_First_Downs,26
@@ -16272,8 +16272,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215339
 	Game_Date,13/2020
-	Team_1,Georgia Southern Eagles
-	Team_2,Georgia State Panthers
+	Team_1,Georgia Southern 
+	Team_2,Georgia State 
 	Team_1_Score,24
 	Team_2_Score,30
 	Team_1_First_Downs,13
@@ -16310,8 +16310,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234655
 	Game_Date,13/2020
-	Team_1,Nc State Wolfpack
-	Team_2,Syracuse Orange
+	Team_1,NC State 
+	Team_2,Syracuse 
 	Team_1_Score,36
 	Team_2_Score,29
 	Team_1_First_Downs,27
@@ -16348,8 +16348,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237143
 	Game_Date,13/2020
-	Team_1,Vanderbilt Commodores
-	Team_2,Missouri Tigers
+	Team_1,Vanderbilt 
+	Team_2,Missouri 
 	Team_1_Score,0
 	Team_2_Score,41
 	Team_1_First_Downs,13
@@ -16386,8 +16386,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247333
 	Game_Date,13/2020
-	Team_1,Penn State Nittany Lions
-	Team_2,Michigan Wolverines
+	Team_1,Penn State 
+	Team_2,Michigan 
 	Team_1_Score,27
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -16424,8 +16424,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249873
 	Game_Date,13/2020
-	Team_1,Ball State Cardinals
-	Team_2,Toledo Rockets
+	Team_1,Ball State 
+	Team_2,Toledo 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,28
@@ -16462,8 +16462,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249875
 	Game_Date,13/2020
-	Team_1,Northern Illinois Huskies
-	Team_2,Western Michigan Broncos
+	Team_1,Northern Illinois 
+	Team_2,Western Michigan 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,18
@@ -16500,8 +16500,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249876
 	Game_Date,13/2020
-	Team_1,Bowling Green Falcons
-	Team_2,Ohio Bobcats
+	Team_1,Bowling Green 
+	Team_2,Ohio 
 	Team_1_Score,10
 	Team_2_Score,52
 	Team_1_First_Downs,12
@@ -16538,8 +16538,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249877
 	Game_Date,13/2020
-	Team_1,Kent State Golden Flashes
-	Team_2,Buffalo Bulls
+	Team_1,Kent State 
+	Team_2,Buffalo 
 	Team_1_Score,41
 	Team_2_Score,70
 	Team_1_First_Downs,30
@@ -16576,8 +16576,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249892
 	Game_Date,13/2020
-	Team_1,Miami Oh Redhawks
-	Team_2,Akron Zips
+	Team_1,Miami (OH) 
+	Team_2,Akron 
 	Team_1_Score,38
 	Team_2_Score,7
 	Team_1_First_Downs,17
@@ -16614,8 +16614,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207191
 	Game_Date,13/2020
-	Team_1,North Texas Mean Green
-	Team_2,Utsa Roadrunners
+	Team_1,North Texas 
+	Team_2,UTSA 
 	Team_1_Score,17
 	Team_2_Score,49
 	Team_1_First_Downs,19
@@ -16652,8 +16652,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215337
 	Game_Date,13/2020
-	Team_1,South Alabama Jaguars
-	Team_2,Arkansas State Red Wolves
+	Team_1,South Alabama 
+	Team_2,Arkansas State 
 	Team_1_Score,38
 	Team_2_Score,31
 	Team_1_First_Downs,25
@@ -16690,8 +16690,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215340
 	Game_Date,13/2020
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Ul Monroe Warhawks
+	Team_1,Louisiana 
+	Team_2,UL Monroe 
 	Team_1_Score,70
 	Team_2_Score,20
 	Team_1_First_Downs,26
@@ -16728,8 +16728,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215336
 	Game_Date,13/2020
-	Team_1,Troy Trojans
-	Team_2,Appalachian State Mountaineers
+	Team_1,Troy 
+	Team_2,Appalachian State 
 	Team_1_Score,10
 	Team_2_Score,47
 	Team_1_First_Downs,13
@@ -16766,8 +16766,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234649
 	Game_Date,13/2020
-	Team_1,Louisville Cardinals
-	Team_2,Boston College Eagles
+	Team_1,Louisville 
+	Team_2,Boston College 
 	Team_1_Score,27
 	Team_2_Score,34
 	Team_1_First_Downs,23
@@ -16804,8 +16804,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237147
 	Game_Date,13/2020
-	Team_1,Mississippi State Bulldogs
-	Team_2,Ole Miss Rebels
+	Team_1,Mississippi State 
+	Team_2,Ole Miss 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,23
@@ -16842,8 +16842,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247328
 	Game_Date,13/2020
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Purdue Boilermakers
+	Team_1,Rutgers 
+	Team_2,Purdue 
 	Team_1_Score,37
 	Team_2_Score,30
 	Team_1_First_Downs,26
@@ -16880,8 +16880,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401265734
 	Game_Date,13/2020
-	Team_1,San Diego State Aztecs
-	Team_2,Colorado Buffaloes
+	Team_1,San Diego State 
+	Team_2,Colorado 
 	Team_1_Score,10
 	Team_2_Score,20
 	Team_1_First_Downs,10
@@ -16918,8 +16918,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234652
 	Game_Date,13/2020
-	Team_1,Duke Blue Devils
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Duke 
+	Team_2,Georgia Tech 
 	Team_1_Score,33
 	Team_2_Score,56
 	Team_1_First_Downs,23
@@ -16956,8 +16956,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236028
 	Game_Date,13/2020
-	Team_1,Kansas State Wildcats
-	Team_2,Baylor Bears
+	Team_1,Kansas State 
+	Team_2,Baylor 
 	Team_1_Score,31
 	Team_2_Score,32
 	Team_1_First_Downs,14
@@ -16994,8 +16994,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401264080
 	Game_Date,13/2020
-	Team_1,Memphis Tigers
-	Team_2,Navy Midshipmen
+	Team_1,Memphis 
+	Team_2,Navy 
 	Team_1_Score,10
 	Team_2_Score,7
 	Team_1_First_Downs,12
@@ -17032,8 +17032,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401265458
 	Game_Date,13/2020
-	Team_1,Utah Utes
-	Team_2,Washington Huskies
+	Team_1,Utah 
+	Team_2,Washington 
 	Team_1_Score,21
 	Team_2_Score,24
 	Team_1_First_Downs,19
@@ -17070,8 +17070,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236030
 	Game_Date,13/2020
-	Team_1,Tcu Horned Frogs
-	Team_2,Kansas Jayhawks
+	Team_1,TCU 
+	Team_2,Kansas 
 	Team_1_Score,59
 	Team_2_Score,23
 	Team_1_First_Downs,16
@@ -17108,8 +17108,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249421
 	Game_Date,13/2020
-	Team_1,Arizona Wildcats
-	Team_2,Ucla Bruins
+	Team_1,Arizona 
+	Team_2,UCLA 
 	Team_1_Score,10
 	Team_2_Score,27
 	Team_1_First_Downs,17
@@ -17146,8 +17146,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249024
 	Game_Date,13/2020
-	Team_1,Nevada Wolf Pack
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,Nevada 
+	Team_2,Hawai'i 
 	Team_1_Score,21
 	Team_2_Score,24
 	Team_1_First_Downs,23
@@ -17250,8 +17250,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401265703
 	Game_Date,14/2020
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,North Texas Mean Green
+	Team_1,Louisiana Tech 
+	Team_2,North Texas 
 	Team_1_Score,42
 	Team_2_Score,31
 	Team_1_First_Downs,24
@@ -17288,8 +17288,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249029
 	Game_Date,14/2020
-	Team_1,Air Force Falcons
-	Team_2,Utah State Aggies
+	Team_1,Air Force 
+	Team_2,Utah State 
 	Team_1_Score,35
 	Team_2_Score,7
 	Team_1_First_Downs,24
@@ -17326,8 +17326,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401252117
 	Game_Date,14/2020
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Appalachian State Mountaineers
+	Team_1,Louisiana 
+	Team_2,Appalachian State 
 	Team_1_Score,24
 	Team_2_Score,21
 	Team_1_First_Downs,18
@@ -17376,8 +17376,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401265817
 	Game_Date,14/2020
-	Team_1,Alabama Crimson Tide
-	Team_2,Lsu Tigers
+	Team_1,Alabama 
+	Team_2,LSU 
 	Team_1_Score,55
 	Team_2_Score,17
 	Team_1_First_Downs,32
@@ -17414,8 +17414,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234662
 	Game_Date,14/2020
-	Team_1,Syracuse Orange
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Syracuse 
+	Team_2,Notre Dame 
 	Team_1_Score,21
 	Team_2_Score,45
 	Team_1_First_Downs,15
@@ -17452,8 +17452,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234657
 	Game_Date,14/2020
-	Team_1,Clemson Tigers
-	Team_2,Virginia Tech Hokies
+	Team_1,Clemson 
+	Team_2,Virginia Tech 
 	Team_1_Score,45
 	Team_2_Score,10
 	Team_1_First_Downs,19
@@ -17490,8 +17490,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247340
 	Game_Date,14/2020
-	Team_1,Ohio State Buckeyes
-	Team_2,Michigan State Spartans
+	Team_1,Ohio State 
+	Team_2,Michigan State 
 	Team_1_Score,52
 	Team_2_Score,12
 	Team_1_First_Downs,26
@@ -17528,8 +17528,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237150
 	Game_Date,14/2020
-	Team_1,Texas Am Aggies
-	Team_2,Auburn Tigers
+	Team_1,Texas A&M 
+	Team_2,Auburn 
 	Team_1_Score,31
 	Team_2_Score,20
 	Team_1_First_Downs,29
@@ -17566,8 +17566,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237151
 	Game_Date,14/2020
-	Team_1,Florida Gators
-	Team_2,Tennessee Volunteers
+	Team_1,Florida 
+	Team_2,Tennessee 
 	Team_1_Score,31
 	Team_2_Score,19
 	Team_1_First_Downs,24
@@ -17604,8 +17604,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236034
 	Game_Date,14/2020
-	Team_1,West Virginia Mountaineers
-	Team_2,Iowa State Cyclones
+	Team_1,West Virginia 
+	Team_2,Iowa State 
 	Team_1_Score,6
 	Team_2_Score,42
 	Team_1_First_Downs,16
@@ -17642,8 +17642,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401266134
 	Game_Date,14/2020
-	Team_1,Miami Hurricanes
-	Team_2,Duke Blue Devils
+	Team_1,Miami 
+	Team_2,Duke 
 	Team_1_Score,48
 	Team_2_Score,0
 	Team_1_First_Downs,24
@@ -17680,8 +17680,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236033
 	Game_Date,14/2020
-	Team_1,Baylor Bears
-	Team_2,Oklahoma Sooners
+	Team_1,Baylor 
+	Team_2,Oklahoma 
 	Team_1_Score,14
 	Team_2_Score,27
 	Team_1_First_Downs,19
@@ -17718,8 +17718,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247338
 	Game_Date,14/2020
-	Team_1,Indiana Hoosiers
-	Team_2,Wisconsin Badgers
+	Team_1,Indiana 
+	Team_2,Wisconsin 
 	Team_1_Score,14
 	Team_2_Score,6
 	Team_1_First_Downs,15
@@ -17756,8 +17756,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401237514
 	Game_Date,14/2020
-	Team_1,Byu Cougars
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,BYU 
+	Team_2,Coastal Carolina 
 	Team_1_Score,17
 	Team_2_Score,22
 	Team_1_First_Downs,21
@@ -17794,8 +17794,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236037
 	Game_Date,14/2020
-	Team_1,Oklahoma State Cowboys
-	Team_2,Tcu Horned Frogs
+	Team_1,Oklahoma State 
+	Team_2,TCU 
 	Team_1_Score,22
 	Team_2_Score,29
 	Team_1_First_Downs,16
@@ -17832,8 +17832,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401248781
 	Game_Date,14/2020
-	Team_1,Western Carolina Catamounts
-	Team_2,North Carolina Tar Heels
+	Team_1,Western Carolina 
+	Team_2,North Carolina 
 	Team_1_Score,9
 	Team_2_Score,49
 	Team_1_First_Downs,13
@@ -17870,8 +17870,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247337
 	Game_Date,14/2020
-	Team_1,Iowa Hawkeyes
-	Team_2,Illinois Fighting Illini
+	Team_1,Iowa 
+	Team_2,Illinois 
 	Team_1_Score,35
 	Team_2_Score,21
 	Team_1_First_Downs,22
@@ -17908,8 +17908,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401257812
 	Game_Date,14/2020
-	Team_1,Rice Owls
-	Team_2,Marshall Thundering Herd
+	Team_1,Rice 
+	Team_2,Marshall 
 	Team_1_Score,20
 	Team_2_Score,0
 	Team_1_First_Downs,17
@@ -17946,8 +17946,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249424
 	Game_Date,14/2020
-	Team_1,Stanford Cardinal
-	Team_2,Washington Huskies
+	Team_1,Stanford 
+	Team_2,Washington 
 	Team_1_Score,31
 	Team_2_Score,26
 	Team_1_First_Downs,23
@@ -17984,8 +17984,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249423
 	Game_Date,14/2020
-	Team_1,Oregon Ducks
-	Team_2,California Golden Bears
+	Team_1,Oregon 
+	Team_2,California 
 	Team_1_Score,17
 	Team_2_Score,21
 	Team_1_First_Downs,19
@@ -18022,8 +18022,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401264083
 	Game_Date,14/2020
-	Team_1,Tulsa Golden Hurricane
-	Team_2,Navy Midshipmen
+	Team_1,Tulsa 
+	Team_2,Navy 
 	Team_1_Score,19
 	Team_2_Score,6
 	Team_1_First_Downs,15
@@ -18060,8 +18060,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236035
 	Game_Date,14/2020
-	Team_1,Kansas Jayhawks
-	Team_2,Texas Tech Red Raiders
+	Team_1,Kansas 
+	Team_2,Texas Tech 
 	Team_1_Score,13
 	Team_2_Score,16
 	Team_1_First_Downs,14
@@ -18098,8 +18098,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401236036
 	Game_Date,14/2020
-	Team_1,Texas Longhorns
-	Team_2,Kansas State Wildcats
+	Team_1,Texas 
+	Team_2,Kansas State 
 	Team_1_Score,69
 	Team_2_Score,31
 	Team_1_First_Downs,26
@@ -18136,8 +18136,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247335
 	Game_Date,14/2020
-	Team_1,Nebraska Cornhuskers
-	Team_2,Purdue Boilermakers
+	Team_1,Nebraska 
+	Team_2,Purdue 
 	Team_1_Score,37
 	Team_2_Score,27
 	Team_1_First_Downs,20
@@ -18180,8 +18180,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401257813
 	Game_Date,15/2020
-	Team_1,Florida Atlantic Owls
-	Team_2,Southern Mississippi Golden Eagles
+	Team_1,Florida Atlantic 
+	Team_2,Southern Mississippi 
 	Team_1_Score,31
 	Team_2_Score,45
 	Team_1_First_Downs,19
@@ -18218,8 +18218,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401261245
 	Game_Date,15/2020
-	Team_1,Pittsburgh Panthers
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Pittsburgh 
+	Team_2,Georgia Tech 
 	Team_1_Score,34
 	Team_2_Score,20
 	Team_1_First_Downs,28
@@ -18256,8 +18256,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401257816
 	Game_Date,15/2020
-	Team_1,North Texas Mean Green
-	Team_2,Utep Miners
+	Team_1,North Texas 
+	Team_2,UTEP 
 	Team_1_Score,45
 	Team_2_Score,43
 	Team_1_First_Downs,24
@@ -18294,8 +18294,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249429
 	Game_Date,15/2020
-	Team_1,Arizona State Sun Devils
-	Team_2,Arizona Wildcats
+	Team_1,Arizona State 
+	Team_2,Arizona 
 	Team_1_Score,70
 	Team_2_Score,7
 	Team_1_First_Downs,17
@@ -18332,8 +18332,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249037
 	Game_Date,15/2020
-	Team_1,Nevada Wolf Pack
-	Team_2,San Jose State Spartans
+	Team_1,Nevada 
+	Team_2,San José State 
 	Team_1_Score,20
 	Team_2_Score,30
 	Team_1_First_Downs,24
@@ -18376,8 +18376,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401267164
 	Game_Date,15/2020
-	Team_1,Alabama Crimson Tide
-	Team_2,Arkansas Razorbacks
+	Team_1,Alabama 
+	Team_2,Arkansas 
 	Team_1_Score,52
 	Team_2_Score,3
 	Team_1_First_Downs,24
@@ -18414,8 +18414,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401251100
 	Game_Date,15/2020
-	Team_1,Lsu Tigers
-	Team_2,Florida Gators
+	Team_1,LSU 
+	Team_2,Florida 
 	Team_1_Score,37
 	Team_2_Score,34
 	Team_1_First_Downs,24
@@ -18452,8 +18452,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401267161
 	Game_Date,15/2020
-	Team_1,Georgia Bulldogs
-	Team_2,Missouri Tigers
+	Team_1,Georgia 
+	Team_2,Missouri 
 	Team_1_Score,49
 	Team_2_Score,14
 	Team_1_First_Downs,28
@@ -18490,8 +18490,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234661
 	Game_Date,15/2020
-	Team_1,North Carolina Tar Heels
-	Team_2,Miami Hurricanes
+	Team_1,North Carolina 
+	Team_2,Miami 
 	Team_1_Score,62
 	Team_2_Score,26
 	Team_1_First_Downs,31
@@ -18528,8 +18528,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401259671
 	Game_Date,15/2020
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Troy Trojans
+	Team_1,Coastal Carolina 
+	Team_2,Troy 
 	Team_1_Score,42
 	Team_2_Score,38
 	Team_1_First_Downs,29
@@ -18566,8 +18566,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247344
 	Game_Date,15/2020
-	Team_1,Illinois Fighting Illini
-	Team_2,Northwestern Wildcats
+	Team_1,Illinois 
+	Team_2,Northwestern 
 	Team_1_Score,10
 	Team_2_Score,28
 	Team_1_First_Downs,14
@@ -18604,8 +18604,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249431
 	Game_Date,15/2020
-	Team_1,Usc Trojans
-	Team_2,Ucla Bruins
+	Team_1,USC 
+	Team_2,UCLA 
 	Team_1_Score,43
 	Team_2_Score,38
 	Team_1_First_Downs,24
@@ -18642,8 +18642,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247347
 	Game_Date,15/2020
-	Team_1,Wisconsin Badgers
-	Team_2,Iowa Hawkeyes
+	Team_1,Wisconsin 
+	Team_2,Iowa 
 	Team_1_Score,7
 	Team_2_Score,28
 	Team_1_First_Downs,11
@@ -18680,8 +18680,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249435
 	Game_Date,15/2020
-	Team_1,San Diego State Aztecs
-	Team_2,Byu Cougars
+	Team_1,San Diego State 
+	Team_2,BYU 
 	Team_1_Score,14
 	Team_2_Score,28
 	Team_1_First_Downs,23
@@ -18718,8 +18718,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249428
 	Game_Date,15/2020
-	Team_1,Utah Utes
-	Team_2,Colorado Buffaloes
+	Team_1,Utah 
+	Team_2,Colorado 
 	Team_1_Score,38
 	Team_2_Score,21
 	Team_1_First_Downs,22
@@ -18756,8 +18756,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401250713
 	Game_Date,15/2020
-	Team_1,Oklahoma State Cowboys
-	Team_2,Baylor Bears
+	Team_1,Oklahoma State 
+	Team_2,Baylor 
 	Team_1_Score,42
 	Team_2_Score,3
 	Team_1_First_Downs,27
@@ -18794,8 +18794,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247342
 	Game_Date,15/2020
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Maryland Terrapins
+	Team_1,Rutgers 
+	Team_2,Maryland 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,24
@@ -18832,8 +18832,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247345
 	Game_Date,15/2020
-	Team_1,Minnesota Golden Gophers
-	Team_2,Nebraska Cornhuskers
+	Team_1,Minnesota 
+	Team_2,Nebraska 
 	Team_1_Score,24
 	Team_2_Score,17
 	Team_1_First_Downs,19
@@ -18870,8 +18870,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401247346
 	Game_Date,15/2020
-	Team_1,Michigan State Spartans
-	Team_2,Penn State Nittany Lions
+	Team_1,Michigan State 
+	Team_2,Penn State 
 	Team_1_Score,24
 	Team_2_Score,39
 	Team_1_First_Downs,21
@@ -18908,8 +18908,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249884
 	Game_Date,15/2020
-	Team_1,Northern Illinois Huskies
-	Team_2,Eastern Michigan Eagles
+	Team_1,Northern Illinois 
+	Team_2,Eastern Michigan 
 	Team_1_Score,33
 	Team_2_Score,41
 	Team_1_First_Downs,25
@@ -18946,8 +18946,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249885
 	Game_Date,15/2020
-	Team_1,Western Michigan Broncos
-	Team_2,Ball State Cardinals
+	Team_1,Western Michigan 
+	Team_2,Ball State 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,34
@@ -18984,8 +18984,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401266696
 	Game_Date,15/2020
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Louisville Cardinals
+	Team_1,Wake Forest 
+	Team_2,Louisville 
 	Team_1_Score,21
 	Team_2_Score,45
 	Team_1_First_Downs,17
@@ -19022,8 +19022,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401257815
 	Game_Date,15/2020
-	Team_1,Uab Blazers
-	Team_2,Rice Owls
+	Team_1,UAB 
+	Team_2,Rice 
 	Team_1_Score,21
 	Team_2_Score,16
 	Team_1_First_Downs,13
@@ -19060,8 +19060,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249886
 	Game_Date,15/2020
-	Team_1,Akron Zips
-	Team_2,Buffalo Bulls
+	Team_1,Akron 
+	Team_2,Buffalo 
 	Team_1_Score,7
 	Team_2_Score,56
 	Team_1_First_Downs,10
@@ -19098,8 +19098,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401207203
 	Game_Date,15/2020
-	Team_1,Navy Midshipmen
-	Team_2,Army Black Knights
+	Team_1,Navy 
+	Team_2,Army 
 	Team_1_Score,0
 	Team_2_Score,15
 	Team_1_First_Downs,4
@@ -19136,8 +19136,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249883
 	Game_Date,15/2020
-	Team_1,Central Michigan Chippewas
-	Team_2,Toledo Rockets
+	Team_1,Central Michigan 
+	Team_2,Toledo 
 	Team_1_Score,23
 	Team_2_Score,24
 	Team_1_First_Downs,15
@@ -19174,8 +19174,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401264084
 	Game_Date,15/2020
-	Team_1,Houston Cougars
-	Team_2,Memphis Tigers
+	Team_1,Houston 
+	Team_2,Memphis 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,26
@@ -19212,8 +19212,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401266694
 	Game_Date,15/2020
-	Team_1,Duke Blue Devils
-	Team_2,Florida State Seminoles
+	Team_1,Duke 
+	Team_2,Florida State 
 	Team_1_Score,35
 	Team_2_Score,56
 	Team_1_First_Downs,25
@@ -19250,8 +19250,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401267163
 	Game_Date,15/2020
-	Team_1,Tennessee Volunteers
-	Team_2,Vanderbilt Commodores
+	Team_1,Tennessee 
+	Team_2,Vanderbilt 
 	Team_1_Score,42
 	Team_2_Score,17
 	Team_1_First_Downs,24
@@ -19288,8 +19288,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401215309
 	Game_Date,15/2020
-	Team_1,Appalachian State Mountaineers
-	Team_2,Georgia Southern Eagles
+	Team_1,Appalachian State 
+	Team_2,Georgia Southern 
 	Team_1_Score,34
 	Team_2_Score,26
 	Team_1_First_Downs,17
@@ -19326,8 +19326,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249035
 	Game_Date,15/2020
-	Team_1,Boise State Broncos
-	Team_2,Wyoming Cowboys
+	Team_1,Boise State 
+	Team_2,Wyoming 
 	Team_1_Score,17
 	Team_2_Score,9
 	Team_1_First_Downs,17
@@ -19364,8 +19364,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401266711
 	Game_Date,15/2020
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Tcu Horned Frogs
+	Team_1,Louisiana Tech 
+	Team_2,TCU 
 	Team_1_Score,10
 	Team_2_Score,52
 	Team_1_First_Downs,15
@@ -19402,8 +19402,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401260157
 	Game_Date,15/2020
-	Team_1,Auburn Tigers
-	Team_2,Mississippi State Bulldogs
+	Team_1,Auburn 
+	Team_2,Mississippi State 
 	Team_1_Score,24
 	Team_2_Score,10
 	Team_1_First_Downs,19
@@ -19440,8 +19440,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401234572
 	Game_Date,15/2020
-	Team_1,Virginia Cavaliers
-	Team_2,Virginia Tech Hokies
+	Team_1,Virginia 
+	Team_2,Virginia Tech 
 	Team_1_Score,15
 	Team_2_Score,33
 	Team_1_First_Downs,19
@@ -19478,8 +19478,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249432
 	Game_Date,15/2020
-	Team_1,Stanford Cardinal
-	Team_2,Oregon State Beavers
+	Team_1,Stanford 
+	Team_2,Oregon State 
 	Team_1_Score,27
 	Team_2_Score,24
 	Team_1_First_Downs,23
@@ -19516,8 +19516,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249036
 	Game_Date,15/2020
-	Team_1,Fresno State Bulldogs
-	Team_2,New Mexico Lobos
+	Team_1,Fresno State 
+	Team_2,New Mexico 
 	Team_1_Score,39
 	Team_2_Score,49
 	Team_1_First_Downs,23
@@ -19554,8 +19554,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401249038
 	Game_Date,15/2020
-	Team_1,Unlv Rebels
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,UNLV 
+	Team_2,Hawai'i 
 	Team_1_Score,21
 	Team_2_Score,38
 	Team_1_First_Downs,26
