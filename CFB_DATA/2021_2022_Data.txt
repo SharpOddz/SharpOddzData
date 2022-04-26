@@ -2,8 +2,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282714
 	Game_Date,1/2021
-	Team_1,Nebraska Cornhuskers
-	Team_2,Illinois Fighting Illini
+	Team_1,Nebraska 
+	Team_2,Illinois 
 	Team_1_Score,22
 	Team_2_Score,30
 	Team_1_First_Downs,19
@@ -40,8 +40,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286187
 	Game_Date,1/2021
-	Team_1,Uconn Huskies
-	Team_2,Fresno State Bulldogs
+	Team_1,UConn 
+	Team_2,Fresno State 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,9
@@ -78,8 +78,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309833
 	Game_Date,1/2021
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,Ucla Bruins
+	Team_1,Hawai'i 
+	Team_2,UCLA 
 	Team_1_Score,10
 	Team_2_Score,44
 	Team_1_First_Downs,16
@@ -116,8 +116,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282049
 	Game_Date,1/2021
-	Team_1,Utep Miners
-	Team_2,New Mexico State Aggies
+	Team_1,UTEP 
+	Team_2,New Mexico State 
 	Team_1_Score,30
 	Team_2_Score,3
 	Team_1_First_Downs,19
@@ -154,8 +154,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310693
 	Game_Date,1/2021
-	Team_1,Southern Utah Thunderbirds
-	Team_2,San Jose State Spartans
+	Team_1,Southern Utah 
+	Team_2,San José State 
 	Team_1_Score,14
 	Team_2_Score,45
 	Team_1_First_Downs,17
@@ -192,8 +192,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282050
 	Game_Date,1/2021
-	Team_1,Uab Blazers
-	Team_2,Jacksonville State Gamecocks
+	Team_1,UAB 
+	Team_2,Jacksonville State 
 	Team_1_Score,31
 	Team_2_Score,0
 	Team_1_First_Downs,19
@@ -230,8 +230,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282789
 	Game_Date,1/2021
-	Team_1,Ohio State Buckeyes
-	Team_2,Minnesota Golden Gophers
+	Team_1,Ohio State 
+	Team_2,Minnesota 
 	Team_1_Score,45
 	Team_2_Score,31
 	Team_1_First_Downs,17
@@ -268,8 +268,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401328545
 	Game_Date,1/2021
-	Team_1,The Citadel Bulldogs
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,The Citadel 
+	Team_2,Coastal Carolina 
 	Team_1_Score,14
 	Team_2_Score,52
 	Team_1_First_Downs,16
@@ -306,8 +306,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309834
 	Game_Date,1/2021
-	Team_1,Weber State Wildcats
-	Team_2,Utah Utes
+	Team_1,Weber State 
+	Team_2,Utah 
 	Team_1_Score,17
 	Team_2_Score,40
 	Team_1_First_Downs,14
@@ -344,8 +344,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309835
 	Game_Date,1/2021
-	Team_1,Southern Utah Thunderbirds
-	Team_2,Arizona State Sun Devils
+	Team_1,Southern Utah 
+	Team_2,Arizona State 
 	Team_1_Score,14
 	Team_2_Score,41
 	Team_1_First_Downs,15
@@ -382,8 +382,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300995
 	Game_Date,1/2021
-	Team_1,Boise State Broncos
-	Team_2,Ucf Knights
+	Team_1,Boise State 
+	Team_2,UCF 
 	Team_1_Score,31
 	Team_2_Score,36
 	Team_1_First_Downs,17
@@ -420,8 +420,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309540
 	Game_Date,1/2021
-	Team_1,Western Illinois Leathernecks
-	Team_2,Ball State Cardinals
+	Team_1,Western Illinois 
+	Team_2,Ball State 
 	Team_1_Score,21
 	Team_2_Score,31
 	Team_1_First_Downs,17
@@ -458,8 +458,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309542
 	Game_Date,1/2021
-	Team_1,Wagner Seahawks
-	Team_2,Buffalo Bulls
+	Team_1,Wagner 
+	Team_2,Buffalo 
 	Team_1_Score,7
 	Team_2_Score,69
 	Team_1_First_Downs,7
@@ -496,8 +496,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282607
 	Game_Date,1/2021
-	Team_1,South Florida Bulls
-	Team_2,Nc State Wolfpack
+	Team_1,South Florida 
+	Team_2,NC State 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,15
@@ -534,8 +534,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300993
 	Game_Date,1/2021
-	Team_1,East Carolina Pirates
-	Team_2,Appalachian State Mountaineers
+	Team_1,East Carolina 
+	Team_2,Appalachian State 
 	Team_1_Score,19
 	Team_2_Score,33
 	Team_1_First_Downs,20
@@ -572,8 +572,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300994
 	Game_Date,1/2021
-	Team_1,Uc Davis Aggies
-	Team_2,Tulsa Golden Hurricane
+	Team_1,UC Davis 
+	Team_2,Tulsa 
 	Team_1_Score,19
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -610,8 +610,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281952
 	Game_Date,1/2021
-	Team_1,Bowling Green Falcons
-	Team_2,Tennessee Volunteers
+	Team_1,Bowling Green 
+	Team_2,Tennessee 
 	Team_1_Score,6
 	Team_2_Score,38
 	Team_1_First_Downs,11
@@ -648,8 +648,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282180
 	Game_Date,1/2021
-	Team_1,Ut Martin Skyhawks
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,UT Martin 
+	Team_2,Western Kentucky 
 	Team_1_Score,21
 	Team_2_Score,59
 	Team_1_First_Downs,22
@@ -686,8 +686,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310696
 	Game_Date,1/2021
-	Team_1,Houston Baptist Huskies
-	Team_2,New Mexico Lobos
+	Team_1,Houston Baptist 
+	Team_2,New Mexico 
 	Team_1_Score,17
 	Team_2_Score,27
 	Team_1_First_Downs,14
@@ -724,8 +724,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282051
 	Game_Date,1/2021
-	Team_1,Long Island University Sharks
-	Team_2,Florida International Panthers
+	Team_1,Long Island University 
+	Team_2,Florida International 
 	Team_1_Score,10
 	Team_2_Score,48
 	Team_1_First_Downs,15
@@ -762,8 +762,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310694
 	Game_Date,1/2021
-	Team_1,Eastern Washington Eagles
-	Team_2,Unlv Rebels
+	Team_1,Eastern Washington 
+	Team_2,UNLV 
 	Team_1_Score,35
 	Team_2_Score,33
 	Team_1_First_Downs,22
@@ -800,8 +800,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309937
 	Game_Date,1/2021
-	Team_1,North Carolina Tar Heels
-	Team_2,Virginia Tech Hokies
+	Team_1,North Carolina 
+	Team_2,Virginia Tech 
 	Team_1_Score,10
 	Team_2_Score,17
 	Team_1_First_Downs,18
@@ -838,8 +838,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282052
 	Game_Date,1/2021
-	Team_1,Duke Blue Devils
-	Team_2,Charlotte 49ers
+	Team_1,Duke 
+	Team_2,Charlotte 
 	Team_1_Score,28
 	Team_2_Score,31
 	Team_1_First_Downs,23
@@ -876,8 +876,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282608
 	Game_Date,1/2021
-	Team_1,Old Dominion Monarchs
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Old Dominion 
+	Team_2,Wake Forest 
 	Team_1_Score,10
 	Team_2_Score,42
 	Team_1_First_Downs,17
@@ -914,8 +914,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309541
 	Game_Date,1/2021
-	Team_1,St Francis Pa Red Flash
-	Team_2,Eastern Michigan Eagles
+	Team_1,St. Francis (PA) 
+	Team_2,Eastern Michigan 
 	Team_1_Score,15
 	Team_2_Score,35
 	Team_1_First_Downs,12
@@ -952,8 +952,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287888
 	Game_Date,1/2021
-	Team_1,South Dakota Coyotes
-	Team_2,Kansas Jayhawks
+	Team_1,South Dakota 
+	Team_2,Kansas 
 	Team_1_Score,14
 	Team_2_Score,17
 	Team_1_First_Downs,14
@@ -990,8 +990,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282782
 	Game_Date,1/2021
-	Team_1,Michigan State Spartans
-	Team_2,Northwestern Wildcats
+	Team_1,Michigan State 
+	Team_2,Northwestern 
 	Team_1_Score,38
 	Team_2_Score,21
 	Team_1_First_Downs,23
@@ -1028,8 +1028,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309836
 	Game_Date,1/2021
-	Team_1,Northern Colorado Bears
-	Team_2,Colorado Buffaloes
+	Team_1,Northern Colorado 
+	Team_2,Colorado 
 	Team_1_Score,7
 	Team_2_Score,35
 	Team_1_First_Downs,15
@@ -1066,8 +1066,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310695
 	Game_Date,1/2021
-	Team_1,South Dakota State Jackrabbits
-	Team_2,Colorado State Rams
+	Team_1,South Dakota State 
+	Team_2,Colorado State 
 	Team_1_Score,42
 	Team_2_Score,23
 	Team_1_First_Downs,22
@@ -1104,8 +1104,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281942
 	Game_Date,1/2021
-	Team_1,Alabama Crimson Tide
-	Team_2,Miami Hurricanes
+	Team_1,Alabama 
+	Team_2,Miami 
 	Team_1_Score,44
 	Team_2_Score,13
 	Team_1_First_Downs,28
@@ -1142,8 +1142,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287894
 	Game_Date,1/2021
-	Team_1,Tulane Green Wave
-	Team_2,Oklahoma Sooners
+	Team_1,Tulane 
+	Team_2,Oklahoma 
 	Team_1_Score,35
 	Team_2_Score,40
 	Team_1_First_Downs,24
@@ -1180,8 +1180,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281946
 	Game_Date,1/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Clemson Tigers
+	Team_1,Georgia 
+	Team_2,Clemson 
 	Team_1_Score,10
 	Team_2_Score,3
 	Team_1_First_Downs,15
@@ -1218,8 +1218,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282053
 	Game_Date,1/2021
-	Team_1,Kent State Golden Flashes
-	Team_2,Texas Am Aggies
+	Team_1,Kent State 
+	Team_2,Texas A&M 
 	Team_1_Score,10
 	Team_2_Score,41
 	Team_1_First_Downs,19
@@ -1256,8 +1256,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287887
 	Game_Date,1/2021
-	Team_1,Northern Iowa Panthers
-	Team_2,Iowa State Cyclones
+	Team_1,Northern Iowa 
+	Team_2,Iowa State 
 	Team_1_Score,10
 	Team_2_Score,16
 	Team_1_First_Downs,13
@@ -1294,8 +1294,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300996
 	Game_Date,1/2021
-	Team_1,Miami Oh Redhawks
-	Team_2,Cincinnati Bearcats
+	Team_1,Miami (OH) 
+	Team_2,Cincinnati 
 	Team_1_Score,14
 	Team_2_Score,49
 	Team_1_First_Downs,17
@@ -1332,8 +1332,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309838
 	Game_Date,1/2021
-	Team_1,Fresno State Bulldogs
-	Team_2,Oregon Ducks
+	Team_1,Fresno State 
+	Team_2,Oregon 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,23
@@ -1370,8 +1370,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282815
 	Game_Date,1/2021
-	Team_1,Penn State Nittany Lions
-	Team_2,Wisconsin Badgers
+	Team_1,Penn State 
+	Team_2,Wisconsin 
 	Team_1_Score,16
 	Team_2_Score,10
 	Team_1_First_Downs,11
@@ -1408,8 +1408,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281945
 	Game_Date,1/2021
-	Team_1,Florida Atlantic Owls
-	Team_2,Florida Gators
+	Team_1,Florida Atlantic 
+	Team_2,Florida 
 	Team_1_Score,14
 	Team_2_Score,35
 	Team_1_First_Downs,23
@@ -1446,8 +1446,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309842
 	Game_Date,1/2021
-	Team_1,San Jose State Spartans
-	Team_2,Usc Trojans
+	Team_1,San José State 
+	Team_2,USC 
 	Team_1_Score,7
 	Team_2_Score,30
 	Team_1_First_Downs,18
@@ -1484,8 +1484,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281948
 	Game_Date,1/2021
-	Team_1,Lsu Tigers
-	Team_2,Ucla Bruins
+	Team_1,LSU 
+	Team_2,UCLA 
 	Team_1_Score,27
 	Team_2_Score,38
 	Team_1_First_Downs,24
@@ -1522,8 +1522,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282723
 	Game_Date,1/2021
-	Team_1,Indiana Hoosiers
-	Team_2,Iowa Hawkeyes
+	Team_1,Indiana 
+	Team_2,Iowa 
 	Team_1_Score,6
 	Team_2_Score,34
 	Team_1_First_Downs,11
@@ -1560,8 +1560,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309839
 	Game_Date,1/2021
-	Team_1,Montana Grizzlies
-	Team_2,Washington Huskies
+	Team_1,Montana 
+	Team_2,Washington 
 	Team_1_Score,13
 	Team_2_Score,7
 	Team_1_First_Downs,10
@@ -1598,8 +1598,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287892
 	Game_Date,1/2021
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Texas Longhorns
+	Team_1,Louisiana 
+	Team_2,Texas 
 	Team_1_Score,18
 	Team_2_Score,38
 	Team_1_First_Downs,22
@@ -1636,8 +1636,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281947
 	Game_Date,1/2021
-	Team_1,Ul Monroe Warhawks
-	Team_2,Kentucky Wildcats
+	Team_1,UL Monroe 
+	Team_2,Kentucky 
 	Team_1_Score,10
 	Team_2_Score,45
 	Team_1_First_Downs,12
@@ -1674,8 +1674,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282609
 	Game_Date,1/2021
-	Team_1,Colgate Raiders
-	Team_2,Boston College Eagles
+	Team_1,Colgate 
+	Team_2,Boston College 
 	Team_1_Score,0
 	Team_2_Score,51
 	Team_1_First_Downs,12
@@ -1712,8 +1712,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282772
 	Game_Date,1/2021
-	Team_1,Western Michigan Broncos
-	Team_2,Michigan Wolverines
+	Team_1,Western Michigan 
+	Team_2,Michigan 
 	Team_1_Score,14
 	Team_2_Score,47
 	Team_1_First_Downs,17
@@ -1750,8 +1750,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282822
 	Game_Date,1/2021
-	Team_1,Temple Owls
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Temple 
+	Team_2,Rutgers 
 	Team_1_Score,14
 	Team_2_Score,61
 	Team_1_First_Downs,12
@@ -1788,8 +1788,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286188
 	Game_Date,1/2021
-	Team_1,Holy Cross Crusaders
-	Team_2,Uconn Huskies
+	Team_1,Holy Cross 
+	Team_2,UConn 
 	Team_1_Score,38
 	Team_2_Score,28
 	Team_1_First_Downs,19
@@ -1826,8 +1826,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287889
 	Game_Date,1/2021
-	Team_1,Stanford Cardinal
-	Team_2,Kansas State Wildcats
+	Team_1,Stanford 
+	Team_2,Kansas State 
 	Team_1_Score,7
 	Team_2_Score,24
 	Team_1_First_Downs,14
@@ -1864,8 +1864,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309601
 	Game_Date,1/2021
-	Team_1,Army Black Knights
-	Team_2,Georgia State Panthers
+	Team_1,Army 
+	Team_2,Georgia State 
 	Team_1_Score,43
 	Team_2_Score,10
 	Team_1_First_Downs,20
@@ -1902,8 +1902,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401327913
 	Game_Date,1/2021
-	Team_1,Fordham Rams
-	Team_2,Nebraska Cornhuskers
+	Team_1,Fordham 
+	Team_2,Nebraska 
 	Team_1_Score,7
 	Team_2_Score,52
 	Team_1_First_Downs,12
@@ -1940,8 +1940,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281943
 	Game_Date,1/2021
-	Team_1,Rice Owls
-	Team_2,Arkansas Razorbacks
+	Team_1,Rice 
+	Team_2,Arkansas 
 	Team_1_Score,17
 	Team_2_Score,38
 	Team_1_First_Downs,19
@@ -1978,8 +1978,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310861
 	Game_Date,1/2021
-	Team_1,Lafayette Leopards
-	Team_2,Air Force Falcons
+	Team_1,Lafayette 
+	Team_2,Air Force 
 	Team_1_Score,14
 	Team_2_Score,35
 	Team_1_First_Downs,12
@@ -2016,8 +2016,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282174
 	Game_Date,1/2021
-	Team_1,Marshall Thundering Herd
-	Team_2,Navy Midshipmen
+	Team_1,Marshall 
+	Team_2,Navy 
 	Team_1_Score,49
 	Team_2_Score,7
 	Team_1_First_Downs,23
@@ -2054,8 +2054,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282764
 	Game_Date,1/2021
-	Team_1,West Virginia Mountaineers
-	Team_2,Maryland Terrapins
+	Team_1,West Virginia 
+	Team_2,Maryland 
 	Team_1_Score,24
 	Team_2_Score,30
 	Team_1_First_Downs,18
@@ -2092,8 +2092,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281949
 	Game_Date,1/2021
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Mississippi State Bulldogs
+	Team_1,Louisiana Tech 
+	Team_2,Mississippi State 
 	Team_1_Score,34
 	Team_2_Score,35
 	Team_1_First_Downs,14
@@ -2130,8 +2130,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281950
 	Game_Date,1/2021
-	Team_1,Central Michigan Chippewas
-	Team_2,Missouri Tigers
+	Team_1,Central Michigan 
+	Team_2,Missouri 
 	Team_1_Score,24
 	Team_2_Score,34
 	Team_1_First_Downs,27
@@ -2168,8 +2168,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282612
 	Game_Date,1/2021
-	Team_1,Umass Minutemen
-	Team_2,Pittsburgh Panthers
+	Team_1,UMass 
+	Team_2,Pittsburgh 
 	Team_1_Score,7
 	Team_2_Score,51
 	Team_1_First_Downs,11
@@ -2206,8 +2206,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310697
 	Game_Date,1/2021
-	Team_1,Montana State Bobcats
-	Team_2,Wyoming Cowboys
+	Team_1,Montana State 
+	Team_2,Wyoming 
 	Team_1_Score,16
 	Team_2_Score,19
 	Team_1_First_Downs,17
@@ -2244,8 +2244,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286294
 	Game_Date,1/2021
-	Team_1,Campbell Fighting Camels
-	Team_2,Liberty Flames
+	Team_1,Campbell 
+	Team_2,Liberty 
 	Team_1_Score,7
 	Team_2_Score,48
 	Team_1_First_Downs,17
@@ -2282,8 +2282,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309600
 	Game_Date,1/2021
-	Team_1,Gardner Webb Bulldogs
-	Team_2,Georgia Southern Eagles
+	Team_1,Gardner-Webb 
+	Team_2,Georgia Southern 
 	Team_1_Score,25
 	Team_2_Score,30
 	Team_1_First_Downs,20
@@ -2320,8 +2320,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281944
 	Game_Date,1/2021
-	Team_1,Akron Zips
-	Team_2,Auburn Tigers
+	Team_1,Akron 
+	Team_2,Auburn 
 	Team_1_Score,10
 	Team_2_Score,60
 	Team_1_First_Downs,12
@@ -2358,8 +2358,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401281951
 	Game_Date,1/2021
-	Team_1,Eastern Illinois Panthers
-	Team_2,South Carolina Gamecocks
+	Team_1,Eastern Illinois 
+	Team_2,South Carolina 
 	Team_1_Score,0
 	Team_2_Score,46
 	Team_1_First_Downs,9
@@ -2396,8 +2396,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282173
 	Game_Date,1/2021
-	Team_1,Monmouth Hawks
-	Team_2,Middle Tennessee Blue Raiders
+	Team_1,Monmouth 
+	Team_2,Middle Tennessee 
 	Team_1_Score,15
 	Team_2_Score,50
 	Team_1_First_Downs,17
@@ -2434,8 +2434,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282611
 	Game_Date,1/2021
-	Team_1,Syracuse Orange
-	Team_2,Ohio Bobcats
+	Team_1,Syracuse 
+	Team_2,Ohio 
 	Team_1_Score,29
 	Team_2_Score,9
 	Team_1_First_Downs,21
@@ -2472,8 +2472,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282819
 	Game_Date,1/2021
-	Team_1,Oregon State Beavers
-	Team_2,Purdue Boilermakers
+	Team_1,Oregon State 
+	Team_2,Purdue 
 	Team_1_Score,21
 	Team_2_Score,30
 	Team_1_First_Downs,15
@@ -2510,8 +2510,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287886
 	Game_Date,1/2021
-	Team_1,Texas Tech Red Raiders
-	Team_2,Houston Cougars
+	Team_1,Texas Tech 
+	Team_2,Houston 
 	Team_1_Score,38
 	Team_2_Score,21
 	Team_1_First_Downs,15
@@ -2548,8 +2548,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287890
 	Game_Date,1/2021
-	Team_1,Missouri State Bears
-	Team_2,Oklahoma State Cowboys
+	Team_1,Missouri State 
+	Team_2,Oklahoma State 
 	Team_1_Score,16
 	Team_2_Score,23
 	Team_1_First_Downs,23
@@ -2586,8 +2586,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287893
 	Game_Date,1/2021
-	Team_1,Baylor Bears
-	Team_2,Texas State Bobcats
+	Team_1,Baylor 
+	Team_2,Texas State 
 	Team_1_Score,29
 	Team_2_Score,20
 	Team_1_First_Downs,22
@@ -2624,8 +2624,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300997
 	Game_Date,1/2021
-	Team_1,Nicholls Colonels
-	Team_2,Memphis Tigers
+	Team_1,Nicholls 
+	Team_2,Memphis 
 	Team_1_Score,17
 	Team_2_Score,42
 	Team_1_First_Downs,17
@@ -2662,8 +2662,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300998
 	Game_Date,1/2021
-	Team_1,Abilene Christian Wildcats
-	Team_2,Smu Mustangs
+	Team_1,Abilene Christian 
+	Team_2,SMU 
 	Team_1_Score,9
 	Team_2_Score,56
 	Team_1_First_Downs,15
@@ -2700,8 +2700,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309543
 	Game_Date,1/2021
-	Team_1,Norfolk State Spartans
-	Team_2,Toledo Rockets
+	Team_1,Norfolk State 
+	Team_2,Toledo 
 	Team_1_Score,10
 	Team_2_Score,49
 	Team_1_First_Downs,14
@@ -2738,8 +2738,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309598
 	Game_Date,1/2021
-	Team_1,Central Arkansas Bears
-	Team_2,Arkansas State Red Wolves
+	Team_1,Central Arkansas 
+	Team_2,Arkansas State 
 	Team_1_Score,21
 	Team_2_Score,40
 	Team_1_First_Downs,15
@@ -2776,8 +2776,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309602
 	Game_Date,1/2021
-	Team_1,Southern Jaguars
-	Team_2,Troy Trojans
+	Team_1,Southern 
+	Team_2,Troy 
 	Team_1_Score,3
 	Team_2_Score,55
 	Team_1_First_Downs,11
@@ -2814,8 +2814,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282175
 	Game_Date,1/2021
-	Team_1,Northwestern State Demons
-	Team_2,North Texas Mean Green
+	Team_1,Northwestern State 
+	Team_2,North Texas 
 	Team_1_Score,14
 	Team_2_Score,44
 	Team_1_First_Downs,21
@@ -2852,8 +2852,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282179
 	Game_Date,1/2021
-	Team_1,Utsa Roadrunners
-	Team_2,Illinois Fighting Illini
+	Team_1,UTSA 
+	Team_2,Illinois 
 	Team_1_Score,37
 	Team_2_Score,30
 	Team_1_First_Downs,26
@@ -2890,8 +2890,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282610
 	Game_Date,1/2021
-	Team_1,Northern Illinois Huskies
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Northern Illinois 
+	Team_2,Georgia Tech 
 	Team_1_Score,22
 	Team_2_Score,21
 	Team_1_First_Downs,15
@@ -2928,8 +2928,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282613
 	Game_Date,1/2021
-	Team_1,William Mary Tribe
-	Team_2,Virginia Cavaliers
+	Team_1,William & Mary 
+	Team_2,Virginia 
 	Team_1_Score,0
 	Team_2_Score,43
 	Team_1_First_Downs,11
@@ -2966,8 +2966,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282054
 	Game_Date,1/2021
-	Team_1,East Tennessee State Buccaneers
-	Team_2,Vanderbilt Commodores
+	Team_1,East Tennessee State 
+	Team_2,Vanderbilt 
 	Team_1_Score,23
 	Team_2_Score,3
 	Team_1_First_Downs,13
@@ -3004,8 +3004,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282177
 	Game_Date,1/2021
-	Team_1,Southern Miss Golden Eagles
-	Team_2,South Alabama Jaguars
+	Team_1,Southern Miss 
+	Team_2,South Alabama 
 	Team_1_Score,7
 	Team_2_Score,31
 	Team_1_First_Downs,19
@@ -3042,8 +3042,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287891
 	Game_Date,1/2021
-	Team_1,Duquesne Dukes
-	Team_2,Tcu Horned Frogs
+	Team_1,Duquesne 
+	Team_2,TCU 
 	Team_1_Score,3
 	Team_2_Score,45
 	Team_1_First_Downs,6
@@ -3080,8 +3080,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282178
 	Game_Date,1/2021
-	Team_1,Bethune Cookman Wildcats
-	Team_2,Utep Miners
+	Team_1,Bethune-Cookman 
+	Team_2,UTEP 
 	Team_1_Score,28
 	Team_2_Score,38
 	Team_1_First_Downs,12
@@ -3118,8 +3118,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309837
 	Game_Date,1/2021
-	Team_1,Nevada Wolf Pack
-	Team_2,California Golden Bears
+	Team_1,Nevada 
+	Team_2,California 
 	Team_1_Score,22
 	Team_2_Score,17
 	Team_1_First_Downs,19
@@ -3156,8 +3156,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309841
 	Game_Date,1/2021
-	Team_1,Byu Cougars
-	Team_2,Arizona Wildcats
+	Team_1,BYU 
+	Team_2,Arizona 
 	Team_1_Score,24
 	Team_2_Score,16
 	Team_1_First_Downs,18
@@ -3194,8 +3194,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310699
 	Game_Date,1/2021
-	Team_1,New Mexico State Aggies
-	Team_2,San Diego State Aztecs
+	Team_1,New Mexico State 
+	Team_2,San Diego State 
 	Team_1_Score,10
 	Team_2_Score,28
 	Team_1_First_Downs,21
@@ -3232,8 +3232,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309840
 	Game_Date,1/2021
-	Team_1,Utah State Aggies
-	Team_2,Washington State Cougars
+	Team_1,Utah State 
+	Team_2,Washington State 
 	Team_1_Score,26
 	Team_2_Score,23
 	Team_1_First_Downs,25
@@ -3270,8 +3270,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310698
 	Game_Date,1/2021
-	Team_1,Portland State Vikings
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,Portland State 
+	Team_2,Hawai'i 
 	Team_1_Score,35
 	Team_2_Score,49
 	Team_1_First_Downs,24
@@ -3308,8 +3308,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282614
 	Game_Date,1/2021
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Florida State Seminoles
+	Team_1,Notre Dame 
+	Team_2,Florida State 
 	Team_1_Score,41
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -3346,8 +3346,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282055
 	Game_Date,1/2021
-	Team_1,Louisville Cardinals
-	Team_2,Ole Miss Rebels
+	Team_1,Louisville 
+	Team_2,Ole Miss 
 	Team_1_Score,24
 	Team_2_Score,43
 	Team_1_First_Downs,22
@@ -3384,8 +3384,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287896
 	Game_Date,2/2021
-	Team_1,Kansas Jayhawks
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,Kansas 
+	Team_2,Coastal Carolina 
 	Team_1_Score,22
 	Team_2_Score,49
 	Team_1_First_Downs,16
@@ -3422,8 +3422,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282616
 	Game_Date,2/2021
-	Team_1,North Carolina At Aggies
-	Team_2,Duke Blue Devils
+	Team_1,North Carolina A&T 
+	Team_2,Duke 
 	Team_1_Score,17
 	Team_2_Score,45
 	Team_1_First_Downs,19
@@ -3460,8 +3460,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282191
 	Game_Date,2/2021
-	Team_1,Utep Miners
-	Team_2,Boise State Broncos
+	Team_1,UTEP 
+	Team_2,Boise State 
 	Team_1_Score,13
 	Team_2_Score,54
 	Team_1_First_Downs,20
@@ -3498,8 +3498,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310701
 	Game_Date,2/2021
-	Team_1,North Dakota Fighting Hawks
-	Team_2,Utah State Aggies
+	Team_1,North Dakota 
+	Team_2,Utah State 
 	Team_1_Score,24
 	Team_2_Score,48
 	Team_1_First_Downs,24
@@ -3536,8 +3536,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282056
 	Game_Date,2/2021
-	Team_1,Mercer Bears
-	Team_2,Alabama Crimson Tide
+	Team_1,Mercer 
+	Team_2,Alabama 
 	Team_1_Score,14
 	Team_2_Score,48
 	Team_1_First_Downs,13
@@ -3574,8 +3574,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282060
 	Game_Date,2/2021
-	Team_1,Uab Blazers
-	Team_2,Georgia Bulldogs
+	Team_1,UAB 
+	Team_2,Georgia 
 	Team_1_Score,7
 	Team_2_Score,56
 	Team_1_First_Downs,11
@@ -3612,8 +3612,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282809
 	Game_Date,2/2021
-	Team_1,Oregon Ducks
-	Team_2,Ohio State Buckeyes
+	Team_1,Oregon 
+	Team_2,Ohio State 
 	Team_1_Score,35
 	Team_2_Score,28
 	Team_1_First_Downs,27
@@ -3650,8 +3650,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287898
 	Game_Date,2/2021
-	Team_1,Western Carolina Catamounts
-	Team_2,Oklahoma Sooners
+	Team_1,Western Carolina 
+	Team_2,Oklahoma 
 	Team_1_Score,0
 	Team_2_Score,76
 	Team_1_First_Downs,11
@@ -3688,8 +3688,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282067
 	Game_Date,2/2021
-	Team_1,Texas Am Aggies
-	Team_2,Colorado Buffaloes
+	Team_1,Texas A&M 
+	Team_2,Colorado 
 	Team_1_Score,10
 	Team_2_Score,7
 	Team_1_First_Downs,14
@@ -3726,8 +3726,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282615
 	Game_Date,2/2021
-	Team_1,South Carolina State Bulldogs
-	Team_2,Clemson Tigers
+	Team_1,South Carolina State 
+	Team_2,Clemson 
 	Team_1_Score,3
 	Team_2_Score,49
 	Team_1_First_Downs,9
@@ -3764,8 +3764,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301002
 	Game_Date,2/2021
-	Team_1,Murray State Racers
-	Team_2,Cincinnati Bearcats
+	Team_1,Murray State 
+	Team_2,Cincinnati 
 	Team_1_Score,7
 	Team_2_Score,42
 	Team_1_First_Downs,15
@@ -3802,8 +3802,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282705
 	Game_Date,2/2021
-	Team_1,Toledo Rockets
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Toledo 
+	Team_2,Notre Dame 
 	Team_1_Score,29
 	Team_2_Score,32
 	Team_1_First_Downs,16
@@ -3840,8 +3840,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282754
 	Game_Date,2/2021
-	Team_1,Iowa Hawkeyes
-	Team_2,Iowa State Cyclones
+	Team_1,Iowa 
+	Team_2,Iowa State 
 	Team_1_Score,27
 	Team_2_Score,17
 	Team_1_First_Downs,11
@@ -3878,8 +3878,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282816
 	Game_Date,2/2021
-	Team_1,Ball State Cardinals
-	Team_2,Penn State Nittany Lions
+	Team_1,Ball State 
+	Team_2,Penn State 
 	Team_1_Score,13
 	Team_2_Score,44
 	Team_1_First_Downs,20
@@ -3916,8 +3916,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282059
 	Game_Date,2/2021
-	Team_1,Florida Gators
-	Team_2,South Florida Bulls
+	Team_1,Florida 
+	Team_2,South Florida 
 	Team_1_Score,42
 	Team_2_Score,20
 	Team_1_First_Downs,26
@@ -3954,8 +3954,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309843
 	Game_Date,2/2021
-	Team_1,Stanford Cardinal
-	Team_2,Usc Trojans
+	Team_1,Stanford 
+	Team_2,USC 
 	Team_1_Score,42
 	Team_2_Score,28
 	Team_1_First_Downs,17
@@ -3992,8 +3992,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282057
 	Game_Date,2/2021
-	Team_1,Texas Longhorns
-	Team_2,Arkansas Razorbacks
+	Team_1,Texas 
+	Team_2,Arkansas 
 	Team_1_Score,21
 	Team_2_Score,40
 	Team_1_First_Downs,15
@@ -4030,8 +4030,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282825
 	Game_Date,2/2021
-	Team_1,Eastern Michigan Eagles
-	Team_2,Wisconsin Badgers
+	Team_1,Eastern Michigan 
+	Team_2,Wisconsin 
 	Team_1_Score,7
 	Team_2_Score,34
 	Team_1_First_Downs,3
@@ -4068,8 +4068,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282186
 	Game_Date,2/2021
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Virginia Tech Hokies
+	Team_1,Middle Tennessee 
+	Team_2,Virginia Tech 
 	Team_1_Score,14
 	Team_2_Score,35
 	Team_1_First_Downs,21
@@ -4106,8 +4106,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282063
 	Game_Date,2/2021
-	Team_1,Austin Peay Governors
-	Team_2,Ole Miss Rebels
+	Team_1,Austin Peay 
+	Team_2,Ole Miss 
 	Team_1_Score,17
 	Team_2_Score,54
 	Team_1_First_Downs,26
@@ -4144,8 +4144,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309848
 	Game_Date,2/2021
-	Team_1,Utah Utes
-	Team_2,Byu Cougars
+	Team_1,Utah 
+	Team_2,BYU 
 	Team_1_Score,17
 	Team_2_Score,26
 	Team_1_First_Downs,15
@@ -4182,8 +4182,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282620
 	Game_Date,2/2021
-	Team_1,Appalachian State Mountaineers
-	Team_2,Miami Hurricanes
+	Team_1,Appalachian State 
+	Team_2,Miami 
 	Team_1_Score,23
 	Team_2_Score,25
 	Team_1_First_Downs,19
@@ -4220,8 +4220,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309847
 	Game_Date,2/2021
-	Team_1,Unlv Rebels
-	Team_2,Arizona State Sun Devils
+	Team_1,UNLV 
+	Team_2,Arizona State 
 	Team_1_Score,10
 	Team_2_Score,37
 	Team_1_First_Downs,11
@@ -4258,8 +4258,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282621
 	Game_Date,2/2021
-	Team_1,Georgia State Panthers
-	Team_2,North Carolina Tar Heels
+	Team_1,Georgia State 
+	Team_2,North Carolina 
 	Team_1_Score,17
 	Team_2_Score,59
 	Team_1_First_Downs,16
@@ -4296,8 +4296,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282058
 	Game_Date,2/2021
-	Team_1,Alabama State Hornets
-	Team_2,Auburn Tigers
+	Team_1,Alabama State 
+	Team_2,Auburn 
 	Team_1_Score,0
 	Team_2_Score,62
 	Team_1_First_Downs,11
@@ -4334,8 +4334,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282624
 	Game_Date,2/2021
-	Team_1,Illinois Fighting Illini
-	Team_2,Virginia Cavaliers
+	Team_1,Illinois 
+	Team_2,Virginia 
 	Team_1_Score,14
 	Team_2_Score,42
 	Team_1_First_Downs,20
@@ -4372,8 +4372,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282193
 	Game_Date,2/2021
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Army Black Knights
+	Team_1,Western Kentucky 
+	Team_2,Army 
 	Team_1_Score,35
 	Team_2_Score,38
 	Team_1_First_Downs,22
@@ -4410,8 +4410,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309545
 	Game_Date,2/2021
-	Team_1,Vmi Keydets
-	Team_2,Kent State Golden Flashes
+	Team_1,VMI 
+	Team_2,Kent State 
 	Team_1_Score,10
 	Team_2_Score,60
 	Team_1_First_Downs,19
@@ -4448,8 +4448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282065
 	Game_Date,2/2021
-	Team_1,South Carolina Gamecocks
-	Team_2,East Carolina Pirates
+	Team_1,South Carolina 
+	Team_2,East Carolina 
 	Team_1_Score,20
 	Team_2_Score,17
 	Team_1_First_Downs,15
@@ -4486,8 +4486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282066
 	Game_Date,2/2021
-	Team_1,Pittsburgh Panthers
-	Team_2,Tennessee Volunteers
+	Team_1,Pittsburgh 
+	Team_2,Tennessee 
 	Team_1_Score,41
 	Team_2_Score,34
 	Team_1_First_Downs,24
@@ -4524,8 +4524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282618
 	Game_Date,2/2021
-	Team_1,Kennesaw State Owls
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Kennesaw State 
+	Team_2,Georgia Tech 
 	Team_1_Score,17
 	Team_2_Score,45
 	Team_1_First_Downs,13
@@ -4562,8 +4562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282625
 	Game_Date,2/2021
-	Team_1,Norfolk State Spartans
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Norfolk State 
+	Team_2,Wake Forest 
 	Team_1_Score,16
 	Team_2_Score,41
 	Team_1_First_Downs,19
@@ -4600,8 +4600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282783
 	Game_Date,2/2021
-	Team_1,Youngstown State Penguins
-	Team_2,Michigan State Spartans
+	Team_1,Youngstown State 
+	Team_2,Michigan State 
 	Team_1_Score,14
 	Team_2_Score,42
 	Team_1_First_Downs,20
@@ -4638,8 +4638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282790
 	Game_Date,2/2021
-	Team_1,Miami Oh Redhawks
-	Team_2,Minnesota Golden Gophers
+	Team_1,Miami (OH) 
+	Team_2,Minnesota 
 	Team_1_Score,26
 	Team_2_Score,31
 	Team_1_First_Downs,20
@@ -4676,8 +4676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282804
 	Game_Date,2/2021
-	Team_1,Indiana State Sycamores
-	Team_2,Northwestern Wildcats
+	Team_1,Indiana State 
+	Team_2,Northwestern 
 	Team_1_Score,6
 	Team_2_Score,24
 	Team_1_First_Downs,12
@@ -4714,8 +4714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287899
 	Game_Date,2/2021
-	Team_1,Tulsa Golden Hurricane
-	Team_2,Oklahoma State Cowboys
+	Team_1,Tulsa 
+	Team_2,Oklahoma State 
 	Team_1_Score,23
 	Team_2_Score,28
 	Team_1_First_Downs,18
@@ -4752,8 +4752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301000
 	Game_Date,2/2021
-	Team_1,Morgan State Bears
-	Team_2,Tulane Green Wave
+	Team_1,Morgan State 
+	Team_2,Tulane 
 	Team_1_Score,20
 	Team_2_Score,69
 	Team_1_First_Downs,14
@@ -4790,8 +4790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309547
 	Game_Date,2/2021
-	Team_1,Wyoming Cowboys
-	Team_2,Northern Illinois Huskies
+	Team_1,Wyoming 
+	Team_2,Northern Illinois 
 	Team_1_Score,50
 	Team_2_Score,43
 	Team_1_First_Downs,24
@@ -4828,8 +4828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282622
 	Game_Date,2/2021
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Syracuse Orange
+	Team_1,Rutgers 
+	Team_2,Syracuse 
 	Team_1_Score,17
 	Team_2_Score,7
 	Team_1_First_Downs,16
@@ -4866,8 +4866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309753
 	Game_Date,2/2021
-	Team_1,Duquesne Dukes
-	Team_2,Ohio Bobcats
+	Team_1,Duquesne 
+	Team_2,Ohio 
 	Team_1_Score,28
 	Team_2_Score,26
 	Team_1_First_Downs,26
@@ -4904,8 +4904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282820
 	Game_Date,2/2021
-	Team_1,Purdue Boilermakers
-	Team_2,Uconn Huskies
+	Team_1,Purdue 
+	Team_2,UConn 
 	Team_1_Score,49
 	Team_2_Score,0
 	Team_1_First_Downs,29
@@ -4942,8 +4942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309548
 	Game_Date,2/2021
-	Team_1,Robert Morris Colonials
-	Team_2,Central Michigan Chippewas
+	Team_1,Robert Morris 
+	Team_2,Central Michigan 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,3
@@ -4980,8 +4980,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282183
 	Game_Date,2/2021
-	Team_1,Georgia Southern Eagles
-	Team_2,Florida Atlantic Owls
+	Team_1,Georgia Southern 
+	Team_2,Florida Atlantic 
 	Team_1_Score,6
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -5018,8 +5018,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282623
 	Game_Date,2/2021
-	Team_1,Boston College Eagles
-	Team_2,Umass Minutemen
+	Team_1,Boston College 
+	Team_2,UMass 
 	Team_1_Score,45
 	Team_2_Score,28
 	Team_1_First_Downs,24
@@ -5056,8 +5056,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282797
 	Game_Date,2/2021
-	Team_1,Buffalo Bulls
-	Team_2,Nebraska Cornhuskers
+	Team_1,Buffalo 
+	Team_2,Nebraska 
 	Team_1_Score,3
 	Team_2_Score,28
 	Team_1_First_Downs,19
@@ -5094,8 +5094,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287900
 	Game_Date,2/2021
-	Team_1,California Golden Bears
-	Team_2,Tcu Horned Frogs
+	Team_1,California 
+	Team_2,TCU 
 	Team_1_Score,32
 	Team_2_Score,34
 	Team_1_First_Downs,16
@@ -5132,8 +5132,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401300999
 	Game_Date,2/2021
-	Team_1,Temple Owls
-	Team_2,Akron Zips
+	Team_1,Temple 
+	Team_2,Akron 
 	Team_1_Score,45
 	Team_2_Score,24
 	Team_1_First_Downs,19
@@ -5170,8 +5170,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301004
 	Game_Date,2/2021
-	Team_1,Air Force Falcons
-	Team_2,Navy Midshipmen
+	Team_1,Air Force 
+	Team_2,Navy 
 	Team_1_Score,23
 	Team_2_Score,3
 	Team_1_First_Downs,14
@@ -5208,8 +5208,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309546
 	Game_Date,2/2021
-	Team_1,South Alabama Jaguars
-	Team_2,Bowling Green Falcons
+	Team_1,South Alabama 
+	Team_2,Bowling Green 
 	Team_1_Score,22
 	Team_2_Score,19
 	Team_1_First_Downs,21
@@ -5246,8 +5246,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287902
 	Game_Date,2/2021
-	Team_1,Long Island University Sharks
-	Team_2,West Virginia Mountaineers
+	Team_1,Long Island University 
+	Team_2,West Virginia 
 	Team_1_Score,0
 	Team_2_Score,66
 	Team_1_First_Downs,9
@@ -5284,8 +5284,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309544
 	Game_Date,2/2021
-	Team_1,Illinois State Redbirds
-	Team_2,Western Michigan Broncos
+	Team_1,Illinois State 
+	Team_2,Western Michigan 
 	Team_1_Score,0
 	Team_2_Score,28
 	Team_1_First_Downs,4
@@ -5322,8 +5322,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282181
 	Game_Date,2/2021
-	Team_1,Gardner Webb Bulldogs
-	Team_2,Charlotte 49ers
+	Team_1,Gardner-Webb 
+	Team_2,Charlotte 
 	Team_1_Score,10
 	Team_2_Score,38
 	Team_1_First_Downs,14
@@ -5360,8 +5360,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282192
 	Game_Date,2/2021
-	Team_1,Lamar Cardinals
-	Team_2,Utsa Roadrunners
+	Team_1,Lamar 
+	Team_2,UTSA 
 	Team_1_Score,0
 	Team_2_Score,54
 	Team_1_First_Downs,10
@@ -5398,8 +5398,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309845
 	Game_Date,2/2021
-	Team_1,Portland State Vikings
-	Team_2,Washington State Cougars
+	Team_1,Portland State 
+	Team_2,Washington State 
 	Team_1_Score,24
 	Team_2_Score,44
 	Team_1_First_Downs,24
@@ -5436,8 +5436,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282185
 	Game_Date,2/2021
-	Team_1,North Carolina Central Eagles
-	Team_2,Marshall Thundering Herd
+	Team_1,North Carolina Central 
+	Team_2,Marshall 
 	Team_1_Score,10
 	Team_2_Score,44
 	Team_1_First_Downs,9
@@ -5474,8 +5474,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282189
 	Game_Date,2/2021
-	Team_1,Houston Cougars
-	Team_2,Rice Owls
+	Team_1,Houston 
+	Team_2,Rice 
 	Team_1_Score,44
 	Team_2_Score,7
 	Team_1_First_Downs,23
@@ -5512,8 +5512,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301001
 	Game_Date,2/2021
-	Team_1,Bethune Cookman Wildcats
-	Team_2,Ucf Knights
+	Team_1,Bethune-Cookman 
+	Team_2,UCF 
 	Team_1_Score,14
 	Team_2_Score,63
 	Team_1_First_Downs,19
@@ -5550,8 +5550,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282064
 	Game_Date,2/2021
-	Team_1,Nc State Wolfpack
-	Team_2,Mississippi State Bulldogs
+	Team_1,NC State 
+	Team_2,Mississippi State 
 	Team_1_Score,10
 	Team_2_Score,24
 	Team_1_First_Downs,16
@@ -5588,8 +5588,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282182
 	Game_Date,2/2021
-	Team_1,Texas State Bobcats
-	Team_2,Florida International Panthers
+	Team_1,Texas State 
+	Team_2,Florida International 
 	Team_1_Score,23
 	Team_2_Score,17
 	Team_1_First_Downs,21
@@ -5626,8 +5626,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282184
 	Game_Date,2/2021
-	Team_1,Se Louisiana Lions
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,SE Louisiana 
+	Team_2,Louisiana Tech 
 	Team_1_Score,42
 	Team_2_Score,45
 	Team_1_First_Downs,32
@@ -5664,8 +5664,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282187
 	Game_Date,2/2021
-	Team_1,North Texas Mean Green
-	Team_2,Smu Mustangs
+	Team_1,North Texas 
+	Team_2,SMU 
 	Team_1_Score,12
 	Team_2_Score,35
 	Team_1_First_Downs,23
@@ -5702,8 +5702,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282188
 	Game_Date,2/2021
-	Team_1,Hampton Pirates
-	Team_2,Old Dominion Monarchs
+	Team_1,Hampton 
+	Team_2,Old Dominion 
 	Team_1_Score,7
 	Team_2_Score,47
 	Team_1_First_Downs,13
@@ -5740,8 +5740,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282190
 	Game_Date,2/2021
-	Team_1,Grambling Tigers
-	Team_2,Southern Miss Golden Eagles
+	Team_1,Grambling 
+	Team_2,Southern Miss 
 	Team_1_Score,0
 	Team_2_Score,37
 	Team_1_First_Downs,9
@@ -5778,8 +5778,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282619
 	Game_Date,2/2021
-	Team_1,Eastern Kentucky Colonels
-	Team_2,Louisville Cardinals
+	Team_1,Eastern Kentucky 
+	Team_2,Louisville 
 	Team_1_Score,3
 	Team_2_Score,30
 	Team_1_First_Downs,15
@@ -5816,8 +5816,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286295
 	Game_Date,2/2021
-	Team_1,Liberty Flames
-	Team_2,Troy Trojans
+	Team_1,Liberty 
+	Team_2,Troy 
 	Team_1_Score,21
 	Team_2_Score,13
 	Team_1_First_Downs,22
@@ -5854,8 +5854,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287895
 	Game_Date,2/2021
-	Team_1,Texas Southern Tigers
-	Team_2,Baylor Bears
+	Team_1,Texas Southern 
+	Team_2,Baylor 
 	Team_1_Score,7
 	Team_2_Score,66
 	Team_1_First_Downs,16
@@ -5892,8 +5892,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287897
 	Game_Date,2/2021
-	Team_1,Southern Illinois Salukis
-	Team_2,Kansas State Wildcats
+	Team_1,Southern Illinois 
+	Team_2,Kansas State 
 	Team_1_Score,23
 	Team_2_Score,31
 	Team_1_First_Downs,17
@@ -5930,8 +5930,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287901
 	Game_Date,2/2021
-	Team_1,Stephen F Austin Lumberjacks
-	Team_2,Texas Tech Red Raiders
+	Team_1,Stephen F. Austin 
+	Team_2,Texas Tech 
 	Team_1_Score,22
 	Team_2_Score,28
 	Team_1_First_Downs,22
@@ -5968,8 +5968,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301003
 	Game_Date,2/2021
-	Team_1,Memphis Tigers
-	Team_2,Arkansas State Red Wolves
+	Team_1,Memphis 
+	Team_2,Arkansas State 
 	Team_1_Score,55
 	Team_2_Score,50
 	Team_1_First_Downs,24
@@ -6006,8 +6006,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309603
 	Game_Date,2/2021
-	Team_1,Nicholls Colonels
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Nicholls 
+	Team_2,Louisiana 
 	Team_1_Score,24
 	Team_2_Score,27
 	Team_1_First_Downs,24
@@ -6044,8 +6044,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310700
 	Game_Date,2/2021
-	Team_1,New Mexico State Aggies
-	Team_2,New Mexico Lobos
+	Team_1,New Mexico State 
+	Team_2,New Mexico 
 	Team_1_Score,25
 	Team_2_Score,34
 	Team_1_First_Downs,19
@@ -6082,8 +6082,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282061
 	Game_Date,2/2021
-	Team_1,Missouri Tigers
-	Team_2,Kentucky Wildcats
+	Team_1,Missouri 
+	Team_2,Kentucky 
 	Team_1_Score,28
 	Team_2_Score,35
 	Team_1_First_Downs,25
@@ -6120,8 +6120,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282724
 	Game_Date,2/2021
-	Team_1,Idaho Vandals
-	Team_2,Indiana Hoosiers
+	Team_1,Idaho 
+	Team_2,Indiana 
 	Team_1_Score,14
 	Team_2_Score,56
 	Team_1_First_Downs,13
@@ -6158,8 +6158,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286207
 	Game_Date,2/2021
-	Team_1,Howard Bison
-	Team_2,Maryland Terrapins
+	Team_1,Howard 
+	Team_2,Maryland 
 	Team_1_Score,0
 	Team_2_Score,62
 	Team_1_First_Downs,8
@@ -6196,8 +6196,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282062
 	Game_Date,2/2021
-	Team_1,Mcneese Cowboys
-	Team_2,Lsu Tigers
+	Team_1,McNeese 
+	Team_2,LSU 
 	Team_1_Score,7
 	Team_2_Score,34
 	Team_1_First_Downs,10
@@ -6234,8 +6234,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282617
 	Game_Date,2/2021
-	Team_1,Jacksonville State Gamecocks
-	Team_2,Florida State Seminoles
+	Team_1,Jacksonville State 
+	Team_2,Florida State 
 	Team_1_Score,20
 	Team_2_Score,17
 	Team_1_First_Downs,21
@@ -6272,8 +6272,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282773
 	Game_Date,2/2021
-	Team_1,Washington Huskies
-	Team_2,Michigan Wolverines
+	Team_1,Washington 
+	Team_2,Michigan 
 	Team_1_Score,10
 	Team_2_Score,31
 	Team_1_First_Downs,19
@@ -6310,8 +6310,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282068
 	Game_Date,2/2021
-	Team_1,Vanderbilt Commodores
-	Team_2,Colorado State Rams
+	Team_1,Vanderbilt 
+	Team_2,Colorado State 
 	Team_1_Score,24
 	Team_2_Score,21
 	Team_1_First_Downs,21
@@ -6348,8 +6348,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309846
 	Game_Date,2/2021
-	Team_1,San Diego State Aztecs
-	Team_2,Arizona Wildcats
+	Team_1,San Diego State 
+	Team_2,Arizona 
 	Team_1_Score,38
 	Team_2_Score,14
 	Team_1_First_Downs,21
@@ -6386,8 +6386,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310702
 	Game_Date,2/2021
-	Team_1,Cal Poly Mustangs
-	Team_2,Fresno State Bulldogs
+	Team_1,Cal Poly 
+	Team_2,Fresno State 
 	Team_1_Score,10
 	Team_2_Score,63
 	Team_1_First_Downs,13
@@ -6424,8 +6424,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310703
 	Game_Date,2/2021
-	Team_1,Idaho State Bengals
-	Team_2,Nevada Wolf Pack
+	Team_1,Idaho State 
+	Team_2,Nevada 
 	Team_1_Score,10
 	Team_2_Score,49
 	Team_1_First_Downs,18
@@ -6462,8 +6462,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309844
 	Game_Date,2/2021
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,Oregon State Beavers
+	Team_1,Hawai'i 
+	Team_2,Oregon State 
 	Team_1_Score,27
 	Team_2_Score,45
 	Team_1_First_Downs,26
@@ -6500,8 +6500,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309606
 	Game_Date,3/2021
-	Team_1,Ohio Bobcats
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Ohio 
+	Team_2,Louisiana 
 	Team_1_Score,14
 	Team_2_Score,49
 	Team_1_First_Downs,16
@@ -6538,8 +6538,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282626
 	Game_Date,3/2021
-	Team_1,Ucf Knights
-	Team_2,Louisville Cardinals
+	Team_1,UCF 
+	Team_2,Louisville 
 	Team_1_Score,35
 	Team_2_Score,42
 	Team_1_First_Downs,22
@@ -6576,8 +6576,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282715
 	Game_Date,3/2021
-	Team_1,Maryland Terrapins
-	Team_2,Illinois Fighting Illini
+	Team_1,Maryland 
+	Team_2,Illinois 
 	Team_1_Score,20
 	Team_2_Score,17
 	Team_1_First_Downs,24
@@ -6614,8 +6614,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282071
 	Game_Date,3/2021
-	Team_1,Alabama Crimson Tide
-	Team_2,Florida Gators
+	Team_1,Alabama 
+	Team_2,Florida 
 	Team_1_Score,31
 	Team_2_Score,29
 	Team_1_First_Downs,19
@@ -6652,8 +6652,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282072
 	Game_Date,3/2021
-	Team_1,South Carolina Gamecocks
-	Team_2,Georgia Bulldogs
+	Team_1,South Carolina 
+	Team_2,Georgia 
 	Team_1_Score,13
 	Team_2_Score,40
 	Team_1_First_Downs,13
@@ -6690,8 +6690,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282798
 	Game_Date,3/2021
-	Team_1,Nebraska Cornhuskers
-	Team_2,Oklahoma Sooners
+	Team_1,Nebraska 
+	Team_2,Oklahoma 
 	Team_1_Score,16
 	Team_2_Score,23
 	Team_1_First_Downs,18
@@ -6728,8 +6728,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309850
 	Game_Date,3/2021
-	Team_1,Stony Brook Seawolves
-	Team_2,Oregon Ducks
+	Team_1,Stony Brook 
+	Team_2,Oregon 
 	Team_1_Score,7
 	Team_2_Score,48
 	Team_1_First_Downs,14
@@ -6766,8 +6766,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282755
 	Game_Date,3/2021
-	Team_1,Kent State Golden Flashes
-	Team_2,Iowa Hawkeyes
+	Team_1,Kent State 
+	Team_2,Iowa 
 	Team_1_Score,7
 	Team_2_Score,30
 	Team_1_First_Downs,17
@@ -6804,8 +6804,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282627
 	Game_Date,3/2021
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Clemson Tigers
+	Team_1,Georgia Tech 
+	Team_2,Clemson 
 	Team_1_Score,8
 	Team_2_Score,14
 	Team_1_First_Downs,20
@@ -6842,8 +6842,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282079
 	Game_Date,3/2021
-	Team_1,New Mexico Lobos
-	Team_2,Texas Am Aggies
+	Team_1,New Mexico 
+	Team_2,Texas A&M 
 	Team_1_Score,0
 	Team_2_Score,34
 	Team_1_First_Downs,9
@@ -6880,8 +6880,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282725
 	Game_Date,3/2021
-	Team_1,Cincinnati Bearcats
-	Team_2,Indiana Hoosiers
+	Team_1,Cincinnati 
+	Team_2,Indiana 
 	Team_1_Score,38
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -6918,8 +6918,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282810
 	Game_Date,3/2021
-	Team_1,Tulsa Golden Hurricane
-	Team_2,Ohio State Buckeyes
+	Team_1,Tulsa 
+	Team_2,Ohio State 
 	Team_1_Score,20
 	Team_2_Score,41
 	Team_1_First_Downs,25
@@ -6956,8 +6956,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282070
 	Game_Date,3/2021
-	Team_1,Auburn Tigers
-	Team_2,Penn State Nittany Lions
+	Team_1,Auburn 
+	Team_2,Penn State 
 	Team_1_Score,20
 	Team_2_Score,28
 	Team_1_First_Downs,24
@@ -6994,8 +6994,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282706
 	Game_Date,3/2021
-	Team_1,Purdue Boilermakers
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Purdue 
+	Team_2,Notre Dame 
 	Team_1_Score,13
 	Team_2_Score,27
 	Team_1_First_Downs,19
@@ -7032,8 +7032,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309855
 	Game_Date,3/2021
-	Team_1,Fresno State Bulldogs
-	Team_2,Ucla Bruins
+	Team_1,Fresno State 
+	Team_2,UCLA 
 	Team_1_Score,40
 	Team_2_Score,37
 	Team_1_First_Downs,32
@@ -7070,8 +7070,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287906
 	Game_Date,3/2021
-	Team_1,Iowa State Cyclones
-	Team_2,Unlv Rebels
+	Team_1,Iowa State 
+	Team_2,UNLV 
 	Team_1_Score,48
 	Team_2_Score,3
 	Team_1_First_Downs,27
@@ -7108,8 +7108,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282636
 	Game_Date,3/2021
-	Team_1,Virginia Tech Hokies
-	Team_2,West Virginia Mountaineers
+	Team_1,Virginia Tech 
+	Team_2,West Virginia 
 	Team_1_Score,21
 	Team_2_Score,27
 	Team_1_First_Downs,20
@@ -7146,8 +7146,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309552
 	Game_Date,3/2021
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Buffalo Bulls
+	Team_1,Coastal Carolina 
+	Team_2,Buffalo 
 	Team_1_Score,28
 	Team_2_Score,25
 	Team_1_First_Downs,21
@@ -7184,8 +7184,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282075
 	Game_Date,3/2021
-	Team_1,Tulane Green Wave
-	Team_2,Ole Miss Rebels
+	Team_1,Tulane 
+	Team_2,Ole Miss 
 	Team_1_Score,21
 	Team_2_Score,61
 	Team_1_First_Downs,14
@@ -7222,8 +7222,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309854
 	Game_Date,3/2021
-	Team_1,Arizona State Sun Devils
-	Team_2,Byu Cougars
+	Team_1,Arizona State 
+	Team_2,BYU 
 	Team_1_Score,17
 	Team_2_Score,27
 	Team_1_First_Downs,19
@@ -7260,8 +7260,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282069
 	Game_Date,3/2021
-	Team_1,Georgia Southern Eagles
-	Team_2,Arkansas Razorbacks
+	Team_1,Georgia Southern 
+	Team_2,Arkansas 
 	Team_1_Score,10
 	Team_2_Score,45
 	Team_1_First_Downs,11
@@ -7298,8 +7298,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282631
 	Game_Date,3/2021
-	Team_1,Virginia Cavaliers
-	Team_2,North Carolina Tar Heels
+	Team_1,Virginia 
+	Team_2,North Carolina 
 	Team_1_Score,39
 	Team_2_Score,59
 	Team_1_First_Downs,27
@@ -7336,8 +7336,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282629
 	Game_Date,3/2021
-	Team_1,Michigan State Spartans
-	Team_2,Miami Hurricanes
+	Team_1,Michigan State 
+	Team_2,Miami 
 	Team_1_Score,38
 	Team_2_Score,17
 	Team_1_First_Downs,23
@@ -7374,8 +7374,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282774
 	Game_Date,3/2021
-	Team_1,Northern Illinois Huskies
-	Team_2,Michigan Wolverines
+	Team_1,Northern Illinois 
+	Team_2,Michigan 
 	Team_1_Score,10
 	Team_2_Score,63
 	Team_1_First_Downs,11
@@ -7412,8 +7412,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282073
 	Game_Date,3/2021
-	Team_1,Chattanooga Mocs
-	Team_2,Kentucky Wildcats
+	Team_1,Chattanooga 
+	Team_2,Kentucky 
 	Team_1_Score,23
 	Team_2_Score,28
 	Team_1_First_Downs,16
@@ -7450,8 +7450,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282077
 	Game_Date,3/2021
-	Team_1,Southeast Missouri State Redhawks
-	Team_2,Missouri Tigers
+	Team_1,Southeast Missouri State 
+	Team_2,Missouri 
 	Team_1_Score,28
 	Team_2_Score,59
 	Team_1_First_Downs,19
@@ -7488,8 +7488,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282078
 	Game_Date,3/2021
-	Team_1,Tennessee Tech Golden Eagles
-	Team_2,Tennessee Volunteers
+	Team_1,Tennessee Tech 
+	Team_2,Tennessee 
 	Team_1_Score,0
 	Team_2_Score,56
 	Team_1_First_Downs,10
@@ -7526,8 +7526,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282632
 	Game_Date,3/2021
-	Team_1,Western Michigan Broncos
-	Team_2,Pittsburgh Panthers
+	Team_1,Western Michigan 
+	Team_2,Pittsburgh 
 	Team_1_Score,44
 	Team_2_Score,41
 	Team_1_First_Downs,27
@@ -7564,8 +7564,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282633
 	Game_Date,3/2021
-	Team_1,Albany Great Danes
-	Team_2,Syracuse Orange
+	Team_1,Albany 
+	Team_2,Syracuse 
 	Team_1_Score,24
 	Team_2_Score,62
 	Team_1_First_Downs,11
@@ -7602,8 +7602,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282634
 	Game_Date,3/2021
-	Team_1,Boston College Eagles
-	Team_2,Temple Owls
+	Team_1,Boston College 
+	Team_2,Temple 
 	Team_1_Score,28
 	Team_2_Score,3
 	Team_1_First_Downs,13
@@ -7640,8 +7640,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286189
 	Game_Date,3/2021
-	Team_1,Uconn Huskies
-	Team_2,Army Black Knights
+	Team_1,UConn 
+	Team_2,Army 
 	Team_1_Score,21
 	Team_2_Score,52
 	Team_1_First_Downs,9
@@ -7678,8 +7678,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282791
 	Game_Date,3/2021
-	Team_1,Minnesota Golden Gophers
-	Team_2,Colorado Buffaloes
+	Team_1,Minnesota 
+	Team_2,Colorado 
 	Team_1_Score,30
 	Team_2_Score,0
 	Team_1_First_Downs,22
@@ -7716,8 +7716,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287905
 	Game_Date,3/2021
-	Team_1,Nevada Wolf Pack
-	Team_2,Kansas State Wildcats
+	Team_1,Nevada 
+	Team_2,Kansas State 
 	Team_1_Score,17
 	Team_2_Score,38
 	Team_1_First_Downs,14
@@ -7754,8 +7754,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282199
 	Game_Date,3/2021
-	Team_1,Smu Mustangs
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,SMU 
+	Team_2,Louisiana Tech 
 	Team_1_Score,39
 	Team_2_Score,37
 	Team_1_First_Downs,31
@@ -7792,8 +7792,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282823
 	Game_Date,3/2021
-	Team_1,Delaware Blue Hens
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Delaware 
+	Team_2,Rutgers 
 	Team_1_Score,13
 	Team_2_Score,45
 	Team_1_First_Downs,14
@@ -7830,8 +7830,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286300
 	Game_Date,3/2021
-	Team_1,Eastern Michigan Eagles
-	Team_2,Umass Minutemen
+	Team_1,Eastern Michigan 
+	Team_2,UMass 
 	Team_1_Score,42
 	Team_2_Score,28
 	Team_1_First_Downs,26
@@ -7868,8 +7868,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287904
 	Game_Date,3/2021
-	Team_1,Baylor Bears
-	Team_2,Kansas Jayhawks
+	Team_1,Baylor 
+	Team_2,Kansas 
 	Team_1_Score,45
 	Team_2_Score,7
 	Team_1_First_Downs,29
@@ -7906,8 +7906,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308843
 	Game_Date,3/2021
-	Team_1,Long Island University Sharks
-	Team_2,Miami Oh Redhawks
+	Team_1,Long Island University 
+	Team_2,Miami (OH) 
 	Team_1_Score,7
 	Team_2_Score,42
 	Team_1_First_Downs,13
@@ -7944,8 +7944,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309550
 	Game_Date,3/2021
-	Team_1,Bryant Bulldogs
-	Team_2,Akron Zips
+	Team_1,Bryant 
+	Team_2,Akron 
 	Team_1_Score,14
 	Team_2_Score,35
 	Team_1_First_Downs,14
@@ -7982,8 +7982,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309604
 	Game_Date,3/2021
-	Team_1,Elon Phoenix
-	Team_2,Appalachian State Mountaineers
+	Team_1,Elon 
+	Team_2,Appalachian State 
 	Team_1_Score,10
 	Team_2_Score,44
 	Team_1_First_Downs,14
@@ -8020,8 +8020,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309851
 	Game_Date,3/2021
-	Team_1,Idaho Vandals
-	Team_2,Oregon State Beavers
+	Team_1,Idaho 
+	Team_2,Oregon State 
 	Team_1_Score,0
 	Team_2_Score,42
 	Team_1_First_Downs,14
@@ -8058,8 +8058,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309852
 	Game_Date,3/2021
-	Team_1,Usc Trojans
-	Team_2,Washington State Cougars
+	Team_1,USC 
+	Team_2,Washington State 
 	Team_1_Score,45
 	Team_2_Score,14
 	Team_1_First_Downs,24
@@ -8096,8 +8096,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282635
 	Game_Date,3/2021
-	Team_1,Florida State Seminoles
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Florida State 
+	Team_2,Wake Forest 
 	Team_1_Score,14
 	Team_2_Score,35
 	Team_1_First_Downs,16
@@ -8134,8 +8134,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282076
 	Game_Date,3/2021
-	Team_1,Mississippi State Bulldogs
-	Team_2,Memphis Tigers
+	Team_1,Mississippi State 
+	Team_2,Memphis 
 	Team_1_Score,29
 	Team_2_Score,31
 	Team_1_First_Downs,26
@@ -8172,8 +8172,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282628
 	Game_Date,3/2021
-	Team_1,Northwestern Wildcats
-	Team_2,Duke Blue Devils
+	Team_1,Northwestern 
+	Team_2,Duke 
 	Team_1_Score,23
 	Team_2_Score,30
 	Team_1_First_Downs,22
@@ -8210,8 +8210,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309549
 	Game_Date,3/2021
-	Team_1,Ball State Cardinals
-	Team_2,Wyoming Cowboys
+	Team_1,Ball State 
+	Team_2,Wyoming 
 	Team_1_Score,12
 	Team_2_Score,45
 	Team_1_First_Downs,19
@@ -8248,8 +8248,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309553
 	Game_Date,3/2021
-	Team_1,Colorado State Rams
-	Team_2,Toledo Rockets
+	Team_1,Colorado State 
+	Team_2,Toledo 
 	Team_1_Score,22
 	Team_2_Score,6
 	Team_1_First_Downs,18
@@ -8286,8 +8286,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309849
 	Game_Date,3/2021
-	Team_1,Sacramento State Hornets
-	Team_2,California Golden Bears
+	Team_1,Sacramento State 
+	Team_2,California 
 	Team_1_Score,30
 	Team_2_Score,42
 	Team_1_First_Downs,24
@@ -8324,8 +8324,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309605
 	Game_Date,3/2021
-	Team_1,Arkansas State Red Wolves
-	Team_2,Washington Huskies
+	Team_1,Arkansas State 
+	Team_2,Washington 
 	Team_1_Score,3
 	Team_2_Score,52
 	Team_1_First_Downs,15
@@ -8362,8 +8362,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309551
 	Game_Date,3/2021
-	Team_1,Murray State Racers
-	Team_2,Bowling Green Falcons
+	Team_1,Murray State 
+	Team_2,Bowling Green 
 	Team_1_Score,10
 	Team_2_Score,27
 	Team_1_First_Downs,20
@@ -8400,8 +8400,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282194
 	Game_Date,3/2021
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Utsa Roadrunners
+	Team_1,Middle Tennessee 
+	Team_2,UTSA 
 	Team_1_Score,13
 	Team_2_Score,27
 	Team_1_First_Downs,11
@@ -8438,8 +8438,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282198
 	Game_Date,3/2021
-	Team_1,Fordham Rams
-	Team_2,Florida Atlantic Owls
+	Team_1,Fordham 
+	Team_2,Florida Atlantic 
 	Team_1_Score,14
 	Team_2_Score,45
 	Team_1_First_Downs,9
@@ -8476,8 +8476,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282200
 	Game_Date,3/2021
-	Team_1,East Carolina Pirates
-	Team_2,Marshall Thundering Herd
+	Team_1,East Carolina 
+	Team_2,Marshall 
 	Team_1_Score,42
 	Team_2_Score,38
 	Team_1_First_Downs,27
@@ -8514,8 +8514,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282201
 	Game_Date,3/2021
-	Team_1,Old Dominion Monarchs
-	Team_2,Liberty Flames
+	Team_1,Old Dominion 
+	Team_2,Liberty 
 	Team_1_Score,17
 	Team_2_Score,45
 	Team_1_First_Downs,15
@@ -8552,8 +8552,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282196
 	Game_Date,3/2021
-	Team_1,Charlotte 49ers
-	Team_2,Georgia State Panthers
+	Team_1,Charlotte 
+	Team_2,Georgia State 
 	Team_1_Score,9
 	Team_2_Score,20
 	Team_1_First_Downs,17
@@ -8590,8 +8590,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282197
 	Game_Date,3/2021
-	Team_1,Florida International Panthers
-	Team_2,Texas Tech Red Raiders
+	Team_1,Florida International 
+	Team_2,Texas Tech 
 	Team_1_Score,21
 	Team_2_Score,54
 	Team_1_First_Downs,10
@@ -8628,8 +8628,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282203
 	Game_Date,3/2021
-	Team_1,Troy Trojans
-	Team_2,Southern Miss Golden Eagles
+	Team_1,Troy 
+	Team_2,Southern Miss 
 	Team_1_Score,21
 	Team_2_Score,9
 	Team_1_First_Downs,17
@@ -8666,8 +8666,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301005
 	Game_Date,3/2021
-	Team_1,Grambling Tigers
-	Team_2,Houston Cougars
+	Team_1,Grambling 
+	Team_2,Houston 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,3
@@ -8704,8 +8704,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301006
 	Game_Date,3/2021
-	Team_1,Florida Am Rattlers
-	Team_2,South Florida Bulls
+	Team_1,Florida A&M 
+	Team_2,South Florida 
 	Team_1_Score,17
 	Team_2_Score,38
 	Team_1_First_Downs,20
@@ -8742,8 +8742,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309609
 	Game_Date,3/2021
-	Team_1,Incarnate Word Cardinals
-	Team_2,Texas State Bobcats
+	Team_1,Incarnate Word 
+	Team_2,Texas State 
 	Team_1_Score,42
 	Team_2_Score,34
 	Team_1_First_Downs,27
@@ -8780,8 +8780,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309856
 	Game_Date,3/2021
-	Team_1,Utah Utes
-	Team_2,San Diego State Aztecs
+	Team_1,Utah 
+	Team_2,San Diego State 
 	Team_1_Score,31
 	Team_2_Score,33
 	Team_1_First_Downs,21
@@ -8818,8 +8818,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282074
 	Game_Date,3/2021
-	Team_1,Central Michigan Chippewas
-	Team_2,Lsu Tigers
+	Team_1,Central Michigan 
+	Team_2,LSU 
 	Team_1_Score,21
 	Team_2_Score,49
 	Team_1_First_Downs,17
@@ -8856,8 +8856,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282195
 	Game_Date,3/2021
-	Team_1,Uab Blazers
-	Team_2,North Texas Mean Green
+	Team_1,UAB 
+	Team_2,North Texas 
 	Team_1_Score,40
 	Team_2_Score,6
 	Team_1_First_Downs,17
@@ -8894,8 +8894,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282630
 	Game_Date,3/2021
-	Team_1,Furman Paladins
-	Team_2,Nc State Wolfpack
+	Team_1,Furman 
+	Team_2,NC State 
 	Team_1_Score,7
 	Team_2_Score,45
 	Team_1_First_Downs,9
@@ -8932,8 +8932,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310704
 	Game_Date,3/2021
-	Team_1,Utah State Aggies
-	Team_2,Air Force Falcons
+	Team_1,Utah State 
+	Team_2,Air Force 
 	Team_1_Score,49
 	Team_2_Score,45
 	Team_1_First_Downs,26
@@ -8970,8 +8970,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282080
 	Game_Date,3/2021
-	Team_1,Stanford Cardinal
-	Team_2,Vanderbilt Commodores
+	Team_1,Stanford 
+	Team_2,Vanderbilt 
 	Team_1_Score,41
 	Team_2_Score,23
 	Team_1_First_Downs,20
@@ -9008,8 +9008,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282202
 	Game_Date,3/2021
-	Team_1,Rice Owls
-	Team_2,Texas Longhorns
+	Team_1,Rice 
+	Team_2,Texas 
 	Team_1_Score,0
 	Team_2_Score,58
 	Team_1_First_Downs,14
@@ -9046,8 +9046,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309607
 	Game_Date,3/2021
-	Team_1,Jackson State Tigers
-	Team_2,Ul Monroe Warhawks
+	Team_1,Jackson State 
+	Team_2,UL Monroe 
 	Team_1_Score,7
 	Team_2_Score,12
 	Team_1_First_Downs,16
@@ -9084,8 +9084,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309608
 	Game_Date,3/2021
-	Team_1,Alcorn State Braves
-	Team_2,South Alabama Jaguars
+	Team_1,Alcorn State 
+	Team_2,South Alabama 
 	Team_1_Score,21
 	Team_2_Score,28
 	Team_1_First_Downs,13
@@ -9122,8 +9122,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401319455
 	Game_Date,3/2021
-	Team_1,South Carolina State Bulldogs
-	Team_2,New Mexico State Aggies
+	Team_1,South Carolina State 
+	Team_2,New Mexico State 
 	Team_1_Score,35
 	Team_2_Score,43
 	Team_1_First_Downs,24
@@ -9160,8 +9160,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287903
 	Game_Date,3/2021
-	Team_1,Oklahoma State Cowboys
-	Team_2,Boise State Broncos
+	Team_1,Oklahoma State 
+	Team_2,Boise State 
 	Team_1_Score,21
 	Team_2_Score,20
 	Team_1_First_Downs,15
@@ -9198,8 +9198,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309853
 	Game_Date,3/2021
-	Team_1,Northern Arizona Lumberjacks
-	Team_2,Arizona Wildcats
+	Team_1,Northern Arizona 
+	Team_2,Arizona 
 	Team_1_Score,21
 	Team_2_Score,19
 	Team_1_First_Downs,15
@@ -9236,8 +9236,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310705
 	Game_Date,3/2021
-	Team_1,San Jose State Spartans
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,San José State 
+	Team_2,Hawai'i 
 	Team_1_Score,17
 	Team_2_Score,13
 	Team_1_First_Downs,15
@@ -9274,8 +9274,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282208
 	Game_Date,4/2021
-	Team_1,Marshall Thundering Herd
-	Team_2,Appalachian State Mountaineers
+	Team_1,Marshall 
+	Team_2,Appalachian State 
 	Team_1_Score,30
 	Team_2_Score,31
 	Team_1_First_Downs,20
@@ -9312,8 +9312,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310707
 	Game_Date,4/2021
-	Team_1,Unlv Rebels
-	Team_2,Fresno State Bulldogs
+	Team_1,UNLV 
+	Team_2,Fresno State 
 	Team_1_Score,30
 	Team_2_Score,38
 	Team_1_First_Downs,18
@@ -9350,8 +9350,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282204
 	Game_Date,4/2021
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Charlotte 49ers
+	Team_1,Middle Tennessee 
+	Team_2,Charlotte 
 	Team_1_Score,39
 	Team_2_Score,42
 	Team_1_First_Downs,25
@@ -9388,8 +9388,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282638
 	Game_Date,4/2021
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Virginia Cavaliers
+	Team_1,Wake Forest 
+	Team_2,Virginia 
 	Team_1_Score,37
 	Team_2_Score,17
 	Team_1_First_Downs,24
@@ -9426,8 +9426,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282637
 	Game_Date,4/2021
-	Team_1,Liberty Flames
-	Team_2,Syracuse Orange
+	Team_1,Liberty 
+	Team_2,Syracuse 
 	Team_1_Score,21
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -9464,8 +9464,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282081
 	Game_Date,4/2021
-	Team_1,Southern Miss Golden Eagles
-	Team_2,Alabama Crimson Tide
+	Team_1,Southern Miss 
+	Team_2,Alabama 
 	Team_1_Score,14
 	Team_2_Score,63
 	Team_1_First_Downs,11
@@ -9502,8 +9502,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282088
 	Game_Date,4/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Vanderbilt Commodores
+	Team_1,Georgia 
+	Team_2,Vanderbilt 
 	Team_1_Score,62
 	Team_2_Score,0
 	Team_1_First_Downs,28
@@ -9540,8 +9540,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309859
 	Game_Date,4/2021
-	Team_1,Arizona Wildcats
-	Team_2,Oregon Ducks
+	Team_1,Arizona 
+	Team_2,Oregon 
 	Team_1_Score,19
 	Team_2_Score,41
 	Team_1_First_Downs,31
@@ -9578,8 +9578,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287908
 	Game_Date,4/2021
-	Team_1,West Virginia Mountaineers
-	Team_2,Oklahoma Sooners
+	Team_1,West Virginia 
+	Team_2,Oklahoma 
 	Team_1_Score,13
 	Team_2_Score,16
 	Team_1_First_Downs,18
@@ -9616,8 +9616,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282756
 	Game_Date,4/2021
-	Team_1,Colorado State Rams
-	Team_2,Iowa Hawkeyes
+	Team_1,Colorado State 
+	Team_2,Iowa 
 	Team_1_Score,14
 	Team_2_Score,24
 	Team_1_First_Downs,12
@@ -9654,8 +9654,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282817
 	Game_Date,4/2021
-	Team_1,Villanova Wildcats
-	Team_2,Penn State Nittany Lions
+	Team_1,Villanova 
+	Team_2,Penn State 
 	Team_1_Score,17
 	Team_2_Score,38
 	Team_1_First_Downs,15
@@ -9692,8 +9692,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282082
 	Game_Date,4/2021
-	Team_1,Texas Am Aggies
-	Team_2,Arkansas Razorbacks
+	Team_1,Texas A&M 
+	Team_2,Arkansas 
 	Team_1_Score,10
 	Team_2_Score,20
 	Team_1_First_Downs,15
@@ -9730,8 +9730,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282643
 	Game_Date,4/2021
-	Team_1,Clemson Tigers
-	Team_2,Nc State Wolfpack
+	Team_1,Clemson 
+	Team_2,NC State 
 	Team_1_Score,21
 	Team_2_Score,27
 	Team_1_First_Downs,10
@@ -9768,8 +9768,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282811
 	Game_Date,4/2021
-	Team_1,Akron Zips
-	Team_2,Ohio State Buckeyes
+	Team_1,Akron 
+	Team_2,Ohio State 
 	Team_1_Score,7
 	Team_2_Score,59
 	Team_1_First_Downs,17
@@ -9806,8 +9806,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282084
 	Game_Date,4/2021
-	Team_1,Tennessee Volunteers
-	Team_2,Florida Gators
+	Team_1,Tennessee 
+	Team_2,Florida 
 	Team_1_Score,14
 	Team_2_Score,38
 	Team_1_First_Downs,20
@@ -9844,8 +9844,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282707
 	Game_Date,4/2021
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Wisconsin Badgers
+	Team_1,Notre Dame 
+	Team_2,Wisconsin 
 	Team_1_Score,41
 	Team_2_Score,13
 	Team_1_First_Downs,17
@@ -9882,8 +9882,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287907
 	Game_Date,4/2021
-	Team_1,Iowa State Cyclones
-	Team_2,Baylor Bears
+	Team_1,Iowa State 
+	Team_2,Baylor 
 	Team_1_Score,29
 	Team_2_Score,31
 	Team_1_First_Downs,27
@@ -9920,8 +9920,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301009
 	Game_Date,4/2021
-	Team_1,South Florida Bulls
-	Team_2,Byu Cougars
+	Team_1,South Florida 
+	Team_2,BYU 
 	Team_1_Score,27
 	Team_2_Score,35
 	Team_1_First_Downs,23
@@ -9958,8 +9958,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286301
 	Game_Date,4/2021
-	Team_1,Umass Minutemen
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,UMass 
+	Team_2,Coastal Carolina 
 	Team_1_Score,3
 	Team_2_Score,53
 	Team_1_First_Downs,13
@@ -9996,8 +9996,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282775
 	Game_Date,4/2021
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Michigan Wolverines
+	Team_1,Rutgers 
+	Team_2,Michigan 
 	Team_1_Score,13
 	Team_2_Score,20
 	Team_1_First_Downs,21
@@ -10034,8 +10034,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282784
 	Game_Date,4/2021
-	Team_1,Nebraska Cornhuskers
-	Team_2,Michigan State Spartans
+	Team_1,Nebraska 
+	Team_2,Michigan State 
 	Team_1_Score,20
 	Team_2_Score,23
 	Team_1_First_Downs,26
@@ -10072,8 +10072,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282641
 	Game_Date,4/2021
-	Team_1,North Carolina Tar Heels
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,North Carolina 
+	Team_2,Georgia Tech 
 	Team_1_Score,22
 	Team_2_Score,45
 	Team_1_First_Downs,18
@@ -10110,8 +10110,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282083
 	Game_Date,4/2021
-	Team_1,Georgia State Panthers
-	Team_2,Auburn Tigers
+	Team_1,Georgia State 
+	Team_2,Auburn 
 	Team_1_Score,24
 	Team_2_Score,34
 	Team_1_First_Downs,20
@@ -10148,8 +10148,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309858
 	Game_Date,4/2021
-	Team_1,Ucla Bruins
-	Team_2,Stanford Cardinal
+	Team_1,UCLA 
+	Team_2,Stanford 
 	Team_1_Score,35
 	Team_2_Score,24
 	Team_1_First_Downs,24
@@ -10186,8 +10186,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287909
 	Game_Date,4/2021
-	Team_1,Kansas State Wildcats
-	Team_2,Oklahoma State Cowboys
+	Team_1,Kansas State 
+	Team_2,Oklahoma State 
 	Team_1_Score,20
 	Team_2_Score,31
 	Team_1_First_Downs,13
@@ -10224,8 +10224,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282085
 	Game_Date,4/2021
-	Team_1,Lsu Tigers
-	Team_2,Mississippi State Bulldogs
+	Team_1,LSU 
+	Team_2,Mississippi State 
 	Team_1_Score,28
 	Team_2_Score,25
 	Team_1_First_Downs,15
@@ -10262,8 +10262,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282086
 	Game_Date,4/2021
-	Team_1,Missouri Tigers
-	Team_2,Boston College Eagles
+	Team_1,Missouri 
+	Team_2,Boston College 
 	Team_1_Score,34
 	Team_2_Score,41
 	Team_1_First_Downs,22
@@ -10300,8 +10300,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282206
 	Game_Date,4/2021
-	Team_1,Florida International Panthers
-	Team_2,Central Michigan Chippewas
+	Team_1,Florida International 
+	Team_2,Central Michigan 
 	Team_1_Score,27
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -10338,8 +10338,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282644
 	Game_Date,4/2021
-	Team_1,New Hampshire Wildcats
-	Team_2,Pittsburgh Panthers
+	Team_1,New Hampshire 
+	Team_2,Pittsburgh 
 	Team_1_Score,7
 	Team_2_Score,77
 	Team_1_First_Downs,8
@@ -10376,8 +10376,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282645
 	Game_Date,4/2021
-	Team_1,Richmond Spiders
-	Team_2,Virginia Tech Hokies
+	Team_1,Richmond 
+	Team_2,Virginia Tech 
 	Team_1_Score,10
 	Team_2_Score,21
 	Team_1_First_Downs,15
@@ -10414,8 +10414,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282792
 	Game_Date,4/2021
-	Team_1,Bowling Green Falcons
-	Team_2,Minnesota Golden Gophers
+	Team_1,Bowling Green 
+	Team_2,Minnesota 
 	Team_1_Score,14
 	Team_2_Score,10
 	Team_1_First_Downs,12
@@ -10452,8 +10452,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282805
 	Game_Date,4/2021
-	Team_1,Ohio Bobcats
-	Team_2,Northwestern Wildcats
+	Team_1,Ohio 
+	Team_2,Northwestern 
 	Team_1_Score,6
 	Team_2_Score,35
 	Team_1_First_Downs,17
@@ -10490,8 +10490,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287910
 	Game_Date,4/2021
-	Team_1,Smu Mustangs
-	Team_2,Tcu Horned Frogs
+	Team_1,SMU 
+	Team_2,TCU 
 	Team_1_Score,42
 	Team_2_Score,34
 	Team_1_First_Downs,29
@@ -10528,8 +10528,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287911
 	Game_Date,4/2021
-	Team_1,Texas Tech Red Raiders
-	Team_2,Texas Longhorns
+	Team_1,Texas Tech 
+	Team_2,Texas 
 	Team_1_Score,35
 	Team_2_Score,70
 	Team_1_First_Downs,20
@@ -10566,8 +10566,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301010
 	Game_Date,4/2021
-	Team_1,Wagner Seahawks
-	Team_2,Temple Owls
+	Team_1,Wagner 
+	Team_2,Temple 
 	Team_1_Score,7
 	Team_2_Score,41
 	Team_1_First_Downs,8
@@ -10604,8 +10604,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308834
 	Game_Date,4/2021
-	Team_1,Miami Oh Redhawks
-	Team_2,Army Black Knights
+	Team_1,Miami (OH) 
+	Team_2,Army 
 	Team_1_Score,10
 	Team_2_Score,23
 	Team_1_First_Downs,13
@@ -10642,8 +10642,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310706
 	Game_Date,4/2021
-	Team_1,Boise State Broncos
-	Team_2,Utah State Aggies
+	Team_1,Boise State 
+	Team_2,Utah State 
 	Team_1_Score,27
 	Team_2_Score,3
 	Team_1_First_Downs,25
@@ -10680,8 +10680,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282642
 	Game_Date,4/2021
-	Team_1,Central Connecticut Blue Devils
-	Team_2,Miami Hurricanes
+	Team_1,Central Connecticut 
+	Team_2,Miami 
 	Team_1_Score,0
 	Team_2_Score,69
 	Team_1_First_Downs,11
@@ -10718,8 +10718,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309554
 	Game_Date,4/2021
-	Team_1,San Jose State Spartans
-	Team_2,Western Michigan Broncos
+	Team_1,San José State 
+	Team_2,Western Michigan 
 	Team_1_Score,3
 	Team_2_Score,23
 	Team_1_First_Downs,11
@@ -10756,8 +10756,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309555
 	Game_Date,4/2021
-	Team_1,Toledo Rockets
-	Team_2,Ball State Cardinals
+	Team_1,Toledo 
+	Team_2,Ball State 
 	Team_1_Score,22
 	Team_2_Score,12
 	Team_1_First_Downs,19
@@ -10794,8 +10794,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309557
 	Game_Date,4/2021
-	Team_1,Texas State Bobcats
-	Team_2,Eastern Michigan Eagles
+	Team_1,Texas State 
+	Team_2,Eastern Michigan 
 	Team_1_Score,21
 	Team_2_Score,59
 	Team_1_First_Downs,18
@@ -10832,8 +10832,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309556
 	Game_Date,4/2021
-	Team_1,Maine Black Bears
-	Team_2,Northern Illinois Huskies
+	Team_1,Maine 
+	Team_2,Northern Illinois 
 	Team_1_Score,14
 	Team_2_Score,41
 	Team_1_First_Downs,13
@@ -10870,8 +10870,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309861
 	Game_Date,4/2021
-	Team_1,Washington State Cougars
-	Team_2,Utah Utes
+	Team_1,Washington State 
+	Team_2,Utah 
 	Team_1_Score,13
 	Team_2_Score,24
 	Team_1_First_Downs,22
@@ -10908,8 +10908,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282716
 	Game_Date,4/2021
-	Team_1,Illinois Fighting Illini
-	Team_2,Purdue Boilermakers
+	Team_1,Illinois 
+	Team_2,Purdue 
 	Team_1_Score,9
 	Team_2_Score,13
 	Team_1_First_Downs,17
@@ -10946,8 +10946,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282765
 	Game_Date,4/2021
-	Team_1,Kent State Golden Flashes
-	Team_2,Maryland Terrapins
+	Team_1,Kent State 
+	Team_2,Maryland 
 	Team_1_Score,16
 	Team_2_Score,37
 	Team_1_First_Downs,27
@@ -10984,8 +10984,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286190
 	Game_Date,4/2021
-	Team_1,Wyoming Cowboys
-	Team_2,Uconn Huskies
+	Team_1,Wyoming 
+	Team_2,UConn 
 	Team_1_Score,24
 	Team_2_Score,22
 	Team_1_First_Downs,22
@@ -11022,8 +11022,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310709
 	Game_Date,4/2021
-	Team_1,Towson Tigers
-	Team_2,San Diego State Aztecs
+	Team_1,Towson 
+	Team_2,San Diego State 
 	Team_1_Score,21
 	Team_2_Score,48
 	Team_1_First_Downs,12
@@ -11060,8 +11060,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282213
 	Game_Date,4/2021
-	Team_1,Utsa Roadrunners
-	Team_2,Memphis Tigers
+	Team_1,UTSA 
+	Team_2,Memphis 
 	Team_1_Score,31
 	Team_2_Score,28
 	Team_1_First_Downs,25
@@ -11098,8 +11098,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282640
 	Game_Date,4/2021
-	Team_1,Louisville Cardinals
-	Team_2,Florida State Seminoles
+	Team_1,Louisville 
+	Team_2,Florida State 
 	Team_1_Score,31
 	Team_2_Score,23
 	Team_1_First_Downs,21
@@ -11136,8 +11136,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282639
 	Game_Date,4/2021
-	Team_1,Kansas Jayhawks
-	Team_2,Duke Blue Devils
+	Team_1,Kansas 
+	Team_2,Duke 
 	Team_1_Score,33
 	Team_2_Score,52
 	Team_1_First_Downs,21
@@ -11174,8 +11174,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301011
 	Game_Date,4/2021
-	Team_1,Arkansas State Red Wolves
-	Team_2,Tulsa Golden Hurricane
+	Team_1,Arkansas State 
+	Team_2,Tulsa 
 	Team_1_Score,34
 	Team_2_Score,41
 	Team_1_First_Downs,20
@@ -11212,8 +11212,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282209
 	Game_Date,4/2021
-	Team_1,Buffalo Bulls
-	Team_2,Old Dominion Monarchs
+	Team_1,Buffalo 
+	Team_2,Old Dominion 
 	Team_1_Score,35
 	Team_2_Score,34
 	Team_1_First_Downs,17
@@ -11250,8 +11250,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301007
 	Game_Date,4/2021
-	Team_1,Charleston Southern Buccaneers
-	Team_2,East Carolina Pirates
+	Team_1,Charleston Southern 
+	Team_2,East Carolina 
 	Team_1_Score,28
 	Team_2_Score,31
 	Team_1_First_Downs,34
@@ -11288,8 +11288,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309610
 	Game_Date,4/2021
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Georgia Southern Eagles
+	Team_1,Louisiana 
+	Team_2,Georgia Southern 
 	Team_1_Score,28
 	Team_2_Score,20
 	Team_1_First_Downs,18
@@ -11326,8 +11326,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282210
 	Game_Date,4/2021
-	Team_1,Texas Southern Tigers
-	Team_2,Rice Owls
+	Team_1,Texas Southern 
+	Team_2,Rice 
 	Team_1_Score,34
 	Team_2_Score,48
 	Team_1_First_Downs,21
@@ -11364,8 +11364,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282087
 	Game_Date,4/2021
-	Team_1,Kentucky Wildcats
-	Team_2,South Carolina Gamecocks
+	Team_1,Kentucky 
+	Team_2,South Carolina 
 	Team_1_Score,16
 	Team_2_Score,10
 	Team_1_First_Downs,22
@@ -11402,8 +11402,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282205
 	Game_Date,4/2021
-	Team_1,North Texas Mean Green
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,North Texas 
+	Team_2,Louisiana Tech 
 	Team_1_Score,17
 	Team_2_Score,24
 	Team_1_First_Downs,24
@@ -11440,8 +11440,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301008
 	Game_Date,4/2021
-	Team_1,Navy Midshipmen
-	Team_2,Houston Cougars
+	Team_1,Navy 
+	Team_2,Houston 
 	Team_1_Score,20
 	Team_2_Score,28
 	Team_1_First_Downs,15
@@ -11478,8 +11478,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282207
 	Game_Date,4/2021
-	Team_1,Florida Atlantic Owls
-	Team_2,Air Force Falcons
+	Team_1,Florida Atlantic 
+	Team_2,Air Force 
 	Team_1_Score,7
 	Team_2_Score,31
 	Team_1_First_Downs,10
@@ -11516,8 +11516,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282211
 	Game_Date,4/2021
-	Team_1,Uab Blazers
-	Team_2,Tulane Green Wave
+	Team_1,UAB 
+	Team_2,Tulane 
 	Team_1_Score,28
 	Team_2_Score,21
 	Team_1_First_Downs,25
@@ -11554,8 +11554,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282214
 	Game_Date,4/2021
-	Team_1,Indiana Hoosiers
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,Indiana 
+	Team_2,Western Kentucky 
 	Team_1_Score,33
 	Team_2_Score,31
 	Team_1_First_Downs,35
@@ -11592,8 +11592,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309611
 	Game_Date,4/2021
-	Team_1,Troy Trojans
-	Team_2,Ul Monroe Warhawks
+	Team_1,Troy 
+	Team_2,UL Monroe 
 	Team_1_Score,16
 	Team_2_Score,29
 	Team_1_First_Downs,18
@@ -11630,8 +11630,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310708
 	Game_Date,4/2021
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,New Mexico State Aggies
+	Team_1,Hawai'i 
+	Team_2,New Mexico State 
 	Team_1_Score,41
 	Team_2_Score,21
 	Team_1_First_Downs,21
@@ -11668,8 +11668,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282212
 	Game_Date,4/2021
-	Team_1,New Mexico Lobos
-	Team_2,Utep Miners
+	Team_1,New Mexico 
+	Team_2,UTEP 
 	Team_1_Score,13
 	Team_2_Score,20
 	Team_1_First_Downs,17
@@ -11706,8 +11706,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309857
 	Game_Date,4/2021
-	Team_1,California Golden Bears
-	Team_2,Washington Huskies
+	Team_1,California 
+	Team_2,Washington 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,21
@@ -11744,8 +11744,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309860
 	Game_Date,4/2021
-	Team_1,Oregon State Beavers
-	Team_2,Usc Trojans
+	Team_1,Oregon State 
+	Team_2,USC 
 	Team_1_Score,45
 	Team_2_Score,27
 	Team_1_First_Downs,31
@@ -11782,8 +11782,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309862
 	Game_Date,4/2021
-	Team_1,Colorado Buffaloes
-	Team_2,Arizona State Sun Devils
+	Team_1,Colorado 
+	Team_2,Arizona State 
 	Team_1_Score,13
 	Team_2_Score,35
 	Team_1_First_Downs,18
@@ -11820,8 +11820,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282646
 	Game_Date,5/2021
-	Team_1,Virginia Cavaliers
-	Team_2,Miami Hurricanes
+	Team_1,Virginia 
+	Team_2,Miami 
 	Team_1_Score,30
 	Team_2_Score,28
 	Team_1_First_Downs,23
@@ -11858,8 +11858,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282759
 	Game_Date,5/2021
-	Team_1,Iowa Hawkeyes
-	Team_2,Maryland Terrapins
+	Team_1,Iowa 
+	Team_2,Maryland 
 	Team_1_Score,51
 	Team_2_Score,14
 	Team_1_First_Downs,24
@@ -11896,8 +11896,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309912
 	Game_Date,5/2021
-	Team_1,Byu Cougars
-	Team_2,Utah State Aggies
+	Team_1,BYU 
+	Team_2,Utah State 
 	Team_1_Score,34
 	Team_2_Score,20
 	Team_1_First_Downs,22
@@ -11934,8 +11934,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301012
 	Game_Date,5/2021
-	Team_1,Houston Cougars
-	Team_2,Tulsa Golden Hurricane
+	Team_1,Houston 
+	Team_2,Tulsa 
 	Team_1_Score,45
 	Team_2_Score,10
 	Team_1_First_Downs,22
@@ -11972,8 +11972,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282089
 	Game_Date,5/2021
-	Team_1,Ole Miss Rebels
-	Team_2,Alabama Crimson Tide
+	Team_1,Ole Miss 
+	Team_2,Alabama 
 	Team_1_Score,21
 	Team_2_Score,42
 	Team_1_First_Downs,18
@@ -12010,8 +12010,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282090
 	Game_Date,5/2021
-	Team_1,Arkansas Razorbacks
-	Team_2,Georgia Bulldogs
+	Team_1,Arkansas 
+	Team_2,Georgia 
 	Team_1_Score,0
 	Team_2_Score,37
 	Team_1_First_Downs,9
@@ -12048,8 +12048,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309864
 	Game_Date,5/2021
-	Team_1,Oregon Ducks
-	Team_2,Stanford Cardinal
+	Team_1,Oregon 
+	Team_2,Stanford 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,21
@@ -12086,8 +12086,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282729
 	Game_Date,5/2021
-	Team_1,Indiana Hoosiers
-	Team_2,Penn State Nittany Lions
+	Team_1,Indiana 
+	Team_2,Penn State 
 	Team_1_Score,0
 	Team_2_Score,24
 	Team_1_First_Downs,12
@@ -12124,8 +12124,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287913
 	Game_Date,5/2021
-	Team_1,Oklahoma Sooners
-	Team_2,Kansas State Wildcats
+	Team_1,Oklahoma 
+	Team_2,Kansas State 
 	Team_1_Score,37
 	Team_2_Score,31
 	Team_1_First_Downs,22
@@ -12162,8 +12162,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282708
 	Game_Date,5/2021
-	Team_1,Cincinnati Bearcats
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Cincinnati 
+	Team_2,Notre Dame 
 	Team_1_Score,24
 	Team_2_Score,13
 	Team_1_First_Downs,16
@@ -12200,8 +12200,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282091
 	Game_Date,5/2021
-	Team_1,Florida Gators
-	Team_2,Kentucky Wildcats
+	Team_1,Florida 
+	Team_2,Kentucky 
 	Team_1_Score,13
 	Team_2_Score,20
 	Team_1_First_Downs,21
@@ -12238,8 +12238,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282813
 	Game_Date,5/2021
-	Team_1,Ohio State Buckeyes
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Ohio State 
+	Team_2,Rutgers 
 	Team_1_Score,52
 	Team_2_Score,13
 	Team_1_First_Downs,25
@@ -12276,8 +12276,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282776
 	Game_Date,5/2021
-	Team_1,Michigan Wolverines
-	Team_2,Wisconsin Badgers
+	Team_1,Michigan 
+	Team_2,Wisconsin 
 	Team_1_Score,38
 	Team_2_Score,17
 	Team_1_First_Downs,15
@@ -12314,8 +12314,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282095
 	Game_Date,5/2021
-	Team_1,Mississippi State Bulldogs
-	Team_2,Texas Am Aggies
+	Team_1,Mississippi State 
+	Team_2,Texas A&M 
 	Team_1_Score,26
 	Team_2_Score,22
 	Team_1_First_Downs,27
@@ -12352,8 +12352,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309614
 	Game_Date,5/2021
-	Team_1,Ul Monroe Warhawks
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,UL Monroe 
+	Team_2,Coastal Carolina 
 	Team_1_Score,6
 	Team_2_Score,59
 	Team_1_First_Downs,10
@@ -12390,8 +12390,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282223
 	Game_Date,5/2021
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Michigan State Spartans
+	Team_1,Western Kentucky 
+	Team_2,Michigan State 
 	Team_1_Score,31
 	Team_2_Score,48
 	Team_1_First_Downs,31
@@ -12428,8 +12428,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310712
 	Game_Date,5/2021
-	Team_1,Fresno State Bulldogs
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,Fresno State 
+	Team_2,Hawai'i 
 	Team_1_Score,24
 	Team_2_Score,27
 	Team_1_First_Downs,31
@@ -12466,8 +12466,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287914
 	Game_Date,5/2021
-	Team_1,Baylor Bears
-	Team_2,Oklahoma State Cowboys
+	Team_1,Baylor 
+	Team_2,Oklahoma State 
 	Team_1_Score,14
 	Team_2_Score,24
 	Team_1_First_Downs,10
@@ -12504,8 +12504,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309866
 	Game_Date,5/2021
-	Team_1,Arizona State Sun Devils
-	Team_2,Ucla Bruins
+	Team_1,Arizona State 
+	Team_2,UCLA 
 	Team_1_Score,42
 	Team_2_Score,23
 	Team_1_First_Downs,17
@@ -12542,8 +12542,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282092
 	Game_Date,5/2021
-	Team_1,Auburn Tigers
-	Team_2,Lsu Tigers
+	Team_1,Auburn 
+	Team_2,LSU 
 	Team_1_Score,24
 	Team_2_Score,19
 	Team_1_First_Downs,23
@@ -12580,8 +12580,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282220
 	Game_Date,5/2021
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Nc State Wolfpack
+	Team_1,Louisiana Tech 
+	Team_2,NC State 
 	Team_1_Score,27
 	Team_2_Score,34
 	Team_1_First_Downs,26
@@ -12618,8 +12618,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282651
 	Game_Date,5/2021
-	Team_1,Louisville Cardinals
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Louisville 
+	Team_2,Wake Forest 
 	Team_1_Score,34
 	Team_2_Score,37
 	Team_1_First_Downs,25
@@ -12656,8 +12656,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282647
 	Game_Date,5/2021
-	Team_1,Boston College Eagles
-	Team_2,Clemson Tigers
+	Team_1,Boston College 
+	Team_2,Clemson 
 	Team_1_Score,13
 	Team_2_Score,19
 	Team_1_First_Downs,19
@@ -12694,8 +12694,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282093
 	Game_Date,5/2021
-	Team_1,Tennessee Volunteers
-	Team_2,Missouri Tigers
+	Team_1,Tennessee 
+	Team_2,Missouri 
 	Team_1_Score,62
 	Team_2_Score,24
 	Team_1_First_Downs,35
@@ -12732,8 +12732,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282219
 	Game_Date,5/2021
-	Team_1,Charlotte 49ers
-	Team_2,Illinois Fighting Illini
+	Team_1,Charlotte 
+	Team_2,Illinois 
 	Team_1_Score,14
 	Team_2_Score,24
 	Team_1_First_Downs,16
@@ -12770,8 +12770,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282649
 	Game_Date,5/2021
-	Team_1,Pittsburgh Panthers
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Pittsburgh 
+	Team_2,Georgia Tech 
 	Team_1_Score,52
 	Team_2_Score,21
 	Team_1_First_Downs,27
@@ -12808,8 +12808,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282650
 	Game_Date,5/2021
-	Team_1,Duke Blue Devils
-	Team_2,North Carolina Tar Heels
+	Team_1,Duke 
+	Team_2,North Carolina 
 	Team_1_Score,7
 	Team_2_Score,38
 	Team_1_First_Downs,15
@@ -12846,8 +12846,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282793
 	Game_Date,5/2021
-	Team_1,Minnesota Golden Gophers
-	Team_2,Purdue Boilermakers
+	Team_1,Minnesota 
+	Team_2,Purdue 
 	Team_1_Score,20
 	Team_2_Score,13
 	Team_1_First_Downs,12
@@ -12884,8 +12884,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286302
 	Game_Date,5/2021
-	Team_1,Toledo Rockets
-	Team_2,Umass Minutemen
+	Team_1,Toledo 
+	Team_2,UMass 
 	Team_1_Score,45
 	Team_2_Score,7
 	Team_1_First_Downs,22
@@ -12922,8 +12922,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287915
 	Game_Date,5/2021
-	Team_1,Texas Longhorns
-	Team_2,Tcu Horned Frogs
+	Team_1,Texas 
+	Team_2,TCU 
 	Team_1_Score,32
 	Team_2_Score,27
 	Team_1_First_Downs,25
@@ -12960,8 +12960,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301015
 	Game_Date,5/2021
-	Team_1,Memphis Tigers
-	Team_2,Temple Owls
+	Team_1,Memphis 
+	Team_2,Temple 
 	Team_1_Score,31
 	Team_2_Score,34
 	Team_1_First_Downs,25
@@ -12998,8 +12998,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309561
 	Game_Date,5/2021
-	Team_1,Western Michigan Broncos
-	Team_2,Buffalo Bulls
+	Team_1,Western Michigan 
+	Team_2,Buffalo 
 	Team_1_Score,24
 	Team_2_Score,17
 	Team_1_First_Downs,29
@@ -13036,8 +13036,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309612
 	Game_Date,5/2021
-	Team_1,Appalachian State Mountaineers
-	Team_2,Georgia State Panthers
+	Team_1,Appalachian State 
+	Team_2,Georgia State 
 	Team_1_Score,45
 	Team_2_Score,16
 	Team_1_First_Downs,23
@@ -13074,8 +13074,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309867
 	Game_Date,5/2021
-	Team_1,Usc Trojans
-	Team_2,Colorado Buffaloes
+	Team_1,USC 
+	Team_2,Colorado 
 	Team_1_Score,37
 	Team_2_Score,14
 	Team_1_First_Downs,20
@@ -13112,8 +13112,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309558
 	Game_Date,5/2021
-	Team_1,Eastern Michigan Eagles
-	Team_2,Northern Illinois Huskies
+	Team_1,Eastern Michigan 
+	Team_2,Northern Illinois 
 	Team_1_Score,20
 	Team_2_Score,27
 	Team_1_First_Downs,20
@@ -13150,8 +13150,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282094
 	Game_Date,5/2021
-	Team_1,Troy Trojans
-	Team_2,South Carolina Gamecocks
+	Team_1,Troy 
+	Team_2,South Carolina 
 	Team_1_Score,14
 	Team_2_Score,23
 	Team_1_First_Downs,21
@@ -13188,8 +13188,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282215
 	Game_Date,5/2021
-	Team_1,Florida International Panthers
-	Team_2,Florida Atlantic Owls
+	Team_1,Florida International 
+	Team_2,Florida Atlantic 
 	Team_1_Score,21
 	Team_2_Score,58
 	Team_1_First_Downs,16
@@ -13226,8 +13226,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282648
 	Game_Date,5/2021
-	Team_1,Syracuse Orange
-	Team_2,Florida State Seminoles
+	Team_1,Syracuse 
+	Team_2,Florida State 
 	Team_1_Score,30
 	Team_2_Score,33
 	Team_1_First_Downs,18
@@ -13264,8 +13264,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287916
 	Game_Date,5/2021
-	Team_1,Texas Tech Red Raiders
-	Team_2,West Virginia Mountaineers
+	Team_1,Texas Tech 
+	Team_2,West Virginia 
 	Team_1_Score,23
 	Team_2_Score,20
 	Team_1_First_Downs,20
@@ -13302,8 +13302,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301013
 	Game_Date,5/2021
-	Team_1,Ucf Knights
-	Team_2,Navy Midshipmen
+	Team_1,UCF 
+	Team_2,Navy 
 	Team_1_Score,30
 	Team_2_Score,34
 	Team_1_First_Downs,17
@@ -13340,8 +13340,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301014
 	Game_Date,5/2021
-	Team_1,Tulane Green Wave
-	Team_2,East Carolina Pirates
+	Team_1,Tulane 
+	Team_2,East Carolina 
 	Team_1_Score,29
 	Team_2_Score,52
 	Team_1_First_Downs,19
@@ -13378,8 +13378,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308835
 	Game_Date,5/2021
-	Team_1,Central Michigan Chippewas
-	Team_2,Miami Oh Redhawks
+	Team_1,Central Michigan 
+	Team_2,Miami (OH) 
 	Team_1_Score,17
 	Team_2_Score,28
 	Team_1_First_Downs,25
@@ -13416,8 +13416,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309560
 	Game_Date,5/2021
-	Team_1,Ohio Bobcats
-	Team_2,Akron Zips
+	Team_1,Ohio 
+	Team_2,Akron 
 	Team_1_Score,34
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -13454,8 +13454,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309562
 	Game_Date,5/2021
-	Team_1,Bowling Green Falcons
-	Team_2,Kent State Golden Flashes
+	Team_1,Bowling Green 
+	Team_2,Kent State 
 	Team_1_Score,20
 	Team_2_Score,27
 	Team_1_First_Downs,18
@@ -13492,8 +13492,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310711
 	Game_Date,5/2021
-	Team_1,Nevada Wolf Pack
-	Team_2,Boise State Broncos
+	Team_1,Nevada 
+	Team_2,Boise State 
 	Team_1_Score,41
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -13530,8 +13530,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301016
 	Game_Date,5/2021
-	Team_1,South Florida Bulls
-	Team_2,Smu Mustangs
+	Team_1,South Florida 
+	Team_2,SMU 
 	Team_1_Score,17
 	Team_2_Score,41
 	Team_1_First_Downs,19
@@ -13568,8 +13568,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309613
 	Game_Date,5/2021
-	Team_1,Arkansas State Red Wolves
-	Team_2,Georgia Southern Eagles
+	Team_1,Arkansas State 
+	Team_2,Georgia Southern 
 	Team_1_Score,33
 	Team_2_Score,59
 	Team_1_First_Downs,34
@@ -13606,8 +13606,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309559
 	Game_Date,5/2021
-	Team_1,Army Black Knights
-	Team_2,Ball State Cardinals
+	Team_1,Army 
+	Team_2,Ball State 
 	Team_1_Score,16
 	Team_2_Score,28
 	Team_1_First_Downs,18
@@ -13644,8 +13644,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309863
 	Game_Date,5/2021
-	Team_1,Washington State Cougars
-	Team_2,California Golden Bears
+	Team_1,Washington State 
+	Team_2,California 
 	Team_1_Score,21
 	Team_2_Score,6
 	Team_1_First_Downs,22
@@ -13682,8 +13682,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282222
 	Game_Date,5/2021
-	Team_1,Unlv Rebels
-	Team_2,Utsa Roadrunners
+	Team_1,UNLV 
+	Team_2,UTSA 
 	Team_1_Score,17
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -13720,8 +13720,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282218
 	Game_Date,5/2021
-	Team_1,Southern Miss Golden Eagles
-	Team_2,Rice Owls
+	Team_1,Southern Miss 
+	Team_2,Rice 
 	Team_1_Score,19
 	Team_2_Score,24
 	Team_1_First_Downs,21
@@ -13758,8 +13758,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310710
 	Game_Date,5/2021
-	Team_1,Air Force Falcons
-	Team_2,New Mexico Lobos
+	Team_1,Air Force 
+	Team_2,New Mexico 
 	Team_1_Score,38
 	Team_2_Score,10
 	Team_1_First_Downs,24
@@ -13796,8 +13796,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282216
 	Game_Date,5/2021
-	Team_1,Marshall Thundering Herd
-	Team_2,Middle Tennessee Blue Raiders
+	Team_1,Marshall 
+	Team_2,Middle Tennessee 
 	Team_1_Score,28
 	Team_2_Score,34
 	Team_1_First_Downs,28
@@ -13834,8 +13834,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282221
 	Game_Date,5/2021
-	Team_1,Liberty Flames
-	Team_2,Uab Blazers
+	Team_1,Liberty 
+	Team_2,UAB 
 	Team_1_Score,36
 	Team_2_Score,12
 	Team_1_First_Downs,24
@@ -13872,8 +13872,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287912
 	Game_Date,5/2021
-	Team_1,Kansas Jayhawks
-	Team_2,Iowa State Cyclones
+	Team_1,Kansas 
+	Team_2,Iowa State 
 	Team_1_Score,7
 	Team_2_Score,59
 	Team_1_First_Downs,18
@@ -13910,8 +13910,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282096
 	Game_Date,5/2021
-	Team_1,Uconn Huskies
-	Team_2,Vanderbilt Commodores
+	Team_1,UConn 
+	Team_2,Vanderbilt 
 	Team_1_Score,28
 	Team_2_Score,30
 	Team_1_First_Downs,24
@@ -13948,8 +13948,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282800
 	Game_Date,5/2021
-	Team_1,Northwestern Wildcats
-	Team_2,Nebraska Cornhuskers
+	Team_1,Northwestern 
+	Team_2,Nebraska 
 	Team_1_Score,7
 	Team_2_Score,56
 	Team_1_First_Downs,17
@@ -13986,8 +13986,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309615
 	Game_Date,5/2021
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,South Alabama Jaguars
+	Team_1,Louisiana 
+	Team_2,South Alabama 
 	Team_1_Score,20
 	Team_2_Score,18
 	Team_1_First_Downs,17
@@ -14024,8 +14024,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282217
 	Game_Date,5/2021
-	Team_1,Old Dominion Monarchs
-	Team_2,Utep Miners
+	Team_1,Old Dominion 
+	Team_2,UTEP 
 	Team_1_Score,21
 	Team_2_Score,28
 	Team_1_First_Downs,19
@@ -14062,8 +14062,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309865
 	Game_Date,5/2021
-	Team_1,Washington Huskies
-	Team_2,Oregon State Beavers
+	Team_1,Washington 
+	Team_2,Oregon State 
 	Team_1_Score,24
 	Team_2_Score,27
 	Team_1_First_Downs,15
@@ -14100,8 +14100,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310713
 	Game_Date,5/2021
-	Team_1,New Mexico State Aggies
-	Team_2,San Jose State Spartans
+	Team_1,New Mexico State 
+	Team_2,San José State 
 	Team_1_Score,31
 	Team_2_Score,37
 	Team_1_First_Downs,23
@@ -14138,8 +14138,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309616
 	Game_Date,6/2021
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Arkansas State Red Wolves
+	Team_1,Coastal Carolina 
+	Team_2,Arkansas State 
 	Team_1_Score,52
 	Team_2_Score,20
 	Team_1_First_Downs,23
@@ -14176,8 +14176,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301017
 	Game_Date,6/2021
-	Team_1,Houston Cougars
-	Team_2,Tulane Green Wave
+	Team_1,Houston 
+	Team_2,Tulane 
 	Team_1_Score,40
 	Team_2_Score,22
 	Team_1_First_Downs,18
@@ -14214,8 +14214,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301018
 	Game_Date,6/2021
-	Team_1,Temple Owls
-	Team_2,Cincinnati Bearcats
+	Team_1,Temple 
+	Team_2,Cincinnati 
 	Team_1_Score,3
 	Team_2_Score,52
 	Team_1_First_Downs,14
@@ -14252,8 +14252,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309868
 	Game_Date,6/2021
-	Team_1,Stanford Cardinal
-	Team_2,Arizona State Sun Devils
+	Team_1,Stanford 
+	Team_2,Arizona State 
 	Team_1_Score,10
 	Team_2_Score,28
 	Team_1_First_Downs,20
@@ -14290,8 +14290,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282224
 	Game_Date,6/2021
-	Team_1,Charlotte 49ers
-	Team_2,Florida International Panthers
+	Team_1,Charlotte 
+	Team_2,Florida International 
 	Team_1_Score,45
 	Team_2_Score,33
 	Team_1_First_Downs,23
@@ -14328,8 +14328,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282103
 	Game_Date,6/2021
-	Team_1,Alabama Crimson Tide
-	Team_2,Texas Am Aggies
+	Team_1,Alabama 
+	Team_2,Texas A&M 
 	Team_1_Score,38
 	Team_2_Score,41
 	Team_1_First_Downs,25
@@ -14366,8 +14366,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282097
 	Game_Date,6/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Auburn Tigers
+	Team_1,Georgia 
+	Team_2,Auburn 
 	Team_1_Score,34
 	Team_2_Score,10
 	Team_1_First_Downs,22
@@ -14404,8 +14404,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282758
 	Game_Date,6/2021
-	Team_1,Penn State Nittany Lions
-	Team_2,Iowa Hawkeyes
+	Team_1,Penn State 
+	Team_2,Iowa 
 	Team_1_Score,20
 	Team_2_Score,23
 	Team_1_First_Downs,18
@@ -14442,8 +14442,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287918
 	Game_Date,6/2021
-	Team_1,Oklahoma Sooners
-	Team_2,Texas Longhorns
+	Team_1,Oklahoma 
+	Team_2,Texas 
 	Team_1_Score,55
 	Team_2_Score,48
 	Team_1_First_Downs,26
@@ -14480,8 +14480,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282769
 	Game_Date,6/2021
-	Team_1,Maryland Terrapins
-	Team_2,Ohio State Buckeyes
+	Team_1,Maryland 
+	Team_2,Ohio State 
 	Team_1_Score,17
 	Team_2_Score,66
 	Team_1_First_Downs,22
@@ -14518,8 +14518,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282778
 	Game_Date,6/2021
-	Team_1,Michigan Wolverines
-	Team_2,Nebraska Cornhuskers
+	Team_1,Michigan 
+	Team_2,Nebraska 
 	Team_1_Score,32
 	Team_2_Score,29
 	Team_1_First_Downs,26
@@ -14556,8 +14556,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309913
 	Game_Date,6/2021
-	Team_1,Boise State Broncos
-	Team_2,Byu Cougars
+	Team_1,Boise State 
+	Team_2,BYU 
 	Team_1_Score,26
 	Team_2_Score,17
 	Team_1_First_Downs,24
@@ -14594,8 +14594,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282788
 	Game_Date,6/2021
-	Team_1,Michigan State Spartans
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Michigan State 
+	Team_2,Rutgers 
 	Team_1_Score,31
 	Team_2_Score,13
 	Team_1_First_Downs,20
@@ -14632,8 +14632,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282100
 	Game_Date,6/2021
-	Team_1,Arkansas Razorbacks
-	Team_2,Ole Miss Rebels
+	Team_1,Arkansas 
+	Team_2,Ole Miss 
 	Team_1_Score,51
 	Team_2_Score,52
 	Team_1_First_Downs,39
@@ -14670,8 +14670,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282656
 	Game_Date,6/2021
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Virginia Tech Hokies
+	Team_1,Notre Dame 
+	Team_2,Virginia Tech 
 	Team_1_Score,32
 	Team_2_Score,29
 	Team_1_First_Downs,21
@@ -14708,8 +14708,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282099
 	Game_Date,6/2021
-	Team_1,Lsu Tigers
-	Team_2,Kentucky Wildcats
+	Team_1,LSU 
+	Team_2,Kentucky 
 	Team_1_Score,21
 	Team_2_Score,42
 	Team_1_First_Downs,22
@@ -14746,8 +14746,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282655
 	Game_Date,6/2021
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Syracuse Orange
+	Team_1,Wake Forest 
+	Team_2,Syracuse 
 	Team_1_Score,40
 	Team_2_Score,37
 	Team_1_First_Downs,21
@@ -14784,8 +14784,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282098
 	Game_Date,6/2021
-	Team_1,Vanderbilt Commodores
-	Team_2,Florida Gators
+	Team_1,Vanderbilt 
+	Team_2,Florida 
 	Team_1_Score,0
 	Team_2_Score,42
 	Team_1_First_Downs,18
@@ -14822,8 +14822,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301021
 	Game_Date,6/2021
-	Team_1,Smu Mustangs
-	Team_2,Navy Midshipmen
+	Team_1,SMU 
+	Team_2,Navy 
 	Team_1_Score,31
 	Team_2_Score,24
 	Team_1_First_Downs,22
@@ -14860,8 +14860,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310716
 	Game_Date,6/2021
-	Team_1,New Mexico Lobos
-	Team_2,San Diego State Aztecs
+	Team_1,New Mexico 
+	Team_2,San Diego State 
 	Team_1_Score,7
 	Team_2_Score,31
 	Team_1_First_Downs,12
@@ -14898,8 +14898,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282102
 	Game_Date,6/2021
-	Team_1,South Carolina Gamecocks
-	Team_2,Tennessee Volunteers
+	Team_1,South Carolina 
+	Team_2,Tennessee 
 	Team_1_Score,20
 	Team_2_Score,45
 	Team_1_First_Downs,22
@@ -14936,8 +14936,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287917
 	Game_Date,6/2021
-	Team_1,West Virginia Mountaineers
-	Team_2,Baylor Bears
+	Team_1,West Virginia 
+	Team_2,Baylor 
 	Team_1_Score,20
 	Team_2_Score,45
 	Team_1_First_Downs,24
@@ -14974,8 +14974,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309564
 	Game_Date,6/2021
-	Team_1,Northern Illinois Huskies
-	Team_2,Toledo Rockets
+	Team_1,Northern Illinois 
+	Team_2,Toledo 
 	Team_1_Score,22
 	Team_2_Score,20
 	Team_1_First_Downs,23
@@ -15012,8 +15012,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309566
 	Game_Date,6/2021
-	Team_1,Akron Zips
-	Team_2,Bowling Green Falcons
+	Team_1,Akron 
+	Team_2,Bowling Green 
 	Team_1_Score,35
 	Team_2_Score,20
 	Team_1_First_Downs,18
@@ -15050,8 +15050,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282652
 	Game_Date,6/2021
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Duke Blue Devils
+	Team_1,Georgia Tech 
+	Team_2,Duke 
 	Team_1_Score,31
 	Team_2_Score,27
 	Team_1_First_Downs,17
@@ -15088,8 +15088,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282226
 	Game_Date,6/2021
-	Team_1,Old Dominion Monarchs
-	Team_2,Marshall Thundering Herd
+	Team_1,Old Dominion 
+	Team_2,Marshall 
 	Team_1_Score,13
 	Team_2_Score,20
 	Team_1_First_Downs,19
@@ -15126,8 +15126,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282653
 	Game_Date,6/2021
-	Team_1,Virginia Cavaliers
-	Team_2,Louisville Cardinals
+	Team_1,Virginia 
+	Team_2,Louisville 
 	Team_1_Score,34
 	Team_2_Score,33
 	Team_1_First_Downs,26
@@ -15164,8 +15164,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282225
 	Game_Date,6/2021
-	Team_1,Florida Atlantic Owls
-	Team_2,Uab Blazers
+	Team_1,Florida Atlantic 
+	Team_2,UAB 
 	Team_1_Score,14
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -15202,8 +15202,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282229
 	Game_Date,6/2021
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Liberty Flames
+	Team_1,Middle Tennessee 
+	Team_2,Liberty 
 	Team_1_Score,13
 	Team_2_Score,41
 	Team_1_First_Downs,12
@@ -15240,8 +15240,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282654
 	Game_Date,6/2021
-	Team_1,Florida State Seminoles
-	Team_2,North Carolina Tar Heels
+	Team_1,Florida State 
+	Team_2,North Carolina 
 	Team_1_Score,35
 	Team_2_Score,25
 	Team_1_First_Downs,22
@@ -15278,8 +15278,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282718
 	Game_Date,6/2021
-	Team_1,Wisconsin Badgers
-	Team_2,Illinois Fighting Illini
+	Team_1,Wisconsin 
+	Team_2,Illinois 
 	Team_1_Score,24
 	Team_2_Score,0
 	Team_1_First_Downs,30
@@ -15316,8 +15316,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286191
 	Game_Date,6/2021
-	Team_1,Uconn Huskies
-	Team_2,Umass Minutemen
+	Team_1,UConn 
+	Team_2,UMass 
 	Team_1_Score,13
 	Team_2_Score,27
 	Team_1_First_Downs,14
@@ -15354,8 +15354,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308836
 	Game_Date,6/2021
-	Team_1,Miami Oh Redhawks
-	Team_2,Eastern Michigan Eagles
+	Team_1,Miami (OH) 
+	Team_2,Eastern Michigan 
 	Team_1_Score,12
 	Team_2_Score,13
 	Team_1_First_Downs,19
@@ -15392,8 +15392,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309563
 	Game_Date,6/2021
-	Team_1,Ball State Cardinals
-	Team_2,Western Michigan Broncos
+	Team_1,Ball State 
+	Team_2,Western Michigan 
 	Team_1_Score,45
 	Team_2_Score,20
 	Team_1_First_Downs,18
@@ -15430,8 +15430,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309567
 	Game_Date,6/2021
-	Team_1,Central Michigan Chippewas
-	Team_2,Ohio Bobcats
+	Team_1,Central Michigan 
+	Team_2,Ohio 
 	Team_1_Score,30
 	Team_2_Score,27
 	Team_1_First_Downs,23
@@ -15468,8 +15468,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310715
 	Game_Date,6/2021
-	Team_1,San Jose State Spartans
-	Team_2,Colorado State Rams
+	Team_1,San José State 
+	Team_2,Colorado State 
 	Team_1_Score,14
 	Team_2_Score,32
 	Team_1_First_Downs,13
@@ -15506,8 +15506,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282101
 	Game_Date,6/2021
-	Team_1,North Texas Mean Green
-	Team_2,Missouri Tigers
+	Team_1,North Texas 
+	Team_2,Missouri 
 	Team_1_Score,35
 	Team_2_Score,48
 	Team_1_First_Downs,21
@@ -15544,8 +15544,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309869
 	Game_Date,6/2021
-	Team_1,Oregon State Beavers
-	Team_2,Washington State Cougars
+	Team_1,Oregon State 
+	Team_2,Washington State 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,26
@@ -15582,8 +15582,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301019
 	Game_Date,6/2021
-	Team_1,East Carolina Pirates
-	Team_2,Ucf Knights
+	Team_1,East Carolina 
+	Team_2,UCF 
 	Team_1_Score,16
 	Team_2_Score,20
 	Team_1_First_Downs,21
@@ -15620,8 +15620,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282227
 	Game_Date,6/2021
-	Team_1,Utep Miners
-	Team_2,Southern Miss Golden Eagles
+	Team_1,UTEP 
+	Team_2,Southern Miss 
 	Team_1_Score,26
 	Team_2_Score,13
 	Team_1_First_Downs,16
@@ -15658,8 +15658,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282228
 	Game_Date,6/2021
-	Team_1,Utsa Roadrunners
-	Team_2,Western Kentucky Hilltoppers
+	Team_1,UTSA 
+	Team_2,Western Kentucky 
 	Team_1_Score,52
 	Team_2_Score,46
 	Team_1_First_Downs,32
@@ -15696,8 +15696,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287919
 	Game_Date,6/2021
-	Team_1,Tcu Horned Frogs
-	Team_2,Texas Tech Red Raiders
+	Team_1,TCU 
+	Team_2,Texas Tech 
 	Team_1_Score,52
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -15734,8 +15734,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309565
 	Game_Date,6/2021
-	Team_1,Buffalo Bulls
-	Team_2,Kent State Golden Flashes
+	Team_1,Buffalo 
+	Team_2,Kent State 
 	Team_1_Score,38
 	Team_2_Score,48
 	Team_1_First_Downs,36
@@ -15772,8 +15772,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309617
 	Game_Date,6/2021
-	Team_1,Georgia Southern Eagles
-	Team_2,Troy Trojans
+	Team_1,Georgia Southern 
+	Team_2,Troy 
 	Team_1_Score,24
 	Team_2_Score,27
 	Team_1_First_Downs,17
@@ -15810,8 +15810,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309619
 	Game_Date,6/2021
-	Team_1,South Alabama Jaguars
-	Team_2,Texas State Bobcats
+	Team_1,South Alabama 
+	Team_2,Texas State 
 	Team_1_Score,31
 	Team_2_Score,33
 	Team_1_First_Downs,20
@@ -15848,8 +15848,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310714
 	Game_Date,6/2021
-	Team_1,Wyoming Cowboys
-	Team_2,Air Force Falcons
+	Team_1,Wyoming 
+	Team_2,Air Force 
 	Team_1_Score,14
 	Team_2_Score,24
 	Team_1_First_Downs,15
@@ -15886,8 +15886,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309618
 	Game_Date,6/2021
-	Team_1,Georgia State Panthers
-	Team_2,Ul Monroe Warhawks
+	Team_1,Georgia State 
+	Team_2,UL Monroe 
 	Team_1_Score,55
 	Team_2_Score,21
 	Team_1_First_Downs,39
@@ -15924,8 +15924,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309871
 	Game_Date,6/2021
-	Team_1,Utah Utes
-	Team_2,Usc Trojans
+	Team_1,Utah 
+	Team_2,USC 
 	Team_1_Score,42
 	Team_2_Score,26
 	Team_1_First_Downs,23
@@ -15962,8 +15962,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301020
 	Game_Date,6/2021
-	Team_1,Memphis Tigers
-	Team_2,Tulsa Golden Hurricane
+	Team_1,Memphis 
+	Team_2,Tulsa 
 	Team_1_Score,29
 	Team_2_Score,35
 	Team_1_First_Downs,33
@@ -16000,8 +16000,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309870
 	Game_Date,6/2021
-	Team_1,Ucla Bruins
-	Team_2,Arizona Wildcats
+	Team_1,UCLA 
+	Team_2,Arizona 
 	Team_1_Score,34
 	Team_2_Score,16
 	Team_1_First_Downs,22
@@ -16038,8 +16038,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310717
 	Game_Date,6/2021
-	Team_1,New Mexico State Aggies
-	Team_2,Nevada Wolf Pack
+	Team_1,New Mexico State 
+	Team_2,Nevada 
 	Team_1_Score,28
 	Team_2_Score,55
 	Team_1_First_Downs,25
@@ -16076,8 +16076,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309620
 	Game_Date,7/2021
-	Team_1,Appalachian State Mountaineers
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Appalachian State 
+	Team_2,Louisiana 
 	Team_1_Score,13
 	Team_2_Score,41
 	Team_1_First_Downs,15
@@ -16114,8 +16114,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301022
 	Game_Date,7/2021
-	Team_1,Navy Midshipmen
-	Team_2,Memphis Tigers
+	Team_1,Navy 
+	Team_2,Memphis 
 	Team_1_Score,17
 	Team_2_Score,35
 	Team_1_First_Downs,17
@@ -16152,8 +16152,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309621
 	Game_Date,7/2021
-	Team_1,Georgia Southern Eagles
-	Team_2,South Alabama Jaguars
+	Team_1,Georgia Southern 
+	Team_2,South Alabama 
 	Team_1_Score,14
 	Team_2_Score,41
 	Team_1_First_Downs,10
@@ -16190,8 +16190,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309872
 	Game_Date,7/2021
-	Team_1,California Golden Bears
-	Team_2,Oregon Ducks
+	Team_1,California 
+	Team_2,Oregon 
 	Team_1_Score,17
 	Team_2_Score,24
 	Team_1_First_Downs,23
@@ -16228,8 +16228,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310723
 	Game_Date,7/2021
-	Team_1,San Diego State Aztecs
-	Team_2,San Jose State Spartans
+	Team_1,San Diego State 
+	Team_2,San José State 
 	Team_1_Score,19
 	Team_2_Score,13
 	Team_1_First_Downs,17
@@ -16266,8 +16266,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282231
 	Game_Date,7/2021
-	Team_1,Marshall Thundering Herd
-	Team_2,North Texas Mean Green
+	Team_1,Marshall 
+	Team_2,North Texas 
 	Team_1_Score,49
 	Team_2_Score,21
 	Team_1_First_Downs,24
@@ -16304,8 +16304,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282657
 	Game_Date,7/2021
-	Team_1,Clemson Tigers
-	Team_2,Syracuse Orange
+	Team_1,Clemson 
+	Team_2,Syracuse 
 	Team_1_Score,17
 	Team_2_Score,14
 	Team_1_First_Downs,20
@@ -16342,8 +16342,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282105
 	Game_Date,7/2021
-	Team_1,Kentucky Wildcats
-	Team_2,Georgia Bulldogs
+	Team_1,Kentucky 
+	Team_2,Georgia 
 	Team_1_Score,13
 	Team_2_Score,30
 	Team_1_First_Downs,16
@@ -16380,8 +16380,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282760
 	Game_Date,7/2021
-	Team_1,Purdue Boilermakers
-	Team_2,Iowa Hawkeyes
+	Team_1,Purdue 
+	Team_2,Iowa 
 	Team_1_Score,24
 	Team_2_Score,7
 	Team_1_First_Downs,24
@@ -16418,8 +16418,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301023
 	Game_Date,7/2021
-	Team_1,Ucf Knights
-	Team_2,Cincinnati Bearcats
+	Team_1,UCF 
+	Team_2,Cincinnati 
 	Team_1_Score,21
 	Team_2_Score,56
 	Team_1_First_Downs,14
@@ -16456,8 +16456,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287923
 	Game_Date,7/2021
-	Team_1,Tcu Horned Frogs
-	Team_2,Oklahoma Sooners
+	Team_1,TCU 
+	Team_2,Oklahoma 
 	Team_1_Score,31
 	Team_2_Score,52
 	Team_1_First_Downs,21
@@ -16494,8 +16494,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282107
 	Game_Date,7/2021
-	Team_1,Alabama Crimson Tide
-	Team_2,Mississippi State Bulldogs
+	Team_1,Alabama 
+	Team_2,Mississippi State 
 	Team_1_Score,49
 	Team_2_Score,9
 	Team_1_First_Downs,22
@@ -16532,8 +16532,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282731
 	Game_Date,7/2021
-	Team_1,Michigan State Spartans
-	Team_2,Indiana Hoosiers
+	Team_1,Michigan State 
+	Team_2,Indiana 
 	Team_1_Score,20
 	Team_2_Score,15
 	Team_1_First_Downs,14
@@ -16570,8 +16570,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287924
 	Game_Date,7/2021
-	Team_1,Oklahoma State Cowboys
-	Team_2,Texas Longhorns
+	Team_1,Oklahoma State 
+	Team_2,Texas 
 	Team_1_Score,32
 	Team_2_Score,24
 	Team_1_First_Downs,25
@@ -16608,8 +16608,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282110
 	Game_Date,7/2021
-	Team_1,Ole Miss Rebels
-	Team_2,Tennessee Volunteers
+	Team_1,Ole Miss 
+	Team_2,Tennessee 
 	Team_1_Score,31
 	Team_2_Score,26
 	Team_1_First_Downs,28
@@ -16646,8 +16646,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282104
 	Game_Date,7/2021
-	Team_1,Auburn Tigers
-	Team_2,Arkansas Razorbacks
+	Team_1,Auburn 
+	Team_2,Arkansas 
 	Team_1_Score,38
 	Team_2_Score,23
 	Team_1_First_Downs,20
@@ -16684,8 +16684,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309876
 	Game_Date,7/2021
-	Team_1,Arizona State Sun Devils
-	Team_2,Utah Utes
+	Team_1,Arizona State 
+	Team_2,Utah 
 	Team_1_Score,21
 	Team_2_Score,35
 	Team_1_First_Downs,20
@@ -16722,8 +16722,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287920
 	Game_Date,7/2021
-	Team_1,Byu Cougars
-	Team_2,Baylor Bears
+	Team_1,BYU 
+	Team_2,Baylor 
 	Team_1_Score,24
 	Team_2_Score,38
 	Team_1_First_Downs,15
@@ -16760,8 +16760,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282106
 	Game_Date,7/2021
-	Team_1,Florida Gators
-	Team_2,Lsu Tigers
+	Team_1,Florida 
+	Team_2,LSU 
 	Team_1_Score,42
 	Team_2_Score,49
 	Team_1_First_Downs,27
@@ -16798,8 +16798,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309623
 	Game_Date,8/2021
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,Appalachian State Mountaineers
+	Team_1,Coastal Carolina 
+	Team_2,Appalachian State 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,17
@@ -16836,8 +16836,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301025
 	Game_Date,8/2021
-	Team_1,Tulane Green Wave
-	Team_2,Smu Mustangs
+	Team_1,Tulane 
+	Team_2,SMU 
 	Team_1_Score,26
 	Team_2_Score,55
 	Team_1_First_Downs,18
@@ -16874,8 +16874,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282235
 	Game_Date,8/2021
-	Team_1,Florida Atlantic Owls
-	Team_2,Charlotte 49ers
+	Team_1,Florida Atlantic 
+	Team_2,Charlotte 
 	Team_1_Score,38
 	Team_2_Score,9
 	Team_1_First_Downs,16
@@ -16912,8 +16912,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309624
 	Game_Date,8/2021
-	Team_1,Louisiana Ragin Cajuns
-	Team_2,Arkansas State Red Wolves
+	Team_1,Louisiana 
+	Team_2,Arkansas State 
 	Team_1_Score,28
 	Team_2_Score,27
 	Team_1_First_Downs,26
@@ -16950,8 +16950,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310729
 	Game_Date,8/2021
-	Team_1,San Jose State Spartans
-	Team_2,Unlv Rebels
+	Team_1,San José State 
+	Team_2,UNLV 
 	Team_1_Score,27
 	Team_2_Score,20
 	Team_1_First_Downs,20
@@ -16988,8 +16988,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282239
 	Game_Date,8/2021
-	Team_1,Middle Tennessee Blue Raiders
-	Team_2,Uconn Huskies
+	Team_1,Middle Tennessee 
+	Team_2,UConn 
 	Team_1_Score,44
 	Team_2_Score,13
 	Team_1_First_Downs,30
@@ -17026,8 +17026,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301026
 	Game_Date,8/2021
-	Team_1,Memphis Tigers
-	Team_2,Ucf Knights
+	Team_1,Memphis 
+	Team_2,UCF 
 	Team_1_Score,7
 	Team_2_Score,24
 	Team_1_First_Downs,24
@@ -17064,8 +17064,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310725
 	Game_Date,8/2021
-	Team_1,Colorado State Rams
-	Team_2,Utah State Aggies
+	Team_1,Colorado State 
+	Team_2,Utah State 
 	Team_1_Score,24
 	Team_2_Score,26
 	Team_1_First_Downs,26
@@ -17102,8 +17102,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309877
 	Game_Date,8/2021
-	Team_1,Washington Huskies
-	Team_2,Arizona Wildcats
+	Team_1,Washington 
+	Team_2,Arizona 
 	Team_1_Score,21
 	Team_2_Score,16
 	Team_1_First_Downs,16
@@ -17140,8 +17140,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301027
 	Game_Date,8/2021
-	Team_1,Cincinnati Bearcats
-	Team_2,Navy Midshipmen
+	Team_1,Cincinnati 
+	Team_2,Navy 
 	Team_1_Score,27
 	Team_2_Score,20
 	Team_1_First_Downs,14
@@ -17178,8 +17178,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287926
 	Game_Date,8/2021
-	Team_1,Oklahoma Sooners
-	Team_2,Kansas Jayhawks
+	Team_1,Oklahoma 
+	Team_2,Kansas 
 	Team_1_Score,35
 	Team_2_Score,23
 	Team_1_First_Downs,18
@@ -17216,8 +17216,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282111
 	Game_Date,8/2021
-	Team_1,Tennessee Volunteers
-	Team_2,Alabama Crimson Tide
+	Team_1,Tennessee 
+	Team_2,Alabama 
 	Team_1_Score,24
 	Team_2_Score,52
 	Team_1_First_Downs,10
@@ -17254,8 +17254,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282730
 	Game_Date,8/2021
-	Team_1,Ohio State Buckeyes
-	Team_2,Indiana Hoosiers
+	Team_1,Ohio State 
+	Team_2,Indiana 
 	Team_1_Score,54
 	Team_2_Score,7
 	Team_1_First_Downs,31
@@ -17292,8 +17292,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282779
 	Game_Date,8/2021
-	Team_1,Northwestern Wildcats
-	Team_2,Michigan Wolverines
+	Team_1,Northwestern 
+	Team_2,Michigan 
 	Team_1_Score,7
 	Team_2_Score,33
 	Team_1_First_Downs,10
@@ -17330,8 +17330,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282717
 	Game_Date,8/2021
-	Team_1,Illinois Fighting Illini
-	Team_2,Penn State Nittany Lions
+	Team_1,Illinois 
+	Team_2,Penn State 
 	Team_1_Score,20
 	Team_2_Score,18
 	Team_1_First_Downs,26
@@ -17368,8 +17368,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287925
 	Game_Date,8/2021
-	Team_1,Oklahoma State Cowboys
-	Team_2,Iowa State Cyclones
+	Team_1,Oklahoma State 
+	Team_2,Iowa State 
 	Team_1_Score,21
 	Team_2_Score,24
 	Team_1_First_Downs,16
@@ -17406,8 +17406,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309879
 	Game_Date,8/2021
-	Team_1,Oregon Ducks
-	Team_2,Ucla Bruins
+	Team_1,Oregon 
+	Team_2,UCLA 
 	Team_1_Score,34
 	Team_2_Score,31
 	Team_1_First_Downs,22
@@ -17444,8 +17444,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282113
 	Game_Date,8/2021
-	Team_1,Lsu Tigers
-	Team_2,Ole Miss Rebels
+	Team_1,LSU 
+	Team_2,Ole Miss 
 	Team_1_Score,17
 	Team_2_Score,31
 	Team_1_First_Downs,20
@@ -17482,8 +17482,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282709
 	Game_Date,8/2021
-	Team_1,Usc Trojans
-	Team_2,Notre Dame Fighting Irish
+	Team_1,USC 
+	Team_2,Notre Dame 
 	Team_1_Score,16
 	Team_2_Score,31
 	Team_1_First_Downs,25
@@ -17520,8 +17520,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282662
 	Game_Date,8/2021
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Army Black Knights
+	Team_1,Wake Forest 
+	Team_2,Army 
 	Team_1_Score,70
 	Team_2_Score,56
 	Team_1_First_Downs,22
@@ -17558,8 +17558,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282114
 	Game_Date,8/2021
-	Team_1,South Carolina Gamecocks
-	Team_2,Texas Am Aggies
+	Team_1,South Carolina 
+	Team_2,Texas A&M 
 	Team_1_Score,14
 	Team_2_Score,44
 	Team_1_First_Downs,13
@@ -17596,8 +17596,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282665
 	Game_Date,8/2021
-	Team_1,Nc State Wolfpack
-	Team_2,Miami Hurricanes
+	Team_1,NC State 
+	Team_2,Miami 
 	Team_1_Score,30
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -17634,8 +17634,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310724
 	Game_Date,8/2021
-	Team_1,San Diego State Aztecs
-	Team_2,Air Force Falcons
+	Team_1,San Diego State 
+	Team_2,Air Force 
 	Team_1_Score,20
 	Team_2_Score,14
 	Team_1_First_Downs,10
@@ -17672,8 +17672,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282666
 	Game_Date,8/2021
-	Team_1,Clemson Tigers
-	Team_2,Pittsburgh Panthers
+	Team_1,Clemson 
+	Team_2,Pittsburgh 
 	Team_1_Score,17
 	Team_2_Score,27
 	Team_1_First_Downs,19
@@ -17710,8 +17710,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282237
 	Game_Date,8/2021
-	Team_1,Utsa Roadrunners
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,UTSA 
+	Team_2,Louisiana Tech 
 	Team_1_Score,45
 	Team_2_Score,16
 	Team_1_First_Downs,21
@@ -17748,8 +17748,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282821
 	Game_Date,8/2021
-	Team_1,Wisconsin Badgers
-	Team_2,Purdue Boilermakers
+	Team_1,Wisconsin 
+	Team_2,Purdue 
 	Team_1_Score,30
 	Team_2_Score,13
 	Team_1_First_Downs,14
@@ -17786,8 +17786,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282112
 	Game_Date,8/2021
-	Team_1,Arkansas Pine Bluff Golden Lions
-	Team_2,Arkansas Razorbacks
+	Team_1,Arkansas-Pine Bluff 
+	Team_2,Arkansas 
 	Team_1_Score,3
 	Team_2_Score,45
 	Team_1_First_Downs,13
@@ -17824,8 +17824,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282663
 	Game_Date,8/2021
-	Team_1,Umass Minutemen
-	Team_2,Florida State Seminoles
+	Team_1,UMass 
+	Team_2,Florida State 
 	Team_1_Score,3
 	Team_2_Score,59
 	Team_1_First_Downs,14
@@ -17862,8 +17862,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287928
 	Game_Date,8/2021
-	Team_1,Kansas State Wildcats
-	Team_2,Texas Tech Red Raiders
+	Team_1,Kansas State 
+	Team_2,Texas Tech 
 	Team_1_Score,25
 	Team_2_Score,24
 	Team_1_First_Downs,17
@@ -17900,8 +17900,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309574
 	Game_Date,8/2021
-	Team_1,Eastern Michigan Eagles
-	Team_2,Bowling Green Falcons
+	Team_1,Eastern Michigan 
+	Team_2,Bowling Green 
 	Team_1_Score,55
 	Team_2_Score,24
 	Team_1_First_Downs,24
@@ -17938,8 +17938,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309577
 	Game_Date,8/2021
-	Team_1,Northern Illinois Huskies
-	Team_2,Central Michigan Chippewas
+	Team_1,Northern Illinois 
+	Team_2,Central Michigan 
 	Team_1_Score,39
 	Team_2_Score,38
 	Team_1_First_Downs,25
@@ -17976,8 +17976,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282668
 	Game_Date,8/2021
-	Team_1,Syracuse Orange
-	Team_2,Virginia Tech Hokies
+	Team_1,Syracuse 
+	Team_2,Virginia Tech 
 	Team_1_Score,41
 	Team_2_Score,36
 	Team_1_First_Downs,25
@@ -18014,8 +18014,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309576
 	Game_Date,8/2021
-	Team_1,Kent State Golden Flashes
-	Team_2,Ohio Bobcats
+	Team_1,Kent State 
+	Team_2,Ohio 
 	Team_1_Score,34
 	Team_2_Score,27
 	Team_1_First_Downs,28
@@ -18052,8 +18052,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309625
 	Game_Date,8/2021
-	Team_1,Texas State Bobcats
-	Team_2,Georgia State Panthers
+	Team_1,Texas State 
+	Team_2,Georgia State 
 	Team_1_Score,16
 	Team_2_Score,28
 	Team_1_First_Downs,26
@@ -18090,8 +18090,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282238
 	Game_Date,8/2021
-	Team_1,Rice Owls
-	Team_2,Uab Blazers
+	Team_1,Rice 
+	Team_2,UAB 
 	Team_1_Score,30
 	Team_2_Score,24
 	Team_1_First_Downs,19
@@ -18128,8 +18128,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282767
 	Game_Date,8/2021
-	Team_1,Maryland Terrapins
-	Team_2,Minnesota Golden Gophers
+	Team_1,Maryland 
+	Team_2,Minnesota 
 	Team_1_Score,16
 	Team_2_Score,34
 	Team_1_First_Downs,14
@@ -18166,8 +18166,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308838
 	Game_Date,8/2021
-	Team_1,Miami Oh Redhawks
-	Team_2,Ball State Cardinals
+	Team_1,Miami (OH) 
+	Team_2,Ball State 
 	Team_1_Score,24
 	Team_2_Score,17
 	Team_1_First_Downs,18
@@ -18204,8 +18204,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309573
 	Game_Date,8/2021
-	Team_1,Western Michigan Broncos
-	Team_2,Toledo Rockets
+	Team_1,Western Michigan 
+	Team_2,Toledo 
 	Team_1_Score,15
 	Team_2_Score,34
 	Team_1_First_Downs,21
@@ -18242,8 +18242,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309575
 	Game_Date,8/2021
-	Team_1,Buffalo Bulls
-	Team_2,Akron Zips
+	Team_1,Buffalo 
+	Team_2,Akron 
 	Team_1_Score,45
 	Team_2_Score,10
 	Team_1_First_Downs,25
@@ -18280,8 +18280,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309878
 	Game_Date,8/2021
-	Team_1,Colorado Buffaloes
-	Team_2,California Golden Bears
+	Team_1,Colorado 
+	Team_2,California 
 	Team_1_Score,3
 	Team_2_Score,26
 	Team_1_First_Downs,7
@@ -18318,8 +18318,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309881
 	Game_Date,8/2021
-	Team_1,Byu Cougars
-	Team_2,Washington State Cougars
+	Team_1,BYU 
+	Team_2,Washington State 
 	Team_1_Score,21
 	Team_2_Score,19
 	Team_1_First_Downs,23
@@ -18356,8 +18356,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310726
 	Game_Date,8/2021
-	Team_1,New Mexico Lobos
-	Team_2,Wyoming Cowboys
+	Team_1,New Mexico 
+	Team_2,Wyoming 
 	Team_1_Score,14
 	Team_2_Score,3
 	Team_1_First_Downs,12
@@ -18394,8 +18394,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282115
 	Game_Date,8/2021
-	Team_1,Mississippi State Bulldogs
-	Team_2,Vanderbilt Commodores
+	Team_1,Mississippi State 
+	Team_2,Vanderbilt 
 	Team_1_Score,45
 	Team_2_Score,6
 	Team_1_First_Downs,29
@@ -18432,8 +18432,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282240
 	Game_Date,8/2021
-	Team_1,Liberty Flames
-	Team_2,North Texas Mean Green
+	Team_1,Liberty 
+	Team_2,North Texas 
 	Team_1_Score,35
 	Team_2_Score,26
 	Team_1_First_Downs,21
@@ -18470,8 +18470,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282664
 	Game_Date,8/2021
-	Team_1,Boston College Eagles
-	Team_2,Louisville Cardinals
+	Team_1,Boston College 
+	Team_2,Louisville 
 	Team_1_Score,14
 	Team_2_Score,28
 	Team_1_First_Downs,17
@@ -18508,8 +18508,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301028
 	Game_Date,8/2021
-	Team_1,East Carolina Pirates
-	Team_2,Houston Cougars
+	Team_1,East Carolina 
+	Team_2,Houston 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,20
@@ -18546,8 +18546,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282236
 	Game_Date,8/2021
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Florida International Panthers
+	Team_1,Western Kentucky 
+	Team_2,Florida International 
 	Team_1_Score,34
 	Team_2_Score,19
 	Team_1_First_Downs,31
@@ -18584,8 +18584,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301029
 	Game_Date,8/2021
-	Team_1,Temple Owls
-	Team_2,South Florida Bulls
+	Team_1,Temple 
+	Team_2,South Florida 
 	Team_1_Score,14
 	Team_2_Score,34
 	Team_1_First_Downs,8
@@ -18622,8 +18622,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309626
 	Game_Date,8/2021
-	Team_1,South Alabama Jaguars
-	Team_2,Ul Monroe Warhawks
+	Team_1,South Alabama 
+	Team_2,UL Monroe 
 	Team_1_Score,31
 	Team_2_Score,41
 	Team_1_First_Downs,22
@@ -18660,8 +18660,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310727
 	Game_Date,8/2021
-	Team_1,Nevada Wolf Pack
-	Team_2,Fresno State Bulldogs
+	Team_1,Nevada 
+	Team_2,Fresno State 
 	Team_1_Score,32
 	Team_2_Score,34
 	Team_1_First_Downs,30
@@ -18698,8 +18698,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309627
 	Game_Date,9/2021
-	Team_1,Troy Trojans
-	Team_2,Coastal Carolina Chanticleers
+	Team_1,Troy 
+	Team_2,Coastal Carolina 
 	Team_1_Score,28
 	Team_2_Score,35
 	Team_1_First_Downs,18
@@ -18736,8 +18736,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301033
 	Game_Date,9/2021
-	Team_1,South Florida Bulls
-	Team_2,East Carolina Pirates
+	Team_1,South Florida 
+	Team_2,East Carolina 
 	Team_1_Score,14
 	Team_2_Score,29
 	Team_1_First_Downs,19
@@ -18774,8 +18774,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301030
 	Game_Date,9/2021
-	Team_1,Navy Midshipmen
-	Team_2,Tulsa Golden Hurricane
+	Team_1,Navy 
+	Team_2,Tulsa 
 	Team_1_Score,20
 	Team_2_Score,17
 	Team_1_First_Downs,16
@@ -18812,8 +18812,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310734
 	Game_Date,9/2021
-	Team_1,Unlv Rebels
-	Team_2,Nevada Wolf Pack
+	Team_1,UNLV 
+	Team_2,Nevada 
 	Team_1_Score,20
 	Team_2_Score,51
 	Team_1_First_Downs,21
@@ -18850,8 +18850,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282117
 	Game_Date,9/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Florida Gators
+	Team_1,Georgia 
+	Team_2,Florida 
 	Team_1_Score,34
 	Team_2_Score,7
 	Team_1_First_Downs,18
@@ -18888,8 +18888,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301032
 	Game_Date,9/2021
-	Team_1,Cincinnati Bearcats
-	Team_2,Tulane Green Wave
+	Team_1,Cincinnati 
+	Team_2,Tulane 
 	Team_1_Score,31
 	Team_2_Score,12
 	Team_1_First_Downs,18
@@ -18926,8 +18926,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287931
 	Game_Date,9/2021
-	Team_1,Texas Tech Red Raiders
-	Team_2,Oklahoma Sooners
+	Team_1,Texas Tech 
+	Team_2,Oklahoma 
 	Team_1_Score,21
 	Team_2_Score,52
 	Team_1_First_Downs,22
@@ -18964,8 +18964,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282814
 	Game_Date,9/2021
-	Team_1,Penn State Nittany Lions
-	Team_2,Ohio State Buckeyes
+	Team_1,Penn State 
+	Team_2,Ohio State 
 	Team_1_Score,24
 	Team_2_Score,33
 	Team_1_First_Downs,27
@@ -19002,8 +19002,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282777
 	Game_Date,9/2021
-	Team_1,Michigan Wolverines
-	Team_2,Michigan State Spartans
+	Team_1,Michigan 
+	Team_2,Michigan State 
 	Team_1_Score,33
 	Team_2_Score,37
 	Team_1_First_Downs,26
@@ -19040,8 +19040,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309884
 	Game_Date,9/2021
-	Team_1,Colorado Buffaloes
-	Team_2,Oregon Ducks
+	Team_1,Colorado 
+	Team_2,Oregon 
 	Team_1_Score,29
 	Team_2_Score,52
 	Team_1_First_Downs,19
@@ -19078,8 +19078,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282763
 	Game_Date,9/2021
-	Team_1,Iowa Hawkeyes
-	Team_2,Wisconsin Badgers
+	Team_1,Iowa 
+	Team_2,Wisconsin 
 	Team_1_Score,7
 	Team_2_Score,27
 	Team_1_First_Downs,9
@@ -19116,8 +19116,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282116
 	Game_Date,9/2021
-	Team_1,Ole Miss Rebels
-	Team_2,Auburn Tigers
+	Team_1,Ole Miss 
+	Team_2,Auburn 
 	Team_1_Score,20
 	Team_2_Score,31
 	Team_1_First_Downs,26
@@ -19154,8 +19154,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282673
 	Game_Date,9/2021
-	Team_1,North Carolina Tar Heels
-	Team_2,Notre Dame Fighting Irish
+	Team_1,North Carolina 
+	Team_2,Notre Dame 
 	Team_1_Score,34
 	Team_2_Score,44
 	Team_1_First_Downs,28
@@ -19192,8 +19192,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282118
 	Game_Date,9/2021
-	Team_1,Kentucky Wildcats
-	Team_2,Mississippi State Bulldogs
+	Team_1,Kentucky 
+	Team_2,Mississippi State 
 	Team_1_Score,17
 	Team_2_Score,31
 	Team_1_First_Downs,13
@@ -19230,8 +19230,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282676
 	Game_Date,9/2021
-	Team_1,Duke Blue Devils
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Duke 
+	Team_2,Wake Forest 
 	Team_1_Score,7
 	Team_2_Score,45
 	Team_1_First_Downs,12
@@ -19268,8 +19268,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287932
 	Game_Date,9/2021
-	Team_1,Kansas Jayhawks
-	Team_2,Oklahoma State Cowboys
+	Team_1,Kansas 
+	Team_2,Oklahoma State 
 	Team_1_Score,3
 	Team_2_Score,55
 	Team_1_First_Downs,7
@@ -19306,8 +19306,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287929
 	Game_Date,9/2021
-	Team_1,Texas Longhorns
-	Team_2,Baylor Bears
+	Team_1,Texas 
+	Team_2,Baylor 
 	Team_1_Score,24
 	Team_2_Score,31
 	Team_1_First_Downs,18
@@ -19344,8 +19344,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282674
 	Game_Date,9/2021
-	Team_1,Miami Hurricanes
-	Team_2,Pittsburgh Panthers
+	Team_1,Miami 
+	Team_2,Pittsburgh 
 	Team_1_Score,38
 	Team_2_Score,34
 	Team_1_First_Downs,27
@@ -19382,8 +19382,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301034
 	Game_Date,9/2021
-	Team_1,Smu Mustangs
-	Team_2,Houston Cougars
+	Team_1,SMU 
+	Team_2,Houston 
 	Team_1_Score,37
 	Team_2_Score,44
 	Team_1_First_Downs,18
@@ -19420,8 +19420,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310733
 	Game_Date,9/2021
-	Team_1,Fresno State Bulldogs
-	Team_2,San Diego State Aztecs
+	Team_1,Fresno State 
+	Team_2,San Diego State 
 	Team_1_Score,30
 	Team_2_Score,20
 	Team_1_First_Downs,24
@@ -19458,8 +19458,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287933
 	Game_Date,9/2021
-	Team_1,Iowa State Cyclones
-	Team_2,West Virginia Mountaineers
+	Team_1,Iowa State 
+	Team_2,West Virginia 
 	Team_1_Score,31
 	Team_2_Score,38
 	Team_1_First_Downs,16
@@ -19496,8 +19496,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282669
 	Game_Date,9/2021
-	Team_1,Virginia Cavaliers
-	Team_2,Byu Cougars
+	Team_1,Virginia 
+	Team_2,BYU 
 	Team_1_Score,49
 	Team_2_Score,66
 	Team_1_First_Downs,27
@@ -19534,8 +19534,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282671
 	Game_Date,9/2021
-	Team_1,Virginia Tech Hokies
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Virginia Tech 
+	Team_2,Georgia Tech 
 	Team_1_Score,26
 	Team_2_Score,17
 	Team_1_First_Downs,23
@@ -19572,8 +19572,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282719
 	Game_Date,9/2021
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Illinois Fighting Illini
+	Team_1,Rutgers 
+	Team_2,Illinois 
 	Team_1_Score,20
 	Team_2_Score,14
 	Team_1_First_Downs,23
@@ -19610,8 +19610,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282726
 	Game_Date,9/2021
-	Team_1,Indiana Hoosiers
-	Team_2,Maryland Terrapins
+	Team_1,Indiana 
+	Team_2,Maryland 
 	Team_1_Score,35
 	Team_2_Score,38
 	Team_1_First_Downs,17
@@ -19648,8 +19648,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286297
 	Game_Date,9/2021
-	Team_1,Umass Minutemen
-	Team_2,Liberty Flames
+	Team_1,UMass 
+	Team_2,Liberty 
 	Team_1_Score,17
 	Team_2_Score,62
 	Team_1_First_Downs,15
@@ -19686,8 +19686,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301031
 	Game_Date,9/2021
-	Team_1,Ucf Knights
-	Team_2,Temple Owls
+	Team_1,UCF 
+	Team_2,Temple 
 	Team_1_Score,49
 	Team_2_Score,7
 	Team_1_First_Downs,24
@@ -19724,8 +19724,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309578
 	Game_Date,9/2021
-	Team_1,Bowling Green Falcons
-	Team_2,Buffalo Bulls
+	Team_1,Bowling Green 
+	Team_2,Buffalo 
 	Team_1_Score,56
 	Team_2_Score,44
 	Team_1_First_Downs,11
@@ -19762,8 +19762,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309631
 	Game_Date,9/2021
-	Team_1,Texas State Bobcats
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Texas State 
+	Team_2,Louisiana 
 	Team_1_Score,0
 	Team_2_Score,45
 	Team_1_First_Downs,10
@@ -19800,8 +19800,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282246
 	Game_Date,9/2021
-	Team_1,North Texas Mean Green
-	Team_2,Rice Owls
+	Team_1,North Texas 
+	Team_2,Rice 
 	Team_1_Score,30
 	Team_2_Score,24
 	Team_1_First_Downs,20
@@ -19838,8 +19838,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282119
 	Game_Date,9/2021
-	Team_1,Missouri Tigers
-	Team_2,Vanderbilt Commodores
+	Team_1,Missouri 
+	Team_2,Vanderbilt 
 	Team_1_Score,37
 	Team_2_Score,28
 	Team_1_First_Downs,23
@@ -19876,8 +19876,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309885
 	Game_Date,9/2021
-	Team_1,Washington State Cougars
-	Team_2,Arizona State Sun Devils
+	Team_1,Washington State 
+	Team_2,Arizona State 
 	Team_1_Score,34
 	Team_2_Score,21
 	Team_1_First_Downs,19
@@ -19914,8 +19914,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310731
 	Game_Date,9/2021
-	Team_1,Hawaii Rainbow Warriors
-	Team_2,Utah State Aggies
+	Team_1,Hawai'i 
+	Team_2,Utah State 
 	Team_1_Score,31
 	Team_2_Score,51
 	Team_1_First_Downs,19
@@ -19952,8 +19952,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282242
 	Game_Date,9/2021
-	Team_1,Florida International Panthers
-	Team_2,Marshall Thundering Herd
+	Team_1,Florida International 
+	Team_2,Marshall 
 	Team_1_Score,0
 	Team_2_Score,38
 	Team_1_First_Downs,15
@@ -19990,8 +19990,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282244
 	Game_Date,9/2021
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Old Dominion Monarchs
+	Team_1,Louisiana Tech 
+	Team_2,Old Dominion 
 	Team_1_Score,20
 	Team_2_Score,23
 	Team_1_First_Downs,15
@@ -20028,8 +20028,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282245
 	Game_Date,9/2021
-	Team_1,Southern Miss Golden Eagles
-	Team_2,Middle Tennessee Blue Raiders
+	Team_1,Southern Miss 
+	Team_2,Middle Tennessee 
 	Team_1_Score,10
 	Team_2_Score,35
 	Team_1_First_Downs,22
@@ -20066,8 +20066,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282670
 	Game_Date,9/2021
-	Team_1,Florida State Seminoles
-	Team_2,Clemson Tigers
+	Team_1,Florida State 
+	Team_2,Clemson 
 	Team_1_Score,20
 	Team_2_Score,30
 	Team_1_First_Downs,12
@@ -20104,8 +20104,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282675
 	Game_Date,9/2021
-	Team_1,Boston College Eagles
-	Team_2,Syracuse Orange
+	Team_1,Boston College 
+	Team_2,Syracuse 
 	Team_1_Score,6
 	Team_2_Score,21
 	Team_1_First_Downs,15
@@ -20142,8 +20142,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282795
 	Game_Date,9/2021
-	Team_1,Minnesota Golden Gophers
-	Team_2,Northwestern Wildcats
+	Team_1,Minnesota 
+	Team_2,Northwestern 
 	Team_1_Score,41
 	Team_2_Score,14
 	Team_1_First_Downs,27
@@ -20180,8 +20180,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309579
 	Game_Date,10/2021
-	Team_1,Ball State Cardinals
-	Team_2,Akron Zips
+	Team_1,Ball State 
+	Team_2,Akron 
 	Team_1_Score,31
 	Team_2_Score,25
 	Team_1_First_Downs,25
@@ -20218,8 +20218,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308839
 	Game_Date,10/2021
-	Team_1,Miami Oh Redhawks
-	Team_2,Ohio Bobcats
+	Team_1,Miami (OH) 
+	Team_2,Ohio 
 	Team_1_Score,33
 	Team_2_Score,35
 	Team_1_First_Downs,24
@@ -20256,8 +20256,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309580
 	Game_Date,10/2021
-	Team_1,Eastern Michigan Eagles
-	Team_2,Toledo Rockets
+	Team_1,Eastern Michigan 
+	Team_2,Toledo 
 	Team_1_Score,52
 	Team_2_Score,49
 	Team_1_First_Downs,28
@@ -20294,8 +20294,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309581
 	Game_Date,10/2021
-	Team_1,Central Michigan Chippewas
-	Team_2,Western Michigan Broncos
+	Team_1,Central Michigan 
+	Team_2,Western Michigan 
 	Team_1_Score,42
 	Team_2_Score,30
 	Team_1_First_Downs,17
@@ -20332,8 +20332,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309582
 	Game_Date,10/2021
-	Team_1,Northern Illinois Huskies
-	Team_2,Kent State Golden Flashes
+	Team_1,Northern Illinois 
+	Team_2,Kent State 
 	Team_1_Score,47
 	Team_2_Score,52
 	Team_1_First_Downs,32
@@ -20370,8 +20370,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309632
 	Game_Date,10/2021
-	Team_1,Georgia State Panthers
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Georgia State 
+	Team_2,Louisiana 
 	Team_1_Score,17
 	Team_2_Score,21
 	Team_1_First_Downs,20
@@ -20408,8 +20408,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282677
 	Game_Date,10/2021
-	Team_1,Virginia Tech Hokies
-	Team_2,Boston College Eagles
+	Team_1,Virginia Tech 
+	Team_2,Boston College 
 	Team_1_Score,3
 	Team_2_Score,17
 	Team_1_First_Downs,12
@@ -20446,8 +20446,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309888
 	Game_Date,10/2021
-	Team_1,Utah Utes
-	Team_2,Stanford Cardinal
+	Team_1,Utah 
+	Team_2,Stanford 
 	Team_1_Score,52
 	Team_2_Score,7
 	Team_1_First_Downs,31
@@ -20484,8 +20484,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282122
 	Game_Date,10/2021
-	Team_1,Missouri Tigers
-	Team_2,Georgia Bulldogs
+	Team_1,Missouri 
+	Team_2,Georgia 
 	Team_1_Score,6
 	Team_2_Score,43
 	Team_1_First_Downs,15
@@ -20522,8 +20522,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282120
 	Game_Date,10/2021
-	Team_1,Lsu Tigers
-	Team_2,Alabama Crimson Tide
+	Team_1,LSU 
+	Team_2,Alabama 
 	Team_1_Score,14
 	Team_2_Score,20
 	Team_1_First_Downs,16
@@ -20560,8 +20560,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282787
 	Game_Date,10/2021
-	Team_1,Michigan State Spartans
-	Team_2,Purdue Boilermakers
+	Team_1,Michigan State 
+	Team_2,Purdue 
 	Team_1_Score,29
 	Team_2_Score,40
 	Team_1_First_Downs,21
@@ -20598,8 +20598,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309890
 	Game_Date,10/2021
-	Team_1,Oregon Ducks
-	Team_2,Washington Huskies
+	Team_1,Oregon 
+	Team_2,Washington 
 	Team_1_Score,26
 	Team_2_Score,16
 	Team_1_First_Downs,22
@@ -20636,8 +20636,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282799
 	Game_Date,10/2021
-	Team_1,Ohio State Buckeyes
-	Team_2,Nebraska Cornhuskers
+	Team_1,Ohio State 
+	Team_2,Nebraska 
 	Team_1_Score,26
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -20674,8 +20674,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301037
 	Game_Date,10/2021
-	Team_1,Tulsa Golden Hurricane
-	Team_2,Cincinnati Bearcats
+	Team_1,Tulsa 
+	Team_2,Cincinnati 
 	Team_1_Score,20
 	Team_2_Score,28
 	Team_1_First_Downs,26
@@ -20712,8 +20712,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282727
 	Game_Date,10/2021
-	Team_1,Indiana Hoosiers
-	Team_2,Michigan Wolverines
+	Team_1,Indiana 
+	Team_2,Michigan 
 	Team_1_Score,7
 	Team_2_Score,29
 	Team_1_First_Downs,11
@@ -20750,8 +20750,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282682
 	Game_Date,10/2021
-	Team_1,Wake Forest Demon Deacons
-	Team_2,North Carolina Tar Heels
+	Team_1,Wake Forest 
+	Team_2,North Carolina 
 	Team_1_Score,55
 	Team_2_Score,58
 	Team_1_First_Downs,35
@@ -20788,8 +20788,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282710
 	Game_Date,10/2021
-	Team_1,Navy Midshipmen
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Navy 
+	Team_2,Notre Dame 
 	Team_1_Score,6
 	Team_2_Score,34
 	Team_1_First_Downs,11
@@ -20826,8 +20826,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287937
 	Game_Date,10/2021
-	Team_1,Oklahoma State Cowboys
-	Team_2,West Virginia Mountaineers
+	Team_1,Oklahoma State 
+	Team_2,West Virginia 
 	Team_1_Score,24
 	Team_2_Score,3
 	Team_1_First_Downs,17
@@ -20864,8 +20864,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287936
 	Game_Date,10/2021
-	Team_1,Baylor Bears
-	Team_2,Tcu Horned Frogs
+	Team_1,Baylor 
+	Team_2,TCU 
 	Team_1_Score,28
 	Team_2_Score,30
 	Team_1_First_Downs,17
@@ -20902,8 +20902,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282126
 	Game_Date,10/2021
-	Team_1,Auburn Tigers
-	Team_2,Texas Am Aggies
+	Team_1,Auburn 
+	Team_2,Texas A&M 
 	Team_1_Score,3
 	Team_2_Score,20
 	Team_1_First_Downs,17
@@ -20940,8 +20940,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309914
 	Game_Date,10/2021
-	Team_1,Idaho State Bengals
-	Team_2,Byu Cougars
+	Team_1,Idaho State 
+	Team_2,BYU 
 	Team_1_Score,14
 	Team_2_Score,59
 	Team_1_First_Downs,10
@@ -20978,8 +20978,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282124
 	Game_Date,10/2021
-	Team_1,Liberty Flames
-	Team_2,Ole Miss Rebels
+	Team_1,Liberty 
+	Team_2,Ole Miss 
 	Team_1_Score,14
 	Team_2_Score,27
 	Team_1_First_Downs,30
@@ -21016,8 +21016,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282121
 	Game_Date,10/2021
-	Team_1,Mississippi State Bulldogs
-	Team_2,Arkansas Razorbacks
+	Team_1,Mississippi State 
+	Team_2,Arkansas 
 	Team_1_Score,28
 	Team_2_Score,31
 	Team_1_First_Downs,28
@@ -21054,8 +21054,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282123
 	Game_Date,10/2021
-	Team_1,Tennessee Volunteers
-	Team_2,Kentucky Wildcats
+	Team_1,Tennessee 
+	Team_2,Kentucky 
 	Team_1_Score,45
 	Team_2_Score,42
 	Team_1_First_Downs,17
@@ -21092,8 +21092,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282679
 	Game_Date,10/2021
-	Team_1,Nc State Wolfpack
-	Team_2,Florida State Seminoles
+	Team_1,NC State 
+	Team_2,Florida State 
 	Team_1_Score,28
 	Team_2_Score,14
 	Team_1_First_Downs,16
@@ -21130,8 +21130,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282720
 	Game_Date,10/2021
-	Team_1,Illinois Fighting Illini
-	Team_2,Minnesota Golden Gophers
+	Team_1,Illinois 
+	Team_2,Minnesota 
 	Team_1_Score,14
 	Team_2_Score,6
 	Team_1_First_Downs,17
@@ -21168,8 +21168,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282824
 	Game_Date,10/2021
-	Team_1,Wisconsin Badgers
-	Team_2,Rutgers Scarlet Knights
+	Team_1,Wisconsin 
+	Team_2,Rutgers 
 	Team_1_Score,52
 	Team_2_Score,3
 	Team_1_First_Downs,27
@@ -21206,8 +21206,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282757
 	Game_Date,10/2021
-	Team_1,Iowa Hawkeyes
-	Team_2,Northwestern Wildcats
+	Team_1,Iowa 
+	Team_2,Northwestern 
 	Team_1_Score,17
 	Team_2_Score,12
 	Team_1_First_Downs,19
@@ -21244,8 +21244,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310735
 	Game_Date,10/2021
-	Team_1,Boise State Broncos
-	Team_2,Fresno State Bulldogs
+	Team_1,Boise State 
+	Team_2,Fresno State 
 	Team_1_Score,40
 	Team_2_Score,14
 	Team_1_First_Downs,24
@@ -21282,8 +21282,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310739
 	Game_Date,10/2021
-	Team_1,San Diego State Aztecs
-	Team_2,Hawaii Rainbow Warriors
+	Team_1,San Diego State 
+	Team_2,Hawai'i 
 	Team_1_Score,17
 	Team_2_Score,10
 	Team_1_First_Downs,15
@@ -21320,8 +21320,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282678
 	Game_Date,10/2021
-	Team_1,Pittsburgh Panthers
-	Team_2,Duke Blue Devils
+	Team_1,Pittsburgh 
+	Team_2,Duke 
 	Team_1_Score,54
 	Team_2_Score,29
 	Team_1_First_Downs,30
@@ -21358,8 +21358,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310253
 	Game_Date,10/2021
-	Team_1,Army Black Knights
-	Team_2,Air Force Falcons
+	Team_1,Army 
+	Team_2,Air Force 
 	Team_1_Score,21
 	Team_2_Score,14
 	Team_1_First_Downs,13
@@ -21396,8 +21396,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282250
 	Game_Date,10/2021
-	Team_1,Louisiana Tech Bulldogs
-	Team_2,Uab Blazers
+	Team_1,Louisiana Tech 
+	Team_2,UAB 
 	Team_1_Score,38
 	Team_2_Score,52
 	Team_1_First_Downs,23
@@ -21434,8 +21434,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287935
 	Game_Date,10/2021
-	Team_1,Kansas State Wildcats
-	Team_2,Kansas Jayhawks
+	Team_1,Kansas State 
+	Team_2,Kansas 
 	Team_1_Score,35
 	Team_2_Score,10
 	Team_1_First_Downs,22
@@ -21472,8 +21472,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301039
 	Game_Date,10/2021
-	Team_1,Smu Mustangs
-	Team_2,Memphis Tigers
+	Team_1,SMU 
+	Team_2,Memphis 
 	Team_1_Score,25
 	Team_2_Score,28
 	Team_1_First_Downs,16
@@ -21510,8 +21510,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282681
 	Game_Date,10/2021
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Miami Hurricanes
+	Team_1,Georgia Tech 
+	Team_2,Miami 
 	Team_1_Score,30
 	Team_2_Score,33
 	Team_1_First_Downs,15
@@ -21548,8 +21548,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308840
 	Game_Date,11/2021
-	Team_1,Buffalo Bulls
-	Team_2,Miami Oh Redhawks
+	Team_1,Buffalo 
+	Team_2,Miami (OH) 
 	Team_1_Score,18
 	Team_2_Score,45
 	Team_1_First_Downs,21
@@ -21586,8 +21586,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309584
 	Game_Date,11/2021
-	Team_1,Akron Zips
-	Team_2,Western Michigan Broncos
+	Team_1,Akron 
+	Team_2,Western Michigan 
 	Team_1_Score,40
 	Team_2_Score,45
 	Team_1_First_Downs,25
@@ -21624,8 +21624,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309583
 	Game_Date,11/2021
-	Team_1,Ohio Bobcats
-	Team_2,Eastern Michigan Eagles
+	Team_1,Ohio 
+	Team_2,Eastern Michigan 
 	Team_1_Score,34
 	Team_2_Score,26
 	Team_1_First_Downs,25
@@ -21662,8 +21662,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309585
 	Game_Date,11/2021
-	Team_1,Toledo Rockets
-	Team_2,Bowling Green Falcons
+	Team_1,Toledo 
+	Team_2,Bowling Green 
 	Team_1_Score,49
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -21700,8 +21700,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309587
 	Game_Date,11/2021
-	Team_1,Ball State Cardinals
-	Team_2,Northern Illinois Huskies
+	Team_1,Ball State 
+	Team_2,Northern Illinois 
 	Team_1_Score,29
 	Team_2_Score,30
 	Team_1_First_Downs,17
@@ -21738,8 +21738,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309586
 	Game_Date,11/2021
-	Team_1,Kent State Golden Flashes
-	Team_2,Central Michigan Chippewas
+	Team_1,Kent State 
+	Team_2,Central Michigan 
 	Team_1_Score,30
 	Team_2_Score,54
 	Team_1_First_Downs,23
@@ -21776,8 +21776,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282683
 	Game_Date,11/2021
-	Team_1,North Carolina Tar Heels
-	Team_2,Pittsburgh Panthers
+	Team_1,North Carolina 
+	Team_2,Pittsburgh 
 	Team_1_Score,23
 	Team_2_Score,30
 	Team_1_First_Downs,16
@@ -21814,8 +21814,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301040
 	Game_Date,11/2021
-	Team_1,Cincinnati Bearcats
-	Team_2,South Florida Bulls
+	Team_1,Cincinnati 
+	Team_2,South Florida 
 	Team_1_Score,45
 	Team_2_Score,28
 	Team_1_First_Downs,30
@@ -21852,8 +21852,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310742
 	Game_Date,11/2021
-	Team_1,Wyoming Cowboys
-	Team_2,Boise State Broncos
+	Team_1,Wyoming 
+	Team_2,Boise State 
 	Team_1_Score,13
 	Team_2_Score,23
 	Team_1_First_Downs,11
@@ -21890,8 +21890,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282133
 	Game_Date,11/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Tennessee Volunteers
+	Team_1,Georgia 
+	Team_2,Tennessee 
 	Team_1_Score,41
 	Team_2_Score,17
 	Team_1_First_Downs,26
@@ -21928,8 +21928,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282127
 	Game_Date,11/2021
-	Team_1,New Mexico State Aggies
-	Team_2,Alabama Crimson Tide
+	Team_1,New Mexico State 
+	Team_2,Alabama 
 	Team_1_Score,3
 	Team_2_Score,59
 	Team_1_First_Downs,10
@@ -21966,8 +21966,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309895
 	Game_Date,11/2021
-	Team_1,Washington State Cougars
-	Team_2,Oregon Ducks
+	Team_1,Washington State 
+	Team_2,Oregon 
 	Team_1_Score,24
 	Team_2_Score,38
 	Team_1_First_Downs,20
@@ -22004,8 +22004,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282812
 	Game_Date,11/2021
-	Team_1,Purdue Boilermakers
-	Team_2,Ohio State Buckeyes
+	Team_1,Purdue 
+	Team_2,Ohio State 
 	Team_1_Score,31
 	Team_2_Score,59
 	Team_1_First_Downs,28
@@ -22042,8 +22042,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282780
 	Game_Date,11/2021
-	Team_1,Michigan Wolverines
-	Team_2,Penn State Nittany Lions
+	Team_1,Michigan 
+	Team_2,Penn State 
 	Team_1_Score,21
 	Team_2_Score,17
 	Team_1_First_Downs,21
@@ -22080,8 +22080,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282771
 	Game_Date,11/2021
-	Team_1,Maryland Terrapins
-	Team_2,Michigan State Spartans
+	Team_1,Maryland 
+	Team_2,Michigan State 
 	Team_1_Score,21
 	Team_2_Score,40
 	Team_1_First_Downs,24
@@ -22118,8 +22118,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287938
 	Game_Date,11/2021
-	Team_1,Oklahoma Sooners
-	Team_2,Baylor Bears
+	Team_1,Oklahoma 
+	Team_2,Baylor 
 	Team_1_Score,14
 	Team_2_Score,27
 	Team_1_First_Downs,17
@@ -22156,8 +22156,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282688
 	Game_Date,11/2021
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Virginia Cavaliers
+	Team_1,Notre Dame 
+	Team_2,Virginia 
 	Team_1_Score,28
 	Team_2_Score,3
 	Team_1_First_Downs,22
@@ -22194,8 +22194,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287940
 	Game_Date,11/2021
-	Team_1,Tcu Horned Frogs
-	Team_2,Oklahoma State Cowboys
+	Team_1,TCU 
+	Team_2,Oklahoma State 
 	Team_1_Score,17
 	Team_2_Score,63
 	Team_1_First_Downs,12
@@ -22232,8 +22232,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282131
 	Game_Date,11/2021
-	Team_1,Texas Am Aggies
-	Team_2,Ole Miss Rebels
+	Team_1,Texas A&M 
+	Team_2,Ole Miss 
 	Team_1_Score,19
 	Team_2_Score,29
 	Team_1_First_Downs,20
@@ -22270,8 +22270,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282690
 	Game_Date,11/2021
-	Team_1,Nc State Wolfpack
-	Team_2,Wake Forest Demon Deacons
+	Team_1,NC State 
+	Team_2,Wake Forest 
 	Team_1_Score,42
 	Team_2_Score,45
 	Team_1_First_Downs,25
@@ -22308,8 +22308,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282128
 	Game_Date,11/2021
-	Team_1,Mississippi State Bulldogs
-	Team_2,Auburn Tigers
+	Team_1,Mississippi State 
+	Team_2,Auburn 
 	Team_1_Score,43
 	Team_2_Score,34
 	Team_1_First_Downs,31
@@ -22346,8 +22346,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282806
 	Game_Date,11/2021
-	Team_1,Northwestern Wildcats
-	Team_2,Wisconsin Badgers
+	Team_1,Northwestern 
+	Team_2,Wisconsin 
 	Team_1_Score,7
 	Team_2_Score,35
 	Team_1_First_Downs,12
@@ -22384,8 +22384,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282762
 	Game_Date,11/2021
-	Team_1,Minnesota Golden Gophers
-	Team_2,Iowa Hawkeyes
+	Team_1,Minnesota 
+	Team_2,Iowa 
 	Team_1_Score,22
 	Team_2_Score,27
 	Team_1_First_Downs,23
@@ -22422,8 +22422,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310746
 	Game_Date,11/2021
-	Team_1,Nevada Wolf Pack
-	Team_2,San Diego State Aztecs
+	Team_1,Nevada 
+	Team_2,San Diego State 
 	Team_1_Score,21
 	Team_2_Score,23
 	Team_1_First_Downs,19
@@ -22460,8 +22460,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282260
 	Game_Date,11/2021
-	Team_1,Southern Miss Golden Eagles
-	Team_2,Utsa Roadrunners
+	Team_1,Southern Miss 
+	Team_2,UTSA 
 	Team_1_Score,17
 	Team_2_Score,27
 	Team_1_First_Downs,10
@@ -22498,8 +22498,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309896
 	Game_Date,11/2021
-	Team_1,Utah Utes
-	Team_2,Arizona Wildcats
+	Team_1,Utah 
+	Team_2,Arizona 
 	Team_1_Score,38
 	Team_2_Score,29
 	Team_1_First_Downs,26
@@ -22536,8 +22536,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282130
 	Game_Date,11/2021
-	Team_1,Arkansas Razorbacks
-	Team_2,Lsu Tigers
+	Team_1,Arkansas 
+	Team_2,LSU 
 	Team_1_Score,16
 	Team_2_Score,13
 	Team_1_First_Downs,13
@@ -22574,8 +22574,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282129
 	Game_Date,11/2021
-	Team_1,Samford Bulldogs
-	Team_2,Florida Gators
+	Team_1,Samford 
+	Team_2,Florida 
 	Team_1_Score,52
 	Team_2_Score,70
 	Team_1_First_Downs,28
@@ -22612,8 +22612,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282684
 	Game_Date,11/2021
-	Team_1,Uconn Huskies
-	Team_2,Clemson Tigers
+	Team_1,UConn 
+	Team_2,Clemson 
 	Team_1_Score,7
 	Team_2_Score,44
 	Team_1_First_Downs,6
@@ -22650,8 +22650,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282687
 	Game_Date,11/2021
-	Team_1,Syracuse Orange
-	Team_2,Louisville Cardinals
+	Team_1,Syracuse 
+	Team_2,Louisville 
 	Team_1_Score,3
 	Team_2_Score,41
 	Team_1_First_Downs,13
@@ -22688,8 +22688,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282728
 	Game_Date,11/2021
-	Team_1,Rutgers Scarlet Knights
-	Team_2,Indiana Hoosiers
+	Team_1,Rutgers 
+	Team_2,Indiana 
 	Team_1_Score,38
 	Team_2_Score,3
 	Team_1_First_Downs,18
@@ -22726,8 +22726,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401286304
 	Game_Date,11/2021
-	Team_1,Maine Black Bears
-	Team_2,Umass Minutemen
+	Team_1,Maine 
+	Team_2,UMass 
 	Team_1_Score,35
 	Team_2_Score,10
 	Team_1_First_Downs,18
@@ -22764,8 +22764,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287939
 	Game_Date,11/2021
-	Team_1,West Virginia Mountaineers
-	Team_2,Kansas State Wildcats
+	Team_1,West Virginia 
+	Team_2,Kansas State 
 	Team_1_Score,17
 	Team_2_Score,34
 	Team_1_First_Downs,20
@@ -22802,8 +22802,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301041
 	Game_Date,11/2021
-	Team_1,Ucf Knights
-	Team_2,Smu Mustangs
+	Team_1,UCF 
+	Team_2,SMU 
 	Team_1_Score,28
 	Team_2_Score,55
 	Team_1_First_Downs,15
@@ -22840,8 +22840,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309589
 	Game_Date,12/2021
-	Team_1,Toledo Rockets
-	Team_2,Ohio Bobcats
+	Team_1,Toledo 
+	Team_2,Ohio 
 	Team_1_Score,35
 	Team_2_Score,23
 	Team_1_First_Downs,18
@@ -22878,8 +22878,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309588
 	Game_Date,12/2021
-	Team_1,Western Michigan Broncos
-	Team_2,Eastern Michigan Eagles
+	Team_1,Western Michigan 
+	Team_2,Eastern Michigan 
 	Team_1_Score,21
 	Team_2_Score,22
 	Team_1_First_Downs,23
@@ -22916,8 +22916,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401308841
 	Game_Date,12/2021
-	Team_1,Bowling Green Falcons
-	Team_2,Miami Oh Redhawks
+	Team_1,Bowling Green 
+	Team_2,Miami (OH) 
 	Team_1_Score,7
 	Team_2_Score,34
 	Team_1_First_Downs,12
@@ -22954,8 +22954,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309590
 	Game_Date,12/2021
-	Team_1,Northern Illinois Huskies
-	Team_2,Buffalo Bulls
+	Team_1,Northern Illinois 
+	Team_2,Buffalo 
 	Team_1_Score,33
 	Team_2_Score,27
 	Team_1_First_Downs,25
@@ -22992,8 +22992,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309591
 	Game_Date,12/2021
-	Team_1,Central Michigan Chippewas
-	Team_2,Ball State Cardinals
+	Team_1,Central Michigan 
+	Team_2,Ball State 
 	Team_1_Score,37
 	Team_2_Score,17
 	Team_1_First_Downs,26
@@ -23030,8 +23030,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282691
 	Game_Date,12/2021
-	Team_1,Louisville Cardinals
-	Team_2,Duke Blue Devils
+	Team_1,Louisville 
+	Team_2,Duke 
 	Team_1_Score,62
 	Team_2_Score,22
 	Team_1_First_Downs,29
@@ -23068,8 +23068,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310751
 	Game_Date,12/2021
-	Team_1,San Diego State Aztecs
-	Team_2,Unlv Rebels
+	Team_1,San Diego State 
+	Team_2,UNLV 
 	Team_1_Score,28
 	Team_2_Score,20
 	Team_1_First_Downs,15
@@ -23106,8 +23106,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301045
 	Game_Date,12/2021
-	Team_1,Memphis Tigers
-	Team_2,Houston Cougars
+	Team_1,Memphis 
+	Team_2,Houston 
 	Team_1_Score,13
 	Team_2_Score,31
 	Team_1_First_Downs,24
@@ -23144,8 +23144,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282264
 	Game_Date,12/2021
-	Team_1,Southern Miss Golden Eagles
-	Team_2,Louisiana Tech Bulldogs
+	Team_1,Southern Miss 
+	Team_2,Louisiana Tech 
 	Team_1_Score,35
 	Team_2_Score,19
 	Team_1_First_Downs,17
@@ -23182,8 +23182,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309899
 	Game_Date,12/2021
-	Team_1,Arizona Wildcats
-	Team_2,Washington State Cougars
+	Team_1,Arizona 
+	Team_2,Washington State 
 	Team_1_Score,18
 	Team_2_Score,44
 	Team_1_First_Downs,18
@@ -23220,8 +23220,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310747
 	Game_Date,12/2021
-	Team_1,Air Force Falcons
-	Team_2,Nevada Wolf Pack
+	Team_1,Air Force 
+	Team_2,Nevada 
 	Team_1_Score,41
 	Team_2_Score,39
 	Team_1_First_Downs,26
@@ -23258,8 +23258,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282136
 	Game_Date,12/2021
-	Team_1,Charleston Southern Buccaneers
-	Team_2,Georgia Bulldogs
+	Team_1,Charleston Southern 
+	Team_2,Georgia 
 	Team_1_Score,7
 	Team_2_Score,56
 	Team_1_First_Downs,10
@@ -23296,8 +23296,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282135
 	Game_Date,12/2021
-	Team_1,Arkansas Razorbacks
-	Team_2,Alabama Crimson Tide
+	Team_1,Arkansas 
+	Team_2,Alabama 
 	Team_1_Score,35
 	Team_2_Score,42
 	Team_1_First_Downs,21
@@ -23334,8 +23334,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309901
 	Game_Date,12/2021
-	Team_1,Oregon Ducks
-	Team_2,Utah Utes
+	Team_1,Oregon 
+	Team_2,Utah 
 	Team_1_Score,7
 	Team_2_Score,38
 	Team_1_First_Downs,18
@@ -23372,8 +23372,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282786
 	Game_Date,12/2021
-	Team_1,Michigan State Spartans
-	Team_2,Ohio State Buckeyes
+	Team_1,Michigan State 
+	Team_2,Ohio State 
 	Team_1_Score,7
 	Team_2_Score,56
 	Team_1_First_Downs,12
@@ -23410,8 +23410,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301046
 	Game_Date,12/2021
-	Team_1,Smu Mustangs
-	Team_2,Cincinnati Bearcats
+	Team_1,SMU 
+	Team_2,Cincinnati 
 	Team_1_Score,14
 	Team_2_Score,48
 	Team_1_First_Downs,15
@@ -23448,8 +23448,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282770
 	Game_Date,12/2021
-	Team_1,Michigan Wolverines
-	Team_2,Maryland Terrapins
+	Team_1,Michigan 
+	Team_2,Maryland 
 	Team_1_Score,59
 	Team_2_Score,18
 	Team_1_First_Downs,24
@@ -23486,8 +23486,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282697
 	Game_Date,12/2021
-	Team_1,Georgia Tech Yellow Jackets
-	Team_2,Notre Dame Fighting Irish
+	Team_1,Georgia Tech 
+	Team_2,Notre Dame 
 	Team_1_Score,0
 	Team_2_Score,55
 	Team_1_First_Downs,11
@@ -23524,8 +23524,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287946
 	Game_Date,12/2021
-	Team_1,Oklahoma State Cowboys
-	Team_2,Texas Tech Red Raiders
+	Team_1,Oklahoma State 
+	Team_2,Texas Tech 
 	Team_1_Score,23
 	Team_2_Score,0
 	Team_1_First_Downs,27
@@ -23562,8 +23562,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282693
 	Game_Date,12/2021
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Clemson Tigers
+	Team_1,Wake Forest 
+	Team_2,Clemson 
 	Team_1_Score,27
 	Team_2_Score,48
 	Team_1_First_Downs,24
@@ -23600,8 +23600,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287943
 	Game_Date,12/2021
-	Team_1,Baylor Bears
-	Team_2,Kansas State Wildcats
+	Team_1,Baylor 
+	Team_2,Kansas State 
 	Team_1_Score,20
 	Team_2_Score,10
 	Team_1_First_Downs,22
@@ -23638,8 +23638,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282139
 	Game_Date,12/2021
-	Team_1,Vanderbilt Commodores
-	Team_2,Ole Miss Rebels
+	Team_1,Vanderbilt 
+	Team_2,Ole Miss 
 	Team_1_Score,17
 	Team_2_Score,31
 	Team_1_First_Downs,25
@@ -23676,8 +23676,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287944
 	Game_Date,12/2021
-	Team_1,Iowa State Cyclones
-	Team_2,Oklahoma Sooners
+	Team_1,Iowa State 
+	Team_2,Oklahoma 
 	Team_1_Score,21
 	Team_2_Score,28
 	Team_1_First_Downs,25
@@ -23714,8 +23714,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309645
 	Game_Date,12/2021
-	Team_1,Byu Cougars
-	Team_2,Georgia Southern Eagles
+	Team_1,BYU 
+	Team_2,Georgia Southern 
 	Team_1_Score,34
 	Team_2_Score,17
 	Team_1_First_Downs,25
@@ -23752,8 +23752,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309593
 	Game_Date,13/2021
-	Team_1,Buffalo Bulls
-	Team_2,Ball State Cardinals
+	Team_1,Buffalo 
+	Team_2,Ball State 
 	Team_1_Score,3
 	Team_2_Score,20
 	Team_1_First_Downs,22
@@ -23790,8 +23790,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309594
 	Game_Date,13/2021
-	Team_1,Western Michigan Broncos
-	Team_2,Northern Illinois Huskies
+	Team_1,Western Michigan 
+	Team_2,Northern Illinois 
 	Team_1_Score,42
 	Team_2_Score,21
 	Team_1_First_Downs,29
@@ -23828,8 +23828,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282151
 	Game_Date,13/2021
-	Team_1,Ole Miss Rebels
-	Team_2,Mississippi State Bulldogs
+	Team_1,Ole Miss 
+	Team_2,Mississippi State 
 	Team_1_Score,31
 	Team_2_Score,21
 	Team_1_First_Downs,23
@@ -23866,8 +23866,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310757
 	Game_Date,13/2021
-	Team_1,Fresno State Bulldogs
-	Team_2,San Jose State Spartans
+	Team_1,Fresno State 
+	Team_2,San José State 
 	Team_1_Score,40
 	Team_2_Score,9
 	Team_1_First_Downs,27
@@ -23904,8 +23904,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301051
 	Game_Date,13/2021
-	Team_1,Cincinnati Bearcats
-	Team_2,East Carolina Pirates
+	Team_1,Cincinnati 
+	Team_2,East Carolina 
 	Team_1_Score,35
 	Team_2_Score,13
 	Team_1_First_Downs,20
@@ -23942,8 +23942,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282761
 	Game_Date,13/2021
-	Team_1,Iowa Hawkeyes
-	Team_2,Nebraska Cornhuskers
+	Team_1,Iowa 
+	Team_2,Nebraska 
 	Team_1_Score,28
 	Team_2_Score,21
 	Team_1_First_Downs,19
@@ -23980,8 +23980,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309906
 	Game_Date,13/2021
-	Team_1,Colorado Buffaloes
-	Team_2,Utah Utes
+	Team_1,Colorado 
+	Team_2,Utah 
 	Team_1_Score,13
 	Team_2_Score,28
 	Team_1_First_Downs,9
@@ -24018,8 +24018,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282699
 	Game_Date,13/2021
-	Team_1,North Carolina Tar Heels
-	Team_2,Nc State Wolfpack
+	Team_1,North Carolina 
+	Team_2,NC State 
 	Team_1_Score,30
 	Team_2_Score,34
 	Team_1_First_Downs,22
@@ -24056,8 +24056,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310753
 	Game_Date,13/2021
-	Team_1,Boise State Broncos
-	Team_2,San Diego State Aztecs
+	Team_1,Boise State 
+	Team_2,San Diego State 
 	Team_1_Score,16
 	Team_2_Score,27
 	Team_1_First_Downs,20
@@ -24094,8 +24094,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282145
 	Game_Date,13/2021
-	Team_1,Missouri Tigers
-	Team_2,Arkansas Razorbacks
+	Team_1,Missouri 
+	Team_2,Arkansas 
 	Team_1_Score,17
 	Team_2_Score,34
 	Team_1_First_Downs,19
@@ -24132,8 +24132,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287952
 	Game_Date,13/2021
-	Team_1,Kansas State Wildcats
-	Team_2,Texas Longhorns
+	Team_1,Kansas State 
+	Team_2,Texas 
 	Team_1_Score,17
 	Team_2_Score,22
 	Team_1_First_Downs,13
@@ -24170,8 +24170,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309595
 	Game_Date,13/2021
-	Team_1,Eastern Michigan Eagles
-	Team_2,Central Michigan Chippewas
+	Team_1,Eastern Michigan 
+	Team_2,Central Michigan 
 	Team_1_Score,10
 	Team_2_Score,31
 	Team_1_First_Downs,15
@@ -24208,8 +24208,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309596
 	Game_Date,13/2021
-	Team_1,Ohio Bobcats
-	Team_2,Bowling Green Falcons
+	Team_1,Ohio 
+	Team_2,Bowling Green 
 	Team_1_Score,10
 	Team_2_Score,21
 	Team_1_First_Downs,10
@@ -24246,8 +24246,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310755
 	Game_Date,13/2021
-	Team_1,Utah State Aggies
-	Team_2,New Mexico Lobos
+	Team_1,Utah State 
+	Team_2,New Mexico 
 	Team_1_Score,35
 	Team_2_Score,10
 	Team_1_First_Downs,17
@@ -24284,8 +24284,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282274
 	Game_Date,13/2021
-	Team_1,Utep Miners
-	Team_2,Uab Blazers
+	Team_1,UTEP 
+	Team_2,UAB 
 	Team_1_Score,25
 	Team_2_Score,42
 	Team_1_First_Downs,17
@@ -24322,8 +24322,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301050
 	Game_Date,13/2021
-	Team_1,South Florida Bulls
-	Team_2,Ucf Knights
+	Team_1,South Florida 
+	Team_2,UCF 
 	Team_1_Score,13
 	Team_2_Score,17
 	Team_1_First_Downs,20
@@ -24360,8 +24360,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309648
 	Game_Date,13/2021
-	Team_1,Coastal Carolina Chanticleers
-	Team_2,South Alabama Jaguars
+	Team_1,Coastal Carolina 
+	Team_2,South Alabama 
 	Team_1_Score,27
 	Team_2_Score,21
 	Team_1_First_Downs,25
@@ -24398,8 +24398,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310752
 	Game_Date,13/2021
-	Team_1,Unlv Rebels
-	Team_2,Air Force Falcons
+	Team_1,UNLV 
+	Team_2,Air Force 
 	Team_1_Score,14
 	Team_2_Score,48
 	Team_1_First_Downs,12
@@ -24436,8 +24436,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287949
 	Game_Date,13/2021
-	Team_1,Tcu Horned Frogs
-	Team_2,Iowa State Cyclones
+	Team_1,TCU 
+	Team_2,Iowa State 
 	Team_1_Score,14
 	Team_2_Score,48
 	Team_1_First_Downs,18
@@ -24474,8 +24474,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309905
 	Game_Date,13/2021
-	Team_1,Washington State Cougars
-	Team_2,Washington Huskies
+	Team_1,Washington State 
+	Team_2,Washington 
 	Team_1_Score,40
 	Team_2_Score,13
 	Team_1_First_Downs,26
@@ -24512,8 +24512,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282148
 	Game_Date,13/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Georgia Tech Yellow Jackets
+	Team_1,Georgia 
+	Team_2,Georgia Tech 
 	Team_1_Score,45
 	Team_2_Score,0
 	Team_1_First_Downs,21
@@ -24550,8 +24550,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282781
 	Game_Date,13/2021
-	Team_1,Ohio State Buckeyes
-	Team_2,Michigan Wolverines
+	Team_1,Ohio State 
+	Team_2,Michigan 
 	Team_1_Score,27
 	Team_2_Score,42
 	Team_1_First_Downs,23
@@ -24588,8 +24588,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282146
 	Game_Date,13/2021
-	Team_1,Alabama Crimson Tide
-	Team_2,Auburn Tigers
+	Team_1,Alabama 
+	Team_2,Auburn 
 	Team_1_Score,24
 	Team_2_Score,22
 	Team_1_First_Downs,18
@@ -24626,8 +24626,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282711
 	Game_Date,13/2021
-	Team_1,Notre Dame Fighting Irish
-	Team_2,Stanford Cardinal
+	Team_1,Notre Dame 
+	Team_2,Stanford 
 	Team_1_Score,45
 	Team_2_Score,14
 	Team_1_First_Downs,27
@@ -24664,8 +24664,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287951
 	Game_Date,13/2021
-	Team_1,Oklahoma Sooners
-	Team_2,Oklahoma State Cowboys
+	Team_1,Oklahoma 
+	Team_2,Oklahoma State 
 	Team_1_Score,33
 	Team_2_Score,37
 	Team_1_First_Downs,21
@@ -24702,8 +24702,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287948
 	Game_Date,13/2021
-	Team_1,Texas Tech Red Raiders
-	Team_2,Baylor Bears
+	Team_1,Texas Tech 
+	Team_2,Baylor 
 	Team_1_Score,24
 	Team_2_Score,27
 	Team_1_First_Downs,16
@@ -24740,8 +24740,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309908
 	Game_Date,13/2021
-	Team_1,Oregon State Beavers
-	Team_2,Oregon Ducks
+	Team_1,Oregon State 
+	Team_2,Oregon 
 	Team_1_Score,29
 	Team_2_Score,38
 	Team_1_First_Downs,22
@@ -24778,8 +24778,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282785
 	Game_Date,13/2021
-	Team_1,Penn State Nittany Lions
-	Team_2,Michigan State Spartans
+	Team_1,Penn State 
+	Team_2,Michigan State 
 	Team_1_Score,27
 	Team_2_Score,30
 	Team_1_First_Downs,19
@@ -24816,8 +24816,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401309910
 	Game_Date,13/2021
-	Team_1,Byu Cougars
-	Team_2,Usc Trojans
+	Team_1,BYU 
+	Team_2,USC 
 	Team_1_Score,35
 	Team_2_Score,31
 	Team_1_First_Downs,27
@@ -24854,8 +24854,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282794
 	Game_Date,13/2021
-	Team_1,Wisconsin Badgers
-	Team_2,Minnesota Golden Gophers
+	Team_1,Wisconsin 
+	Team_2,Minnesota 
 	Team_1_Score,13
 	Team_2_Score,23
 	Team_1_First_Downs,17
@@ -24892,8 +24892,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282150
 	Game_Date,13/2021
-	Team_1,Texas Am Aggies
-	Team_2,Lsu Tigers
+	Team_1,Texas A&M 
+	Team_2,LSU 
 	Team_1_Score,24
 	Team_2_Score,27
 	Team_1_First_Downs,16
@@ -24930,8 +24930,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282702
 	Game_Date,13/2021
-	Team_1,Pittsburgh Panthers
-	Team_2,Syracuse Orange
+	Team_1,Pittsburgh 
+	Team_2,Syracuse 
 	Team_1_Score,31
 	Team_2_Score,14
 	Team_1_First_Downs,20
@@ -24968,8 +24968,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282700
 	Game_Date,13/2021
-	Team_1,Wake Forest Demon Deacons
-	Team_2,Boston College Eagles
+	Team_1,Wake Forest 
+	Team_2,Boston College 
 	Team_1_Score,41
 	Team_2_Score,10
 	Team_1_First_Downs,25
@@ -25006,8 +25006,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282273
 	Game_Date,13/2021
-	Team_1,Utsa Roadrunners
-	Team_2,North Texas Mean Green
+	Team_1,UTSA 
+	Team_2,North Texas 
 	Team_1_Score,23
 	Team_2_Score,45
 	Team_1_First_Downs,16
@@ -25044,8 +25044,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282152
 	Game_Date,13/2021
-	Team_1,Clemson Tigers
-	Team_2,South Carolina Gamecocks
+	Team_1,Clemson 
+	Team_2,South Carolina 
 	Team_1_Score,30
 	Team_2_Score,0
 	Team_1_First_Downs,17
@@ -25082,8 +25082,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301052
 	Game_Date,13/2021
-	Team_1,Houston Cougars
-	Team_2,Uconn Huskies
+	Team_1,Houston 
+	Team_2,UConn 
 	Team_1_Score,45
 	Team_2_Score,17
 	Team_1_First_Downs,22
@@ -25120,8 +25120,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401331159
 	Game_Date,14/2021
-	Team_1,Oregon Ducks
-	Team_2,Utah Utes
+	Team_1,Oregon 
+	Team_2,Utah 
 	Team_1_Score,10
 	Team_2_Score,38
 	Team_1_First_Downs,13
@@ -25158,8 +25158,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282156
 	Game_Date,14/2021
-	Team_1,Western Kentucky Hilltoppers
-	Team_2,Utsa Roadrunners
+	Team_1,Western Kentucky 
+	Team_2,UTSA 
 	Team_1_Score,41
 	Team_2_Score,49
 	Team_1_First_Downs,26
@@ -25196,8 +25196,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401282154
 	Game_Date,14/2021
-	Team_1,Georgia Bulldogs
-	Team_2,Alabama Crimson Tide
+	Team_1,Georgia 
+	Team_2,Alabama 
 	Team_1_Score,24
 	Team_2_Score,41
 	Team_1_First_Downs,30
@@ -25234,8 +25234,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401331447
 	Game_Date,14/2021
-	Team_1,Michigan Wolverines
-	Team_2,Iowa Hawkeyes
+	Team_1,Michigan 
+	Team_2,Iowa 
 	Team_1_Score,42
 	Team_2_Score,3
 	Team_1_First_Downs,21
@@ -25272,8 +25272,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401331162
 	Game_Date,14/2021
-	Team_1,Houston Cougars
-	Team_2,Cincinnati Bearcats
+	Team_1,Houston 
+	Team_2,Cincinnati 
 	Team_1_Score,20
 	Team_2_Score,35
 	Team_1_First_Downs,22
@@ -25310,8 +25310,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401287953
 	Game_Date,14/2021
-	Team_1,Baylor Bears
-	Team_2,Oklahoma State Cowboys
+	Team_1,Baylor 
+	Team_2,Oklahoma State 
 	Team_1_Score,21
 	Team_2_Score,16
 	Team_1_First_Downs,15
@@ -25348,8 +25348,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401331163
 	Game_Date,14/2021
-	Team_1,Pittsburgh Panthers
-	Team_2,Wake Forest Demon Deacons
+	Team_1,Pittsburgh 
+	Team_2,Wake Forest 
 	Team_1_Score,45
 	Team_2_Score,21
 	Team_1_First_Downs,22
@@ -25386,8 +25386,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401310676
 	Game_Date,14/2021
-	Team_1,Utah State Aggies
-	Team_2,San Diego State Aztecs
+	Team_1,Utah State 
+	Team_2,San Diego State 
 	Team_1_Score,46
 	Team_2_Score,13
 	Team_1_First_Downs,22
@@ -25424,8 +25424,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401331161
 	Game_Date,14/2021
-	Team_1,Appalachian State Mountaineers
-	Team_2,Louisiana Ragin Cajuns
+	Team_1,Appalachian State 
+	Team_2,Louisiana 
 	Team_1_Score,16
 	Team_2_Score,24
 	Team_1_First_Downs,18
@@ -25462,8 +25462,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401331160
 	Game_Date,14/2021
-	Team_1,Kent State Golden Flashes
-	Team_2,Northern Illinois Huskies
+	Team_1,Kent State 
+	Team_2,Northern Illinois 
 	Team_1_Score,23
 	Team_2_Score,41
 	Team_1_First_Downs,24
@@ -25500,8 +25500,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401387250
 	Game_Date,14/2021
-	Team_1,Usc Trojans
-	Team_2,California Golden Bears
+	Team_1,USC 
+	Team_2,California 
 	Team_1_Score,14
 	Team_2_Score,24
 	Team_1_First_Downs,25
@@ -25538,8 +25538,8 @@
 	BROKEN,false
 	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401301056
 	Game_Date,15/2021
-	Team_1,Army Black Knights
-	Team_2,Navy Midshipmen
+	Team_1,Army 
+	Team_2,Navy 
 	Team_1_Score,13
 	Team_2_Score,17
 	Team_1_First_Downs,11
