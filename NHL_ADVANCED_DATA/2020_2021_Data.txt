@@ -1,0 +1,9306 @@
+{
+ GameId,401272093
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272095
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,18
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272094
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,6
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272096
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272097
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,5
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272098
+ Home_Goals,4
+ Away_Goals,6
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272099
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,17
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272100
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,4
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272102
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,34
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272103
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,15
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272104
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,5
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272105
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,84
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,29
+ Home_Shots_Missed,10
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272106
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272107
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,5
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272108
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272101
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272109
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,14
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272110
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,36
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,5
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272111
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272113
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272114
+ Home_Goals,8
+ Away_Goals,0
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,6
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272112
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272115
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,13
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272122
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,19
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272116
+ Home_Goals,5
+ Away_Goals,0
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272117
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,15
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272119
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,36
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272121
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272118
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272124
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,11
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272120
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,16
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272123
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,17
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272127
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272126
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,5
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272125
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272130
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272128
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272133
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272129
+ Home_Goals,1
+ Away_Goals,6
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272131
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,3
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272132
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272134
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272135
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272137
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,9
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272136
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,15
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272138
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,81
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272139
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272141
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272142
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272145
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,15
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272143
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272146
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272140
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272144
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272148
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,8
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272147
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272151
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,21
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272149
+ Home_Goals,5
+ Away_Goals,5
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,15
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272150
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272152
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272153
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,12
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272155
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,13
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272156
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,6
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272157
+ Home_Goals,3
+ Away_Goals,7
+ Home_Shot_Attempts,32
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272158
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,12
+ Away_Shots_Missed,21
+}
+{
+ GameId,401272154
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272169
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,13
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272167
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272172
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272170
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,3
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,4
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272171
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272168
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272184
+ Home_Goals,7
+ Away_Goals,1
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,12
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272185
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,9
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272186
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,15
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272187
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272188
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272190
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,36
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,4
+ Away_Shots_Missed,22
+}
+{
+ GameId,401272191
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,16
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272192
+ Home_Goals,6
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,8
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272194
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272195
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,9
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272193
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,16
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272196
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,8
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272197
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,20
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272198
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,83
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,21
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272199
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272200
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,17
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272201
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,34
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,5
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272202
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,2
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272203
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272204
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,14
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272205
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,18
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272206
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,18
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272207
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,3
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272210
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272211
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272212
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,76
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,20
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272213
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,73
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,22
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272208
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,15
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272209
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,17
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272214
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272215
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272216
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272217
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272218
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,38
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272219
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,88
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,26
+ Home_Shots_Missed,10
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272220
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,20
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272221
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,2
+}
+{
+ GameId,401272222
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,13
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272223
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,16
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272225
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272226
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,33
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,4
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272227
+ Home_Goals,1
+ Away_Goals,6
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,12
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272224
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,17
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272236
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,9
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272237
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,15
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272238
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,13
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272239
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272240
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,20
+}
+{
+ GameId,401272241
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272244
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272247
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272245
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,24
+ Home_Shots_Missed,6
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272246
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,7
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272248
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,24
+ Home_Shots_Missed,12
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272250
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272249
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272253
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,32
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,3
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272242
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272243
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272252
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272251
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272254
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272256
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,11
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272257
+ Home_Goals,5
+ Away_Goals,6
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,12
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272259
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,8
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272262
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,21
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272263
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,31
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,10
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272260
+ Home_Goals,6
+ Away_Goals,4
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,72
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,27
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272261
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,79
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,24
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,12
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272264
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,11
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272255
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272258
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272265
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272266
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,16
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272267
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,4
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,13
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272268
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,8
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272269
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,6
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272270
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,18
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272288
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,4
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272289
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,7
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272291
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,6
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272292
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,12
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272290
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401286179
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,28
+ Home_Shots_Missed,9
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272287
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272295
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272297
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272296
+ Home_Goals,1
+ Away_Goals,6
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,13
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272300
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,18
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272298
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,14
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272302
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272303
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,9
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272294
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272299
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272301
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272304
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,7
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272305
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,6
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272307
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,9
+ Away_Shots_Missed,3
+}
+{
+ GameId,401272309
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272310
+ Home_Goals,5
+ Away_Goals,6
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,4
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272311
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,19
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272312
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272313
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272316
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,9
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272314
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,8
+ Away_Shots_Missed,2
+}
+{
+ GameId,401272318
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,25
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272319
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,13
+ Away_Shots_Missed,23
+}
+{
+ GameId,401272306
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272308
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272315
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272317
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272320
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,15
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272776
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,8
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272334
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272335
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,12
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272346
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272343
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,35
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,8
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272337
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272339
+ Home_Goals,5
+ Away_Goals,6
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272347
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272348
+ Home_Goals,4
+ Away_Goals,6
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,17
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272338
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,18
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272340
+ Home_Goals,5
+ Away_Goals,6
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,14
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272341
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,16
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272344
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,9
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272336
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272342
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272345
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272349
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272456
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272351
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272352
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,13
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272350
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401281494
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,19
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272354
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272353
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,13
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272355
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,21
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272356
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272357
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,8
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272358
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,27
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272359
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,10
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272360
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272362
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,6
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272759
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,15
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272361
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,7
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272364
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,5
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272365
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272363
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272366
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,20
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272367
+ Home_Goals,2
+ Away_Goals,7
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272368
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,17
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272369
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272370
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,3
+ Home_Shots_Missed,8
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272371
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272379
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,16
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272384
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272373
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272374
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,38
+ Away_Shot_Attempts,79
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,9
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272376
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,7
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272380
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,14
+ Away_Shots_Missed,5
+}
+{
+ GameId,401302346
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,18
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272375
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272381
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,18
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272377
+ Home_Goals,7
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,72
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,11
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272484
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,16
+ Away_Shots_Missed,22
+}
+{
+ GameId,401272385
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,12
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272382
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,18
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272386
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,16
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272189
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,17
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272390
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,25
+ Away_Shots_Missed,11
+}
+{
+ GameId,401277433
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,81
+ Away_Shot_Attempts,34
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,12
+ Away_Shots_Missed,3
+}
+{
+ GameId,401286392
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,16
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272389
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,5
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272391
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,6
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272392
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272835
+ Home_Goals,2
+ Away_Goals,6
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272387
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272394
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,13
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272396
+ Home_Goals,5
+ Away_Goals,5
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,7
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272398
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,80
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,17
+ Away_Shots_Missed,22
+}
+{
+ GameId,401272397
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272399
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,14
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272395
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272388
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,38
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,4
+ Away_Shots_Missed,7
+}
+{
+ GameId,401277431
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272400
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,13
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272402
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,16
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272403
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,12
+ Away_Shots_Missed,16
+}
+{
+ GameId,401298828
+ Home_Goals,2
+ Away_Goals,6
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272401
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,8
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272404
+ Home_Goals,7
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,6
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272405
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,14
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272406
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,36
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272407
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,15
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272408
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272410
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272727
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272409
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272411
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,18
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272412
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,16
+ Away_Shots_Missed,7
+}
+{
+ GameId,401299608
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401283727
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272415
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,18
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272416
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,21
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272413
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,22
+}
+{
+ GameId,401272417
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272418
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272414
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272419
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272425
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272424
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,8
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272420
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272421
+ Home_Goals,5
+ Away_Goals,0
+ Home_Shot_Attempts,32
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,5
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272422
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272427
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,16
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272423
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272428
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272429
+ Home_Goals,2
+ Away_Goals,6
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,14
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272426
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,38
+ Away_Shot_Attempts,78
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,11
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272430
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,15
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272431
+ Home_Goals,6
+ Away_Goals,7
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,15
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272434
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272432
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272436
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,20
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272438
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,15
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272433
+ Home_Goals,2
+ Away_Goals,0
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272435
+ Home_Goals,7
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272393
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,10
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272446
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,36
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,10
+ Away_Shots_Missed,23
+}
+{
+ GameId,401272447
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,6
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272448
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272449
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,9
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272450
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,9
+ Away_Shots_Missed,12
+}
+{
+ GameId,401281495
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,13
+ Away_Shots_Missed,16
+}
+{
+ GameId,401306873
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,14
+ Away_Shots_Missed,24
+}
+{
+ GameId,401272451
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272452
+ Home_Goals,1
+ Away_Goals,6
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,13
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272454
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,16
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272453
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401298829
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,13
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272455
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,76
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,12
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272457
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,12
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272458
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,4
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272461
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401286386
+ Home_Goals,1
+ Away_Goals,6
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,32
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,20
+ Away_Shots_Missed,9
+}
+{
+ GameId,401286387
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272459
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,76
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,29
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272460
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272464
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,14
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272462
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,5
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272463
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272466
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,15
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272467
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272760
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,5
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272473
+ Home_Goals,2
+ Away_Goals,6
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,14
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272474
+ Home_Goals,7
+ Away_Goals,1
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,10
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272476
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272479
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,10
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272477
+ Home_Goals,5
+ Away_Goals,0
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272478
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,10
+ Away_Shots_Missed,3
+}
+{
+ GameId,401272480
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,33
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,2
+ Home_Shots_Missed,10
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272475
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272481
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,14
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272483
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,5
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272486
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,6
+ Away_Shots_Missed,11
+}
+{
+ GameId,401281496
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,17
+ Away_Shots_Missed,11
+}
+{
+ GameId,401298830
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401298831
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272485
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,5
+ Away_Shots_Missed,3
+}
+{
+ GameId,401306893
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272487
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,15
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272497
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,10
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272493
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272494
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,24
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,15
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272495
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,14
+ Away_Shots_Missed,3
+}
+{
+ GameId,401272496
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272498
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272500
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272499
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272501
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,11
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272504
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,9
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272502
+ Home_Goals,7
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272505
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,84
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,18
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272506
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272503
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,79
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,8
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272507
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,8
+ Away_Shots_Missed,20
+}
+{
+ GameId,401272508
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272509
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,17
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272510
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,9
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272511
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272512
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272514
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,73
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,17
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272513
+ Home_Goals,6
+ Away_Goals,4
+ Home_Shot_Attempts,33
+ Away_Shot_Attempts,80
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,3
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272516
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272515
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,15
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272517
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,5
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272519
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,10
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272518
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,17
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272520
+ Home_Goals,2
+ Away_Goals,0
+ Home_Shot_Attempts,80
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,11
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272521
+ Home_Goals,0
+ Away_Goals,6
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,15
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272536
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,13
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272534
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,7
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272543
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401298832
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,8
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272537
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272535
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,18
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272540
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,8
+ Away_Shots_Missed,3
+}
+{
+ GameId,401272538
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,15
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272541
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,8
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272542
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272544
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,77
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,17
+ Away_Shots_Missed,10
+}
+{
+ GameId,401299013
+ Home_Goals,0
+ Away_Goals,6
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272545
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272546
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,13
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272547
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,73
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,26
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272548
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272549
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,13
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272550
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,17
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272551
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,4
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272552
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401299073
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,35
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,4
+ Away_Shots_Missed,12
+}
+{
+ GameId,401307013
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,13
+ Away_Shots_Missed,13
+}
+{
+ GameId,401299093
+ Home_Goals,8
+ Away_Goals,4
+ Home_Shot_Attempts,76
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,24
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,16
+ Away_Shots_Missed,3
+}
+{
+ GameId,401272555
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,21
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272554
+ Home_Goals,9
+ Away_Goals,0
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,4
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272556
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,72
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,24
+ Home_Shots_Missed,4
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272557
+ Home_Goals,3
+ Away_Goals,7
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272558
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272559
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272293
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272560
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272561
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,8
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272562
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272563
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,9
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272564
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272565
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,12
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272566
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,9
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272567
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,79
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272568
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,13
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272570
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,15
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272571
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,14
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272572
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,29
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272574
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,19
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272573
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401286391
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,8
+ Away_Shots_Missed,9
+}
+{
+ GameId,401277430
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272587
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,76
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,5
+ Away_Shots_Missed,14
+}
+{
+ GameId,401306913
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,15
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272588
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,13
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272589
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272591
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272847
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272593
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,14
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272592
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,17
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272594
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,76
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,7
+ Away_Shots_Missed,18
+}
+{
+ GameId,401283724
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,19
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272595
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272590
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272596
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272597
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272598
+ Home_Goals,2
+ Away_Goals,0
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272599
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,16
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272600
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272621
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272603
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,12
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272605
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272601
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,10
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272604
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272606
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,14
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272602
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272607
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,14
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272608
+ Home_Goals,3
+ Away_Goals,8
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,5
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272609
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,16
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272610
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,14
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272613
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,11
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272624
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,13
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272611
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,34
+ Away_Shot_Attempts,73
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,4
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272612
+ Home_Goals,7
+ Away_Goals,1
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401299033
+ Home_Goals,2
+ Away_Goals,0
+ Home_Shot_Attempts,30
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272614
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,12
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272615
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,9
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272616
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,10
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272617
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,7
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272619
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272620
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272618
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272622
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,16
+}
+{
+ GameId,401286388
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272625
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272631
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272623
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,14
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272628
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,12
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272653
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272626
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272630
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,17
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272629
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,16
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272632
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,16
+}
+{
+ GameId,401299609
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272634
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272636
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,12
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272627
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,6
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272633
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272639
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272637
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272638
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272640
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,5
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272641
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,10
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272643
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272645
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,76
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,17
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272644
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,16
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272646
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272647
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,77
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,19
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272648
+ Home_Goals,4
+ Away_Goals,4
+ Home_Shot_Attempts,78
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,18
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272650
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272651
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272652
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,4
+}
+{
+ GameId,401316625
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,34
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,8
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272654
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,32
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272655
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,15
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272649
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272658
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,8
+ Away_Shots_Missed,6
+}
+{
+ GameId,401298993
+ Home_Goals,6
+ Away_Goals,6
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,11
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272661
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,73
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,15
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272662
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,7
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272659
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272663
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,15
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272664
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,26
+ Away_Shot_Attempts,93
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,3
+ Away_Shots_Missed,27
+}
+{
+ GameId,401272665
+ Home_Goals,8
+ Away_Goals,4
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,6
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272666
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272667
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,13
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272670
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,30
+ Away_Shot_Attempts,78
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,6
+ Away_Shots_Missed,27
+}
+{
+ GameId,401272668
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,5
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272669
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272671
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,74
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,18
+ Away_Shots_Missed,20
+}
+{
+ GameId,401272672
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272673
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,12
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272674
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,9
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272815
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272675
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,6
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272676
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,10
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272691
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,31
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272689
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,33
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,15
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272692
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272690
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,17
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272695
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,8
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272696
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272694
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272703
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,30
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,15
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272704
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272705
+ Home_Goals,8
+ Away_Goals,4
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272706
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,77
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,16
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272707
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,16
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272708
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,5
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272709
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,7
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272710
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,4
+ Away_Shots_Missed,14
+}
+{
+ GameId,401283726
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272711
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272713
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272714
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272712
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,95
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,25
+ Home_Shots_Missed,9
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272715
+ Home_Goals,8
+ Away_Goals,3
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,9
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272716
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,13
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272717
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,6
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272718
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272719
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272720
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,7
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272721
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,18
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272722
+ Home_Goals,4
+ Away_Goals,6
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272725
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,12
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272730
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,13
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272723
+ Home_Goals,1
+ Away_Goals,7
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,7
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272724
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,6
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272726
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272586
+ Home_Goals,4
+ Away_Goals,6
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,14
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272728
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,5
+}
+{
+ GameId,401298973
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272729
+ Home_Goals,9
+ Away_Goals,1
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,9
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272731
+ Home_Goals,7
+ Away_Goals,4
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,5
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272732
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272733
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272744
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,73
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,18
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272747
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,20
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272748
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,18
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272742
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,16
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272743
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,20
+}
+{
+ GameId,401272806
+ Home_Goals,1
+ Away_Goals,8
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272880
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,12
+ Away_Shots_Missed,20
+}
+{
+ GameId,401272749
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,13
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272750
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272752
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,14
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272753
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401298953
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,13
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272755
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272756
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,78
+ Away_Shot_Attempts,34
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,16
+ Away_Shots_Missed,6
+}
+{
+ GameId,401298933
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272758
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,14
+ Away_Shots_Missed,17
+}
+{
+ GameId,401286389
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,17
+ Away_Shots_Missed,12
+}
+{
+ GameId,401306933
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,5
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272761
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272751
+ Home_Goals,7
+ Away_Goals,2
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,2
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272762
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,15
+ Away_Shots_Missed,16
+}
+{
+ GameId,401298913
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,9
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272763
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,26
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,7
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272764
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,5
+}
+{
+ GameId,401298893
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,12
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272766
+ Home_Goals,2
+ Away_Goals,6
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,25
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272767
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,12
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272757
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,7
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272768
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,4
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272769
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,17
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272770
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,5
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272771
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272772
+ Home_Goals,1
+ Away_Goals,1
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,8
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272774
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272773
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,24
+ Home_Shots_Missed,9
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272775
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,15
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272778
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,12
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272777
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,7
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272779
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,13
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272781
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,82
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272780
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272783
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,9
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272784
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272782
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401316626
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272792
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,24
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272785
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,88
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,20
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272786
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272787
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,3
+}
+{
+ GameId,401272788
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,15
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272790
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272791
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,20
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272793
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,8
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272794
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,6
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272807
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,7
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272797
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272795
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272789
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,81
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,7
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272796
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272798
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,8
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272799
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272803
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,21
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272693
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,6
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272800
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272801
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272804
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,18
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272805
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,78
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,22
+ Away_Shots_Missed,13
+}
+{
+ GameId,401316627
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272809
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,25
+ Home_Shots_Missed,9
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272810
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272811
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,14
+ Away_Shots_Missed,6
+}
+{
+ GameId,401286390
+ Home_Goals,7
+ Away_Goals,6
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,6
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272814
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272802
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,18
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272816
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,31
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,2
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,7
+ Away_Shots_Missed,13
+}
+{
+ GameId,401306953
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
+}
+{
+ GameId,401272817
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272819
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,16
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272820
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,15
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272813
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,11
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272818
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272821
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272822
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,6
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272823
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,4
+ Home_Shots_Missed,5
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272824
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,24
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,17
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272825
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,14
+ Away_Shots_Missed,12
+}
+{
+ GameId,401306973
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,15
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272826
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,75
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272827
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,27
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,13
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272829
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,9
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272838
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,8
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272840
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,9
+ Away_Shots_Missed,21
+}
+{
+ GameId,401272836
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272837
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272839
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,32
+ Away_Shot_Attempts,85
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272841
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,13
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272842
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,4
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,8
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272845
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,12
+ Away_Shots_Missed,6
+}
+{
+ GameId,401283728
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,17
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272843
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,10
+ Away_Shots_Missed,18
+}
+{
+ GameId,401272844
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272849
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,9
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272846
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,3
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401299606
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,68
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272848
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,21
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272853
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,13
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272851
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,9
+ Away_Shots_Missed,6
+}
+{
+ GameId,401322713
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,30
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,4
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,6
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272855
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,8
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272850
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,39
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272852
+ Home_Goals,1
+ Away_Goals,6
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,12
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272857
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,15
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272858
+ Home_Goals,6
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,6
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272539
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,17
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272808
+ Home_Goals,6
+ Away_Goals,4
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,9
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272860
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,18
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272862
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,5
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272863
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,21
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272864
+ Home_Goals,4
+ Away_Goals,7
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,2
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272865
+ Home_Goals,4
+ Away_Goals,7
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,80
+ Home_Shots_Blocked,4
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,3
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272866
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272868
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272870
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272867
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272869
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272871
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272872
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,8
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272873
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,7
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272883
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272885
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272886
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,20
+}
+{
+ GameId,401272887
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,20
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272888
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,34
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272893
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,31
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,7
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272889
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272890
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,16
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272891
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,12
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272892
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,11
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272897
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,15
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272898
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,8
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272894
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,81
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,21
+}
+{
+ GameId,401272895
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272896
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,15
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272900
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,6
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272899
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,4
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272901
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,18
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272902
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272903
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272904
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,4
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272905
+ Home_Goals,0
+ Away_Goals,3
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,8
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272906
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,14
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272907
+ Home_Goals,7
+ Away_Goals,2
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,7
+ Away_Shots_Missed,8
+}
+{
+ GameId,401272908
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,41
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,17
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272909
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,5
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272911
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272912
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,32
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,4
+ Away_Shots_Missed,13
+}
+{
+ GameId,401277434
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,9
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272910
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272913
+ Home_Goals,6
+ Away_Goals,5
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,12
+ Away_Shots_Missed,15
+}
+{
+ GameId,401272914
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,1
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272921
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,8
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272915
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,77
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,7
+ Away_Shots_Missed,23
+}
+{
+ GameId,401272916
+ Home_Goals,3
+ Away_Goals,3
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,75
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272917
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272918
+ Home_Goals,3
+ Away_Goals,7
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,20
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272919
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272935
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272656
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272922
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,35
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,6
+ Away_Shots_Missed,16
+}
+{
+ GameId,401272923
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,10
+ Away_Shots_Missed,11
+}
+{
+ GameId,401277429
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,14
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272924
+ Home_Goals,2
+ Away_Goals,2
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,9
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272927
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,8
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272926
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272929
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,53
+ Away_Shot_Attempts,75
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,13
+ Away_Shots_Missed,22
+}
+{
+ GameId,401272928
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,13
+ Away_Shots_Missed,19
+}
+{
+ GameId,401272930
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,28
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,14
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272931
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,24
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,9
+ Away_Shots_Missed,5
+}
+{
+ GameId,401272933
+ Home_Goals,8
+ Away_Goals,4
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,6
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272939
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,20
+ Away_Shots_Missed,14
+}
+{
+ GameId,401306993
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,17
+ Away_Shots_Missed,13
+}
+{
+ GameId,401320055
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,36
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,13
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272936
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,6
+ Away_Shots_Missed,17
+}
+{
+ GameId,401272937
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,10
+ Away_Shots_Missed,4
+}
+{
+ GameId,401277435
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401272942
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,13
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272943
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,13
+ Away_Shots_Missed,14
+}
+{
+ GameId,401272944
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,29
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,4
+ Away_Shots_Missed,12
+}
+{
+ GameId,401272945
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272934
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,40
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,2
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272812
+ Home_Goals,6
+ Away_Goals,1
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,14
+ Away_Shots_Missed,11
+}
+{
+ GameId,401272932
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401298853
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,16
+ Away_Shots_Missed,13
+}
+{
+ GameId,401316628
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,12
+ Away_Shots_Missed,5
+}
+{
+ GameId,401316629
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,33
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,15
+ Away_Shots_Missed,6
+}
+{
+ GameId,401272938
+ Home_Goals,5
+ Away_Goals,0
+ Home_Shot_Attempts,50
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,16
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272952
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,45
+ Away_Shot_Attempts,82
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,9
+ Away_Shots_Missed,13
+}
+{
+ GameId,401320056
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,74
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,16
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272856
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,70
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,14
+ Away_Shots_Missed,6
+}
+{
+ GameId,401316630
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401272745
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,22
+ Away_Shots_Missed,8
+}
+{
+ GameId,401320057
+ Home_Goals,5
+ Away_Goals,0
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,5
+ Home_Shots_Missed,5
+ Away_Shots_Missed,9
+}
+{
+ GameId,401322718
+ Home_Goals,7
+ Away_Goals,3
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,11
+ Away_Shots_Missed,8
+}
+{
+ GameId,401320054
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,16
+ Away_Shots_Missed,12
+}
+{
+ GameId,401322715
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,82
+ Away_Shot_Attempts,39
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,16
+ Away_Shots_Missed,4
+}
+{
+ GameId,401272833
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,12
+ Away_Shots_Missed,13
+}
+{
+ GameId,401272765
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,51
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,13
+ Away_Shots_Missed,6
+}
+{
+ GameId,401326036
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,63
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,15
+ Away_Shots_Missed,21
+}
+{
+ GameId,401326684
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326897
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,81
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,16
+ Away_Shots_Missed,4
+}
+{
+ GameId,401326693
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,64
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,9
+ Away_Shots_Missed,7
+}
+{
+ GameId,401320053
+ Home_Goals,5
+ Away_Goals,6
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,76
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,5
+ Away_Shots_Missed,21
+}
+{
+ GameId,401326673
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,89
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,9
+ Away_Shots_Missed,22
+}
+{
+ GameId,401326674
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,9
+}
+{
+ GameId,401326870
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,80
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,10
+}
+{
+ GameId,401272956
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,41
+ Away_Shot_Attempts,58
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,9
+ Away_Shots_Missed,8
+}
+{
+ GameId,401326685
+ Home_Goals,2
+ Away_Goals,1
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,55
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,7
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326694
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,19
+ Away_Shots_Missed,8
+}
+{
+ GameId,401326898
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,26
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,9
+ Away_Shots_Missed,11
+}
+{
+ GameId,401320058
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,16
+ Away_Shots_Missed,13
+}
+{
+ GameId,401326675
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,84
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,21
+ Away_Shots_Missed,18
+}
+{
+ GameId,401326677
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,13
+ Away_Shots_Missed,13
+}
+{
+ GameId,401326699
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,13
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326871
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,7
+ Away_Shots_Missed,10
+}
+{
+ GameId,401326695
+ Home_Goals,5
+ Away_Goals,6
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,12
+ Away_Shots_Missed,8
+}
+{
+ GameId,401326687
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,8
+}
+{
+ GameId,401326702
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,47
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326899
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,12
+ Away_Shots_Missed,11
+}
+{
+ GameId,401326676
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,13
+ Away_Shots_Missed,13
+}
+{
+ GameId,401326679
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,102
+ Away_Shot_Attempts,91
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,27
+ Away_Shots_Missed,15
+}
+{
+ GameId,401326701
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,59
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,11
+ Away_Shots_Missed,8
+}
+{
+ GameId,401326872
+ Home_Goals,1
+ Away_Goals,5
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,14
+}
+{
+ GameId,401326696
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,37
+ Away_Shot_Attempts,69
+ Home_Shots_Blocked,6
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,5
+ Away_Shots_Missed,16
+}
+{
+ GameId,401326689
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,44
+ Away_Shot_Attempts,60
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,6
+ Away_Shots_Missed,16
+}
+{
+ GameId,401326705
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,19
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326900
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,66
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,12
+ Away_Shots_Missed,12
+}
+{
+ GameId,401326681
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,129
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,31
+ Home_Shots_Missed,14
+ Away_Shots_Missed,37
+}
+{
+ GameId,401326893
+ Home_Goals,2
+ Away_Goals,5
+ Home_Shot_Attempts,43
+ Away_Shot_Attempts,68
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,10
+ Away_Shots_Missed,15
+}
+{
+ GameId,401326678
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,15
+ Away_Shots_Missed,16
+}
+{
+ GameId,401326703
+ Home_Goals,5
+ Away_Goals,4
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,74
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,15
+ Away_Shots_Missed,13
+}
+{
+ GameId,401326690
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,85
+ Away_Shot_Attempts,43
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,22
+ Away_Shots_Missed,6
+}
+{
+ GameId,401326707
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,17
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,9
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326697
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401326704
+ Home_Goals,4
+ Away_Goals,3
+ Home_Shot_Attempts,89
+ Away_Shot_Attempts,113
+ Home_Shots_Blocked,26
+ Away_Shots_Blocked,47
+ Home_Shots_Missed,20
+ Away_Shots_Missed,26
+}
+{
+ GameId,401326901
+ Home_Goals,2
+ Away_Goals,4
+ Home_Shot_Attempts,84
+ Away_Shot_Attempts,32
+ Home_Shots_Blocked,23
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,21
+ Away_Shots_Missed,5
+}
+{
+ GameId,401326708
+ Home_Goals,0
+ Away_Goals,4
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,9
+ Away_Shots_Missed,7
+}
+{
+ GameId,401326683
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,49
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,12
+}
+{
+ GameId,401326691
+ Home_Goals,5
+ Away_Goals,3
+ Home_Shot_Attempts,48
+ Away_Shot_Attempts,79
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,13
+ Away_Shots_Missed,19
+}
+{
+ GameId,401326698
+ Home_Goals,4
+ Away_Goals,0
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,12
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,14
+}
+{
+ GameId,401326902
+ Home_Goals,3
+ Away_Goals,0
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,62
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,7
+ Away_Shots_Missed,21
+}
+{
+ GameId,401326711
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,7
+ Away_Shots_Missed,9
+}
+{
+ GameId,401326686
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,66
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,21
+ Away_Shots_Missed,15
+}
+{
+ GameId,401326903
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,72
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,18
+ Away_Shots_Missed,10
+}
+{
+ GameId,401326712
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,67
+ Away_Shot_Attempts,76
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,14
+ Away_Shots_Missed,12
+}
+{
+ GameId,401331243
+ Home_Goals,5
+ Away_Goals,2
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,7
+ Home_Shots_Missed,16
+ Away_Shots_Missed,9
+}
+{
+ GameId,401331610
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,69
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,13
+ Away_Shots_Missed,8
+}
+{
+ GameId,401331244
+ Home_Goals,7
+ Away_Goals,1
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,10
+ Away_Shots_Missed,10
+}
+{
+ GameId,401326713
+ Home_Goals,1
+ Away_Goals,3
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
+{
+ GameId,401331678
+ Home_Goals,3
+ Away_Goals,4
+ Home_Shot_Attempts,79
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,18
+ Away_Shots_Missed,13
+}
+{
+ GameId,401331777
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,38
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,17
+ Away_Shots_Missed,11
+}
+{
+ GameId,401331997
+ Home_Goals,3
+ Away_Goals,5
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,54
+ Home_Shots_Blocked,11
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,8
+ Away_Shots_Missed,12
+}
+{
+ GameId,401331783
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,63
+ Away_Shot_Attempts,71
+ Home_Shots_Blocked,28
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,10
+ Away_Shots_Missed,13
+}
+{
+ GameId,401331692
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,72
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,22
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401331778
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,14
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,11
+ Away_Shots_Missed,16
+}
+{
+ GameId,401331999
+ Home_Goals,0
+ Away_Goals,1
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,11
+ Away_Shots_Missed,9
+}
+{
+ GameId,401331784
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,87
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,22
+ Away_Shots_Missed,11
+}
+{
+ GameId,401331779
+ Home_Goals,6
+ Away_Goals,4
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,10
+ Home_Shots_Missed,19
+ Away_Shots_Missed,18
+}
+{
+ GameId,401331773
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,57
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,10
+ Away_Shots_Missed,15
+}
+{
+ GameId,401332000
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,61
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,7
+ Away_Shots_Missed,18
+}
+{
+ GameId,401331785
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,6
+ Away_Shots_Missed,10
+}
+{
+ GameId,401331774
+ Home_Goals,4
+ Away_Goals,5
+ Home_Shot_Attempts,76
+ Away_Shot_Attempts,35
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,6
+ Home_Shots_Missed,17
+ Away_Shots_Missed,10
+}
+{
+ GameId,401332001
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,75
+ Away_Shot_Attempts,37
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,12
+ Home_Shots_Missed,14
+ Away_Shots_Missed,9
+}
+{
+ GameId,401331780
+ Home_Goals,0
+ Away_Goals,2
+ Home_Shot_Attempts,65
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,22
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,14
+ Away_Shots_Missed,14
+}
+{
+ GameId,401331786
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,64
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,26
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,8
+ Away_Shots_Missed,10
+}
+{
+ GameId,401331775
+ Home_Goals,6
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,23
+ Home_Shots_Missed,4
+ Away_Shots_Missed,17
+}
+{
+ GameId,401331787
+ Home_Goals,6
+ Away_Goals,3
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,77
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,34
+ Home_Shots_Missed,14
+ Away_Shots_Missed,10
+}
+{
+ GameId,401334740
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,55
+ Away_Shot_Attempts,45
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401334733
+ Home_Goals,4
+ Away_Goals,1
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,53
+ Home_Shots_Blocked,15
+ Away_Shots_Blocked,16
+ Home_Shots_Missed,17
+ Away_Shots_Missed,8
+}
+{
+ GameId,401334741
+ Home_Goals,4
+ Away_Goals,2
+ Home_Shot_Attempts,57
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,8
+ Away_Shots_Missed,10
+}
+{
+ GameId,401334734
+ Home_Goals,2
+ Away_Goals,3
+ Home_Shot_Attempts,71
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,26
+ Away_Shots_Blocked,18
+ Home_Shots_Missed,14
+ Away_Shots_Missed,7
+}
+{
+ GameId,401334742
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,62
+ Away_Shot_Attempts,52
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,13
+ Away_Shots_Missed,12
+}
+{
+ GameId,401334735
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,77
+ Home_Shots_Blocked,21
+ Away_Shots_Blocked,20
+ Home_Shots_Missed,11
+ Away_Shots_Missed,12
+}
+{
+ GameId,401334743
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,52
+ Away_Shot_Attempts,61
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,17
+ Home_Shots_Missed,12
+ Away_Shots_Missed,14
+}
+{
+ GameId,401334736
+ Home_Goals,1
+ Away_Goals,2
+ Home_Shot_Attempts,54
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,10
+ Away_Shots_Missed,16
+}
+{
+ GameId,401334744
+ Home_Goals,8
+ Away_Goals,0
+ Home_Shot_Attempts,58
+ Away_Shot_Attempts,44
+ Home_Shots_Blocked,7
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,9
+ Away_Shots_Missed,10
+}
+{
+ GameId,401334737
+ Home_Goals,1
+ Away_Goals,4
+ Home_Shot_Attempts,56
+ Away_Shot_Attempts,40
+ Home_Shots_Blocked,18
+ Away_Shots_Blocked,8
+ Home_Shots_Missed,11
+ Away_Shots_Missed,6
+}
+{
+ GameId,401334745
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,60
+ Away_Shot_Attempts,46
+ Home_Shots_Blocked,19
+ Away_Shots_Blocked,13
+ Home_Shots_Missed,13
+ Away_Shots_Missed,9
+}
+{
+ GameId,401334738
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,65
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,4
+ Away_Shots_Missed,12
+}
+{
+ GameId,401334746
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,50
+ Home_Shots_Blocked,8
+ Away_Shots_Blocked,21
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
+{
+ GameId,401341449
+ Home_Goals,5
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,51
+ Home_Shots_Blocked,5
+ Away_Shots_Blocked,15
+ Home_Shots_Missed,14
+ Away_Shots_Missed,17
+}
+{
+ GameId,401341450
+ Home_Goals,3
+ Away_Goals,1
+ Home_Shot_Attempts,46
+ Away_Shot_Attempts,67
+ Home_Shots_Blocked,10
+ Away_Shots_Blocked,14
+ Home_Shots_Missed,13
+ Away_Shots_Missed,10
+}
+{
+ GameId,401341451
+ Home_Goals,3
+ Away_Goals,6
+ Home_Shot_Attempts,59
+ Away_Shot_Attempts,48
+ Home_Shots_Blocked,13
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,11
+ Away_Shots_Missed,7
+}
+{
+ GameId,401341452
+ Home_Goals,3
+ Away_Goals,2
+ Home_Shot_Attempts,42
+ Away_Shot_Attempts,70
+ Home_Shots_Blocked,16
+ Away_Shots_Blocked,19
+ Home_Shots_Missed,5
+ Away_Shots_Missed,17
+}
+{
+ GameId,401341453
+ Home_Goals,1
+ Away_Goals,0
+ Home_Shot_Attempts,47
+ Away_Shot_Attempts,42
+ Home_Shots_Blocked,9
+ Away_Shots_Blocked,9
+ Home_Shots_Missed,8
+ Away_Shots_Missed,11
+}
