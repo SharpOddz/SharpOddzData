@@ -79,12 +79,12 @@
  GameId,401272100
  Home_Goals,0
  Away_Goals,4
- Home_Shot_Attempts,44
- Away_Shot_Attempts,37
- Home_Shots_Blocked,19
- Away_Shots_Blocked,6
- Home_Shots_Missed,4
- Away_Shots_Missed,10
+ Home_Shot_Attempts,49
+ Away_Shot_Attempts,56
+ Home_Shots_Blocked,20
+ Away_Shots_Blocked,11
+ Home_Shots_Missed,5
+ Away_Shots_Missed,12
 }
 {
  GameId,401272102
@@ -608,11 +608,11 @@
  Home_Goals,1
  Away_Goals,1
  Home_Shot_Attempts,42
- Away_Shot_Attempts,58
+ Away_Shot_Attempts,56
  Home_Shots_Blocked,8
  Away_Shots_Blocked,13
  Home_Shots_Missed,12
- Away_Shots_Missed,6
+ Away_Shots_Missed,5
 }
 {
  GameId,401272151
@@ -1309,14 +1309,14 @@
 }
 {
  GameId,401272240
- Home_Goals,3
- Away_Goals,3
- Home_Shot_Attempts,51
- Away_Shot_Attempts,60
- Home_Shots_Blocked,13
- Away_Shots_Blocked,12
- Home_Shots_Missed,10
- Away_Shots_Missed,20
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
 }
 {
  GameId,401272241
@@ -1774,11 +1774,11 @@
  Home_Goals,3
  Away_Goals,2
  Home_Shot_Attempts,54
- Away_Shot_Attempts,41
+ Away_Shot_Attempts,36
  Home_Shots_Blocked,12
  Away_Shots_Blocked,9
  Home_Shots_Missed,14
- Away_Shots_Missed,4
+ Away_Shots_Missed,3
 }
 {
  GameId,401272302
@@ -2200,14 +2200,14 @@
 }
 {
  GameId,401272349
- Home_Goals,1
- Away_Goals,3
- Home_Shot_Attempts,46
- Away_Shot_Attempts,60
- Home_Shots_Blocked,10
- Away_Shots_Blocked,10
- Home_Shots_Missed,9
- Away_Shots_Missed,8
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
 }
 {
  GameId,401272456
@@ -2476,13 +2476,13 @@
 {
  GameId,401272371
  Home_Goals,1
- Away_Goals,4
+ Away_Goals,3
  Home_Shot_Attempts,53
- Away_Shot_Attempts,48
+ Away_Shot_Attempts,46
  Home_Shots_Blocked,11
  Away_Shots_Blocked,13
  Home_Shots_Missed,15
- Away_Shots_Missed,11
+ Away_Shots_Missed,10
 }
 {
  GameId,401272379
@@ -2555,11 +2555,11 @@
  Home_Goals,4
  Away_Goals,0
  Home_Shot_Attempts,62
- Away_Shot_Attempts,52
+ Away_Shot_Attempts,48
  Home_Shots_Blocked,17
  Away_Shots_Blocked,14
  Home_Shots_Missed,18
- Away_Shots_Missed,13
+ Away_Shots_Missed,12
 }
 {
  GameId,401272375
@@ -2764,11 +2764,11 @@
  Home_Goals,4
  Away_Goals,4
  Home_Shot_Attempts,59
- Away_Shot_Attempts,80
+ Away_Shot_Attempts,64
  Home_Shots_Blocked,9
- Away_Shots_Blocked,15
+ Away_Shots_Blocked,14
  Home_Shots_Missed,17
- Away_Shots_Missed,22
+ Away_Shots_Missed,15
 }
 {
  GameId,401272397
@@ -2828,13 +2828,13 @@
 {
  GameId,401272400
  Home_Goals,3
- Away_Goals,4
+ Away_Goals,2
  Home_Shot_Attempts,68
- Away_Shot_Attempts,54
+ Away_Shot_Attempts,48
  Home_Shots_Blocked,18
  Away_Shots_Blocked,9
  Home_Shots_Missed,13
- Away_Shots_Missed,16
+ Away_Shots_Missed,13
 }
 {
  GameId,401272402
@@ -2929,11 +2929,11 @@
  Home_Goals,0
  Away_Goals,2
  Home_Shot_Attempts,41
- Away_Shot_Attempts,63
+ Away_Shot_Attempts,37
  Home_Shots_Blocked,10
  Away_Shots_Blocked,11
  Home_Shots_Missed,11
- Away_Shots_Missed,18
+ Away_Shots_Missed,7
 }
 {
  GameId,401272410
@@ -3149,7 +3149,7 @@
  Home_Goals,0
  Away_Goals,4
  Home_Shot_Attempts,56
- Away_Shot_Attempts,41
+ Away_Shot_Attempts,37
  Home_Shots_Blocked,12
  Away_Shots_Blocked,5
  Home_Shots_Missed,16
@@ -3160,11 +3160,11 @@
  Home_Goals,3
  Away_Goals,5
  Home_Shot_Attempts,66
- Away_Shot_Attempts,50
+ Away_Shot_Attempts,46
  Home_Shots_Blocked,19
  Away_Shots_Blocked,7
  Home_Shots_Missed,12
- Away_Shots_Missed,10
+ Away_Shots_Missed,7
 }
 {
  GameId,401272428
@@ -3292,22 +3292,22 @@
  Home_Goals,1
  Away_Goals,2
  Home_Shot_Attempts,54
- Away_Shot_Attempts,44
+ Away_Shot_Attempts,38
  Home_Shots_Blocked,16
  Away_Shots_Blocked,7
  Home_Shots_Missed,10
- Away_Shots_Missed,16
+ Away_Shots_Missed,14
 }
 {
  GameId,401272446
  Home_Goals,3
  Away_Goals,2
  Home_Shot_Attempts,36
- Away_Shot_Attempts,67
+ Away_Shot_Attempts,57
  Home_Shots_Blocked,8
- Away_Shots_Blocked,18
+ Away_Shots_Blocked,16
  Home_Shots_Missed,10
- Away_Shots_Missed,23
+ Away_Shots_Missed,18
 }
 {
  GameId,401272447
@@ -3369,11 +3369,11 @@
  Home_Goals,0
  Away_Goals,2
  Home_Shot_Attempts,53
- Away_Shot_Attempts,59
+ Away_Shot_Attempts,53
  Home_Shots_Blocked,13
- Away_Shots_Blocked,14
+ Away_Shots_Blocked,13
  Home_Shots_Missed,14
- Away_Shots_Missed,24
+ Away_Shots_Missed,21
 }
 {
  GameId,401272451
@@ -3556,7 +3556,7 @@
  Home_Goals,3
  Away_Goals,6
  Home_Shot_Attempts,50
- Away_Shot_Attempts,38
+ Away_Shot_Attempts,37
  Home_Shots_Blocked,9
  Away_Shots_Blocked,5
  Home_Shots_Missed,15
@@ -4059,14 +4059,14 @@
 }
 {
  GameId,401272518
- Home_Goals,6
- Away_Goals,2
- Home_Shot_Attempts,64
- Away_Shot_Attempts,55
- Home_Shots_Blocked,10
- Away_Shots_Blocked,17
- Home_Shots_Missed,17
- Away_Shots_Missed,13
+ Home_Goals,0
+ Away_Goals,0
+ Home_Shot_Attempts,0
+ Away_Shot_Attempts,0
+ Home_Shots_Blocked,0
+ Away_Shots_Blocked,0
+ Home_Shots_Missed,0
+ Away_Shots_Missed,0
 }
 {
  GameId,401272520
@@ -4744,11 +4744,11 @@
  Home_Goals,3
  Away_Goals,2
  Home_Shot_Attempts,56
- Away_Shot_Attempts,62
+ Away_Shot_Attempts,60
  Home_Shots_Blocked,16
- Away_Shots_Blocked,20
+ Away_Shots_Blocked,19
  Home_Shots_Missed,8
- Away_Shots_Missed,7
+ Away_Shots_Missed,6
 }
 {
  GameId,401272598
@@ -5424,13 +5424,13 @@
 {
  GameId,401298993
  Home_Goals,6
- Away_Goals,6
+ Away_Goals,1
  Home_Shot_Attempts,50
- Away_Shot_Attempts,61
+ Away_Shot_Attempts,34
  Home_Shots_Blocked,14
  Away_Shots_Blocked,5
  Home_Shots_Missed,11
- Away_Shots_Missed,11
+ Away_Shots_Missed,5
 }
 {
  GameId,401272661
@@ -5481,11 +5481,11 @@
  Home_Goals,2
  Away_Goals,3
  Home_Shot_Attempts,26
- Away_Shot_Attempts,93
+ Away_Shot_Attempts,69
  Home_Shots_Blocked,7
  Away_Shots_Blocked,11
  Home_Shots_Missed,3
- Away_Shots_Missed,27
+ Away_Shots_Missed,17
 }
 {
  GameId,401272665
@@ -5523,13 +5523,13 @@
 {
  GameId,401272670
  Home_Goals,1
- Away_Goals,4
+ Away_Goals,3
  Home_Shot_Attempts,30
- Away_Shot_Attempts,78
+ Away_Shot_Attempts,51
  Home_Shots_Blocked,7
  Away_Shots_Blocked,4
  Home_Shots_Missed,6
- Away_Shots_Missed,27
+ Away_Shots_Missed,16
 }
 {
  GameId,401272668
@@ -8451,11 +8451,11 @@
  Home_Goals,2
  Away_Goals,1
  Home_Shot_Attempts,66
- Away_Shot_Attempts,55
+ Away_Shot_Attempts,48
  Home_Shots_Blocked,15
  Away_Shots_Blocked,8
  Home_Shots_Missed,7
- Away_Shots_Missed,7
+ Away_Shots_Missed,4
 }
 {
  GameId,401326694
