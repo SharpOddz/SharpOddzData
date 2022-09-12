@@ -1,0 +1,6688 @@
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401409235
+	Game_Date,1/2022
+	Team_1,Nevada 
+	Team_2,New Mexico State 
+	Team_1_Score,23
+	Team_2_Score,12
+	Team_1_First_Downs,18
+	Team_2_First_Downs,16
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,78
+	Team_2_Passing_Yards,218
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,4
+	Team_1_Rushing_Yards,179
+	Team_2_Rushing_Yards,85
+	Team_1_Passing_Attempts,45
+	Team_2_Passing_Attempts,25
+	Team_1_Penalties,6
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+1,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426532
+	Game_Date,1/2022
+	Team_1,Austin Peay 
+	Team_2,Western Kentucky 
+	Team_1_Score,27
+	Team_2_Score,38
+	Team_1_First_Downs,19
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,156
+	Team_2_Passing_Yards,280
+	Team_1_Passing_Completions,15
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,163
+	Team_2_Rushing_Yards,108
+	Team_1_Passing_Attempts,48
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,8
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,86
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+2,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405059
+	Game_Date,1/2022
+	Team_1,Nebraska 
+	Team_2,Northwestern 
+	Team_1_Score,28
+	Team_2_Score,31
+	Team_1_First_Downs,23
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,355
+	Team_2_Passing_Yards,314
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,27
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,38
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,110
+	Team_2_Rushing_Yards,214
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,47
+	Team_1_Penalties,1
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,5
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+3,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401413256
+	Game_Date,1/2022
+	Team_1,Idaho State 
+	Team_2,UNLV 
+	Team_1_Score,21
+	Team_2_Score,52
+	Team_1_First_Downs,13
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,4
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,191
+	Team_2_Passing_Yards,405
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,50
+	Team_2_Rushing_Yards,149
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,4
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,27
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+4,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404146
+	Game_Date,1/2022
+	Team_1,UConn 
+	Team_2,Utah State 
+	Team_1_Score,20
+	Team_2_Score,31
+	Team_1_First_Downs,21
+	Team_2_First_Downs,31
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,119
+	Team_2_Passing_Yards,281
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,245
+	Team_2_Rushing_Yards,261
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,4
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,60
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+5,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405058
+	Game_Date,1/2022
+	Team_1,Wyoming 
+	Team_2,Illinois 
+	Team_1_Score,6
+	Team_2_Score,38
+	Team_1_First_Downs,10
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,30
+	Team_2_Passing_Yards,217
+	Team_1_Passing_Completions,5
+	Team_2_Passing_Completions,30
+	Team_1_Passing_Attempts,20
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,182
+	Team_2_Rushing_Yards,258
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,41
+	Team_1_Penalties,4
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,39
+	Team_2_Penalty_Yards,80
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+6,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411090
+	Game_Date,1/2022
+	Team_1,Duquesne 
+	Team_2,Florida State 
+	Team_1_Score,7
+	Team_2_Score,47
+	Team_1_First_Downs,11
+	Team_2_First_Downs,33
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,71
+	Team_2_Passing_Yards,232
+	Team_1_Passing_Completions,7
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,17
+	Team_2_Passing_Attempts,22
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,93
+	Team_2_Rushing_Yards,406
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,4
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,29
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+7,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426530
+	Game_Date,1/2022
+	Team_1,Charlotte 
+	Team_2,Florida Atlantic 
+	Team_1_Score,13
+	Team_2_Score,43
+	Team_1_First_Downs,11
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,217
+	Team_2_Passing_Yards,264
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,62
+	Team_2_Rushing_Yards,218
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,49
+	Team_1_Penalties,10
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,85
+	Team_2_Penalty_Yards,54
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+8,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411091
+	Game_Date,1/2022
+	Team_1,Florida A&M 
+	Team_2,North Carolina 
+	Team_1_Score,24
+	Team_2_Score,56
+	Team_1_First_Downs,20
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,279
+	Team_2_Passing_Yards,294
+	Team_1_Passing_Completions,28
+	Team_2_Passing_Completions,29
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,38
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,56
+	Team_2_Rushing_Yards,314
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,40
+	Team_1_Penalties,8
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,48
+	Team_2_Penalty_Yards,45
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+9,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426531
+	Game_Date,1/2022
+	Team_1,North Texas 
+	Team_2,UTEP 
+	Team_1_Score,31
+	Team_2_Score,13
+	Team_1_First_Downs,24
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,6
+	Team_1_Passing_Yards,236
+	Team_2_Passing_Yards,293
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,48
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,163
+	Team_2_Rushing_Yards,107
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,6
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,50
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+10,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403853
+	Game_Date,1/2022
+	Team_1,Vanderbilt 
+	Team_2,Hawai'i 
+	Team_1_Score,63
+	Team_2_Score,10
+	Team_1_First_Downs,28
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,197
+	Team_2_Passing_Yards,250
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,55
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,404
+	Team_2_Rushing_Yards,108
+	Team_1_Passing_Attempts,44
+	Team_2_Passing_Attempts,26
+	Team_1_Penalties,5
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,72
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+11,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416568
+	Game_Date,1/2022
+	Team_1,St. Francis (PA) 
+	Team_2,Akron 
+	Team_1_Score,23
+	Team_2_Score,30
+	Team_1_First_Downs,18
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,264
+	Team_2_Passing_Yards,286
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,37
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,189
+	Team_2_Rushing_Yards,98
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,10
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,62
+	Team_2_Penalty_Yards,42
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+12,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403864
+	Game_Date,1/2022
+	Team_1,Ball State 
+	Team_2,Tennessee 
+	Team_1_Score,10
+	Team_2_Score,59
+	Team_1_First_Downs,17
+	Team_2_First_Downs,32
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,269
+	Team_2_Passing_Yards,351
+	Team_1_Passing_Completions,27
+	Team_2_Passing_Completions,27
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,74
+	Team_2_Rushing_Yards,218
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,51
+	Team_1_Penalties,12
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,83
+	Team_2_Penalty_Yards,48
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+13,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411092
+	Game_Date,1/2022
+	Team_1,West Virginia 
+	Team_2,Pittsburgh 
+	Team_1_Score,31
+	Team_2_Score,38
+	Team_1_First_Downs,22
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,214
+	Team_2_Passing_Yards,308
+	Team_1_Passing_Completions,23
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,24
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,190
+	Team_2_Rushing_Yards,76
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,11
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,72
+	Team_2_Penalty_Yards,76
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+14,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415610
+	Game_Date,1/2022
+	Team_1,South Carolina State 
+	Team_2,UCF 
+	Team_1_Score,10
+	Team_2_Score,56
+	Team_1_First_Downs,9
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,56
+	Team_2_Passing_Yards,308
+	Team_1_Passing_Completions,7
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,32
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,35
+	Team_2_Rushing_Yards,297
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,49
+	Team_1_Penalties,7
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,85
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+15,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416569
+	Game_Date,1/2022
+	Team_1,Central Michigan 
+	Team_2,Oklahoma State 
+	Team_1_Score,44
+	Team_2_Score,58
+	Team_1_First_Downs,31
+	Team_2_First_Downs,28
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,424
+	Team_2_Passing_Yards,406
+	Team_1_Passing_Completions,36
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,49
+	Team_2_Passing_Attempts,41
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,122
+	Team_2_Rushing_Yards,125
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,68
+	Team_2_Penalty_Yards,45
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+16,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426533
+	Game_Date,1/2022
+	Team_1,Bryant 
+	Team_2,Florida International 
+	Team_1_Score,37
+	Team_2_Score,38
+	Team_1_First_Downs,28
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,10
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,4
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,6
+	Team_1_Passing_Yards,349
+	Team_2_Passing_Yards,310
+	Team_1_Passing_Completions,29
+	Team_2_Passing_Completions,30
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,52
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,121
+	Team_2_Rushing_Yards,67
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,26
+	Team_1_Penalties,15
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,130
+	Team_2_Penalty_Yards,70
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+17,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401441990
+	Game_Date,1/2022
+	Team_1,Long Island University 
+	Team_2,Toledo 
+	Team_1_Score,0
+	Team_2_Score,37
+	Team_1_First_Downs,7
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,68
+	Team_2_Passing_Yards,211
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,29
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,45
+	Team_2_Rushing_Yards,226
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,46
+	Team_1_Penalties,10
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,54
+	Team_2_Penalty_Yards,79
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+18,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411093
+	Game_Date,1/2022
+	Team_1,VMI 
+	Team_2,Wake Forest 
+	Team_1_Score,10
+	Team_2_Score,44
+	Team_1_First_Downs,13
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,139
+	Team_2_Passing_Yards,294
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,24
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,33
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,83
+	Team_2_Rushing_Yards,212
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,41
+	Team_1_Penalties,4
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,24
+	Team_2_Penalty_Yards,69
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+19,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405064
+	Game_Date,1/2022
+	Team_1,Penn State 
+	Team_2,Purdue 
+	Team_1_Score,35
+	Team_2_Score,31
+	Team_1_First_Downs,24
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,308
+	Team_2_Passing_Yards,365
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,30
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,60
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,98
+	Team_2_Rushing_Yards,61
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,22
+	Team_1_Penalties,5
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,56
+	Team_2_Penalty_Yards,92
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+20,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416592
+	Game_Date,1/2022
+	Team_1,Eastern Illinois 
+	Team_2,Northern Illinois 
+	Team_1_Score,27
+	Team_2_Score,34
+	Team_1_First_Downs,25
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,276
+	Team_2_Passing_Yards,192
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,22
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,165
+	Team_2_Rushing_Yards,187
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,8
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,73
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+21,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426534
+	Game_Date,1/2022
+	Team_1,Alabama A&M 
+	Team_2,UAB 
+	Team_1_Score,0
+	Team_2_Score,59
+	Team_1_First_Downs,15
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,9
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,6
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,137
+	Team_2_Passing_Yards,247
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,27
+	Team_1_Interceptions,3
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,98
+	Team_2_Rushing_Yards,231
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,36
+	Team_1_Penalties,4
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,45
+	Team_2_Penalty_Yards,75
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+22,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426537
+	Game_Date,1/2022
+	Team_1,Louisiana Tech 
+	Team_2,Missouri 
+	Team_1_Score,24
+	Team_2_Score,52
+	Team_1_First_Downs,19
+	Team_2_First_Downs,28
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,336
+	Team_2_Passing_Yards,235
+	Team_1_Passing_Completions,27
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,46
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,3
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,11
+	Team_2_Rushing_Yards,323
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,50
+	Team_1_Penalties,9
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,100
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+23,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405060
+	Game_Date,1/2022
+	Team_1,New Mexico State 
+	Team_2,Minnesota 
+	Team_1_Score,0
+	Team_2_Score,38
+	Team_1_First_Downs,6
+	Team_2_First_Downs,31
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,11
+	Team_1_Third_Down_Attempts,9
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,53
+	Team_2_Passing_Yards,188
+	Team_1_Passing_Completions,4
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,12
+	Team_2_Passing_Attempts,23
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,38
+	Team_2_Rushing_Yards,297
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,57
+	Team_1_Penalties,5
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+24,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403965
+	Game_Date,1/2022
+	Team_1,Northern Arizona 
+	Team_2,Arizona State 
+	Team_1_Score,3
+	Team_2_Score,40
+	Team_1_First_Downs,7
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,97
+	Team_2_Passing_Yards,152
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,18
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,23
+	Team_2_Rushing_Yards,267
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,49
+	Team_1_Penalties,5
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,52
+	Team_2_Penalty_Yards,45
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+25,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401413224
+	Game_Date,1/2022
+	Team_1,Cal Poly 
+	Team_2,Fresno State 
+	Team_1_Score,7
+	Team_2_Score,35
+	Team_1_First_Downs,17
+	Team_2_First_Downs,33
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,211
+	Team_2_Passing_Yards,377
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,36
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,43
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,106
+	Team_2_Rushing_Yards,172
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,8
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,36
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+26,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415213
+	Game_Date,1/2022
+	Team_1,Portland State 
+	Team_2,San José State 
+	Team_1_Score,17
+	Team_2_Score,21
+	Team_1_First_Downs,24
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,270
+	Team_2_Passing_Yards,239
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,125
+	Team_2_Rushing_Yards,49
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,29
+	Team_1_Penalties,7
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+27,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416590
+	Game_Date,1/2022
+	Team_1,Eastern Kentucky 
+	Team_2,Eastern Michigan 
+	Team_1_Score,34
+	Team_2_Score,42
+	Team_1_First_Downs,29
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,12
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,351
+	Team_2_Passing_Yards,271
+	Team_1_Passing_Completions,35
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,51
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,141
+	Team_2_Rushing_Yards,124
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,12
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,108
+	Team_2_Penalty_Yards,59
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+28,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416591
+	Game_Date,1/2022
+	Team_1,Western Michigan 
+	Team_2,Michigan State 
+	Team_1_Score,13
+	Team_2_Score,35
+	Team_1_First_Downs,19
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,193
+	Team_2_Passing_Yards,233
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,12
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,24
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,141
+	Team_2_Rushing_Yards,197
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,8
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,76
+	Team_2_Penalty_Yards,30
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,1
+}
+29,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426330
+	Game_Date,1/2022
+	Team_1,Virginia Tech 
+	Team_2,Old Dominion 
+	Team_1_Score,17
+	Team_2_Score,20
+	Team_1_First_Downs,19
+	Team_2_First_Downs,13
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,197
+	Team_2_Passing_Yards,165
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,4
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,136
+	Team_2_Rushing_Yards,84
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,15
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,106
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+30,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426535
+	Game_Date,1/2022
+	Team_1,William & Mary 
+	Team_2,Charlotte 
+	Team_1_Score,41
+	Team_2_Score,24
+	Team_1_First_Downs,25
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,256
+	Team_2_Passing_Yards,248
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,19
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,303
+	Team_2_Rushing_Yards,131
+	Team_1_Passing_Attempts,47
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,7
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,80
+	Team_2_Penalty_Yards,83
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+31,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411094
+	Game_Date,1/2022
+	Team_1,Temple 
+	Team_2,Duke 
+	Team_1_Score,0
+	Team_2_Score,30
+	Team_1_First_Downs,12
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,1
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,9
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,114
+	Team_2_Passing_Yards,328
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,24
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,65
+	Team_2_Rushing_Yards,172
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,35
+	Team_1_Penalties,4
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,50
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+32,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404052
+	Game_Date,1/2022
+	Team_1,Tennessee Tech 
+	Team_2,Kansas 
+	Team_1_Score,10
+	Team_2_Score,56
+	Team_1_First_Downs,14
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,97
+	Team_2_Passing_Yards,205
+	Team_1_Passing_Completions,15
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,19
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,93
+	Team_2_Rushing_Yards,297
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,4
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,19
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+33,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405061
+	Game_Date,1/2022
+	Team_1,Illinois 
+	Team_2,Indiana 
+	Team_1_Score,20
+	Team_2_Score,23
+	Team_1_First_Downs,29
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,10
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,19
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,232
+	Team_2_Passing_Yards,330
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,52
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,216
+	Team_2_Rushing_Yards,32
+	Team_1_Passing_Attempts,54
+	Team_2_Passing_Attempts,26
+	Team_1_Penalties,8
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,81
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,3
+	Team_2_Fumbles_Lost,1
+}
+34,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403966
+	Game_Date,1/2022
+	Team_1,TCU 
+	Team_2,Colorado 
+	Team_1_Score,38
+	Team_2_Score,13
+	Team_1_First_Downs,17
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,138
+	Team_2_Passing_Yards,235
+	Team_1_Passing_Completions,15
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,41
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,275
+	Team_2_Rushing_Yards,113
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,29
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,30
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+35,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403865
+	Game_Date,1/2022
+	Team_1,Sam Houston 
+	Team_2,Texas A&M 
+	Team_1_Score,0
+	Team_2_Score,31
+	Team_1_First_Downs,10
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,91
+	Team_2_Passing_Yards,387
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,107
+	Team_2_Rushing_Yards,110
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,7
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+36,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404147
+	Game_Date,1/2022
+	Team_1,Central Connecticut 
+	Team_2,UConn 
+	Team_1_Score,3
+	Team_2_Score,28
+	Team_1_First_Downs,14
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,14
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,19
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,164
+	Team_2_Passing_Yards,172
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,23
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,78
+	Team_2_Rushing_Yards,274
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,5
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,30
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+37,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405062
+	Game_Date,1/2022
+	Team_1,South Dakota State 
+	Team_2,Iowa 
+	Team_1_Score,3
+	Team_2_Score,7
+	Team_1_First_Downs,6
+	Team_2_First_Downs,10
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,87
+	Team_2_Passing_Yards,109
+	Team_1_Passing_Completions,10
+	Team_2_Passing_Completions,11
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,33
+	Team_2_Rushing_Yards,57
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,36
+	Team_1_Penalties,12
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,66
+	Team_2_Penalty_Yards,15
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+38,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405066
+	Game_Date,1/2022
+	Team_1,Buffalo 
+	Team_2,Maryland 
+	Team_1_Score,10
+	Team_2_Score,31
+	Team_1_First_Downs,18
+	Team_2_First_Downs,16
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,160
+	Team_2_Passing_Yards,297
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,108
+	Team_2_Rushing_Yards,149
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,26
+	Team_1_Penalties,3
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,30
+	Team_2_Penalty_Yards,82
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+39,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405067
+	Game_Date,1/2022
+	Team_1,Colorado State 
+	Team_2,Michigan 
+	Team_1_Score,7
+	Team_2_Score,51
+	Team_1_First_Downs,14
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,137
+	Team_2_Passing_Yards,206
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,20
+	Team_2_Passing_Attempts,28
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,82
+	Team_2_Rushing_Yards,234
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,40
+	Team_1_Penalties,0
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,0
+	Team_2_Penalty_Yards,10
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+40,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405069
+	Game_Date,1/2022
+	Team_1,Rutgers 
+	Team_2,Boston College 
+	Team_1_Score,22
+	Team_2_Score,21
+	Team_1_First_Downs,17
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,110
+	Team_2_Passing_Yards,283
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,41
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,212
+	Team_2_Rushing_Yards,29
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,28
+	Team_1_Penalties,10
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,76
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+41,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411095
+	Game_Date,1/2022
+	Team_1,North Carolina 
+	Team_2,Appalachian State 
+	Team_1_Score,63
+	Team_2_Score,61
+	Team_1_First_Downs,29
+	Team_2_First_Downs,36
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,352
+	Team_2_Passing_Yards,361
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,36
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,215
+	Team_2_Rushing_Yards,288
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,43
+	Team_1_Penalties,12
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,130
+	Team_2_Penalty_Yards,80
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+42,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411096
+	Game_Date,1/2022
+	Team_1,NC State 
+	Team_2,East Carolina 
+	Team_1_Score,21
+	Team_2_Score,20
+	Team_1_First_Downs,18
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,211
+	Team_2_Passing_Yards,267
+	Team_1_Passing_Completions,17
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,41
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,133
+	Team_2_Rushing_Yards,116
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,27
+	Team_1_Penalties,8
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,73
+	Team_2_Penalty_Yards,20
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+43,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415611
+	Game_Date,1/2022
+	Team_1,Delaware 
+	Team_2,Navy 
+	Team_1_Score,14
+	Team_2_Score,7
+	Team_1_First_Downs,13
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,189
+	Team_2_Passing_Yards,135
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,5
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,13
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,13
+	Team_2_Rushing_Yards,184
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,63
+	Team_1_Penalties,7
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,60
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,3
+}
+44,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411100
+	Game_Date,1/2022
+	Team_1,Richmond 
+	Team_2,Virginia 
+	Team_1_Score,17
+	Team_2_Score,34
+	Team_1_First_Downs,20
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,160
+	Team_2_Passing_Yards,246
+	Team_1_Passing_Completions,23
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,33
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,170
+	Team_2_Rushing_Yards,259
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,4
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,55
+	Team_2_Penalty_Yards,50
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+45,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415209
+	Game_Date,1/2022
+	Team_1,Northern Iowa 
+	Team_2,Air Force 
+	Team_1_Score,17
+	Team_2_Score,48
+	Team_1_First_Downs,21
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,8
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,286
+	Team_2_Passing_Yards,109
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,3
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,6
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,119
+	Team_2_Rushing_Yards,582
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,62
+	Team_1_Penalties,2
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,15
+	Team_2_Penalty_Yards,21
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+46,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404057
+	Game_Date,1/2022
+	Team_1,Southeast Missouri State 
+	Team_2,Iowa State 
+	Team_1_Score,10
+	Team_2_Score,42
+	Team_1_First_Downs,15
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,222
+	Team_2_Passing_Yards,293
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,98
+	Team_2_Rushing_Yards,176
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,36
+	Team_1_Penalties,9
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,100
+	Team_2_Penalty_Yards,20
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+47,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403971
+	Game_Date,1/2022
+	Team_1,Bowling Green 
+	Team_2,UCLA 
+	Team_1_Score,17
+	Team_2_Score,45
+	Team_1_First_Downs,9
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,10
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,19
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,125
+	Team_2_Passing_Yards,357
+	Team_1_Passing_Completions,17
+	Team_2_Passing_Completions,35
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,47
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,37
+	Team_2_Rushing_Yards,269
+	Team_1_Passing_Attempts,25
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,5
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,45
+	Team_2_Penalty_Yards,60
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+48,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403855
+	Game_Date,1/2022
+	Team_1,Cincinnati 
+	Team_2,Arkansas 
+	Team_1_Score,24
+	Team_2_Score,31
+	Team_1_First_Downs,24
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,325
+	Team_2_Passing_Yards,223
+	Team_1_Passing_Completions,26
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,113
+	Team_2_Rushing_Yards,224
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,10
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,63
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+49,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403858
+	Game_Date,1/2022
+	Team_1,Oregon 
+	Team_2,Georgia 
+	Team_1_Score,3
+	Team_2_Score,49
+	Team_1_First_Downs,21
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,173
+	Team_2_Passing_Yards,439
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,30
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,37
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,140
+	Team_2_Rushing_Yards,132
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,25
+	Team_1_Penalties,5
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,75
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+50,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403967
+	Game_Date,1/2022
+	Team_1,Arizona 
+	Team_2,San Diego State 
+	Team_1_Score,38
+	Team_2_Score,20
+	Team_1_First_Downs,25
+	Team_2_First_Downs,14
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,299
+	Team_2_Passing_Yards,62
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,7
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,16
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,162
+	Team_2_Rushing_Yards,170
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,4
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,37
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+51,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405063
+	Game_Date,1/2022
+	Team_1,North Dakota 
+	Team_2,Nebraska 
+	Team_1_Score,17
+	Team_2_Score,38
+	Team_1_First_Downs,18
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,131
+	Team_2_Passing_Yards,193
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,21
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,175
+	Team_2_Rushing_Yards,244
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,41
+	Team_1_Penalties,6
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,45
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+52,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411097
+	Game_Date,1/2022
+	Team_1,Bethune-Cookman 
+	Team_2,Miami 
+	Team_1_Score,13
+	Team_2_Score,70
+	Team_1_First_Downs,13
+	Team_2_First_Downs,31
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,7
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,249
+	Team_2_Passing_Yards,281
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,23
+	Team_1_Interceptions,3
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,93
+	Team_2_Rushing_Yards,305
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,13
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,95
+	Team_2_Penalty_Yards,48
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+53,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415015
+	Game_Date,1/2022
+	Team_1,Norfolk State 
+	Team_2,Marshall 
+	Team_1_Score,3
+	Team_2_Score,55
+	Team_1_First_Downs,5
+	Team_2_First_Downs,33
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,84
+	Team_2_Passing_Yards,232
+	Team_1_Passing_Completions,6
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,14
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,30
+	Team_2_Rushing_Yards,380
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,51
+	Team_1_Penalties,3
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,14
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+54,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415211
+	Game_Date,1/2022
+	Team_1,Tulsa 
+	Team_2,Wyoming 
+	Team_1_Score,37
+	Team_2_Score,40
+	Team_1_First_Downs,25
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,19
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,460
+	Team_2_Passing_Yards,256
+	Team_1_Passing_Completions,30
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,52
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,61
+	Team_2_Rushing_Yards,143
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,7
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,56
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,1
+}
+55,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426541
+	Game_Date,1/2022
+	Team_1,UTEP 
+	Team_2,Oklahoma 
+	Team_1_Score,13
+	Team_2_Score,45
+	Team_1_First_Downs,26
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,288
+	Team_2_Passing_Yards,233
+	Team_1_Passing_Completions,31
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,51
+	Team_2_Passing_Attempts,23
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,28
+	Team_2_Rushing_Yards,259
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,6
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,50
+	Team_2_Penalty_Yards,59
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+56,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426542
+	Game_Date,1/2022
+	Team_1,Houston 
+	Team_2,UTSA 
+	Team_1_Score,37
+	Team_2_Score,35
+	Team_1_First_Downs,20
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,13
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,21
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,206
+	Team_2_Passing_Yards,337
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,45
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,140
+	Team_2_Rushing_Yards,104
+	Team_1_Passing_Attempts,44
+	Team_2_Passing_Attempts,28
+	Team_1_Penalties,11
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,75
+	Team_2_Penalty_Yards,54
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+57,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403860
+	Game_Date,1/2022
+	Team_1,Troy 
+	Team_2,Ole Miss 
+	Team_1_Score,10
+	Team_2_Score,28
+	Team_1_First_Downs,20
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,286
+	Team_2_Passing_Yards,167
+	Team_1_Passing_Completions,35
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,48
+	Team_2_Passing_Attempts,29
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,60
+	Team_2_Rushing_Yards,266
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,44
+	Team_1_Penalties,6
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,37
+	Team_2_Penalty_Yards,16
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+58,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403968
+	Game_Date,1/2022
+	Team_1,UC Davis 
+	Team_2,California 
+	Team_1_Score,13
+	Team_2_Score,34
+	Team_1_First_Downs,19
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,242
+	Team_2_Passing_Yards,268
+	Team_1_Passing_Completions,32
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,50
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,145
+	Team_2_Rushing_Yards,147
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,3
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,31
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+59,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415612
+	Game_Date,1/2022
+	Team_1,BYU 
+	Team_2,South Florida 
+	Team_1_Score,50
+	Team_2_Score,21
+	Team_1_First_Downs,27
+	Team_2_First_Downs,12
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,5
+	Team_1_Passing_Yards,261
+	Team_2_Passing_Yards,172
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,312
+	Team_2_Rushing_Yards,107
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,27
+	Team_1_Penalties,4
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+60,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401421116
+	Game_Date,1/2022
+	Team_1,Nicholls 
+	Team_2,South Alabama 
+	Team_1_Score,7
+	Team_2_Score,48
+	Team_1_First_Downs,10
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,106
+	Team_2_Passing_Yards,332
+	Team_1_Passing_Completions,15
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,59
+	Team_2_Rushing_Yards,176
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,39
+	Team_1_Penalties,2
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,9
+	Team_2_Penalty_Yards,80
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+61,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415212
+	Game_Date,1/2022
+	Team_1,Texas State 
+	Team_2,Nevada 
+	Team_1_Score,14
+	Team_2_Score,38
+	Team_1_First_Downs,15
+	Team_2_First_Downs,13
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,20
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,289
+	Team_2_Passing_Yards,144
+	Team_1_Passing_Completions,33
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,51
+	Team_2_Passing_Attempts,20
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,-12
+	Team_2_Rushing_Yards,134
+	Team_1_Passing_Attempts,25
+	Team_2_Passing_Attempts,43
+	Team_1_Penalties,10
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,97
+	Team_2_Penalty_Yards,52
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+62,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401420777
+	Game_Date,1/2022
+	Team_1,Morgan State 
+	Team_2,Georgia Southern 
+	Team_1_Score,7
+	Team_2_Score,59
+	Team_1_First_Downs,12
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,11
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,78
+	Team_2_Passing_Yards,367
+	Team_1_Passing_Completions,10
+	Team_2_Passing_Completions,29
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,46
+	Team_1_Interceptions,3
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,172
+	Team_2_Rushing_Yards,137
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,7
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,34
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+63,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426536
+	Game_Date,1/2022
+	Team_1,Florida Atlantic 
+	Team_2,Ohio 
+	Team_1_Score,38
+	Team_2_Score,41
+	Team_1_First_Downs,25
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,364
+	Team_2_Passing_Yards,345
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,27
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,100
+	Team_2_Rushing_Yards,131
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,39
+	Team_1_Penalties,8
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,90
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+64,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426538
+	Game_Date,1/2022
+	Team_1,Middle Tennessee 
+	Team_2,James Madison 
+	Team_1_Score,7
+	Team_2_Score,44
+	Team_1_First_Downs,10
+	Team_2_First_Downs,31
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,107
+	Team_2_Passing_Yards,287
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,33
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,12
+	Team_2_Rushing_Yards,261
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,52
+	Team_1_Penalties,5
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,43
+	Team_2_Penalty_Yards,70
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+65,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426540
+	Game_Date,1/2022
+	Team_1,Rice 
+	Team_2,USC 
+	Team_1_Score,14
+	Team_2_Score,66
+	Team_1_First_Downs,14
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,7
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,134
+	Team_2_Passing_Yards,330
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,4
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,146
+	Team_2_Rushing_Yards,208
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,28
+	Team_1_Penalties,4
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,55
+	Team_2_Penalty_Yards,60
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+66,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403856
+	Game_Date,1/2022
+	Team_1,Mercer 
+	Team_2,Auburn 
+	Team_1_Score,16
+	Team_2_Score,42
+	Team_1_First_Downs,15
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,197
+	Team_2_Passing_Yards,212
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,21
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,74
+	Team_2_Rushing_Yards,285
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,41
+	Team_1_Penalties,10
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,20
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+67,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403857
+	Game_Date,1/2022
+	Team_1,Utah 
+	Team_2,Florida 
+	Team_1_Score,26
+	Team_2_Score,29
+	Team_1_First_Downs,25
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,216
+	Team_2_Passing_Yards,168
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,24
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,230
+	Team_2_Rushing_Yards,283
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,39
+	Team_1_Penalties,3
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,15
+	Team_2_Penalty_Yards,38
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+68,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403859
+	Game_Date,1/2022
+	Team_1,Miami (OH) 
+	Team_2,Kentucky 
+	Team_1_Score,13
+	Team_2_Score,37
+	Team_1_First_Downs,17
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,179
+	Team_2_Passing_Yards,303
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,32
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,111
+	Team_2_Rushing_Yards,50
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,26
+	Team_1_Penalties,7
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,45
+	Team_2_Penalty_Yards,30
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+69,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403866
+	Game_Date,1/2022
+	Team_1,Elon 
+	Team_2,Vanderbilt 
+	Team_1_Score,31
+	Team_2_Score,42
+	Team_1_First_Downs,23
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,343
+	Team_2_Passing_Yards,245
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,29
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,152
+	Team_2_Rushing_Yards,179
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,6
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,54
+	Team_2_Penalty_Yards,54
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+70,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404056
+	Game_Date,1/2022
+	Team_1,South Dakota 
+	Team_2,Kansas State 
+	Team_1_Score,0
+	Team_2_Score,34
+	Team_1_First_Downs,13
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,139
+	Team_2_Passing_Yards,95
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,19
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,131
+	Team_2_Rushing_Yards,297
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,9
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,75
+	Team_2_Penalty_Yards,34
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+71,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404134
+	Game_Date,1/2022
+	Team_1,Army 
+	Team_2,Coastal Carolina 
+	Team_1_Score,28
+	Team_2_Score,38
+	Team_1_First_Downs,11
+	Team_2_First_Downs,30
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,142
+	Team_2_Passing_Yards,174
+	Team_1_Passing_Completions,4
+	Team_2_Passing_Completions,12
+	Team_1_Passing_Attempts,8
+	Team_2_Passing_Attempts,17
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,202
+	Team_2_Rushing_Yards,263
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,53
+	Team_1_Penalties,6
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,47
+	Team_2_Penalty_Yards,21
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+72,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404157
+	Game_Date,1/2022
+	Team_1,Liberty 
+	Team_2,Southern Miss 
+	Team_1_Score,29
+	Team_2_Score,27
+	Team_1_First_Downs,23
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,20
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,203
+	Team_2_Passing_Yards,137
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,5
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,13
+	Team_1_Interceptions,3
+	Team_2_Interceptions,3
+	Team_1_Rushing_Yards,244
+	Team_2_Rushing_Yards,252
+	Team_1_Passing_Attempts,48
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,12
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,107
+	Team_2_Penalty_Yards,77
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+73,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405065
+	Game_Date,1/2022
+	Team_1,Illinois State 
+	Team_2,Wisconsin 
+	Team_1_Score,0
+	Team_2_Score,38
+	Team_1_First_Downs,14
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,9
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,186
+	Team_2_Passing_Yards,219
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,16
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,57
+	Team_2_Rushing_Yards,221
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,4
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,25
+	Team_2_Penalty_Yards,51
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+74,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401414778
+	Game_Date,1/2022
+	Team_1,UMass 
+	Team_2,Tulane 
+	Team_1_Score,10
+	Team_2_Score,42
+	Team_1_First_Downs,14
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,17
+	Team_2_Passing_Yards,173
+	Team_1_Passing_Completions,4
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,11
+	Team_2_Passing_Attempts,22
+	Team_1_Interceptions,3
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,200
+	Team_2_Rushing_Yards,196
+	Team_1_Passing_Attempts,58
+	Team_2_Passing_Attempts,39
+	Team_1_Penalties,7
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,77
+	Team_2_Penalty_Yards,50
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+75,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401421121
+	Game_Date,1/2022
+	Team_1,SE Louisiana 
+	Team_2,Louisiana 
+	Team_1_Score,7
+	Team_2_Score,24
+	Team_1_First_Downs,12
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,149
+	Team_2_Passing_Yards,241
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,111
+	Team_2_Rushing_Yards,133
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,8
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+76,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401424416
+	Game_Date,1/2022
+	Team_1,Albany 
+	Team_2,Baylor 
+	Team_1_Score,10
+	Team_2_Score,69
+	Team_1_First_Downs,10
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,150
+	Team_2_Passing_Yards,314
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,27
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,87
+	Team_2_Rushing_Yards,259
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,41
+	Team_1_Penalties,10
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,72
+	Team_2_Penalty_Yards,75
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+77,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401425418
+	Game_Date,1/2022
+	Team_1,Grambling 
+	Team_2,Arkansas State 
+	Team_1_Score,3
+	Team_2_Score,58
+	Team_1_First_Downs,9
+	Team_2_First_Downs,34
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,5
+	Team_1_Passing_Yards,52
+	Team_2_Passing_Yards,233
+	Team_1_Passing_Completions,4
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,18
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,50
+	Team_2_Rushing_Yards,339
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,15
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,132
+	Team_2_Penalty_Yards,80
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+78,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403854
+	Game_Date,1/2022
+	Team_1,Utah State 
+	Team_2,Alabama 
+	Team_1_Score,0
+	Team_2_Score,55
+	Team_1_First_Downs,7
+	Team_2_First_Downs,30
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,57
+	Team_2_Passing_Yards,281
+	Team_1_Passing_Completions,8
+	Team_2_Passing_Completions,27
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,79
+	Team_2_Rushing_Yards,278
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,11
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,110
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+79,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403861
+	Game_Date,1/2022
+	Team_1,Memphis 
+	Team_2,Mississippi State 
+	Team_1_Score,23
+	Team_2_Score,49
+	Team_1_First_Downs,13
+	Team_2_First_Downs,34
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,11
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,165
+	Team_2_Passing_Yards,450
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,38
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,49
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,129
+	Team_2_Rushing_Yards,97
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,8
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,44
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+80,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403863
+	Game_Date,1/2022
+	Team_1,Georgia State 
+	Team_2,South Carolina 
+	Team_1_Score,14
+	Team_2_Score,35
+	Team_1_First_Downs,14
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,111
+	Team_2_Passing_Yards,227
+	Team_1_Passing_Completions,7
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,37
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,200
+	Team_2_Rushing_Yards,79
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,8
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,75
+	Team_2_Penalty_Yards,70
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+81,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404124
+	Game_Date,1/2022
+	Team_1,Notre Dame 
+	Team_2,Ohio State 
+	Team_1_Score,10
+	Team_2_Score,21
+	Team_1_First_Downs,12
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,177
+	Team_2_Passing_Yards,223
+	Team_1_Passing_Completions,10
+	Team_2_Passing_Completions,24
+	Team_1_Passing_Attempts,18
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,76
+	Team_2_Rushing_Yards,172
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,35
+	Team_1_Penalties,5
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,61
+	Team_2_Penalty_Yards,75
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+82,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426539
+	Game_Date,1/2022
+	Team_1,SMU 
+	Team_2,North Texas 
+	Team_1_Score,48
+	Team_2_Score,10
+	Team_1_First_Downs,23
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,426
+	Team_2_Passing_Yards,220
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,150
+	Team_2_Rushing_Yards,202
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,47
+	Team_1_Penalties,4
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,42
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,1
+}
+83,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403970
+	Game_Date,1/2022
+	Team_1,Colgate 
+	Team_2,Stanford 
+	Team_1_Score,10
+	Team_2_Score,41
+	Team_1_First_Downs,11
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,9
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,59
+	Team_2_Passing_Yards,328
+	Team_1_Passing_Completions,10
+	Team_2_Passing_Completions,24
+	Team_1_Passing_Attempts,20
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,159
+	Team_2_Rushing_Yards,169
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,28
+	Team_1_Penalties,6
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,20
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,3
+}
+84,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404055
+	Game_Date,1/2022
+	Team_1,Murray State 
+	Team_2,Texas Tech 
+	Team_1_Score,10
+	Team_2_Score,63
+	Team_1_First_Downs,10
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,208
+	Team_2_Passing_Yards,472
+	Team_1_Passing_Completions,9
+	Team_2_Passing_Completions,27
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,36
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,50
+	Team_2_Rushing_Yards,133
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,29
+	Team_1_Penalties,6
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,55
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+85,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404059
+	Game_Date,1/2022
+	Team_1,UL Monroe 
+	Team_2,Texas 
+	Team_1_Score,10
+	Team_2_Score,52
+	Team_1_First_Downs,12
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,167
+	Team_2_Passing_Yards,249
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,29
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,92
+	Team_2_Rushing_Yards,134
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,29
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,63
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+86,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411099
+	Game_Date,1/2022
+	Team_1,Louisville 
+	Team_2,Syracuse 
+	Team_1_Score,7
+	Team_2_Score,31
+	Team_1_First_Downs,15
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,197
+	Team_2_Passing_Yards,241
+	Team_1_Passing_Completions,17
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,137
+	Team_2_Rushing_Yards,208
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,40
+	Team_1_Penalties,7
+	Team_2_Penalties,18
+	Team_1_Penalty_Yards,50
+	Team_2_Penalty_Yards,107
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+87,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415210
+	Game_Date,1/2022
+	Team_1,Maine 
+	Team_2,New Mexico 
+	Team_1_Score,0
+	Team_2_Score,41
+	Team_1_First_Downs,7
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,96
+	Team_2_Passing_Yards,170
+	Team_1_Passing_Completions,12
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,17
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,22
+	Team_2_Rushing_Yards,267
+	Team_1_Passing_Attempts,20
+	Team_2_Passing_Attempts,56
+	Team_1_Penalties,9
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,75
+	Team_2_Penalty_Yards,90
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+88,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403974
+	Game_Date,1/2022
+	Team_1,Idaho 
+	Team_2,Washington State 
+	Team_1_Score,17
+	Team_2_Score,24
+	Team_1_First_Downs,13
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,7
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,212
+	Team_2_Passing_Yards,228
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,41
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,61
+	Team_2_Rushing_Yards,138
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,25
+	Team_1_Penalties,7
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,50
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,3
+}
+89,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403969
+	Game_Date,1/2022
+	Team_1,Boise State 
+	Team_2,Oregon State 
+	Team_1_Score,17
+	Team_2_Score,34
+	Team_1_First_Downs,17
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,185
+	Team_2_Passing_Yards,292
+	Team_1_Passing_Completions,23
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,24
+	Team_1_Interceptions,3
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,126
+	Team_2_Rushing_Yards,178
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,5
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,100
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,1
+}
+90,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403973
+	Game_Date,1/2022
+	Team_1,Kent State 
+	Team_2,Washington 
+	Team_1_Score,20
+	Team_2_Score,45
+	Team_1_First_Downs,19
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,10
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,193
+	Team_2_Passing_Yards,393
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,29
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,44
+	Team_1_Interceptions,3
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,147
+	Team_2_Rushing_Yards,132
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,52
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+91,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426543
+	Game_Date,1/2022
+	Team_1,Western Kentucky 
+	Team_2,Hawai'i 
+	Team_1_Score,49
+	Team_2_Score,17
+	Team_1_First_Downs,24
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,7
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,271
+	Team_2_Passing_Yards,266
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,44
+	Team_1_Interceptions,1
+	Team_2_Interceptions,5
+	Team_1_Rushing_Yards,141
+	Team_2_Rushing_Yards,94
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,35
+	Team_1_Penalties,7
+	Team_2_Penalties,12
+	Team_1_Penalty_Yards,72
+	Team_2_Penalty_Yards,109
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+92,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403867
+	Game_Date,1/2022
+	Team_1,Florida State 
+	Team_2,LSU 
+	Team_1_Score,24
+	Team_2_Score,23
+	Team_1_First_Downs,22
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,11
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,260
+	Team_2_Passing_Yards,209
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,26
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,36
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,132
+	Team_2_Rushing_Yards,139
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,7
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,80
+	Team_2_Penalty_Yards,45
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+93,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411101
+	Game_Date,1/2022
+	Team_1,Clemson 
+	Team_2,Georgia Tech 
+	Team_1_Score,41
+	Team_2_Score,10
+	Team_1_First_Downs,22
+	Team_2_First_Downs,13
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,259
+	Team_2_Passing_Yards,164
+	Team_1_Passing_Completions,23
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,36
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,119
+	Team_2_Rushing_Yards,73
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,3
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,10
+	Team_2_Penalty_Yards,86
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+94,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415613
+	Game_Date,2/2022
+	Team_1,Louisville 
+	Team_2,UCF 
+	Team_1_Score,20
+	Team_2_Score,14
+	Team_1_First_Downs,19
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,201
+	Team_2_Passing_Yards,131
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,226
+	Team_2_Rushing_Yards,208
+	Team_1_Passing_Attempts,45
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,12
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,98
+	Team_2_Penalty_Yards,111
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+95,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415214
+	Game_Date,2/2022
+	Team_1,Boise State 
+	Team_2,New Mexico 
+	Team_1_Score,31
+	Team_2_Score,14
+	Team_1_First_Downs,15
+	Team_2_First_Downs,8
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,1
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,170
+	Team_2_Passing_Yards,98
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,9
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,28
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,148
+	Team_2_Rushing_Yards,25
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,27
+	Team_1_Penalties,6
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,78
+	Team_2_Penalty_Yards,39
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+96,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401413257
+	Game_Date,2/2022
+	Team_1,Idaho State 
+	Team_2,San Diego State 
+	Team_1_Score,7
+	Team_2_Score,38
+	Team_1_First_Downs,14
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,19
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,258
+	Team_2_Passing_Yards,108
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,80
+	Team_2_Rushing_Yards,380
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,43
+	Team_1_Penalties,7
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,50
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+97,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403868
+	Game_Date,2/2022
+	Team_1,Alabama 
+	Team_2,Texas 
+	Team_1_Score,20
+	Team_2_Score,19
+	Team_1_First_Downs,16
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,213
+	Team_2_Passing_Yards,292
+	Team_1_Passing_Completions,27
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,161
+	Team_2_Rushing_Yards,79
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,15
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,100
+	Team_2_Penalty_Yards,30
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+98,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403869
+	Game_Date,2/2022
+	Team_1,South Carolina 
+	Team_2,Arkansas 
+	Team_1_Score,30
+	Team_2_Score,44
+	Team_1_First_Downs,22
+	Team_2_First_Downs,28
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,376
+	Team_2_Passing_Yards,162
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,21
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,40
+	Team_2_Rushing_Yards,295
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,65
+	Team_1_Penalties,5
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,41
+	Team_2_Penalty_Yards,122
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+99,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403876
+	Game_Date,2/2022
+	Team_1,Missouri 
+	Team_2,Kansas State 
+	Team_1_Score,12
+	Team_2_Score,40
+	Team_1_First_Downs,14
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,128
+	Team_2_Passing_Yards,101
+	Team_1_Passing_Completions,15
+	Team_2_Passing_Completions,9
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,20
+	Team_1_Interceptions,4
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,94
+	Team_2_Rushing_Yards,235
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,43
+	Team_1_Penalties,8
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,46
+	Team_2_Penalty_Yards,68
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+100,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403879
+	Game_Date,2/2022
+	Team_1,Wake Forest 
+	Team_2,Vanderbilt 
+	Team_1_Score,45
+	Team_2_Score,25
+	Team_1_First_Downs,21
+	Team_2_First_Downs,11
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,300
+	Team_2_Passing_Yards,181
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,151
+	Team_2_Rushing_Yards,113
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,5
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,31
+	Team_2_Penalty_Yards,23
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+101,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405071
+	Game_Date,2/2022
+	Team_1,Western Illinois 
+	Team_2,Minnesota 
+	Team_1_Score,10
+	Team_2_Score,62
+	Team_1_First_Downs,8
+	Team_2_First_Downs,34
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,159
+	Team_2_Passing_Yards,372
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,35
+	Team_2_Rushing_Yards,307
+	Team_1_Passing_Attempts,19
+	Team_2_Passing_Attempts,52
+	Team_1_Penalties,9
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,63
+	Team_2_Penalty_Yards,28
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+102,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405073
+	Game_Date,2/2022
+	Team_1,Duke 
+	Team_2,Northwestern 
+	Team_1_Score,31
+	Team_2_Score,23
+	Team_1_First_Downs,21
+	Team_2_First_Downs,29
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,4
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,6
+	Team_1_Passing_Yards,240
+	Team_2_Passing_Yards,435
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,36
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,60
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,221
+	Team_2_Rushing_Yards,76
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,7
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,85
+	Team_2_Penalty_Yards,51
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+103,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405079
+	Game_Date,2/2022
+	Team_1,Arkansas State 
+	Team_2,Ohio State 
+	Team_1_Score,12
+	Team_2_Score,45
+	Team_1_First_Downs,15
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,20
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,223
+	Team_2_Passing_Yards,370
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,28
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,53
+	Team_2_Rushing_Yards,168
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,26
+	Team_1_Penalties,6
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,63
+	Team_2_Penalty_Yards,85
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+104,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405080
+	Game_Date,2/2022
+	Team_1,Ohio 
+	Team_2,Penn State 
+	Team_1_Score,10
+	Team_2_Score,46
+	Team_1_First_Downs,16
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,164
+	Team_2_Passing_Yards,338
+	Team_1_Passing_Completions,17
+	Team_2_Passing_Completions,31
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,42
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,100
+	Team_2_Rushing_Yards,234
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,3
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,35
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+105,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411103
+	Game_Date,2/2022
+	Team_1,North Carolina 
+	Team_2,Georgia State 
+	Team_1_Score,35
+	Team_2_Score,28
+	Team_1_First_Downs,23
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,284
+	Team_2_Passing_Yards,186
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,24
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,183
+	Team_2_Rushing_Yards,235
+	Team_1_Passing_Attempts,44
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,4
+	Team_2_Penalties,12
+	Team_1_Penalty_Yards,50
+	Team_2_Penalty_Yards,87
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+106,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411105
+	Game_Date,2/2022
+	Team_1,Southern Miss 
+	Team_2,Miami 
+	Team_1_Score,7
+	Team_2_Score,30
+	Team_1_First_Downs,12
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,207
+	Team_2_Passing_Yards,278
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,32
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,33
+	Team_2_Rushing_Yards,174
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,49
+	Team_1_Penalties,7
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,51
+	Team_2_Penalty_Yards,70
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+107,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426553
+	Game_Date,2/2022
+	Team_1,UTSA 
+	Team_2,Army 
+	Team_1_Score,41
+	Team_2_Score,38
+	Team_1_First_Downs,30
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,11
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,359
+	Team_2_Passing_Yards,304
+	Team_1_Passing_Completions,32
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,45
+	Team_2_Passing_Attempts,18
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,153
+	Team_2_Rushing_Yards,179
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,10
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,68
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+108,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411106
+	Game_Date,2/2022
+	Team_1,Charleston Southern 
+	Team_2,NC State 
+	Team_1_Score,3
+	Team_2_Score,55
+	Team_1_First_Downs,9
+	Team_2_First_Downs,32
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,114
+	Team_2_Passing_Yards,321
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,47
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,36
+	Team_2_Rushing_Yards,217
+	Team_1_Passing_Attempts,15
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,6
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,55
+	Team_2_Penalty_Yards,59
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+109,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416597
+	Game_Date,2/2022
+	Team_1,South Alabama 
+	Team_2,Central Michigan 
+	Team_1_Score,38
+	Team_2_Score,24
+	Team_1_First_Downs,28
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,354
+	Team_2_Passing_Yards,267
+	Team_1_Passing_Completions,26
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,46
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,148
+	Team_2_Rushing_Yards,81
+	Team_1_Passing_Attempts,46
+	Team_2_Passing_Attempts,27
+	Team_1_Penalties,8
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,95
+	Team_2_Penalty_Yards,80
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+110,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403982
+	Game_Date,2/2022
+	Team_1,Southern Utah 
+	Team_2,Utah 
+	Team_1_Score,7
+	Team_2_Score,73
+	Team_1_First_Downs,4
+	Team_2_First_Downs,31
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,42
+	Team_2_Passing_Yards,352
+	Team_1_Passing_Completions,11
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,29
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,43
+	Team_2_Rushing_Yards,247
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,9
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,102
+	Team_2_Penalty_Yards,70
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+111,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415614
+	Game_Date,2/2022
+	Team_1,Lafayette 
+	Team_2,Temple 
+	Team_1_Score,14
+	Team_2_Score,30
+	Team_1_First_Downs,7
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,83
+	Team_2_Passing_Yards,215
+	Team_1_Passing_Completions,12
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,17
+	Team_2_Passing_Attempts,27
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,27
+	Team_2_Rushing_Yards,146
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,40
+	Team_1_Penalties,7
+	Team_2_Penalties,2
+	Team_1_Penalty_Yards,43
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,3
+}
+112,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416594
+	Game_Date,2/2022
+	Team_1,Western Michigan 
+	Team_2,Ball State 
+	Team_1_Score,37
+	Team_2_Score,30
+	Team_1_First_Downs,27
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,4
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,6
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,230
+	Team_2_Passing_Yards,291
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,207
+	Team_2_Rushing_Yards,156
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,31
+	Team_1_Penalties,7
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,72
+	Team_2_Penalty_Yards,58
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+113,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404125
+	Game_Date,2/2022
+	Team_1,Marshall 
+	Team_2,Notre Dame 
+	Team_1_Score,26
+	Team_2_Score,21
+	Team_1_First_Downs,21
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,145
+	Team_2_Passing_Yards,221
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,38
+	Team_1_Interceptions,0
+	Team_2_Interceptions,3
+	Team_1_Rushing_Yards,219
+	Team_2_Rushing_Yards,130
+	Team_1_Passing_Attempts,50
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,6
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,44
+	Team_2_Penalty_Yards,30
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+114,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403877
+	Game_Date,2/2022
+	Team_1,Tennessee 
+	Team_2,Pittsburgh 
+	Team_1_Score,34
+	Team_2_Score,27
+	Team_1_First_Downs,20
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,5
+	Team_1_Passing_Yards,325
+	Team_2_Passing_Yards,274
+	Team_1_Passing_Completions,27
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,44
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,91
+	Team_2_Rushing_Yards,141
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,39
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,28
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,1
+}
+115,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403878
+	Game_Date,2/2022
+	Team_1,Appalachian State 
+	Team_2,Texas A&M 
+	Team_1_Score,17
+	Team_2_Score,14
+	Team_1_First_Downs,22
+	Team_2_First_Downs,9
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,20
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,134
+	Team_2_Passing_Yards,97
+	Team_1_Passing_Completions,15
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,20
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,181
+	Team_2_Rushing_Yards,89
+	Team_1_Passing_Attempts,52
+	Team_2_Passing_Attempts,18
+	Team_1_Penalties,5
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,55
+	Team_2_Penalty_Yards,60
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+116,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403977
+	Game_Date,2/2022
+	Team_1,Colorado 
+	Team_2,Air Force 
+	Team_1_Score,10
+	Team_2_Score,41
+	Team_1_First_Downs,8
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,51
+	Team_2_Passing_Yards,8
+	Team_1_Passing_Completions,5
+	Team_2_Passing_Completions,1
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,5
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,111
+	Team_2_Rushing_Yards,435
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,70
+	Team_1_Penalties,4
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,3
+}
+117,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403984
+	Game_Date,2/2022
+	Team_1,Washington State 
+	Team_2,Wisconsin 
+	Team_1_Score,17
+	Team_2_Score,14
+	Team_1_First_Downs,10
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,200
+	Team_2_Passing_Yards,227
+	Team_1_Passing_Completions,17
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,53
+	Team_2_Rushing_Yards,174
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,44
+	Team_1_Penalties,5
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,50
+	Team_2_Penalty_Yards,106
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+118,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411102
+	Game_Date,2/2022
+	Team_1,Furman 
+	Team_2,Clemson 
+	Team_1_Score,12
+	Team_2_Score,35
+	Team_1_First_Downs,19
+	Team_2_First_Downs,22
+	Team_1_Third_Down_Succ,10
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,256
+	Team_2_Passing_Yards,229
+	Team_1_Passing_Completions,30
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,128
+	Team_2_Rushing_Yards,147
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,28
+	Team_1_Penalties,7
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,64
+	Team_2_Penalty_Yards,45
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+119,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415617
+	Game_Date,2/2022
+	Team_1,Memphis 
+	Team_2,Navy 
+	Team_1_Score,37
+	Team_2_Score,13
+	Team_1_First_Downs,18
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,5
+	Team_1_Passing_Yards,415
+	Team_2_Passing_Yards,99
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,3
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,11
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,91
+	Team_2_Rushing_Yards,215
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,58
+	Team_1_Penalties,8
+	Team_2_Penalties,1
+	Team_1_Penalty_Yards,59
+	Team_2_Penalty_Yards,10
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+120,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415619
+	Game_Date,2/2022
+	Team_1,Kennesaw State 
+	Team_2,Cincinnati 
+	Team_1_Score,10
+	Team_2_Score,63
+	Team_1_First_Downs,15
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,8
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,20
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,111
+	Team_2_Passing_Yards,293
+	Team_1_Passing_Completions,7
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,15
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,142
+	Team_2_Rushing_Yards,232
+	Team_1_Passing_Attempts,61
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,0
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,0
+	Team_2_Penalty_Yards,90
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+121,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426545
+	Game_Date,2/2022
+	Team_1,Maryland 
+	Team_2,Charlotte 
+	Team_1_Score,56
+	Team_2_Score,21
+	Team_1_First_Downs,26
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,9
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,4
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,7
+	Team_1_Passing_Yards,424
+	Team_2_Passing_Yards,292
+	Team_1_Passing_Completions,30
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,52
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,193
+	Team_2_Rushing_Yards,96
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,28
+	Team_1_Penalties,8
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,48
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+122,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403872
+	Game_Date,2/2022
+	Team_1,Samford 
+	Team_2,Georgia 
+	Team_1_Score,0
+	Team_2_Score,33
+	Team_1_First_Downs,3
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,109
+	Team_2_Passing_Yards,352
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,29
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,43
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,19
+	Team_2_Rushing_Yards,127
+	Team_1_Passing_Attempts,17
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,5
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,36
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+123,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403976
+	Game_Date,2/2022
+	Team_1,UNLV 
+	Team_2,California 
+	Team_1_Score,14
+	Team_2_Score,20
+	Team_1_First_Downs,17
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,206
+	Team_2_Passing_Yards,278
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,39
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,103
+	Team_2_Rushing_Yards,92
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,32
+	Team_1_Penalties,8
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,105
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+124,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403983
+	Game_Date,2/2022
+	Team_1,Portland State 
+	Team_2,Washington 
+	Team_1_Score,6
+	Team_2_Score,52
+	Team_1_First_Downs,12
+	Team_2_First_Downs,32
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,50
+	Team_2_Passing_Yards,376
+	Team_1_Passing_Completions,7
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,20
+	Team_2_Passing_Attempts,33
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,81
+	Team_2_Rushing_Yards,241
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,40
+	Team_1_Penalties,6
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,26
+	Team_2_Penalty_Yards,90
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+125,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404063
+	Game_Date,2/2022
+	Team_1,Houston 
+	Team_2,Texas Tech 
+	Team_1_Score,30
+	Team_2_Score,33
+	Team_1_First_Downs,15
+	Team_2_First_Downs,35
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,266
+	Team_2_Passing_Yards,351
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,36
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,59
+	Team_1_Interceptions,1
+	Team_2_Interceptions,3
+	Team_1_Rushing_Yards,88
+	Team_2_Rushing_Yards,117
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,44
+	Team_1_Penalties,11
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,121
+	Team_2_Penalty_Yards,44
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+126,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404064
+	Game_Date,2/2022
+	Team_1,Iowa State 
+	Team_2,Iowa 
+	Team_1_Score,10
+	Team_2_Score,7
+	Team_1_First_Downs,21
+	Team_2_First_Downs,11
+	Team_1_Third_Down_Succ,10
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,20
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,184
+	Team_2_Passing_Yards,92
+	Team_1_Passing_Completions,25
+	Team_2_Passing_Completions,12
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,27
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,129
+	Team_2_Rushing_Yards,58
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,25
+	Team_1_Penalties,5
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,45
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+127,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405070
+	Game_Date,2/2022
+	Team_1,Virginia 
+	Team_2,Illinois 
+	Team_1_Score,3
+	Team_2_Score,24
+	Team_1_First_Downs,11
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,0
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,180
+	Team_2_Passing_Yards,196
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,42
+	Team_2_Rushing_Yards,198
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,5
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,71
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,3
+}
+128,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405074
+	Game_Date,2/2022
+	Team_1,Indiana State 
+	Team_2,Purdue 
+	Team_1_Score,0
+	Team_2_Score,56
+	Team_1_First_Downs,7
+	Team_2_First_Downs,28
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,94
+	Team_2_Passing_Yards,289
+	Team_1_Passing_Completions,9
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,20
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,51
+	Team_2_Rushing_Yards,232
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,4
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,38
+	Team_2_Penalty_Yards,13
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+129,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405078
+	Game_Date,2/2022
+	Team_1,Akron 
+	Team_2,Michigan State 
+	Team_1_Score,0
+	Team_2_Score,52
+	Team_1_First_Downs,14
+	Team_2_First_Downs,32
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,203
+	Team_2_Passing_Yards,236
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,33
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,26
+	Team_2_Rushing_Yards,260
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,48
+	Team_1_Penalties,10
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,99
+	Team_2_Penalty_Yards,21
+	Team_1_Fumbles_Lost,4
+	Team_2_Fumbles_Lost,0
+}
+130,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405081
+	Game_Date,2/2022
+	Team_1,Wagner 
+	Team_2,Rutgers 
+	Team_1_Score,7
+	Team_2_Score,66
+	Team_1_First_Downs,9
+	Team_2_First_Downs,33
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,126
+	Team_2_Passing_Yards,257
+	Team_1_Passing_Completions,12
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,19
+	Team_2_Rushing_Yards,328
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,54
+	Team_1_Penalties,8
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,47
+	Team_2_Penalty_Yards,64
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+131,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415177
+	Game_Date,2/2022
+	Team_1,Northern Colorado 
+	Team_2,Wyoming 
+	Team_1_Score,10
+	Team_2_Score,33
+	Team_1_First_Downs,9
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,132
+	Team_2_Passing_Yards,144
+	Team_1_Passing_Completions,16
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,15
+	Team_2_Rushing_Yards,149
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,47
+	Team_1_Penalties,7
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,52
+	Team_2_Penalty_Yards,57
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+132,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416595
+	Game_Date,2/2022
+	Team_1,Eastern Kentucky 
+	Team_2,Bowling Green 
+	Team_1_Score,59
+	Team_2_Score,57
+	Team_1_First_Downs,28
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,11
+	Team_2_Third_Down_Succ,10
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,20
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,324
+	Team_2_Passing_Yards,283
+	Team_1_Passing_Completions,33
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,47
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,118
+	Team_2_Rushing_Yards,148
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,9
+	Team_2_Penalties,12
+	Team_1_Penalty_Yards,74
+	Team_2_Penalty_Yards,98
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+133,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401420788
+	Game_Date,2/2022
+	Team_1,Norfolk State 
+	Team_2,James Madison 
+	Team_1_Score,7
+	Team_2_Score,63
+	Team_1_First_Downs,10
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,10
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,203
+	Team_2_Passing_Yards,227
+	Team_1_Passing_Completions,9
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,9
+	Team_2_Rushing_Yards,235
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,44
+	Team_1_Penalties,6
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,41
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+134,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426548
+	Game_Date,2/2022
+	Team_1,Middle Tennessee 
+	Team_2,Colorado State 
+	Team_1_Score,34
+	Team_2_Score,19
+	Team_1_First_Downs,20
+	Team_2_First_Downs,16
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,266
+	Team_2_Passing_Yards,256
+	Team_1_Passing_Completions,31
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,39
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,114
+	Team_2_Rushing_Yards,-10
+	Team_1_Passing_Attempts,41
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,4
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,47
+	Team_2_Penalty_Yards,67
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+135,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403981
+	Game_Date,2/2022
+	Team_1,Alabama State 
+	Team_2,UCLA 
+	Team_1_Score,7
+	Team_2_Score,45
+	Team_1_First_Downs,18
+	Team_2_First_Downs,28
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,9
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,223
+	Team_2_Passing_Yards,265
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,87
+	Team_2_Rushing_Yards,220
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,8
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,71
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+136,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415216
+	Game_Date,2/2022
+	Team_1,Incarnate Word 
+	Team_2,Nevada 
+	Team_1_Score,55
+	Team_2_Score,41
+	Team_1_First_Downs,22
+	Team_2_First_Downs,30
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,18
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,406
+	Team_2_Passing_Yards,302
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,25
+	Team_2_Passing_Attempts,43
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,210
+	Team_2_Rushing_Yards,176
+	Team_1_Passing_Attempts,44
+	Team_2_Passing_Attempts,50
+	Team_1_Penalties,18
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,145
+	Team_2_Penalty_Yards,78
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,2
+}
+137,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404065
+	Game_Date,2/2022
+	Team_1,Kansas 
+	Team_2,West Virginia 
+	Team_1_Score,55
+	Team_2_Score,42
+	Team_1_First_Downs,23
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,11
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,219
+	Team_2_Passing_Yards,355
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,200
+	Team_2_Rushing_Yards,146
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,6
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+138,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415024
+	Game_Date,2/2022
+	Team_1,Old Dominion 
+	Team_2,East Carolina 
+	Team_1_Score,21
+	Team_2_Score,39
+	Team_1_First_Downs,12
+	Team_2_First_Downs,30
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,10
+	Team_1_Third_Down_Attempts,8
+	Team_2_Third_Down_Attempts,19
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,275
+	Team_2_Passing_Yards,270
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,39
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,15
+	Team_2_Rushing_Yards,261
+	Team_1_Passing_Attempts,14
+	Team_2_Passing_Attempts,47
+	Team_1_Penalties,9
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,85
+	Team_2_Penalty_Yards,64
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+139,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416596
+	Game_Date,2/2022
+	Team_1,Holy Cross 
+	Team_2,Buffalo 
+	Team_1_Score,37
+	Team_2_Score,31
+	Team_1_First_Downs,23
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,238
+	Team_2_Passing_Yards,305
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,219
+	Team_2_Rushing_Yards,159
+	Team_1_Passing_Attempts,45
+	Team_2_Passing_Attempts,31
+	Team_1_Penalties,4
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,25
+	Team_2_Penalty_Yards,91
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+140,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416599
+	Game_Date,2/2022
+	Team_1,Robert Morris 
+	Team_2,Miami (OH) 
+	Team_1_Score,14
+	Team_2_Score,31
+	Team_1_First_Downs,9
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,179
+	Team_2_Passing_Yards,192
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,40
+	Team_2_Rushing_Yards,216
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,5
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,30
+	Team_2_Penalty_Yards,33
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+141,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426332
+	Game_Date,2/2022
+	Team_1,Gardner-Webb 
+	Team_2,Coastal Carolina 
+	Team_1_Score,27
+	Team_2_Score,31
+	Team_1_First_Downs,23
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,9
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,448
+	Team_2_Passing_Yards,308
+	Team_1_Passing_Completions,28
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,47
+	Team_2_Rushing_Yards,46
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,10
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,70
+	Team_2_Penalty_Yards,62
+	Team_1_Fumbles_Lost,3
+	Team_2_Fumbles_Lost,1
+}
+142,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426546
+	Game_Date,2/2022
+	Team_1,SE Louisiana 
+	Team_2,Florida Atlantic 
+	Team_1_Score,9
+	Team_2_Score,42
+	Team_1_First_Downs,16
+	Team_2_First_Downs,32
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,12
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,202
+	Team_2_Passing_Yards,265
+	Team_1_Passing_Completions,17
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,44
+	Team_2_Rushing_Yards,366
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,57
+	Team_1_Penalties,10
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,75
+	Team_2_Penalty_Yards,69
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+143,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426551
+	Game_Date,2/2022
+	Team_1,UAB 
+	Team_2,Liberty 
+	Team_1_Score,14
+	Team_2_Score,21
+	Team_1_First_Downs,15
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,114
+	Team_2_Passing_Yards,202
+	Team_1_Passing_Completions,10
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,15
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,241
+	Team_2_Rushing_Yards,188
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,40
+	Team_1_Penalties,5
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,40
+	Team_2_Penalty_Yards,84
+	Team_1_Fumbles_Lost,4
+	Team_2_Fumbles_Lost,1
+}
+144,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403871
+	Game_Date,2/2022
+	Team_1,Kentucky 
+	Team_2,Florida 
+	Team_1_Score,26
+	Team_2_Score,16
+	Team_1_First_Downs,17
+	Team_2_First_Downs,12
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,202
+	Team_2_Passing_Yards,143
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,70
+	Team_2_Rushing_Yards,136
+	Team_1_Passing_Attempts,38
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,2
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,10
+	Team_2_Penalty_Yards,28
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+145,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403874
+	Game_Date,2/2022
+	Team_1,Central Arkansas 
+	Team_2,Ole Miss 
+	Team_1_Score,3
+	Team_2_Score,59
+	Team_1_First_Downs,12
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,131
+	Team_2_Passing_Yards,277
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,18
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,32
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,102
+	Team_2_Rushing_Yards,233
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,8
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,68
+	Team_2_Penalty_Yards,79
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+146,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404066
+	Game_Date,2/2022
+	Team_1,Kent State 
+	Team_2,Oklahoma 
+	Team_1_Score,3
+	Team_2_Score,33
+	Team_1_First_Downs,20
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,131
+	Team_2_Passing_Yards,296
+	Team_1_Passing_Completions,11
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,28
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,164
+	Team_2_Rushing_Yards,134
+	Team_1_Passing_Attempts,52
+	Team_2_Passing_Attempts,36
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,56
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+147,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404148
+	Game_Date,2/2022
+	Team_1,Syracuse 
+	Team_2,UConn 
+	Team_1_Score,48
+	Team_2_Score,14
+	Team_1_First_Downs,29
+	Team_2_First_Downs,10
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,309
+	Team_2_Passing_Yards,105
+	Team_1_Passing_Completions,21
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,19
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,156
+	Team_2_Rushing_Yards,97
+	Team_1_Passing_Attempts,51
+	Team_2_Passing_Attempts,27
+	Team_1_Penalties,3
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,15
+	Team_2_Penalty_Yards,21
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+148,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411104
+	Game_Date,2/2022
+	Team_1,Western Carolina 
+	Team_2,Georgia Tech 
+	Team_1_Score,17
+	Team_2_Score,35
+	Team_1_First_Downs,26
+	Team_2_First_Downs,15
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,271
+	Team_2_Passing_Yards,100
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,8
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,17
+	Team_1_Interceptions,3
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,119
+	Team_2_Rushing_Yards,243
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,34
+	Team_1_Penalties,7
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,50
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+149,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401414779
+	Game_Date,2/2022
+	Team_1,UMass 
+	Team_2,Toledo 
+	Team_1_Score,10
+	Team_2_Score,55
+	Team_1_First_Downs,13
+	Team_2_First_Downs,27
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,21
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,4
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,48
+	Team_2_Passing_Yards,177
+	Team_1_Passing_Completions,7
+	Team_2_Passing_Completions,12
+	Team_1_Passing_Attempts,17
+	Team_2_Passing_Attempts,26
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,205
+	Team_2_Rushing_Yards,234
+	Team_1_Passing_Attempts,54
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,14
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,133
+	Team_2_Penalty_Yards,38
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+150,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415215
+	Game_Date,2/2022
+	Team_1,Weber State 
+	Team_2,Utah State 
+	Team_1_Score,35
+	Team_2_Score,7
+	Team_1_First_Downs,22
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,10
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,19
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,202
+	Team_2_Passing_Yards,157
+	Team_1_Passing_Completions,11
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,3
+	Team_2_Interceptions,4
+	Team_1_Rushing_Yards,199
+	Team_2_Rushing_Yards,126
+	Team_1_Passing_Attempts,55
+	Team_2_Passing_Attempts,35
+	Team_1_Penalties,8
+	Team_2_Penalties,11
+	Team_1_Penalty_Yards,56
+	Team_2_Penalty_Yards,101
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+151,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415615
+	Game_Date,2/2022
+	Team_1,Alcorn State 
+	Team_2,Tulane 
+	Team_1_Score,0
+	Team_2_Score,52
+	Team_1_First_Downs,4
+	Team_2_First_Downs,30
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,49
+	Team_2_Passing_Yards,399
+	Team_1_Passing_Completions,5
+	Team_2_Passing_Completions,25
+	Team_1_Passing_Attempts,14
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,60
+	Team_2_Rushing_Yards,159
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,44
+	Team_1_Penalties,7
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,63
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+152,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415616
+	Game_Date,2/2022
+	Team_1,Lamar 
+	Team_2,SMU 
+	Team_1_Score,16
+	Team_2_Score,45
+	Team_1_First_Downs,16
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,3
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,5
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,148
+	Team_2_Passing_Yards,245
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,33
+	Team_2_Passing_Attempts,36
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,104
+	Team_2_Rushing_Yards,208
+	Team_1_Passing_Attempts,43
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,9
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,76
+	Team_2_Penalty_Yards,64
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,1
+}
+153,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415618
+	Game_Date,2/2022
+	Team_1,Howard 
+	Team_2,South Florida 
+	Team_1_Score,20
+	Team_2_Score,42
+	Team_1_First_Downs,24
+	Team_2_First_Downs,20
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,17
+	Team_2_Third_Down_Attempts,8
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,250
+	Team_2_Passing_Yards,219
+	Team_1_Passing_Completions,28
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,28
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,168
+	Team_2_Rushing_Yards,205
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,27
+	Team_1_Penalties,5
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,43
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+154,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401415620
+	Game_Date,2/2022
+	Team_1,Northern Illinois 
+	Team_2,Tulsa 
+	Team_1_Score,35
+	Team_2_Score,38
+	Team_1_First_Downs,19
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,259
+	Team_2_Passing_Yards,322
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,19
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,32
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,126
+	Team_2_Rushing_Yards,107
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,9
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,84
+	Team_2_Penalty_Yards,56
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+155,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401416598
+	Game_Date,2/2022
+	Team_1,Eastern Michigan 
+	Team_2,Louisiana 
+	Team_1_Score,21
+	Team_2_Score,49
+	Team_1_First_Downs,23
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,323
+	Team_2_Passing_Yards,310
+	Team_1_Passing_Completions,33
+	Team_2_Passing_Completions,22
+	Team_1_Passing_Attempts,52
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,3
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,43
+	Team_2_Rushing_Yards,144
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,35
+	Team_1_Penalties,10
+	Team_2_Penalties,12
+	Team_1_Penalty_Yards,85
+	Team_2_Penalty_Yards,115
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+156,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401423439
+	Game_Date,2/2022
+	Team_1,Alabama A&M 
+	Team_2,Troy 
+	Team_1_Score,17
+	Team_2_Score,38
+	Team_1_First_Downs,21
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,292
+	Team_2_Passing_Yards,464
+	Team_1_Passing_Completions,22
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,47
+	Team_2_Passing_Attempts,45
+	Team_1_Interceptions,2
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,64
+	Team_2_Rushing_Yards,58
+	Team_1_Passing_Attempts,35
+	Team_2_Passing_Attempts,25
+	Team_1_Penalties,9
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,107
+	Team_2_Penalty_Yards,88
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+157,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426544
+	Game_Date,2/2022
+	Team_1,Florida International 
+	Team_2,Texas State 
+	Team_1_Score,12
+	Team_2_Score,41
+	Team_1_First_Downs,18
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,251
+	Team_2_Passing_Yards,226
+	Team_1_Passing_Completions,35
+	Team_2_Passing_Completions,15
+	Team_1_Passing_Attempts,56
+	Team_2_Passing_Attempts,30
+	Team_1_Interceptions,2
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,62
+	Team_2_Rushing_Yards,226
+	Team_1_Passing_Attempts,22
+	Team_2_Passing_Attempts,43
+	Team_1_Penalties,7
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,60
+	Team_2_Penalty_Yards,65
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+158,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426547
+	Game_Date,2/2022
+	Team_1,Stephen F. Austin 
+	Team_2,Louisiana Tech 
+	Team_1_Score,17
+	Team_2_Score,52
+	Team_1_First_Downs,17
+	Team_2_First_Downs,25
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,161
+	Team_2_Passing_Yards,216
+	Team_1_Passing_Completions,11
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,31
+	Team_2_Passing_Attempts,28
+	Team_1_Interceptions,1
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,144
+	Team_2_Rushing_Yards,300
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,42
+	Team_1_Penalties,10
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,91
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+159,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403870
+	Game_Date,2/2022
+	Team_1,San José State 
+	Team_2,Auburn 
+	Team_1_Score,16
+	Team_2_Score,24
+	Team_1_First_Downs,21
+	Team_2_First_Downs,18
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,11
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,275
+	Team_2_Passing_Yards,168
+	Team_1_Passing_Completions,24
+	Team_2_Passing_Completions,14
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,23
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,54
+	Team_2_Rushing_Yards,210
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,38
+	Team_1_Penalties,7
+	Team_2_Penalties,9
+	Team_1_Penalty_Yards,32
+	Team_2_Penalty_Yards,85
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+160,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403873
+	Game_Date,2/2022
+	Team_1,Southern 
+	Team_2,LSU 
+	Team_1_Score,17
+	Team_2_Score,65
+	Team_1_First_Downs,15
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,61
+	Team_2_Passing_Yards,320
+	Team_1_Passing_Completions,9
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,17
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,1
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,201
+	Team_2_Rushing_Yards,230
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,36
+	Team_1_Penalties,2
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,8
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,4
+	Team_2_Fumbles_Lost,0
+}
+161,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403975
+	Game_Date,2/2022
+	Team_1,Arizona State 
+	Team_2,Oklahoma State 
+	Team_1_Score,17
+	Team_2_Score,34
+	Team_1_First_Downs,13
+	Team_2_First_Downs,30
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,15
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,223
+	Team_2_Passing_Yards,268
+	Team_1_Passing_Completions,12
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,38
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,131
+	Team_2_Rushing_Yards,197
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,46
+	Team_1_Penalties,10
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,95
+	Team_2_Penalty_Yards,69
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+162,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403980
+	Game_Date,2/2022
+	Team_1,USC 
+	Team_2,Stanford 
+	Team_1_Score,41
+	Team_2_Score,28
+	Team_1_First_Downs,25
+	Team_2_First_Downs,33
+	Team_1_Third_Down_Succ,3
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,8
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,3
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,5
+	Team_1_Passing_Yards,341
+	Team_2_Passing_Yards,220
+	Team_1_Passing_Completions,20
+	Team_2_Passing_Completions,20
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,35
+	Team_1_Interceptions,0
+	Team_2_Interceptions,2
+	Team_1_Rushing_Yards,164
+	Team_2_Rushing_Yards,221
+	Team_1_Passing_Attempts,36
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,9
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,104
+	Team_2_Penalty_Yards,42
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,2
+}
+163,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405072
+	Game_Date,2/2022
+	Team_1,Georgia Southern 
+	Team_2,Nebraska 
+	Team_1_Score,45
+	Team_2_Score,42
+	Team_1_First_Downs,35
+	Team_2_First_Downs,33
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,9
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,409
+	Team_2_Passing_Yards,318
+	Team_1_Passing_Completions,37
+	Team_2_Passing_Completions,23
+	Team_1_Passing_Attempts,56
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,233
+	Team_2_Rushing_Yards,257
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,47
+	Team_1_Penalties,3
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,15
+	Team_2_Penalty_Yards,77
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+164,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426549
+	Game_Date,2/2022
+	Team_1,Texas Southern 
+	Team_2,North Texas 
+	Team_1_Score,27
+	Team_2_Score,59
+	Team_1_First_Downs,26
+	Team_2_First_Downs,32
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,9
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,239
+	Team_2_Passing_Yards,259
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,29
+	Team_2_Passing_Attempts,24
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,219
+	Team_2_Rushing_Yards,348
+	Team_1_Passing_Attempts,47
+	Team_2_Passing_Attempts,48
+	Team_1_Penalties,10
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,119
+	Team_2_Penalty_Yards,58
+	Team_1_Fumbles_Lost,1
+	Team_2_Fumbles_Lost,0
+}
+165,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426550
+	Game_Date,2/2022
+	Team_1,McNeese 
+	Team_2,Rice 
+	Team_1_Score,10
+	Team_2_Score,52
+	Team_1_First_Downs,14
+	Team_2_First_Downs,26
+	Team_1_Third_Down_Succ,1
+	Team_2_Third_Down_Succ,10
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,16
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,3
+	Team_1_Passing_Yards,91
+	Team_2_Passing_Yards,278
+	Team_1_Passing_Completions,8
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,21
+	Team_2_Passing_Attempts,31
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,172
+	Team_2_Rushing_Yards,209
+	Team_1_Passing_Attempts,30
+	Team_2_Passing_Attempts,43
+	Team_1_Penalties,2
+	Team_2_Penalties,7
+	Team_1_Penalty_Yards,20
+	Team_2_Penalty_Yards,67
+	Team_1_Fumbles_Lost,3
+	Team_2_Fumbles_Lost,0
+}
+166,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404067
+	Game_Date,2/2022
+	Team_1,Tarleton 
+	Team_2,TCU 
+	Team_1_Score,17
+	Team_2_Score,59
+	Team_1_First_Downs,13
+	Team_2_First_Downs,28
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,11
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,0
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,210
+	Team_2_Passing_Yards,450
+	Team_1_Passing_Completions,11
+	Team_2_Passing_Completions,28
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,34
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,85
+	Team_2_Rushing_Yards,180
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,37
+	Team_1_Penalties,4
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,20
+	Team_2_Penalty_Yards,20
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+167,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405075
+	Game_Date,2/2022
+	Team_1,Idaho 
+	Team_2,Indiana 
+	Team_1_Score,22
+	Team_2_Score,35
+	Team_1_First_Downs,14
+	Team_2_First_Downs,21
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,7
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,13
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,204
+	Team_2_Passing_Yards,197
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,29
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,126
+	Team_2_Rushing_Yards,239
+	Team_1_Passing_Attempts,44
+	Team_2_Passing_Attempts,36
+	Team_1_Penalties,7
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,51
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,1
+}
+168,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401405077
+	Game_Date,2/2022
+	Team_1,Hawai'i 
+	Team_2,Michigan 
+	Team_1_Score,10
+	Team_2_Score,56
+	Team_1_First_Downs,13
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,7
+	Team_2_Third_Down_Succ,2
+	Team_1_Third_Down_Attempts,19
+	Team_2_Third_Down_Attempts,6
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,113
+	Team_2_Passing_Yards,320
+	Team_1_Passing_Completions,13
+	Team_2_Passing_Completions,17
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,22
+	Team_1_Interceptions,0
+	Team_2_Interceptions,1
+	Team_1_Rushing_Yards,140
+	Team_2_Rushing_Yards,268
+	Team_1_Passing_Attempts,32
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,1
+	Team_2_Penalties,3
+	Team_1_Penalty_Yards,10
+	Team_2_Penalty_Yards,35
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+169,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401411108
+	Game_Date,2/2022
+	Team_1,Boston College 
+	Team_2,Virginia Tech 
+	Team_1_Score,10
+	Team_2_Score,27
+	Team_1_First_Downs,11
+	Team_2_First_Downs,14
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,5
+	Team_1_Third_Down_Attempts,15
+	Team_2_Third_Down_Attempts,17
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,151
+	Team_2_Passing_Yards,140
+	Team_1_Passing_Completions,19
+	Team_2_Passing_Completions,16
+	Team_1_Passing_Attempts,34
+	Team_2_Passing_Attempts,25
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,4
+	Team_2_Rushing_Yards,144
+	Team_1_Passing_Attempts,26
+	Team_2_Passing_Attempts,45
+	Team_1_Penalties,5
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,29
+	Team_2_Penalty_Yards,25
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+170,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401421117
+	Game_Date,2/2022
+	Team_1,Nicholls 
+	Team_2,UL Monroe 
+	Team_1_Score,7
+	Team_2_Score,35
+	Team_1_First_Downs,14
+	Team_2_First_Downs,23
+	Team_1_Third_Down_Succ,6
+	Team_2_Third_Down_Succ,8
+	Team_1_Third_Down_Attempts,16
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,0
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,231
+	Team_2_Passing_Yards,257
+	Team_1_Passing_Completions,26
+	Team_2_Passing_Completions,21
+	Team_1_Passing_Attempts,42
+	Team_2_Passing_Attempts,27
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,75
+	Team_2_Rushing_Yards,167
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,39
+	Team_1_Penalties,4
+	Team_2_Penalties,4
+	Team_1_Penalty_Yards,44
+	Team_2_Penalty_Yards,40
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+171,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403978
+	Game_Date,2/2022
+	Team_1,Eastern Washington 
+	Team_2,Oregon 
+	Team_1_Score,14
+	Team_2_Score,70
+	Team_1_First_Downs,11
+	Team_2_First_Downs,40
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,10
+	Team_1_Third_Down_Attempts,13
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,2
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,2
+	Team_1_Passing_Yards,87
+	Team_2_Passing_Yards,341
+	Team_1_Passing_Completions,12
+	Team_2_Passing_Completions,34
+	Team_1_Passing_Attempts,23
+	Team_2_Passing_Attempts,41
+	Team_1_Interceptions,2
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,100
+	Team_2_Rushing_Yards,263
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,48
+	Team_1_Penalties,5
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,52
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+172,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401426552
+	Game_Date,2/2022
+	Team_1,New Mexico State 
+	Team_2,UTEP 
+	Team_1_Score,13
+	Team_2_Score,20
+	Team_1_First_Downs,17
+	Team_2_First_Downs,17
+	Team_1_Third_Down_Succ,4
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,14
+	Team_2_Third_Down_Attempts,12
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,111
+	Team_2_Passing_Yards,166
+	Team_1_Passing_Completions,8
+	Team_2_Passing_Completions,13
+	Team_1_Passing_Attempts,25
+	Team_2_Passing_Attempts,27
+	Team_1_Interceptions,1
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,187
+	Team_2_Rushing_Yards,108
+	Team_1_Passing_Attempts,40
+	Team_2_Passing_Attempts,30
+	Team_1_Penalties,7
+	Team_2_Penalties,5
+	Team_1_Penalty_Yards,85
+	Team_2_Penalty_Yards,55
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,2
+}
+173,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401404062
+	Game_Date,2/2022
+	Team_1,Baylor 
+	Team_2,BYU 
+	Team_1_Score,20
+	Team_2_Score,26
+	Team_1_First_Downs,22
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,9
+	Team_2_Third_Down_Succ,3
+	Team_1_Third_Down_Attempts,18
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,2
+	Team_2_Fourth_Down_Attempts,1
+	Team_1_Passing_Yards,137
+	Team_2_Passing_Yards,283
+	Team_1_Passing_Completions,18
+	Team_2_Passing_Completions,24
+	Team_1_Passing_Attempts,28
+	Team_2_Passing_Attempts,40
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,152
+	Team_2_Rushing_Yards,83
+	Team_1_Passing_Attempts,52
+	Team_2_Passing_Attempts,33
+	Team_1_Penalties,14
+	Team_2_Penalties,8
+	Team_1_Penalty_Yards,117
+	Team_2_Penalty_Yards,69
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+174,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403979
+	Game_Date,2/2022
+	Team_1,Oregon State 
+	Team_2,Fresno State 
+	Team_1_Score,35
+	Team_2_Score,32
+	Team_1_First_Downs,23
+	Team_2_First_Downs,24
+	Team_1_Third_Down_Succ,2
+	Team_2_Third_Down_Succ,6
+	Team_1_Third_Down_Attempts,10
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,2
+	Team_2_Fourth_Down_Succ,0
+	Team_1_Fourth_Down_Attempts,3
+	Team_2_Fourth_Down_Attempts,0
+	Team_1_Passing_Yards,219
+	Team_2_Passing_Yards,360
+	Team_1_Passing_Completions,14
+	Team_2_Passing_Completions,29
+	Team_1_Passing_Attempts,27
+	Team_2_Passing_Attempts,46
+	Team_1_Interceptions,0
+	Team_2_Interceptions,0
+	Team_1_Rushing_Yards,178
+	Team_2_Rushing_Yards,132
+	Team_1_Passing_Attempts,37
+	Team_2_Passing_Attempts,29
+	Team_1_Penalties,8
+	Team_2_Penalties,10
+	Team_1_Penalty_Yards,65
+	Team_2_Penalty_Yards,67
+	Team_1_Fumbles_Lost,0
+	Team_2_Fumbles_Lost,0
+}
+175,0
+{
+	BROKEN,false
+	ESPN_GAME_LINK,https://www.espn.com/college-football/matchup?gameId=401403875
+	Game_Date,2/2022
+	Team_1,Mississippi State 
+	Team_2,Arizona 
+	Team_1_Score,39
+	Team_2_Score,17
+	Team_1_First_Downs,27
+	Team_2_First_Downs,19
+	Team_1_Third_Down_Succ,5
+	Team_2_Third_Down_Succ,4
+	Team_1_Third_Down_Attempts,12
+	Team_2_Third_Down_Attempts,14
+	Team_1_Fourth_Down_Succ,1
+	Team_2_Fourth_Down_Succ,1
+	Team_1_Fourth_Down_Attempts,1
+	Team_2_Fourth_Down_Attempts,4
+	Team_1_Passing_Yards,320
+	Team_2_Passing_Yards,276
+	Team_1_Passing_Completions,40
+	Team_2_Passing_Completions,27
+	Team_1_Passing_Attempts,50
+	Team_2_Passing_Attempts,54
+	Team_1_Interceptions,1
+	Team_2_Interceptions,3
+	Team_1_Rushing_Yards,106
+	Team_2_Rushing_Yards,40
+	Team_1_Passing_Attempts,24
+	Team_2_Passing_Attempts,22
+	Team_1_Penalties,7
+	Team_2_Penalties,6
+	Team_1_Penalty_Yards,80
+	Team_2_Penalty_Yards,46
+	Team_1_Fumbles_Lost,2
+	Team_2_Fumbles_Lost,0
+}
+176,0
