@@ -608,14 +608,14 @@
 	Team_2_First_Down_Successes,13
 	Team_1_Sacks,0
 	Team_2_Sacks,7
-	Team_1_Tackles_For_Loss,3
+	Team_1_Tackles_For_Loss,2
 	Team_2_Tackles_For_Loss,11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[30]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[9,0,-3,11,8,3,32,4,7,5,8,-2,-5,6,0,0,11,14,-4,0,0,2]
-	Team_2_Run_List,[4,-1,5,6,5,1,0,4,3,0,7,14,-3,8,5,0,3,4,1,7,8,5,-13,2,4,8,0,8,1,0,4,4,7,4,10]
+	Team_2_Run_List,[4,-1,5,6,5,1,0,4,3,0,7,14,-3,8,5,0,3,4,1,7,8,5,2,4,8,0,8,1,0,4,4,7,4,10]
 	Team_1_Pass_List,[10,3,34,32,26,1,16,30,21,3,16,26,4,5,12]
 	Team_2_Pass_List,[16,14,6,11,10,14,6,6,1,19,11,4,2,48,6,7,5,4,12,5,5]
 }
@@ -1046,12 +1046,12 @@
 	Team_1_Sacks,0
 	Team_2_Sacks,2
 	Team_1_Tackles_For_Loss,2
-	Team_2_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,5
 	Team_1_Field_Goal_Made,[29,14]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[36]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[2,3,3,-2,4,0,-41,0,1,1,14,-1,21,3,2,1,4,9,8,0,5,3,1,1,10]
+	Team_1_Run_List,[2,3,3,-2,4,0,0,1,1,14,-1,21,3,2,1,4,9,8,0,5,3,1,1,10]
 	Team_2_Run_List,[9,9,8,4,13,2,6,4,6,5,9,3,6,11,27,9,5,5,24,8,4,4,7,5,17,2,8,11,-5,8,-2,7,2,13,2,7,4,7,10,15]
 	Team_1_Pass_List,[0,24,20,28,13,7,34,-3,10,15,44,48,9]
 	Team_2_Pass_List,[7,7,15,11,52,5,16,16,10,11,15,11,16,10,7,18,30,10,5,8]
@@ -1591,7 +1591,7 @@
 	Team_2,2415
 	Team_1_Drives,15
 	Team_2_Drives,14
-	Team_1_First_Downs,35
+	Team_1_First_Downs,34
 	Team_2_First_Downs,26
 	Team_1_First_Down_Successes,14
 	Team_2_First_Down_Successes,7
@@ -1666,14 +1666,14 @@
 	Team_2_First_Down_Successes,5
 	Team_1_Sacks,1
 	Team_2_Sacks,0
-	Team_1_Tackles_For_Loss,4
+	Team_1_Tackles_For_Loss,3
 	Team_2_Tackles_For_Loss,2
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[33]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[8,1,1,8,4,3,19,49,3,9,4,2,-1,0,6,10,1,2,8,21,4,-5,7,2,1,6,3,12,24,5,4,6,1,8,39,1,1,1,2,2]
-	Team_2_Run_List,[1,6,5,3,-10,5,1,2,5,-2,4,5,0,10,2,6,2,0,-2,8,0,5,2,6,4,0,3,6,1,2]
+	Team_2_Run_List,[1,6,5,3,5,1,2,5,-2,4,5,0,10,2,6,2,0,-2,8,0,5,2,6,4,0,3,6,1,2]
 	Team_1_Pass_List,[16,2,6,39,2,19,6,10,12,8,56,13,23]
 	Team_2_Pass_List,[7,14,6,9,9,14,6,14,5,8,0,4,1,17,26,15,24,3,6,8]
 }
@@ -1896,14 +1896,14 @@
 	Team_2_First_Down_Successes,12
 	Team_1_Sacks,1
 	Team_2_Sacks,1
-	Team_1_Tackles_For_Loss,7
+	Team_1_Tackles_For_Loss,6
 	Team_2_Tackles_For_Loss,4
 	Team_1_Field_Goal_Made,[39,32]
 	Team_2_Field_Goal_Made,[33]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[31]
 	Team_1_Run_List,[3,2,0,5,3,7,9,5,9,0,4,4,15,11,3,4,9,10,-1,3,7,16,8,9,5,2,-1,6,0,3]
-	Team_2_Run_List,[3,4,3,11,6,2,13,5,4,3,-1,4,-2,15,0,1,-15,1,0,3,0,35,5,9,2,-4,6,1,0,4,15,0,2,1,-2,9,9,10,6,7,7,10,9,4,-1,3]
+	Team_2_Run_List,[3,4,3,11,6,2,13,5,4,3,-1,4,-2,15,0,1,1,0,3,0,35,5,9,2,-4,6,1,0,4,15,0,2,1,-2,9,9,10,6,7,7,10,9,4,-1,3]
 	Team_1_Pass_List,[5,9,8,6,1,27,27,7,13,51,2,23,0,-6,75,4,1,14,5,54,24,30,13,8]
 	Team_2_Pass_List,[5,4,7,8,21,5,8,12,29,53,13,5,6,33,1,1]
 }
@@ -2127,12 +2127,12 @@
 	Team_1_Sacks,1
 	Team_2_Sacks,4
 	Team_1_Tackles_For_Loss,3
-	Team_2_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,6
 	Team_1_Field_Goal_Made,[36]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[30]
 	Team_2_Field_Goal_Missed,[47]
-	Team_1_Run_List,[9,9,2,-14,8,2,11,7,8,2,2,15,0,4,5,3,3,1,1,9,4,5,-1,14,24]
+	Team_1_Run_List,[9,9,2,8,2,11,7,8,2,2,15,0,4,5,3,3,1,1,9,4,5,-1,14,24]
 	Team_2_Run_List,[2,23,3,-3,0,1,7,7,5,3,-2,2,2,4,2,0,4,4,0,7,3,3,7,0,8,7,0,16,1,2,1,1,1,4,4,3]
 	Team_1_Pass_List,[-4,5,16,5,7,8,10,3,14,13,8,9,5,5,7,4,6,22,7,7,13,10,10,17,2]
 	Team_2_Pass_List,[10,21,13,6,3,3,39,9,6,12,6,10,24,3,14,6,27,25,15,8]
@@ -2839,14 +2839,14 @@
 	Team_2_First_Down_Successes,6
 	Team_1_Sacks,2
 	Team_2_Sacks,0
-	Team_1_Tackles_For_Loss,10
+	Team_1_Tackles_For_Loss,9
 	Team_2_Tackles_For_Loss,2
 	Team_1_Field_Goal_Made,[35,37]
 	Team_2_Field_Goal_Made,[44]
 	Team_1_Field_Goal_Missed,[31]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[2,2,3,3,5,5,1,3,4,11,7,2,2,16,3,13,-1,1,1,6,4,6,10,1,4,4,2,7,4,-1,29,2,24,6,5,9,0,2,4,1,1,28]
-	Team_2_Run_List,[4,4,0,-3,7,-3,3,5,1,5,5,-1,6,3,4,-1,8,6,0,5,4,-14,6,9,1,-2,1]
+	Team_2_Run_List,[4,4,0,-3,7,-3,3,5,1,5,5,-1,6,3,4,-1,8,6,0,5,4,6,9,1,-2,1]
 	Team_1_Pass_List,[8,18,28,4,3,4,13,16,7]
 	Team_2_Pass_List,[-4,-4,6,19,3,5,7,4,18,8,8,39,4,9]
 }
@@ -3144,7 +3144,7 @@
 	Team_2_Field_Goal_Made,[49]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[32]
-	Team_1_Run_List,[4,-1,-1,7,2,-2,-2,2,6,-2,5,1,1,4,4,1,1,1,4,0,0,1,9,9,7,2,0,0,0,3]
+	Team_1_Run_List,[4,-1,-1,7,2,-2,-2,2,6,-2,5,1,1,4,4,1,1,4,0,0,1,9,9,7,2,0,0,0,3]
 	Team_2_Run_List,[10,5,4,8,-2,7,10,1,9,3,2,10,3,28,11,6,5,3,11,5,7,7,5,25,7,4,11,0,9,5,2,7,-2,3,17,5,3,5,6,-1,9,3,0,1,20,4,7,5,4,4,-7,3]
 	Team_1_Pass_List,[8,-8,18,-2,7,6,24,6,8,7,11,7]
 	Team_2_Pass_List,[12,40,41,43,3,1,7,7,22,16,12,10,9,7,33,6]
@@ -3161,14 +3161,14 @@
 	Team_2_First_Down_Successes,10
 	Team_1_Sacks,2
 	Team_2_Sacks,7
-	Team_1_Tackles_For_Loss,7
+	Team_1_Tackles_For_Loss,5
 	Team_2_Tackles_For_Loss,7
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[23,41,39,35]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[6,9,4,6,9,4,3,0,1,3,1,5,1,9,2,0,0,3,1,0,5]
-	Team_2_Run_List,[8,5,1,5,-1,3,2,3,4,2,4,2,7,4,1,-2,11,6,2,3,3,5,1,6,11,6,2,3,6,7,-12,-12,4,1,-2,5,3,8,8,0,22,2,1]
+	Team_2_Run_List,[8,5,1,5,-1,3,2,3,4,2,4,2,7,4,1,-2,11,6,2,3,3,5,1,6,11,6,2,3,6,7,4,1,-2,5,3,8,8,0,22,2,1]
 	Team_1_Pass_List,[11,11,17,9,7,1,8,8,1,3,8,16,3,3,3,6,8,29]
 	Team_2_Pass_List,[5,5,5,8,4,4,6,4,10,6,4,2,15,4,12,6,17]
 }
@@ -3254,12 +3254,12 @@
 	Team_1_Sacks,0
 	Team_2_Sacks,2
 	Team_1_Tackles_For_Loss,4
-	Team_2_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,5
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[19]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[2,0,0,0,7,2,5,4,9,2,2,0,3,18,3,0,14,1,2,5,8,-15,6,3,3,-9,12,6,0,6,6,-1]
+	Team_1_Run_List,[2,0,0,0,7,2,5,4,9,2,2,0,3,18,3,0,14,1,2,5,8,6,3,3,-9,12,6,0,6,6,-1]
 	Team_2_Run_List,[3,2,5,10,5,3,2,6,0,2,0,2,19,8,8,4,15,7,13,2,-1,8,7,3,21,8,-3,7,9,5,6,6,2,9,7,6,6]
 	Team_1_Pass_List,[32,5,7,5,7,9,-1,9,17,14,8,13,21,9,15,7,7,1,45]
 	Team_2_Pass_List,[8,14,6,21,25,-2,-1,18,12,12,7,15,15,2,14,12,26,17,12,11,20,20,4,5]
@@ -3322,14 +3322,14 @@
 	Team_2_First_Down_Successes,8
 	Team_1_Sacks,4
 	Team_2_Sacks,5
-	Team_1_Tackles_For_Loss,5
+	Team_1_Tackles_For_Loss,4
 	Team_2_Tackles_For_Loss,9
 	Team_1_Field_Goal_Made,[22,22,32]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[0,0,5,10,-3,3,4,0,2,5,5,5,-1,9,3,17,2,1,2,2,1,8,10,7,7,0,10,13,13,2,1,-1,0,-2,81,15,1,15,0,0,43]
-	Team_2_Run_List,[-18,7,3,0,1,1,10,1,12,22]
+	Team_2_Run_List,[7,3,0,1,1,10,1,12,22]
 	Team_1_Pass_List,[11,9,7,11,11,5,19,11,12,6,18,25,12,27,7,3,6,4,3,3,23,10,5]
 	Team_2_Pass_List,[4,16,10,11,1,31,2,1,13,43,18,0,6,25,5,6,35]
 }
@@ -4334,14 +4334,14 @@
 	Team_2_First_Down_Successes,11
 	Team_1_Sacks,2
 	Team_2_Sacks,0
-	Team_1_Tackles_For_Loss,7
+	Team_1_Tackles_For_Loss,6
 	Team_2_Tackles_For_Loss,4
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[4,8,6,4,3,2,0,0,-1,10,0,2,1,5,5,5,5,0,2,5,2,1,0,0,0,2,0,3,2,1,2,30,-1,-1,-1]
-	Team_2_Run_List,[3,3,-6,0,0,2,4,-1,11,1,1,6,1,-1,2,8,2,-1,6,4,-10,1,21,0,1,8]
+	Team_2_Run_List,[3,3,-6,0,0,2,4,-1,11,1,1,6,1,-1,2,8,2,-1,6,4,1,21,0,1,8]
 	Team_1_Pass_List,[5,47,8,22,2,7,8,12,10,10,27,37,4,19,16,10,17,17,15,53,29,7,12,3]
 	Team_2_Pass_List,[7,6,5,12,0,2,13,2,18,8,7,20,6,2,26,3,13,4,8,3,13,32,7,11,24,11,7,33,11,9]
 }
@@ -5646,12 +5646,12 @@
 	Team_1_Sacks,2
 	Team_2_Sacks,1
 	Team_1_Tackles_For_Loss,4
-	Team_2_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,2
 	Team_1_Field_Goal_Made,[36]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[43]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[0,-16,14,12,3,1,4,8,1,9,3,5,0,7,11,4,2,3,5,28,2,10,5,6,6,13,3,8,1,3,9,9]
+	Team_1_Run_List,[0,14,12,3,1,4,8,1,9,3,5,0,7,11,4,2,3,5,28,2,10,5,6,6,13,3,8,1,3,9,9]
 	Team_2_Run_List,[5,3,5,3,6,15,7,7,2,2,1,4,10,3,5,5,12,1,2,0,2,1,6,10,1,34,19,6,4,2,4,7,11,38,22,7,14,-1,0,0,1,1,2,-2]
 	Team_1_Pass_List,[3,6,24,0,0,22,22,7,0,14,16,30,-3,23,5,22,9,9,1,19,5,22,4,4]
 	Team_2_Pass_List,[17,9,31,7,14,25,1,9,9,2,2]
@@ -6657,14 +6657,14 @@
 	Team_2_First_Down_Successes,23
 	Team_1_Sacks,1
 	Team_2_Sacks,0
-	Team_1_Tackles_For_Loss,3
+	Team_1_Tackles_For_Loss,2
 	Team_2_Tackles_For_Loss,2
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[0,4,10,4,2,2,6,0,2,0,2,3,6,0,7,0,2,-3,9,1,0,3,2,0,10,0,-3,1,1]
-	Team_2_Run_List,[1,3,6,17,6,19,0,29,1,19,3,7,2,13,1,3,4,2,11,-15,8,3,15,12,35]
+	Team_2_Run_List,[1,3,6,17,6,19,0,29,1,19,3,7,2,13,1,3,4,2,11,8,3,15,12,35]
 	Team_1_Pass_List,[2,1,14,3,0,4,17,4,12,5,8,2,9,3,12,5,7,10,6]
 	Team_2_Pass_List,[2,6,9,76,5,28,9,1,27,19,12,10,2,49,9,5,6,3,4,4,11,31,5,8,13,8,15,7,-5,44,3,25,13,9,3]
 }
@@ -7393,14 +7393,14 @@
 	Team_2_First_Down_Successes,10
 	Team_1_Sacks,2
 	Team_2_Sacks,2
-	Team_1_Tackles_For_Loss,6
+	Team_1_Tackles_For_Loss,5
 	Team_2_Tackles_For_Loss,10
 	Team_1_Field_Goal_Made,[40,34,28,29]
 	Team_2_Field_Goal_Made,[41,49,22,52,56]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[-4,0,2,7,0,-2,1,5,9,1,3,11,-1,-5,-1,27,6,-1,3,1,6,22,1,1,12,9,6,4,4,7,-1]
-	Team_2_Run_List,[-3,2,1,3,1,4,0,5,-10,3,63,1,1,2,-4,28,0,15,3]
+	Team_2_Run_List,[-3,2,1,3,1,4,0,5,3,63,1,1,2,-4,28,0,15,3]
 	Team_1_Pass_List,[14,17,8,18,33,10,17,14,7,11,14,8,2,10,12,30,9,16,20,3,13,15,-1,12]
 	Team_2_Pass_List,[4,4,13,27,6,-4,4,8,4,36,10,7,2,8,5,46,0,1,10,1]
 }
@@ -7417,12 +7417,12 @@
 	Team_1_Sacks,2
 	Team_2_Sacks,1
 	Team_1_Tackles_For_Loss,8
-	Team_2_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22,34]
 	Team_1_Field_Goal_Missed,[53]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[3,7,9,2,7,0,6,8,2,4,1,1,7,7,3,6,1,4,5,1,-1,0,12,6,0,2,0,-24,0,77,-2,3,72,-1,76,1,6,1,7,5]
+	Team_1_Run_List,[3,7,9,2,7,0,6,8,2,4,1,1,7,7,3,6,1,4,5,1,-1,0,12,6,0,2,0,0,77,-2,3,72,-1,76,1,6,1,7,5]
 	Team_2_Run_List,[4,11,6,3,2,6,1,13,2,0,0,-4,6,12,5,-2,0,26,3,5,7,3,9,3,-4,13,0,8,0,3,8,9,0,2,-1,3,11,2,0,0,-5,2,5,3,2,9]
 	Team_1_Pass_List,[41,5,47,9,4,53,14,23,17,22,3]
 	Team_2_Pass_List,[8,-4,14,3,5,20,6,36,16,4,17,13,17,11,16,5,3]
@@ -7900,12 +7900,12 @@
 	Team_1_Sacks,1
 	Team_2_Sacks,2
 	Team_1_Tackles_For_Loss,3
-	Team_2_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[1,0,2,5,9,5,-4,2,-27,-1,2,-1,22,6,7,-4,13,3,2,0,7,-2,9,21,3,2,5]
+	Team_1_Run_List,[1,0,2,5,9,5,-4,2,-1,2,-1,22,6,7,-4,13,3,2,0,7,-2,9,21,3,2,5]
 	Team_2_Run_List,[0,1,2,5,2,1,3,1,0,5,1,-1,0,3,1,30,2,6,5,3,11,5,7,4,18,6,2,0,1,7,3,4,6,25,5,9,-4,1,0,5,3,4,2,1,1,2,4]
 	Team_1_Pass_List,[17,6,4,12,7,24,11,17,6,1,3,15,17]
 	Team_2_Pass_List,[9,10,46,8,28,12,24,11,14,1,11,9,27,13,34]
@@ -8215,7 +8215,7 @@
 	Team_2,North Texas
 	Team_1_Drives,14
 	Team_2_Drives,14
-	Team_1_First_Downs,38
+	Team_1_First_Downs,37
 	Team_2_First_Downs,32
 	Team_1_First_Down_Successes,18
 	Team_2_First_Down_Successes,11
@@ -8267,14 +8267,14 @@
 	Team_2_First_Down_Successes,10
 	Team_1_Sacks,1
 	Team_2_Sacks,1
-	Team_1_Tackles_For_Loss,5
+	Team_1_Tackles_For_Loss,4
 	Team_2_Tackles_For_Loss,5
 	Team_1_Field_Goal_Made,[38,43]
 	Team_2_Field_Goal_Made,[51]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[29,41]
 	Team_1_Run_List,[1,0,1,5,3,2,4,-1,3,3,4,3,8,19,2,9,2,1,1,6,0,-1,4,1,8,0,2,4,5,6,-1,1,1,3,21]
-	Team_2_Run_List,[55,4,-2,17,-15,5,9,6,11,6,1,1,1,2,6,4,0,2,8,12,5,4,2,5,3,7,8,2]
+	Team_2_Run_List,[55,4,-2,17,5,9,6,11,6,1,1,1,2,6,4,0,2,8,12,5,4,2,5,3,7,8,2]
 	Team_1_Pass_List,[42,9,13,-6,7,3,9,7,9,20,22,43,9,12,12,6,11,17]
 	Team_2_Pass_List,[2,6,-2,3,13,4,4,14,3,7,9,-2,5,4,1,7,18,7,20,1,1]
 }
@@ -8284,19 +8284,19 @@
 	Team_2,Washington State
 	Team_1_Drives,12
 	Team_2_Drives,13
-	Team_1_First_Downs,27
+	Team_1_First_Downs,26
 	Team_2_First_Downs,31
 	Team_1_First_Down_Successes,11
 	Team_2_First_Down_Successes,13
 	Team_1_Sacks,1
 	Team_2_Sacks,4
 	Team_1_Tackles_For_Loss,4
-	Team_2_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,7
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[7,0,1,5,4,-2,5,13,1,0,-2,3,3,18,11,0,2,1,-10,3]
+	Team_1_Run_List,[7,0,1,5,4,-2,5,13,1,0,-2,3,3,18,11,0,2,1,3]
 	Team_2_Run_List,[-3,6,2,1,2,2,0,0,4,10,5,1,0,3,23,20,10,0,3,5,1]
 	Team_1_Pass_List,[8,13,0,1,3,33,-1,0,3,29,13,9,22,6,6,14,5,30,49,6,11,4,9,7]
 	Team_2_Pass_List,[18,16,1,6,5,3,10,13,19,-3,17,-2,11,47,17,22,5,8,11,15,18,6,32,37,9,1,1]
@@ -8451,14 +8451,14 @@
 	Team_2_First_Down_Successes,11
 	Team_1_Sacks,3
 	Team_2_Sacks,2
-	Team_1_Tackles_For_Loss,6
+	Team_1_Tackles_For_Loss,5
 	Team_2_Tackles_For_Loss,12
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[2,0,23,1,2,3,-1,-1,5,-2,0,-3,2,6,3,5,4,13,-1,9,-4,0,-1,25,6,1,0,1,3,-2,0,5,0,2,-1,-7,10]
-	Team_2_Run_List,[0,-2,17,2,9,20,3,5,4,3,9,8,4,8,-1,2,1,11,2,1,-10,11,4,6,5,7,22]
+	Team_2_Run_List,[0,-2,17,2,9,20,3,5,4,3,9,8,4,8,-1,2,1,11,2,1,11,4,6,5,7,22]
 	Team_1_Pass_List,[9,17,6,9,5,5,5,12,3,6,16,2,20,9,18,21,14,11,9,13,4,13,14]
 	Team_2_Pass_List,[8,18,58,8,5,2,5,2,0,17,2,13]
 }
@@ -8537,9 +8537,9 @@
 	Team_2,Virginia
 	Team_1_Drives,11
 	Team_2_Drives,9
-	Team_1_First_Downs,26
+	Team_1_First_Downs,27
 	Team_2_First_Downs,14
-	Team_1_First_Down_Successes,13
+	Team_1_First_Down_Successes,14
 	Team_2_First_Down_Successes,5
 	Team_1_Sacks,1
 	Team_2_Sacks,0
@@ -8549,9 +8549,9 @@
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Run_List,[7,6,3,9,2,1,17,5,4,2,2,2,5,4,2,1,4,10,2,11,3,8,14,6,1,5,-1,3,5,8,59,8,4]
+	Team_1_Run_List,[7,6,3,9,2,1,17,5,4,3,2,2,5,4,2,1,4,10,2,11,3,8,14,6,1,5,-1,3,5,8,59,8,4]
 	Team_2_Run_List,[8,7,4,4,5,5,-7,1,5,12,15,-1,5]
-	Team_1_Pass_List,[2,4,6,17,8,11,6,3,13,5,13,23,4,-3,6,-2]
+	Team_1_Pass_List,[2,4,6,17,19,8,11,6,3,13,5,13,23,4,-3,6,-2]
 	Team_2_Pass_List,[9,6,1,7,4,11,6,19,12]
 }
 {
@@ -8676,19 +8676,19 @@
 	Team_1_Drives,14
 	Team_2_Drives,13
 	Team_1_First_Downs,38
-	Team_2_First_Downs,33
+	Team_2_First_Downs,32
 	Team_1_First_Down_Successes,20
 	Team_2_First_Down_Successes,17
 	Team_1_Sacks,1
 	Team_2_Sacks,1
-	Team_1_Tackles_For_Loss,5
+	Team_1_Tackles_For_Loss,4
 	Team_2_Tackles_For_Loss,7
 	Team_1_Field_Goal_Made,[32,24]
 	Team_2_Field_Goal_Made,[41]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Run_List,[3,-1,0,1,39,9,3,-1,1,8,4,1,4,7,0,11,6,-2,5,2,0,1,-2,4,3,2,9,1,-1,2]
-	Team_2_Run_List,[3,2,4,2,3,1,4,9,6,7,0,1,5,2,2,1,3,0,4,17,6,1,-5,1,5,6,16,7,-3,5,6,3,2,5,30,7,3,-11,2]
+	Team_2_Run_List,[3,2,4,2,3,1,4,9,6,7,0,1,5,2,2,1,3,0,4,17,6,1,-5,1,5,6,16,7,-3,5,6,3,2,5,30,7,3,2]
 	Team_1_Pass_List,[9,1,11,8,7,8,14,8,15,13,20,25,8,13,9,8,-1,5,7,18,6,5,13,16,9,4,7,17,7,29,8]
 	Team_2_Pass_List,[15,5,-5,4,4,5,29,0,25,0,8,51,11,19,8,26,33,5,58,5,10,8]
 }
@@ -9979,4 +9979,1223 @@
 	Team_2_Run_List,[18,3,2,2,2,1,0,-1,12,2,2,1,4,0,5,2,0,3,4,2,8,4,11,3,3]
 	Team_1_Pass_List,[11,18,17,12,11,18,-1,6,8,16,3,3,5,2,21,4,20,9,11,56]
 	Team_2_Pass_List,[31,10,9,4,5,6,4,3,22,3,21,16,31,28,37,8,4,13,8]
+}
+{
+	Game_ID,401426347
+	Team_1,Louisiana
+	Team_2,Marshall
+	Team_1_Drives,12
+	Team_2_Drives,11
+	Team_1_First_Downs,28
+	Team_2_First_Downs,29
+	Team_1_First_Down_Successes,8
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,5
+	Team_2_Sacks,2
+	Team_1_Tackles_For_Loss,9
+	Team_2_Tackles_For_Loss,7
+	Team_1_Field_Goal_Made,[42,33,52]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[45]
+	Team_1_Run_List,[0,4,-1,7,3,2,2,1,4,2,6,4,2,10,1,6,7,5,6,15,5,-1,1,4,4,-4,2,0,11,-1]
+	Team_2_Run_List,[2,4,-1,5,-1,5,9,6,2,2,5,12,2,7,3,5,2,3,1,6,6,3,9,0,3,9,12,-3,2,8,4,5,2,1,4,10,5,1]
+	Team_1_Pass_List,[12,19,20,18,2,-4,8,0,19,3,34,6,43,12,0,32,6]
+	Team_2_Pass_List,[9,2,5,12,42,5,0,-3,21,9,9,6,6,10,8]
+}
+{
+	Game_ID,401404092
+	Team_1,Baylor
+	Team_2,West Virginia
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,36
+	Team_2_First_Downs,35
+	Team_1_First_Down_Successes,17
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
+	Team_1_Field_Goal_Made,[40,44]
+	Team_2_Field_Goal_Made,[23,22]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[2,3,5,2,4,10,2,0,18,3,1,5,5,12,5,2,2,22,1,-1,5,-1,8,4,20,3,8,2,-4]
+	Team_2_Run_List,[12,1,7,7,1,1,6,0,5,-1,2,0,6,6,1,6,3,15,2,4,7,2,10,2,2,19,3,4,-1,3,-1,34,9,37,6,-1,-2]
+	Team_1_Pass_List,[23,17,12,7,56,14,21,35,46,39,20,20,7,25,2,25,20,18,11,15,4]
+	Team_2_Pass_List,[6,6,7,19,7,11,10,13,30,9,8,9,24,4,5,32,11,9,6,7,2,18,18,12]
+}
+{
+	Game_ID,401415634
+	Team_1,Temple
+	Team_2,UCF
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_First_Downs,30
+	Team_2_First_Downs,33
+	Team_1_First_Down_Successes,9
+	Team_2_First_Down_Successes,18
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,4
+	Team_1_Field_Goal_Made,[26,49]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[3,4,5,1,0,0,8,5,2,3,3,-2,4,4,6,0,-3,4,5,6,1,1,4,1,1,-3]
+	Team_2_Run_List,[7,6,3,13,5,9,10,61,1,-5,7,0,20,5,1,3,9,5,2,13,3,5,0,8,37,3,8,43,9,5,4,0,1]
+	Team_1_Pass_List,[28,11,15,14,10,20,10,7,0,6,15,6,5,3,-2,15,9,4,11,7,5,18,8]
+	Team_2_Pass_List,[0,6,15,5,17,8,29,6,12,25,5,13,34,45,10,11,68,64,2,19,-3,12]
+}
+{
+	Game_ID,401415635
+	Team_1,SMU
+	Team_2,Navy
+	Team_1_Drives,12
+	Team_2_Drives,11
+	Team_1_First_Downs,24
+	Team_2_First_Downs,43
+	Team_1_First_Down_Successes,7
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,9
+	Team_1_Field_Goal_Made,[30,46]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[36]
+	Team_1_Run_List,[-1,-2,2,-1,11,1,-1,60,6,7,4,8,1,2,0,1,3,-1]
+	Team_2_Run_List,[3,19,13,-1,1,1,3,2,5,5,2,8,19,5,2,0,16,1,17,2,2,1,5,3,1,2,2,-1,5,8,4,-8,9,8,2,1,2,44,6,15,6,3,1,0,4,3,10,6,4,9,1,1,3,15,-5,0,6,1,9,19,4,6,2,7,3,1,1,3,8,8,1]
+	Team_1_Pass_List,[68,2,10,-3,35,-3,24,28,-3,3,13,4,9,47,33,0,1,44,27,-3]
+	Team_2_Pass_List,[24,7,3,26,5,8,14,34,17]
+}
+{
+	Game_ID,401426584
+	Team_1,Florida International
+	Team_2,UTSA
+	Team_1_Drives,13
+	Team_2_Drives,14
+	Team_1_First_Downs,31
+	Team_2_First_Downs,37
+	Team_1_First_Down_Successes,12
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,1
+	Team_2_Sacks,3
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[41]
+	Team_2_Field_Goal_Made,[44]
+	Team_1_Field_Goal_Missed,[41]
+	Team_2_Field_Goal_Missed,[41]
+	Team_1_Run_List,[6,3,1,17,9,3,3,1,35,3,0,4,2,13,16,1,2,1,1,0,16,2,3,1,2,9,1,14,1,5,15]
+	Team_2_Run_List,[3,1,2,9,0,2,2,4,8,2,3,4,3,11,9,5,9,5,1,12,2,3,2,2,23,4,12,7,3,4]
+	Team_1_Pass_List,[7,5,9,1,23,9,6,15,3,18,11,2,0,5,1,55,5,11,5,7]
+	Team_2_Pass_List,[10,5,14,8,7,6,9,31,6,14,13,5,14,7,42,4,25,17,7,9,12,7,17,14]
+}
+{
+	Game_ID,401403918
+	Team_1,Georgia
+	Team_2,Vanderbilt
+	Team_1_Drives,11
+	Team_2_Drives,10
+	Team_1_First_Downs,38
+	Team_2_First_Downs,19
+	Team_1_First_Down_Successes,22
+	Team_2_First_Down_Successes,4
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,6
+	Team_1_Field_Goal_Made,[28,35]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[44]
+	Team_1_Run_List,[8,2,8,9,4,-1,1,7,11,5,3,3,3,3,1,6,2,6,4,-1,7,5,20,5,3,0,5,3,2,-1,14,13,-2,6,3,36]
+	Team_2_Run_List,[1,3,2,2,-3,1,4,3,1,-1,2,3,3,5,4,2,8,1,0]
+	Team_1_Pass_List,[6,28,11,11,1,5,18,5,12,8,9,5,25,34,21,6,-4,10,18,7,2,10,27,14,9,21,3,24,7,18,12,4]
+	Team_2_Pass_List,[12,18,22,-1,19,11,4,10,2,1,1]
+}
+{
+	Game_ID,401403921
+	Team_1,Alabama
+	Team_2,Tennessee
+	Team_1_Drives,11
+	Team_2_Drives,14
+	Team_1_First_Downs,42
+	Team_2_First_Downs,39
+	Team_1_First_Down_Successes,16
+	Team_2_First_Down_Successes,25
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,2
+	Team_2_Tackles_For_Loss,5
+	Team_1_Field_Goal_Made,[21,43]
+	Team_2_Field_Goal_Made,[40]
+	Team_1_Field_Goal_Missed,[50]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[0,0,4,8,2,9,3,15,5,1,4,11,1,8,6,-5,-3,26,3,3,4,2,3,3,6,3,1,3,0]
+	Team_2_Run_List,[20,5,0,7,1,2,11,5,3,0,7,2,8,4,3,6,4,9,5,-3,6,3,12,9,3,4,7,10,2,9,4,2,5,11,3,5,1]
+	Team_1_Pass_List,[2,10,27,-1,33,8,17,5,6,18,5,12,12,7,3,14,27,36,8,9,13,6,23,9,20,-1,3,3,30,42,1,13,4,13,18]
+	Team_2_Pass_List,[11,12,11,36,16,11,7,31,9,5,8,9,11,1,60,9,78,2,13,18,27]
+}
+{
+	Game_ID,401411138
+	Team_1,Florida State
+	Team_2,Clemson
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_First_Downs,36
+	Team_2_First_Downs,27
+	Team_1_First_Down_Successes,18
+	Team_2_First_Down_Successes,10
+	Team_1_Sacks,3
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,8
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[47,34]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[4,3,19,-2,20,4,16,4,8,6,1,-1,5,1,5,11,20,8,19,-2,11,-5,4,0,8,6,14,-2,9,25,-2,10]
+	Team_2_Run_List,[2,2,2,5,1,2,14,1,2,6,1,3,1,5,11,1,3,36,1,5,-1,0,7,5,2,1,3,4,2,9,11,3,5,4,2,4,11,-3,-3,-1]
+	Team_1_Pass_List,[7,14,10,2,22,2,18,6,6,11,3,7,5,13,9,6,-2,3,22,6,7,23,29,25]
+	Team_2_Pass_List,[9,5,7,59,19,11,17,7,6,9,31,8,4,1,10]
+}
+{
+	Game_ID,401405115
+	Team_1,Michigan
+	Team_2,Penn State
+	Team_1_Drives,10
+	Team_2_Drives,9
+	Team_1_First_Downs,38
+	Team_2_First_Downs,21
+	Team_1_First_Down_Successes,16
+	Team_2_First_Down_Successes,3
+	Team_1_Sacks,2
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,7
+	Team_1_Field_Goal_Made,[29,24,23,37]
+	Team_2_Field_Goal_Made,[27]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[6,12,5,3,1,5,9,5,5,4,-3,1,5,12,8,5,7,2,1,1,25,8,11,0,13,-2,11,3,5,0,0,8,67,61,3,4,2,6,5,3,1,4,-1,21,10,-4,28,3,4,0,12,6]
+	Team_2_Run_List,[1,-1,3,-2,62,2,1,1,-1,2,4,6,2,1,13,3,4,4,6,9]
+	Team_1_Pass_List,[9,4,35,7,9,7,-1,5,15,7,1,4,6,14,-2,21]
+	Team_2_Pass_List,[8,9,16,48,8,16,15,8,9,9,1,10]
+}
+{
+	Game_ID,401404017
+	Team_1,USC
+	Team_2,Utah
+	Team_1_Drives,11
+	Team_2_Drives,10
+	Team_1_First_Downs,42
+	Team_2_First_Downs,39
+	Team_1_First_Down_Successes,17
+	Team_2_First_Down_Successes,17
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,7
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[34]
+	Team_1_Run_List,[55,10,8,17,0,1,20,2,3,17,2,2,-3,11,4,10,24,4,14,3,8,2]
+	Team_2_Run_List,[0,-4,7,5,2,7,9,12,2,6,0,3,2,5,21,6,0,11,3,3,0,4,13,2,2,1,3,5,0,7,0,1]
+	Team_1_Pass_List,[2,6,18,18,17,2,65,2,17,24,-1,-1,30,11,36,3,28,11,14,6,10,26,20,15]
+	Team_2_Pass_List,[4,23,11,18,7,20,4,8,10,45,15,9,30,16,30,9,4,18,5,3,17,11,8,13,8,12,9,19,11]
+}
+{
+	Game_ID,401404095
+	Team_1,TCU
+	Team_2,Oklahoma State
+	Team_1_Drives,13
+	Team_2_Drives,15
+	Team_1_First_Downs,39
+	Team_2_First_Downs,31
+	Team_1_First_Down_Successes,18
+	Team_2_First_Down_Successes,12
+	Team_1_Sacks,2
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,2
+	Team_1_Field_Goal_Made,[47,35,34]
+	Team_2_Field_Goal_Made,[35,34,32]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[3,10,2,10,0,0,1,5,2,16,1,1,4,11,13,12,9,0,4,16,9,4,21,8,10,6,0,8,3,1,14,3,2,1]
+	Team_2_Run_List,[7,29,5,4,8,0,2,0,7,9,2,17,-3,3,-1,2,1,-1,5,0,1,8,1,2,6,11,3,3,2,-1,6,10,1,1,3,-1]
+	Team_1_Pass_List,[2,4,15,3,12,9,48,26,5,-3,14,2,5,4,8,25,7,30,17,13,10,5]
+	Team_2_Pass_List,[8,38,14,3,23,9,12,22,6,5,44,17,12,0,9]
+}
+{
+	Game_ID,401403920
+	Team_1,Ole Miss
+	Team_2,Auburn
+	Team_1_Drives,13
+	Team_2_Drives,12
+	Team_1_First_Downs,41
+	Team_2_First_Downs,29
+	Team_1_First_Down_Successes,18
+	Team_2_First_Down_Successes,7
+	Team_1_Sacks,2
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,5
+	Team_1_Field_Goal_Made,[23,42]
+	Team_2_Field_Goal_Made,[42,28]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[3,6,2,5,22,8,1,-1,36,3,5,11,2,3,5,5,6,5,3,3,2,2,24,3,4,0,3,-3,15,18,15,3,6,4,3,2,2,1,5,2,22,7,5,4,9,3,2,2,11,7,1,2,2,8,6,9,2,15,41,4,4,20,-1,-1]
+	Team_2_Run_List,[11,1,12,8,7,2,2,2,10,-3,8,2,-1,2,4,4,12,2,48,1,2,2,1,7,0,2,50,1,2,5,3,22,-1,11,50,1,20,2,-4,2,1,8,2]
+	Team_1_Pass_List,[35,7,13,24,23,7,7,9,5]
+	Team_2_Pass_List,[5,46,19,6,23,32,4,5]
+}
+{
+	Game_ID,401411139
+	Team_1,Syracuse
+	Team_2,NC State
+	Team_1_Drives,8
+	Team_2_Drives,9
+	Team_1_First_Downs,27
+	Team_2_First_Downs,26
+	Team_1_First_Down_Successes,10
+	Team_2_First_Down_Successes,9
+	Team_1_Sacks,4
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[22]
+	Team_2_Field_Goal_Made,[20,42,36]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[38,0,11,5,0,9,5,4,0,0,10,0,8,13,0,3,-1,11,4,0,2,5,4,2,2,-1,25]
+	Team_2_Run_List,[3,4,3,6,8,3,0,-3,2,5,-5,8,1,9,6,0,13,0,3,4,7,7,5,5,4,7,1,5,1,7,2,2]
+	Team_1_Pass_List,[5,10,12,-6,24,12,2,8,8,36,9,19,9,17,11,34]
+	Team_2_Pass_List,[2,4,18,8,-1,3,21,8,8,6,12,8,4,5,11,16,18,9]
+}
+{
+	Game_ID,401403919
+	Team_1,Mississippi State
+	Team_2,Kentucky
+	Team_1_Drives,9
+	Team_2_Drives,10
+	Team_1_First_Downs,24
+	Team_2_First_Downs,34
+	Team_1_First_Down_Successes,10
+	Team_2_First_Down_Successes,14
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
+	Team_1_Field_Goal_Made,[48]
+	Team_2_Field_Goal_Made,[28,37]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[51]
+	Team_1_Run_List,[16,7,2,5,0,-1,-5,0,3]
+	Team_2_Run_List,[2,6,4,0,8,9,0,1,4,5,0,4,0,6,5,4,2,1,13,-1,6,11,-1,10,8,3,47,2,4,-1,15,4,3,2,16,2,12,6,0,7,1,4,5,0,6,-1,0]
+	Team_1_Pass_List,[-5,6,8,10,8,6,5,2,15,6,9,7,12,11,24,19,8,1,30,4,6,2,4,3,2]
+	Team_2_Pass_List,[14,31,3,9,2,1,9,4,33,2,7,3,0,31,6,50]
+}
+{
+	Game_ID,401404094
+	Team_1,?
+	Team_2,?
+	Team_1_Drives,0
+	Team_2_Drives,0
+	Team_1_First_Downs,0
+	Team_2_First_Downs,0
+	Team_1_First_Down_Successes,0
+	Team_2_First_Down_Successes,0
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,]
+	Team_2_Run_List,]
+	Team_1_Pass_List,]
+	Team_2_Pass_List,]
+}
+{
+	Game_ID,401404093
+	Team_1,Iowa State
+	Team_2,Texas
+	Team_1_Drives,10
+	Team_2_Drives,10
+	Team_1_First_Downs,28
+	Team_2_First_Downs,32
+	Team_1_First_Down_Successes,10
+	Team_2_First_Down_Successes,17
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[31]
+	Team_1_Field_Goal_Missed,[46]
+	Team_2_Field_Goal_Missed,[39]
+	Team_1_Run_List,[1,4,4,1,2,4,8,0,0,1,3,7,-3,2,3,10,1,8,1,3,3,-3,2,11,3,2]
+	Team_2_Run_List,[0,-4,4,7,9,5,2,3,7,3,25,1,7,3,4,8,7,9,7,1,10,5,1,2,3,6,3,1,5,14,14,16,4,0,7,1,-2,4,5,2,-1,-1]
+	Team_1_Pass_List,[3,4,16,21,17,11,5,7,20,4,9,14,6,11,27,6,54,1,18,11,5,21,3,15,20]
+	Team_2_Pass_List,[0,24,18,-6,22,15,6,3,26,5,21,1,-2,10,13,3]
+}
+{
+	Game_ID,401405112
+	Team_1,Illinois
+	Team_2,Minnesota
+	Team_1_Drives,10
+	Team_2_Drives,10
+	Team_1_First_Downs,35
+	Team_2_First_Downs,20
+	Team_1_First_Down_Successes,12
+	Team_2_First_Down_Successes,5
+	Team_1_Sacks,2
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,2
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[31,23,23,30]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[6,2,8,3,2,3,4,2,16,3,2,2,3,3,6,5,6,2,10,1,1,14,7,1,6,0,4,7,17,1,5,2,1,5,7,3,4,14,1,2,11,1,23,3,4,2,1,1,3,3,4,8]
+	Team_2_Run_List,[13,3,19,3,1,7,2,1,4,44,2,9,4,21,2,6,1,7,3,6,4]
+	Team_1_Pass_List,[8,8,4,40,2,4,10,9,15,7,4,12,9,12,8,35,5,3,7,8,10,5,7,12,8]
+	Team_2_Pass_List,[2,4,11,4,11,6]
+}
+{
+	Game_ID,401426349
+	Team_1,Georgia Southern
+	Team_2,256
+	Team_1_Drives,16
+	Team_2_Drives,16
+	Team_1_First_Downs,38
+	Team_2_First_Downs,43
+	Team_1_First_Down_Successes,15
+	Team_2_First_Down_Successes,20
+	Team_1_Sacks,3
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,5
+	Team_1_Field_Goal_Made,[20,41,24]
+	Team_2_Field_Goal_Made,[26]
+	Team_1_Field_Goal_Missed,[39]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[1,6,0,-2,1,1,4,-2,1,-4,-2,1,4,4,0]
+	Team_2_Run_List,[5,2,3,6,1,17,15,3,23,2,6,0,13,0,1,7,3,3,9,2,4,5,11,8,-2,21,5,10,16,2,-5,7,2,7,9,2,1]
+	Team_1_Pass_List,[11,4,-2,5,1,27,33,13,29,10,6,75,29,3,4,7,8,8,21,37,20,1,18,11,10,0,6,11,17,38,4,15,8,14,11]
+	Team_2_Pass_List,[51,20,14,8,6,12,12,11,9,23,16,8,5,16,14,0,3,41,22,28,20,8,21,25,8,16]
+}
+{
+	Game_ID,401404139
+	Team_1,Colgate
+	Team_2,Army
+	Team_1_Drives,10
+	Team_2_Drives,11
+	Team_1_First_Downs,27
+	Team_2_First_Downs,29
+	Team_1_First_Down_Successes,10
+	Team_2_First_Down_Successes,15
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[49]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[52]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[23,1,2,0,12,2,1,6,10,0,7,0,7,6,0,5,4,2,13,3,27,1,12,1,6,2,0,2,2]
+	Team_2_Run_List,[75,45,6,1,7,2,5,7,2,2,3,25,5,10,4,5,5,11,6,6,21,7,6,11,6,4,3,4,5,2,4,5,4,4,4,2,23,6,5,4,1,1,24,10,4,4,2,26,5,5,5,7,5]
+	Team_1_Pass_List,[5,10,1,5,14,27,0,0,5,1,9,19,7,9,4,13,13,7]
+	Team_2_Pass_List,]
+}
+{
+	Game_ID,401416619
+	Team_1,?
+	Team_2,?
+	Team_1_Drives,0
+	Team_2_Drives,0
+	Team_1_First_Downs,0
+	Team_2_First_Downs,0
+	Team_1_First_Down_Successes,0
+	Team_2_First_Down_Successes,0
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,]
+	Team_2_Run_List,]
+	Team_1_Pass_List,]
+	Team_2_Pass_List,]
+}
+{
+	Game_ID,401416622
+	Team_1,Miami (OH)
+	Team_2,Bowling Green
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_First_Downs,20
+	Team_2_First_Downs,29
+	Team_1_First_Down_Successes,5
+	Team_2_First_Down_Successes,11
+	Team_1_Sacks,3
+	Team_2_Sacks,3
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[41,39]
+	Team_2_Field_Goal_Made,[22]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[31]
+	Team_1_Run_List,[1,3,1,3,7,2,10,5,1,3,1,3,3,16,5,2,2,5,2,1,6,2,1,26,3,5,3,3,6]
+	Team_2_Run_List,[3,6,5,4,9,6,2,5,4,12,4,8,0,1,2,4,5,3,2,6,24,5,1,1,6,3,19,2,13,3,1,5,0,6,6]
+	Team_1_Pass_List,[30,17,3,5,19,2,11,7]
+	Team_2_Pass_List,[9,8,4,13,1,20,8,8,4,12,7,8,14,11,17,5]
+}
+{
+	Game_ID,401426348
+	Team_1,Old Dominion
+	Team_2,Coastal Carolina
+	Team_1_Drives,9
+	Team_2_Drives,10
+	Team_1_First_Downs,28
+	Team_2_First_Downs,33
+	Team_1_First_Down_Successes,17
+	Team_2_First_Down_Successes,11
+	Team_1_Sacks,9
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,9
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[46]
+	Team_1_Run_List,[6,8,3,8,25,7,7,2,9,7,2,5,0,58,8,2,20,3,11,9,2,2,8,67,2,33,19,3,0,1]
+	Team_2_Run_List,[6,1,5,4,3,12,4,0,12,4,0,1,2,0,2,6,6,3,1,3,5,1,1,2,6,1,2,4,3,5,6,4,6,6,15,9,6,2]
+	Team_1_Pass_List,[15,8,22,2,2,21,17,16,16,22,12,27,21,2]
+	Team_2_Pass_List,[8,12,1,1,4,5,7,28,4,27,8,5,27,6,5,6,5,17,4,12,75,20,10,32,9,8]
+}
+{
+	Game_ID,401411140
+	Team_1,Virginia Tech
+	Team_2,Miami
+	Team_1_Drives,12
+	Team_2_Drives,11
+	Team_1_First_Downs,30
+	Team_2_First_Downs,34
+	Team_1_First_Down_Successes,4
+	Team_2_First_Down_Successes,11
+	Team_1_Sacks,2
+	Team_2_Sacks,6
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,7
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[28,25]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[16,4,0,3,1,2,2,2,4,0,4,0,2,3,2,4,12,17,1,0,2]
+	Team_2_Run_List,[-2,-1,8,3,0,9,3,0,1,3,19,9,15,2,11,0,18,3,3,-2]
+	Team_1_Pass_List,[9,6,1,10,3,6,4,1,3,7,11,14,16,12,4,-2,23,2]
+	Team_2_Pass_List,[30,37,5,15,4,14,28,4,12,6,9,17,17,13,6,6,-2,11,9,6,14,6,24]
+}
+{
+	Game_ID,401414783
+	Team_1,UMass
+	Team_2,Buffalo
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,25
+	Team_2_First_Downs,30
+	Team_1_First_Down_Successes,8
+	Team_2_First_Down_Successes,8
+	Team_1_Sacks,0
+	Team_2_Sacks,2
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,12
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[39,39]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[-2,0,5,13,-3,2,2,1,3,2,2,12,13,-1,6,1,5,11,-3,9,13,-3,8,-2,-1,2,2,1,8,17,-1,-4,8,7,4]
+	Team_2_Run_List,[3,6,14,3,-3,5,22,3,-1,-2,84,3,0,0,0,4,6,2,3,-1,6,8,1,3,4,12,0,0,3,4,3,2,9,3]
+	Team_1_Pass_List,[25,-4,13,25,12,9]
+	Team_2_Pass_List,[-2,4,7,44,4,39,0,49,7,10,9,3,2,11,15,4,12,19,13,27]
+}
+{
+	Game_ID,401404014
+	Team_1,California
+	Team_2,Colorado
+	Team_1_Drives,13
+	Team_2_Drives,12
+	Team_1_First_Downs,29
+	Team_2_First_Downs,28
+	Team_1_First_Down_Successes,10
+	Team_2_First_Down_Successes,12
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,10
+	Team_1_Field_Goal_Made,[27,34]
+	Team_2_Field_Goal_Made,[31,24]
+	Team_1_Field_Goal_Missed,[54,48]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[12,1,3,2,9,-1,1,0,2,5,1,-4,-5,0,3,-2,23,-1,3]
+	Team_2_Run_List,[8,6,7,0,12,6,2,3,5,-4,0,-1,18,2,3,2,5,2,6,2,6,3,0,2,2,1,4,1,5,11,0,-3]
+	Team_1_Pass_List,[-2,4,4,6,11,-3,19,8,7,17,9,6,8,8,14,14,-2,18,1,18,4,6,10,15,5,20,9]
+	Team_2_Pass_List,[5,-3,1,7,-1,8,9,8,-1,15,9,6,37,17,12,-2,19]
+}
+{
+	Game_ID,401404153
+	Team_1,Ball State
+	Team_2,UConn
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_First_Downs,35
+	Team_2_First_Downs,30
+	Team_1_First_Down_Successes,11
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,4
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[38,38]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[47]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[4,1,4,15,2,5,3,3,1,1,13,6,6,3,12,1,7,3,1,6,1,4,2,1,7,4,1,4,1,9,13,2,7,1,25,7,17,5,7]
+	Team_2_Run_List,[6,23,15,1,5,2,14,5,5,16,6,7,11,4,1,24,15,0,1,10,2,14,0,2,1,2,6,5,2,2,3,3,2,4,6]
+	Team_1_Pass_List,[7,2,6,10,12,16,2,18,6,2,3,7,12,12,15,5,4,2]
+	Team_2_Pass_List,[5,19,6,12,2,1,7,39,4,18,7,3,4,11,4,5,1,5]
+}
+{
+	Game_ID,401403916
+	Team_1,Arkansas
+	Team_2,BYU
+	Team_1_Drives,11
+	Team_2_Drives,12
+	Team_1_First_Downs,41
+	Team_2_First_Downs,38
+	Team_1_First_Down_Successes,18
+	Team_2_First_Down_Successes,13
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[34]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[1,11,8,5,8,0,3,4,24,15,0,0,3,4,3,6,2,5,1,14,11,5,6,12,3,64,0,1,14,2,7,3,5,6,6,5,0,1,0,0]
+	Team_2_Run_List,[0,3,2,5,3,5,-2,11,3,9,14,6,10,5,0,3,9,1,1,10,5,2,3,-1,2,2,0,5]
+	Team_1_Pass_List,[6,13,15,6,17,11,13,18,6,22,14,8,2,30,4,-1,36,7,15,39,30,7,8,7,2,5,4,14,9]
+	Team_2_Pass_List,[10,13,31,4,18,6,21,15,10,37,-2,12,3,20,9,6,11,33,2,7,16,14,2]
+}
+{
+	Game_ID,401404162
+	Team_1,Gardner-Webb
+	Team_2,Liberty
+	Team_1_Drives,15
+	Team_2_Drives,15
+	Team_1_First_Downs,38
+	Team_2_First_Downs,28
+	Team_1_First_Down_Successes,8
+	Team_2_First_Down_Successes,10
+	Team_1_Sacks,5
+	Team_2_Sacks,5
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,13
+	Team_1_Field_Goal_Made,[22,41]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[6,4,0,4,1,2,18,0,1,2,0,3,3,2,-1,-1,34,-1,1,0,0,21,0,7,3,1,-2,6,3]
+	Team_2_Run_List,[0,4,4,3,3,0,2,2,0,4,2,0,2,8,2,1,5,7,15,6,46]
+	Team_1_Pass_List,[2,12,8,4,10,-2,12,18,-2,23,2,14,46,4,-1,-2,7,5,13,10,12,17,27]
+	Team_2_Pass_List,[12,31,9,7,8,60,11,19,3,7,2,5,20,6,18,0,4]
+}
+{
+	Game_ID,401405114
+	Team_1,Indiana
+	Team_2,Maryland
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_First_Downs,36
+	Team_2_First_Downs,36
+	Team_1_First_Down_Successes,14
+	Team_2_First_Down_Successes,14
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[38,26]
+	Team_2_Field_Goal_Made,[36]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[51]
+	Team_1_Run_List,[1,5,3,3,2,14,14,8,1,0,2,9,3,3,2,1,2,1,1,3,5,3,3,2,4,4,0,2,0,3,2]
+	Team_2_Run_List,[3,8,2,1,1,4,5,5,2,4,7,1,1,8,8,4,1,8,0,2,1,2,10,5,3,5,31,2,6,4,2,46,3,9,0,3]
+	Team_1_Pass_List,[1,40,7,9,9,44,9,2,9,2,8,23,3,11,6,7,6,1,5,5,5,7,24,4,9,2,9,12,25,24,3]
+	Team_2_Pass_List,[17,17,5,15,4,11,26,10,8,5,18,18,9,4,8,18,12,17,6,15,4,11,5,4,11]
+}
+{
+	Game_ID,401416620
+	Team_1,Northern Illinois
+	Team_2,Eastern Michigan
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,31
+	Team_2_First_Downs,20
+	Team_1_First_Down_Successes,8
+	Team_2_First_Down_Successes,7
+	Team_1_Sacks,4
+	Team_2_Sacks,2
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,2
+	Team_1_Field_Goal_Made,[41,39,28,33]
+	Team_2_Field_Goal_Made,[46]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[58]
+	Team_1_Run_List,[13,0,7,1,2,3,5,47,4,2,0,1,1,2,13,1,14,4,24,0,7,8,5,4,6,2,1,10,0,5,4,4,5,76,5,5,1,6,4,1,4,5,1,10]
+	Team_2_Run_List,[4,1,0,11,2,4,2,3,11,3,3,4,2,3,1,3,17,1,0,0,5,0]
+	Team_1_Pass_List,[14,8,10,4,14,12,6,26,6,7,8,8]
+	Team_2_Pass_List,[4,75,2,4,14,12,6,18,30,42,2]
+}
+{
+	Game_ID,401416621
+	Team_1,???ERROR???)[1 play, 0 yards
+	Team_2,Toledo
+	Team_1_Drives,1
+	Team_2_Drives,13
+	Team_1_First_Downs,0
+	Team_2_First_Downs,34
+	Team_1_First_Down_Successes,0
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[43]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,]
+	Team_2_Run_List,[-1,6,4,7,7,27,3,6,9,22,7,2,3,6,4,9,8,3,7,1,1,4,0,4,5,-2,2,24,3,3,4,5,5,4,6,4,2,6,5,12,1,7,1,2,2,1]
+	Team_1_Pass_List,]
+	Team_2_Pass_List,[8,1,27,36,39,14,3,12,16,9,7,28,41,10,8]
+}
+{
+	Game_ID,401416623
+	Team_1,Ohio
+	Team_2,Western Michigan
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_First_Downs,32
+	Team_2_First_Downs,32
+	Team_1_First_Down_Successes,13
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,4
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[26,55,33,35]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[33]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[6,3,5,4,18,0,0,1,5,9,4,6,19,2,2,2,1,3,3,0,10,1,6,3,1,1,5,7,1,1,4,2,3]
+	Team_2_Run_List,[2,6,0,5,8,5,8,5,4,0,2,1,5,12,6,3,2,4,6,0,5,5,20,1,11,6]
+	Team_1_Pass_List,[7,14,7,18,9,11,11,2,11,3,9,20,4,15,31,7,3,5,48,2,7,30]
+	Team_2_Pass_List,[9,6,28,0,9,74,10,5,9,16,12,38,8,0,9,18]
+}
+{
+	Game_ID,401426352
+	Team_1,Troy
+	Team_2,Texas State
+	Team_1_Drives,13
+	Team_2_Drives,12
+	Team_1_First_Downs,28
+	Team_2_First_Downs,25
+	Team_1_First_Down_Successes,13
+	Team_2_First_Down_Successes,11
+	Team_1_Sacks,0
+	Team_2_Sacks,3
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,5
+	Team_1_Field_Goal_Made,[24]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[3,4,4,9,4,0,9,2,4,3,7,4,8,-4,5,9,16,-3,3,3,4,6,4,7,2,3,7,2,2,0]
+	Team_2_Run_List,[8,1,12,4,4,3,4,0,2,5,7,2,-3,4,10,2,2,3,1,1,-1,0,6,5,5,0,-3]
+	Team_1_Pass_List,[10,2,4,74,29,4,24,37,12,5,17,22,8,13,15,23]
+	Team_2_Pass_List,[5,10,5,4,14,10,1,4,11,11,11,24,5,64,3,1,3,4,6,8]
+}
+{
+	Game_ID,401426583
+	Team_1,UAB
+	Team_2,Charlotte
+	Team_1_Drives,12
+	Team_2_Drives,11
+	Team_1_First_Downs,35
+	Team_2_First_Downs,22
+	Team_1_First_Down_Successes,18
+	Team_2_First_Down_Successes,12
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[20,29]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[48]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[8,2,0,1,4,1,5,13,11,0,9,5,2,4,0,9,10,1,4,5,0,4,0,1,8,4,2,1,26,8,6,1,6,13,1,23,3,3,13,0,7,2,1,8,3,2,61]
+	Team_2_Run_List,[7,3,11,16,2,2,0,5,4,12,6,0,3,5,6,6,7,1,4,4,5,6,6]
+	Team_1_Pass_List,[64,17,1,22,5,8,9,15,6,35,5,15,20,10]
+	Team_2_Pass_List,[60,6,2,2,6,26,1,28,3,8,19,18,24,3]
+}
+{
+	Game_ID,401426587
+	Team_1,???ERROR???)[0 plays, 0 yards
+	Team_2,Middle Tennessee
+	Team_1_Drives,1
+	Team_2_Drives,17
+	Team_1_First_Downs,0
+	Team_2_First_Downs,36
+	Team_1_First_Down_Successes,0
+	Team_2_First_Down_Successes,12
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[34]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,]
+	Team_2_Run_List,[0,14,3,-1,2,3,1,4,5,2,12,5,9,11,3,6,3,0,3,9,0,0,-4,2]
+	Team_1_Pass_List,]
+	Team_2_Pass_List,[6,6,-1,5,5,-1,-3,12,5,6,32,-1,4,14,4,1,9,2,4,4,4,10,7,9,11,14,25,0]
+}
+{
+	Game_ID,401405116
+	Team_1,Michigan State
+	Team_2,Wisconsin
+	Team_1_Drives,11
+	Team_2_Drives,10
+	Team_1_First_Downs,29
+	Team_2_First_Downs,27
+	Team_1_First_Down_Successes,7
+	Team_2_First_Down_Successes,9
+	Team_1_Sacks,3
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,8
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[1,1,1,5,8,5,8,0,5,3,6,0,-1,12,1,5,-1,12,3,-1,6,3,2,1,1,0,0,2,3,8,3,5]
+	Team_2_Run_List,[20,1,-1,2,1,1,0,34,4,-2,14,0,1,9,0,-3,3,8,0,6,6,5,9,3,2,3,2,6,7,1,27,0,5]
+	Team_1_Pass_List,[14,28,3,26,3,7,5,-1,4,8,72,6,9,-3,27,7,25,-1,-1]
+	Team_2_Pass_List,[11,18,7,6,11,5,6,-3,14,14,1,13,3]
+}
+{
+	Game_ID,401415636
+	Team_1,South Florida
+	Team_2,Tulane
+	Team_1_Drives,14
+	Team_2_Drives,14
+	Team_1_First_Downs,23
+	Team_2_First_Downs,43
+	Team_1_First_Down_Successes,9
+	Team_2_First_Down_Successes,21
+	Team_1_Sacks,4
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[16]
+	Team_2_Field_Goal_Made,[20]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[31]
+	Team_1_Run_List,[3,6,3,-1,9,2,7,33,8,6,2,-1,13,2,2,0,1,3,3,1,1,3,9,3]
+	Team_2_Run_List,[5,3,7,8,3,10,-1,3,2,2,7,2,4,0,5,4,1,-6,-1,0,5,1,5,3,6,2,75,6,-2,3,4,7,15,13,3,0,1,2,4,17,4,3,4,19]
+	Team_1_Pass_List,[6,10,44,6,8,10,25,4,3,7,11,35,17,73]
+	Team_2_Pass_List,[11,15,10,10,12,29,31,6,10,7,7,20,6,11,11,9,37,27,18,16,2,20]
+}
+{
+	Game_ID,401426586
+	Team_1,Louisiana Tech
+	Team_2,North Texas
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,36
+	Team_2_First_Downs,33
+	Team_1_First_Down_Successes,16
+	Team_2_First_Down_Successes,14
+	Team_1_Sacks,0
+	Team_2_Sacks,7
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,7
+	Team_1_Field_Goal_Made,[46,23]
+	Team_2_Field_Goal_Made,[30,20]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[4,3,1,8,4,6,0,0,8,5,6,16,4,0,1,4,3,0,1,1,0,2,8,4,7,2,9,3,4,6]
+	Team_2_Run_List,[42,1,6,8,16,1,5,3,10,9,92,21,2,2,3,4,12,17,14,3,4,2,1,7,3,4,11,2,5,1,3,5,2,-5,9,2,5,0,66,32,4,12,2,0,3]
+	Team_1_Pass_List,[7,9,8,25,4,9,13,15,9,6,34,74,5,31,13,7,11,10,9,17,58,4,17,7,16,6]
+	Team_2_Pass_List,[24,51,5,11,11,16,10,20,12,29]
+}
+{
+	Game_ID,401404013
+	Team_1,Arizona
+	Team_2,Washington
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,37
+	Team_2_First_Downs,41
+	Team_1_First_Down_Successes,22
+	Team_2_First_Down_Successes,22
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,4
+	Team_1_Field_Goal_Made,[48]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[41]
+	Team_2_Field_Goal_Missed,[47]
+	Team_1_Run_List,[2,4,6,3,11,3,0,14,0,8,1,2,13,3,3,2,4,9,4,11,10,12,3,11,4,5,12]
+	Team_2_Run_List,[3,9,5,7,4,2,8,2,9,3,6,1,0,1,2,3,8,3,1,4,7,8,2,4,3,0,19]
+	Team_1_Pass_List,[2,7,19,46,8,39,9,9,39,25,11,15,19,9,12,5,17,5,5,20,26,9,26,6,12]
+	Team_2_Pass_List,[7,23,28,14,45,4,27,15,2,7,8,5,10,8,4,11,11,9,10,4,3,45,18,26,4,10,16,11,48,27,10,7,19,8,13,1]
+}
+{
+	Game_ID,401426585
+	Team_1,?
+	Team_2,?
+	Team_1_Drives,0
+	Team_2_Drives,0
+	Team_1_First_Downs,0
+	Team_2_First_Downs,0
+	Team_1_First_Down_Successes,0
+	Team_2_First_Down_Successes,0
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,]
+	Team_2_Run_List,]
+	Team_1_Pass_List,]
+	Team_2_Pass_List,]
+}
+{
+	Game_ID,401403917
+	Team_1,Florida
+	Team_2,LSU
+	Team_1_Drives,10
+	Team_2_Drives,9
+	Team_1_First_Downs,26
+	Team_2_First_Downs,33
+	Team_1_First_Down_Successes,6
+	Team_2_First_Down_Successes,14
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[47]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[1,5,2,4,9,2,4,5,2,3,39,4,-1,10,0,3,4,2,0,3,4,0,2,9,81,1,6,0,9,1,7,-5]
+	Team_2_Run_List,[3,-1,1,7,3,3,3,6,2,2,3,1,0,4,13,10,2,50,4,12,9,4,6,1,6,1,9,4,1,10,2,2,5,3,-2,-1,-1]
+	Team_1_Pass_List,[51,1,20,1,6,14,29,7,4,12,11,8,6,4]
+	Team_2_Pass_List,[40,3,14,7,8,6,21,11,13,26,8,24,17,54,19,19,13,4,6,13,7,9,7]
+}
+{
+	Game_ID,401415238
+	Team_1,Utah State
+	Team_2,Colorado State
+	Team_1_Drives,15
+	Team_2_Drives,14
+	Team_1_First_Downs,40
+	Team_2_First_Downs,34
+	Team_1_First_Down_Successes,14
+	Team_2_First_Down_Successes,7
+	Team_1_Sacks,3
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[48]
+	Team_2_Field_Goal_Made,[23,35]
+	Team_1_Field_Goal_Missed,[45,52]
+	Team_2_Field_Goal_Missed,[39]
+	Team_1_Run_List,[9,2,19,2,7,7,4,-1,2,9,12,3,3,3,25,4,2,12,4,15,2,4,20,3,6,19,3,4,2,5,1,8,2,3,6,5,1,3,5,3,6,2,2,3,-2,2]
+	Team_2_Run_List,[0,4,7,5,1,2,3,8,7,26,1,2,-3,1,18,4,-1,4,4,0,7,8,1,-2,4,0,-1,0,1,7,-1]
+	Team_1_Pass_List,[6,7,7,6,5,3,8,11,32,11,1,14,15,12]
+	Team_2_Pass_List,[19,0,24,10,8,11,15,15,10,3,23,25]
+}
+{
+	Game_ID,401426350
+	Team_1,UL Monroe
+	Team_2,South Alabama
+	Team_1_Drives,12
+	Team_2_Drives,13
+	Team_1_First_Downs,25
+	Team_2_First_Downs,34
+	Team_1_First_Down_Successes,9
+	Team_2_First_Down_Successes,16
+	Team_1_Sacks,1
+	Team_2_Sacks,3
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[24,40]
+	Team_2_Field_Goal_Made,[34,29]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[2,1,4,0,1,5,6,2,3,2,1,3,6,0,2,4,0,10,0,10,1,9,0,0,4,7]
+	Team_2_Run_List,[5,7,5,14,4,2,0,11,2,0,3,44,4,4,4,4,0,0,2,0,3,8,3,12,5,2,5,4,2,11,3,32,3,2,7]
+	Team_1_Pass_List,[4,1,75,15,18,6,6,15,3,25,11,35,2,83,41,15,4,6,7,7]
+	Team_2_Pass_List,[20,64,13,2,17,20,11,16,9,9,46,20,17,24,4,8,10,44,4,0,19,8,16,8,19]
+}
+{
+	Game_ID,401426351
+	Team_1,Arkansas State
+	Team_2,Southern Miss
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_First_Downs,31
+	Team_2_First_Downs,31
+	Team_1_First_Down_Successes,11
+	Team_2_First_Down_Successes,14
+	Team_1_Sacks,1
+	Team_2_Sacks,4
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,9
+	Team_1_Field_Goal_Made,[31]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[0,4,4,1,-7,0,-2,8,3,2,-1,1,1,8,2,4,1,7,11,8,11,6,2,7,-2,4]
+	Team_2_Run_List,[23,3,0,5,6,4,5,-2,11,1,-2,6,2,2,6,8,13,0,4,0,0,0,-4,12,15,30,5,2,3,2,1,1,6,3]
+	Team_1_Pass_List,[10,6,17,2,22,0,7,5,18,17,13,0,11,3,6,3,11,23,15,9,-5,8,6,19]
+	Team_2_Pass_List,[2,1,-1,27,29,23,17,5,9,5,15,2,13,8,11,7,4]
+}
+{
+	Game_ID,401404016
+	Team_1,Notre Dame
+	Team_2,Stanford
+	Team_1_Drives,11
+	Team_2_Drives,12
+	Team_1_First_Downs,26
+	Team_2_First_Downs,32
+	Team_1_First_Down_Successes,12
+	Team_2_First_Down_Successes,10
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,6
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[45,43,43]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[-1,11,1,7,-3,16,0,4,4,1,5,3,-8,1,6,2,26,6,10,9,4,4,2,11,6,2,6,-2,6]
+	Team_2_Run_List,[6,2,9,2,4,1,5,1,7,2,-2,8,2,4,2,3,0,7,2,1,0,9,5,6,4,1,7,1,6,0,1,3,0,2,0,1,1]
+	Team_1_Pass_List,[8,9,10,10,11,5,6,12,21,6,41,7,5]
+	Team_2_Pass_List,[13,19,15,10,10,7,-4,11,10,13,13,4,7,3,6,22,5,38,3,10,10,16,2,11,22,12]
+}
+{
+	Game_ID,401405113
+	Team_1,Purdue
+	Team_2,Nebraska
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_First_Downs,47
+	Team_2_First_Downs,27
+	Team_1_First_Down_Successes,29
+	Team_2_First_Down_Successes,11
+	Team_1_Sacks,4
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[37,37,34]
+	Team_2_Field_Goal_Made,[36,43,22]
+	Team_1_Field_Goal_Missed,[41]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[16,2,9,5,18,9,1,-2,8,9,2,0,2,2,4,5,13,3,8,7,7,0,1,11,1,2,0,2,2,4,-3,5,4,0,17,1,9,9,4,7,9,5,3,-1]
+	Team_2_Run_List,[6,2,0,7,3,2,5,2,1,6,5,0,17,31,9,60,-3,6,1]
+	Team_1_Pass_List,[6,17,14,9,10,2,18,8,6,10,9,9,18,31,7,7,11,2,11,13,8,32,6,28,16,11,9,8,5,7,5,18,2,4]
+	Team_2_Pass_List,[3,14,2,10,5,45,39,2,30,37,12,3,72,11,64,5]
+}
+{
+	Game_ID,401415637
+	Team_1,???ERROR???)[3 plays, 0 yards
+	Team_2,East Carolina
+	Team_1_Drives,1
+	Team_2_Drives,9
+	Team_1_First_Downs,0
+	Team_2_First_Downs,29
+	Team_1_First_Down_Successes,0
+	Team_2_First_Down_Successes,12
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,0
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[22]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,]
+	Team_2_Run_List,[0,1,1,3,1,6,-1,4,-5,4,6,3,6,8,3,20,5,11,4,4,4,19,1,4,6,2,3,17,8,-1,9,1]
+	Team_1_Pass_List,]
+	Team_2_Pass_List,[18,-1,12,7,23,0,21,5,28,7,5,16,3,4,8,9,3,7,8,35,9,18]
+}
+{
+	Game_ID,401409239
+	Team_1,New Mexico
+	Team_2,New Mexico State
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_First_Downs,31
+	Team_2_First_Downs,25
+	Team_1_First_Down_Successes,8
+	Team_2_First_Down_Successes,5
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,8
+	Team_1_Field_Goal_Made,[44,33,41]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[43]
+	Team_1_Run_List,[3,0,2,7,4,2,-6,3,1,0,7,5,4,3,3,6,4,1,5,4,0,2,-2,3,3,7,1,10,4,6,4,3,8,0,2,4,5,7]
+	Team_2_Run_List,[4,2,37,-3,7,-3,4,7,1,1,4,1,3,8,-2,6,1,13,1,2,3,0,4,5,1,1,0,1]
+	Team_1_Pass_List,[18,33,4,16,5,3,3,12,1,13,7,-1,-3,10,9,4,9]
+	Team_2_Pass_List,[13,4,22,18,9,-1,3,31,0]
+}
+{
+	Game_ID,401411137
+	Team_1,North Carolina
+	Team_2,Duke
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,39
+	Team_2_First_Downs,35
+	Team_1_First_Down_Successes,15
+	Team_2_First_Down_Successes,13
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,2
+	Team_1_Field_Goal_Made,[45]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[52]
+	Team_2_Field_Goal_Missed,[43]
+	Team_1_Run_List,[2,6,9,11,13,2,10,5,1,4,2,16,6,8,7,5,9,0,1,5,7,20,3,2,14,0,1]
+	Team_2_Run_List,[5,6,14,3,15,2,4,17,0,6,2,1,3,0,13,74,9,8,7,3,9,2,1,3,0,4,4,4,7,2,38,0,10,4,11,14,2,6,5]
+	Team_1_Pass_List,[53,11,2,6,10,25,10,7,11,4,35,4,11,38,4,16,31,7,8,6,12,6,7,24,11,8]
+	Team_2_Pass_List,[15,15,11,3,4,15,14,9,0,16,5,9,12,30,20,28,4,28]
+}
+{
+	Game_ID,401404015
+	Team_1,Oregon State
+	Team_2,Washington State
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_First_Downs,30
+	Team_2_First_Downs,31
+	Team_1_First_Down_Successes,14
+	Team_2_First_Down_Successes,13
+	Team_1_Sacks,6
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,3
+	Team_1_Field_Goal_Made,[26]
+	Team_2_Field_Goal_Made,[29]
+	Team_1_Field_Goal_Missed,[35]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[4,0,1,5,4,1,0,1,1,1,5,6,9,13,3,7,4,2,5,2,4,7,5,1,10,7,6,4,5,10,50,2,2,3,-1,5,2,-4,8,2,4,3]
+	Team_2_Run_List,[6,4,-1,5,9,10,18,3,-1,4,2,1,12]
+	Team_1_Pass_List,[10,15,9,13,4,10,11,6,17,7,7]
+	Team_2_Pass_List,[25,14,13,5,8,15,15,14,3,5,8,7,3,4,16,23,30,9,38,22,4,11,29,11,13]
+}
+{
+	Game_ID,401415237
+	Team_1,UNLV
+	Team_2,Air Force
+	Team_1_Drives,8
+	Team_2_Drives,10
+	Team_1_First_Downs,11
+	Team_2_First_Downs,20
+	Team_1_First_Down_Successes,5
+	Team_2_First_Down_Successes,8
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,2
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Run_List,[4,8,9,4,3,3,-1,5,3,3]
+	Team_2_Run_List,[4,14,3,60,6,4,3,5,5,6,10,7,4,6,6,1,14,5,3,3,4,-1,7,8,3,1,3,5,5,3,2,4,3,2,2,4,2,2,9,9,2]
+	Team_1_Pass_List,[22,7,8,8,13,31]
+	Team_2_Pass_List,]
+}
+{
+	Game_ID,401415239
+	Team_1,Fresno State
+	Team_2,San Jose State
+	Team_1_Drives,15
+	Team_2_Drives,15
+	Team_1_First_Downs,31
+	Team_2_First_Downs,31
+	Team_1_First_Down_Successes,10
+	Team_2_First_Down_Successes,11
+	Team_1_Sacks,5
+	Team_2_Sacks,3
+	Team_1_Tackles_For_Loss,10
+	Team_2_Tackles_For_Loss,6
+	Team_1_Field_Goal_Made,[28]
+	Team_2_Field_Goal_Made,[24]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[32]
+	Team_1_Run_List,[4,-2,1,0,0,1,3,5,5,4,6,6,22,2,3,8,3,15,3,5,3,0,11,3,3,5,-1,4,3,-2]
+	Team_2_Run_List,[1,19,12,12,-3,0,-1,9,1,6,5,-1,3,5,8,3]
+	Team_1_Pass_List,[2,2,5,14,5,22,5,3,16,17,7,22,14,13,24,17,7,2,4,0]
+	Team_2_Pass_List,[-1,15,39,26,8,14,7,32,11,28,9,8,8,7,13,27,6,14,-3,2,18]
+}
+{
+	Game_ID,401415240
+	Team_1,Hawai'i
+	Team_2,Nevada
+	Team_1_Drives,10
+	Team_2_Drives,10
+	Team_1_First_Downs,30
+	Team_2_First_Downs,30
+	Team_1_First_Down_Successes,15
+	Team_2_First_Down_Successes,10
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,1
+	Team_1_Field_Goal_Made,[27]
+	Team_2_Field_Goal_Made,[36,48,20]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[45]
+	Team_1_Run_List,[3,26,8,1,7,5,30,7,3,2,9,18,6,8,4,14,4,3,2,2,2,6,1,2,4,3,10,4,14,2,2,3,6,3,2,5,1,1]
+	Team_2_Run_List,[3,1,0,11,3,2,6,1,3,1,2,1,2,3,0,2,1,16,1,1,19,1,12,0,0,3]
+	Team_1_Pass_List,[6,6,25,0,3,18,48,28,10,5,2,4,24]
+	Team_2_Pass_List,[9,13,14,12,4,4,6,1,8,9,10,8,11,1,8,20,11,11,12,9,0,9]
 }
